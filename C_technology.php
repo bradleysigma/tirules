@@ -100,6 +100,7 @@
     <li>A player must mandatorily repair a unit with <i>Duranium Armor</i> during each round of combat, if possible.</li>
     <li><i>Duranium Armor</i> is used even if a player&rsquo;s opponent produced no hits during a round of combat.</li>
     <li>If a player starts a combat with a damaged unit, they use <i>Duranium Armor</i> in the first round of combat.</li>
+	<li>Only units participating in the combat may be chosen to be repaired. </li>
     </ol>
 
 <h1>Assault Cannon</h1>

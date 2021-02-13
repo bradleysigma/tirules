@@ -31,10 +31,11 @@
 
 <h1>Memoria <sub>(Flagship)</sub></h1>
     <ol class="note">
-    <li>Only the Memoria is adjacent to systems with a Quantum Manipulator. Other ships cannot move between the Memoria&rsquo;s system and a system containing a Quantum Manipulator using this ability.</li>
-    <li>Other players cannot use the <sc>Deep Space Cannon</sc> ability of units in the same system as a Quantum Manipulator against the Memoria, unless those units are adjacent using another adjacency method.</li>
-    <li>The <i>Intimidate Council</i> requires the system to be adjacent to Mecatol Rex. As such, the Nomad player cannot use the Memoria&rsquo;s ability to score this objective. A similar prohibition applies to the <i>Learn the Secrets of the Cosmos</i> and <i>Threaten Enemies</i> objectives.</li>
-    </ol>
+    <li>Only the <i>Memoria</i> is adjacent to systems with a Quantum Manipulator. Other ships cannot move between the <i>Memoria</i>&rsquo;s system and a system containing a Quantum Manipulator using this ability.</li>
+    <li>Other players cannot use the <sc>Deep Space Cannon</sc> ability of units in the same system as a Quantum Manipulator against the <i>Memoria</i>, unless those units are adjacent using another adjacency method.</li>
+    <li>The <i>Intimidate Council</i> requires the system to be adjacent to Mecatol Rex. As such, the Nomad player cannot use the <i>Memoria</i>&rsquo;s ability to score this objective. A similar prohibition applies to the <i>Learn the Secrets of the Cosmos</i> and <i>Threaten Enemies</i> objectives.</li>
+    <li>All ship movement is simultaneous. The Nomad player cannot transport a Quantum Manipulator into a system, and then use that to move the <i>Memoria</i> into that system during the same movement.</li>
+	</ol>
 
 <h1>Artuno the Betrayer <sub>(Agent)</sub></h1>
     <ol class="note">

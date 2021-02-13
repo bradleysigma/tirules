@@ -66,12 +66,15 @@
     <ol><li>If that player&rsquo;s opponent has no shops remaining, that player will instead win that combat.</li></ol>
     <li>Capacity is not checked during combat. As such a player may use Brother Milor to place fighters into a space combat where they have no spare capacity. After that combat ends, that player must remove fighters and/or ground forces to meet their capacity limit in that system.</li>
     <li>If the Yin player uses Brother Milor after the <i>Van Hauge</i> is destroyed during a space combat, they will win that combat.</li>
+	<li>If all ships in the system are destroyed, and there are excess hits that have not been assigned to a ship, those hits will lapse, and cannot be assigned to the newly placed fighters.</li>
+	<li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <i>Turn Their Fleets to Dust</i> secret objective before the new fighters are placed.</li>
     </ol>
 
 <h1>Brother Omar <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>If the <i>Regulated Conscription</i> law is in play, the Yin player may produce two infantry for one resource. This will count one towards their <sc>Production</sc> limit.</li>
     <li>If a game effect instructs the Yin player to produce ships without using the <sc>Production</sc> ability, they may only produce infantry fighters if that game effect allows them to produce infantry.</li>
+	<li>The Yin player may choose to produce one infantry for one resource. If they do, they may produce one additional infantry.</li>
     </ol>
 
 <h1>Dannel of the Tenth &mdash; Spinner Overdrive <sub>(Hero)</sub></h1>
