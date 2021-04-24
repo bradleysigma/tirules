@@ -4,10 +4,10 @@
 <h1>The Codex</h1>
     <ol class="note">
     <li>The action card discard is shuffled to form a new action card deck as soon as the action card deck has zero cards in it.</li>
-    <li>It is public knowlege which action cards a player takes using <i>The Codex</i>.</li>
+    <li>It is public knowledge which action cards a player takes using <i>The Codex</i>.</li>
     </ol>
 
-<h1>The Corwn of Emphidia</h1>
+<h1>The Crown of Emphidia</h1>
     <ol class="note">
     </ol>
 
@@ -23,9 +23,28 @@
     <ol class="note">
     </ol>
 
+<h1>Dynamis Core</h1>
+    <ol class="note">
+    <li>If a player uses the purge ability of <i>Dynamis Core</i>, they may need to return commodities if they now exceed their original commodity value.</li>
+    </ol>
+
+<h1>JR-XS455-O</h1>
+    <ol class="note">
+    <li><i>JR-XS455-O</i> is an agent. All rules that apply to agents (and leaders) applies to <i>JR-XS455-O</i>.</li>
+    <ol>
+        <li><i>JR-XS455-O</i> may be refreshed by the Nomad player's <i>Temporal Command Suite</i> technology.</li>
+        <li>The ability of <i>JR-XS455-O</i> may be duplicated by the Yssaril player's agent.</li>
+    </ol>
+    </ol>
+
 <h1>Maw of Worlds</h1>
     <ol class="note">
     <li>The player does not have to meet the prerequisites of the technologies they acquire using <i>Maw of Worlds</i>.</li>
+    </ol>
+
+<h1>Nanoforge</h1>
+    <ol class="note">
+    <li>The attached planet will not have a corresponding legendary planet ability card. However, it will be legendary for effects such as scoring the <i>Make History</i> and similar objectives, transferring the <i>Shard of the Throne</i> relic, and the Winnu player's commander. The attached planet will also no longer be non&ndash;legendary for effects such as the <i>Stellar Converter</i> relic.</li>
     </ol>
 
 <h1>The Obsidian</h1>
