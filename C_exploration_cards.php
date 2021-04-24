@@ -75,8 +75,8 @@
 <h1>Ion Storm</h1>
     <ol class="note">
     <li>The active player chooses which side of the Ion Storm token is initially face up.</li>
-    <li>All ship movement is simultanious. If the Ion Storm token system is the active system, and the token is currently on the alpha side, a player cannot move a ship from a system with an alpha wormhole, flip the token, then move a ship from a system with the beta wormhole (then flip the token again).</li>
-    <ol>><li>The Creuss player may do this by moving their <i>Hil Colish</i> flagship before or after their other ships.</li></ol>
+    <li>All ship movement is simultaneous. If the Ion Storm token system is the active system, and the token is currently on the alpha side, a player cannot move a ship from a system with an alpha wormhole, flip the token, then move a ship from a system with the beta wormhole (then flip the token again).</li>
+    <ol><li>The Creuss player may do this by moving their <i>Hil Colish</i> flagship before or after their other ships.</li></ol>
     <li>If the Ion Storm token is in a system containing a wormhole of the same type, a player chooses which wormhole they use when moving through a wormhole of that type. The Ion Storm token only flips if it was the chosen wormhole.</li>
     <ol><li>The player chooses one of the wormholes, and moves all their ships through that wormhole.</li></ol>
     <li>If ships are moved through the Ion Storm token wormhole outside of the <b>Move Ship</b> or <b>Retreat</b> substeps of a tactical action, such as by the effect of the <i>Skilled Retreat</i> action card, the Ion Storm token is not flipped.</li>
