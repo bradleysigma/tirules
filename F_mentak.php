@@ -62,7 +62,7 @@
 
 <h1>S&rsquo;ula Mentarion <sub>(Commander)</sub></h1>
     <ol class="note">
-    <li>The Mentak&rsquo;s opponent chooses which promissory note they give to the Mentak player.</li>
+    <li>The Mentak player&rsquo;s opponent chooses which promissory note they give to the Mentak player.</li>
     </ol>
 
 <h1>Ipswitch, Loose Cannon &mdash; Sleeper Cell <sub>(Hero)</sub></h1>
