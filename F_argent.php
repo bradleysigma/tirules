@@ -54,7 +54,7 @@
     <li>Ships move directly to their destination system. They may only transport units from their origin system.</li>
     <li>Ships moving out of a gravity rift must roll for removal.</li>
     <li>Ships cannot move into a nebula or supernova, even if it contains an Argent command token.</li>
-    <ol><li>Ships may travel into an asteroid field only if the Argent player has the <i>Anti&ndash;Mass Deflectors</i> technology.</li></ol>
+    <ol><li>Ships may travel into an asteroid field only if the Argent player has the <i>Antimass Deflectors</i> technology.</li></ol>
     </ol>
 
 <h1>Aerie Sentinel <sub>(Mech)</sub></h1>
