@@ -40,7 +40,7 @@
         <li><i>Support for the Throne</i>.</li>
         <li><i>Stymie</i> (Arborec).</li>
         <li><i>Trade Convoys</i> (Hacan).</li>
-        <li><i>Dark Pac</i>t (Empyrean).</li>
+        <li><i>Dark Pact</i> (Empyrean).</li>
         <li><i>Blood Pact</i> (Empyrean).</li>
         <li><i>Promise of Protection</i> (Mentak).</li>
         <li><i>Gift of Prescience</i> (Naalu).</li>
@@ -77,7 +77,7 @@
 
 <h1>Control the Borderlands</h1>
     <ol class="note">
-    <li>The Cruss Gate is not a home system.</li>
+    <li>The Creuss Gate is not a home system.</li>
     <li>The Wormhole Nexus and the Creuss home system are both on the edge of the game board.</li>
     <li>If the edge of a system time is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
     <ol>
@@ -321,7 +321,7 @@
 
 <h1>Populate the Outer Rim</h1>
     <ol class="note">
-    <li>The Cruss Gate is not a home system.</li>
+    <li>The Creuss Gate is not a home system.</li>
     <li>The Wormhole Nexus and the Creuss home system are both on the edge of the game board.</li>
     <li>If the edge of a system time is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
     <ol>
@@ -392,7 +392,7 @@
         <li><i>Support for the Throne</i>.</li>
         <li><i>Stymie</i> (Arborec).</li>
         <li><i>Trade Convoys</i> (Hacan).</li>
-        <li><i>Dark Pac</i>t (Empyrean).</li>
+        <li><i>Dark Pact</i> (Empyrean).</li>
         <li><i>Blood Pact</i> (Empyrean).</li>
         <li><i>Promise of Protection</i> (Mentak).</li>
         <li><i>Gift of Prescience</i> (Naalu).</li>
