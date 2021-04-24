@@ -11,7 +11,7 @@
     <ol class="note">
     <li>The <b>Anti&ndash;Fighter Barrage</b> step happens during each space combat, even if no fighters are present in the system.</li>
     <li>The Argent player may choose a damaged ship. This will have no effect.</li>
-    <li>The chosen ship becomes damaged, it does not use its <sc>Sustain Damage</sc> ability. As such, effects that trigger when a ship unses its <sc>Sustains Damage</sc> ability, such as the <i>Direct Hit</i> or <i>Reflective Shielding</i> action cards, cannot be played.</li>
+    <li>The chosen ship becomes damaged, it does not use its <sc>Sustain Damage</sc> ability. As such, effects that trigger when a ship uses its <sc>Sustains Damage</sc> ability, such as the <i>Direct Hit</i> or <i>Reflective Shielding</i> action cards, cannot be played.</li>
     <li>If the Argent player plays the <i>Waylay</i> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be be assigned.</li>
     <ol><li>For example, say the opponent has three fighters and three dreadnoughts, undamaged. The Argent player plays <a>Waylay</a>, and rolls five hits. This allows them to cause two of the dreadnoughts to become damaged. The opponent then has to assign all five hits. The final dreadnought may use its <sc>Sustain Damage</sc> ability to cancel one of those hits.</li></ol>
     </ol>
@@ -23,6 +23,7 @@
 <h1>Aerie Hololattice <sub>(Technology)</sub></h1>
     <ol class="note">
     <li>The planet with &ldquo;<sc>Production</sc> 1&rdquo; is considered to be on itself for the purposes of producing ground forces.</li>
+    <li>A player with the <i>Light/Wave Deflector</i> technology cannot move their ships through systems containing the Argent player's structures, if the Argent player owns Aerie Hololattice.</li>
     </ol>
 
 <h1>Strike Wing Alpha <sub>(Unit)</sub></h1>
@@ -53,7 +54,7 @@
     <li>Ships move directly to their destination system. They may only transport units from their origin system.</li>
     <li>Ships moving out of a gravity rift must roll for removal.</li>
     <li>Ships cannot move into a nebula or supernova, even if it contains an Argent command token.</li>
-    <ol><li>Ships may travel into an astroid field only if the Argent player has the <i>Anti&ndash;Mass Deflectors</i> technology.</li></ol>
+    <ol><li>Ships may travel into an asteroid field only if the Argent player has the <i>Anti&ndash;Mass Deflectors</i> technology.</li></ol>
     </ol>
 
 <h1>Aerie Sentinel <sub>(Mech)</sub></h1>
