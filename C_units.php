@@ -43,7 +43,7 @@
 
 <h1>Infantry</h1>
     <ol class="note">
-    <li>If a player controls no planets in their home system, at the start of their turn, any Infantrty II that have been placed on that player&rsquo;s Infantry II unit upgrade technology card are returned to that player&rsquo;s reinforcements.</li>
+    <li>If a player controls no planets in their home system, at the start of their turn, any Infantry II that have been placed on that player&rsquo;s Infantry II unit upgrade technology card are returned to that player&rsquo;s reinforcements.</li>
     </ol>
 
 <h1>PDS</h1>
