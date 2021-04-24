@@ -30,7 +30,7 @@
     <ol class="note">
     <li>When a Floating Factory produces ground forces, they may be placed in the space area or on a planet they control in that system.</li>
     <li>Hits produced by space cannon rolls cannot be assigned to a Floating Factory.</li>
-    <li>Game effects that affect ship movement, such as the <i>Gravity Drive</i> technology, the <i>Flank Speed</i> action card, the <i>Light/Wave Deflector</i> technology, the <i>Anti&ndash;Mass Deflectors</i> technology, etc, may affect Floating Factories.</li>
+    <li>Game effects that affect ship movement, such as the <i>Gravity Drive</i> technology, the <i>Flank Speed</i> action card, the <i>Light/Wave Deflector</i> technology, the <i>Antimass Deflectors</i> technology, etc, may affect Floating Factories.</li>
     <li>A Floating Factory moving through or out of a gravity rift must roll for removal. It will receive the +1 to its movement.</li>
     <li>If the Saar player announces a retreat during a space combat, but all their ships are destroyed that round, any Floating Factories in that system are destroyed without retreating.</li>
     <ol><li>If neither player has ships in the active system after the final round of combat, the Floating Factory is not destroyed, and does not retreat.</li></ol>
