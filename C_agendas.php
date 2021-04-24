@@ -75,7 +75,7 @@
 
 <h1>Covert Legislation</h1>
     <ol class="note">
-    <li>If the Speaker draws <i>Classified Document Leaks</i>, <i>Judicial Abolishment</i>, <i>Miscount Disclosed</i> or <i>New Constitution</i>, when that agenda would be discarded if revealed, both the hidden agenda and <i>Covert Legislation</i> are discaded.</li>
+    <li>If the Speaker draws <i>Classified Document Leaks</i>, <i>Judicial Abolishment</i>, <i>Miscount Disclosed</i> or <i>New Constitution</i>, when that agenda would be discarded if revealed, both the hidden agenda and <i>Covert Legislation</i> are discarded.</li>
     <li>Any effects that take place when or after an agenda is revealed instead take place when or after the speaker has drawn and announced the possible outcomes for the hidden agenda.</li>
     <li>If an effect, such as the <i>Veto</i> action card, would discard <i>Covert Legislation</i>, both it and the hidden agenda are discarded.</li>
     </ol>
@@ -189,7 +189,7 @@
 <h1>Minister of Policy</h1>
     <ol class="note">
     <li>The owner of <i>Minister of Policy</i> will draw action cards during the <b>Draw Action Cards</b> step of the status phase, and again at the end of the status phase.</li>
-    <ol><li>If the Yssaril player owns <i>Minister of Policy</i>, they will use their <sc>Scheming</sc> ability for both the <b>Draw Action Cards</b> setp and for <i>Minister of Policy</i>. However, they do not draw all the cards together.</li></ol>
+    <ol><li>If the Yssaril player owns <i>Minister of Policy</i>, they will use their <sc>Scheming</sc> ability for both the <b>Draw Action Cards</b> step and for <i>Minister of Policy</i>. However, they do not draw all the cards together.</li></ol>
     <li><i>Neural Motivator</i> does not apply when the owner of <i>Minister of Policy</i> draws action cards from its effect.</li>
     </ol>
 
