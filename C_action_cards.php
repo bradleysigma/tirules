@@ -321,7 +321,7 @@
     <ol class="note">
     <li>Wormholes are not anomalies.</li>
     <li>An anomaly will retain its regular effect if a player retreats.</li>
-    <li>A player may move ships though or into an asteroid field without the <i>Anti&ndash;Mass Deflectors</i> technology. After moving, those ships may remain there and move during a later action without harm.</li>
+    <li>A player may move ships though or into an asteroid field without the <i>Antimass Deflectors</i> technology. After moving, those ships may remain there and move during a later action without harm.</li>
     <li>A player may move ships though or out of a gravity rift without rolling for removal. Those ships will not get +1 to their move value.</li>
     <li>A player may move ships though a nebula. Ships moving out of a nebula retain their normal move value.</li>
     <li>A player may move ships though or into a supernova. After moving, those ships may remain there and move during a later action without harm.</li>
