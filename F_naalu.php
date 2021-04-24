@@ -11,11 +11,11 @@
     <li>Using <sc>Foresight</sc> is not a retreat. As such, it cannot be cancelled with the <i>Intercept</i> action card.</li>
     <li>Fighters are moved without being transported. Ground forces may be transported.</li>
     <li>The Naalu player cannot use <sc>Foresight</sc> to move into into a nebula or supernova.</li>
-    <ol><li>The Naalu player may use <sc>Foresight</sc> to move into an asteroid field only if they own the <i>Anti&ndash;Mass Deflectors</i> technology.</li></ol>
+    <ol><li>The Naalu player may use <sc>Foresight</sc> to move into an asteroid field only if they own the <i>Antimass Deflectors</i> technology.</li></ol>
     <li>If the Naalu player uses <sc>Foresight</sc> to move out of a gravity rift, they will have to roll for removal.</li>
     <ol><li>If all ships are removed, the strategy token will still be placed in the destination system.</li></ol>
     <li>After moving, capacity and fleet pool limits apply in the destination system.</li>
-    <li>If the destination system already contains a Naalu command token, the command token from the Naalu&rsquo;s strategy pool is instead placed in their reinforcements.</li>
+    <li>If the destination system already contains a Naalu command token, the command token from the Naalu player&rsquo;s strategy pool is instead placed in their reinforcements.</li>
     <li>After resolving <sc>Foresight</sc>, play continues to the <b>Space Cannon Offense</b> step. Only the active player&rsquo;s ships in the active system may be assigned hits.</li>
     </ol>
 
@@ -35,7 +35,7 @@
 
 <h1>Matriarch <sub>(Flagship)</sub></h1>
     <ol class="note">
-    <li>The commmited fighters are returned to space area when combat ends, and thus will not be on the planet for the <b>Establish Control</b> step. If the Naalu player does not commit at least one ground force to a planet and have it survive the combat, they will be unable to gain control of that planet, and the ground combat will end in a draw.</li>
+    <li>The committed fighters are returned to space area when combat ends, and thus will not be on the planet for the <b>Establish Control</b> step. If the Naalu player does not commit at least one ground force to a planet and have it survive the combat, they will be unable to gain control of that planet, and the ground combat will end in a draw.</li>
     <li>Any structures on the planet will not be destroyed if the Naalu player committed no ground forces.</li>
     <li>The <i>Daxive Animators</i> technology will not allow the Naalu player to gain control of a planet without committing a ground force.</li>
     <li>The committed fighters may be assigned hits during the <b>Space Cannon Defense</b> step.</li>
