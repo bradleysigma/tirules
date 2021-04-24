@@ -195,7 +195,7 @@
 
 <h1>Ghost Ship</h1>
     <ol class="note">
-    <li>A player may place the destroyer in the Cruss gate, the wormhole nexus, or any system with a wormhole token.</li>
+    <li>A player may place the destroyer in the Creuss gate, the wormhole nexus, or any system with a wormhole token.</li>
     <ol><li>Placing the destroyer in the inactive wormhole nexus will cause it to flip.</li></ol>
     <li>There must be an eligible system to place the destroyer in for a player to play and resolve <i>Ghost Ship</i>.</li>
     <li>If a player wishes to place a destroyer, but there are none left in their reinforcements, they may remove a destroyer from any system that does not contain one of their command tokens and place that instead.</li>
