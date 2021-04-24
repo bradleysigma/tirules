@@ -33,6 +33,7 @@
     <ol class="note">
     <li>The Arborec player cannot use the secondary ability of the <i>Warfare</i> strategy card to use the <sc>Production</sc> ability of a Lentani Warrior.</li>
     <li>When multiple units use their <sc>Production</sc> ability, the <sc>Production</sc> value is pooled. As such, if the Arborec player has two Lentani Warrior I in a system, they may produce two infantry for one resource, rather than two.</li>
+    <li>If Lentani Warriors are on different planets, any produced ground forces may be split between those planets, regardless of the production value of the Lentani Warriors on that planet.<li>
     </ol>
 
 <h1>Duha Menaimon <sub>(Flagship)</sub></h1>
