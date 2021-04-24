@@ -8,7 +8,7 @@
 
 <h1>Reclamation</h1>
     <ol class="note">
-    <li>If the Winnu player has no PDS or Space Docks left in their reinforcements, they may remove a unit from any system that does not contain one of their command tokens and place that unit on Mecatol Rex when reslving <sc>Reclamation</sc>.</li>
+    <li>If the Winnu player has no PDS or Space Docks left in their reinforcements, they may remove a unit from any system that does not contain one of their command tokens and place that unit on Mecatol Rex when resolving <sc>Reclamation</sc>.</li>
     </ol>
 
 <h1>Acquiescence <sub>(Promissory Note)</sub></h1>
