@@ -49,11 +49,11 @@
 <h1>Airo Shir Aur &mdash; Benediction <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>Fighters and ground forces in the space area of the origin system are moved. Ground forces on planets are left behind.</li>
-    <ol><li>If the Mahact player moves their own ships, they may transport ground froces on planets.</li></ol>
+    <ol><li>If the Mahact player moves their own ships, they may transport ground forces on planets.</li></ol>
     <li>Any abilities that trigger when a player moves ships trigger from the perceptive of the Mahact player.</li>
     <li>Any abilities that trigger when a player&rsquo;s ships move trigger from the perceptive of the player that owns them.</li>
     <li>Any abilities that trigger when a player moves their ships do not trigger.</li>
-    <li>The Mahact player may move another players ships into an asteroid field only if that player owns the <i>Anti&ndash;Mass Deflectors</i> technology.</li>
+    <li>The Mahact player may move another players ships into an asteroid field only if that player owns the <i>Antimass Deflectors</i> technology.</li>
     <li>The Mahact player may move another players ships into a supernova only if that player owns the <i>Magmus Reactor</i> Muaat factional technology.</li>
     <li>The Mahact player may only move the Empyrean player&rsquo;s ships into a nebula.</li>
     <li>If the Mahact player moves a player&rsquo;s ships out of a gravity rift, that player must roll for removal.</li>
