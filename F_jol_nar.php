@@ -58,6 +58,7 @@
 <h1>Rin, The Master&rsquo;s Legacy <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>The Jol&ndash;Nar player does not have to meet the prerequisites of the technologies they acquire.</li>
+    <li>All replacements happen simultaneously. A technology cannot be returned and then gained while resolving this ability.</li>
     </ol>
 
 <h1>Shield Paling <sub>(Mech)</sub></h1>
