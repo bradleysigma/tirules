@@ -14,7 +14,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>A PDS is both a structure and a unit.</li>
+    <li>A Space Dock is both a structure and a unit.</li>
     </ol>
 
 <h1>Related Topics</h1>
