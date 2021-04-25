@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '52.' counter(item, decimal);} </style>
 <p>The <i>Leadership</i> strategy card allows players to gain command tokens. This card&rsquo;s initiative value is &ldquo;1&rdquo;.</p>
     <ol class="lrr">
-	<li>During the action phase, if the active player has the <i>Leadership</i> strategy card, they can perform a strategic action to resolve that card&rsquo;s primary ability.</li>
+    <li>During the action phase, if the active player has the <i>Leadership</i> strategy card, they can perform a strategic action to resolve that card&rsquo;s primary ability.</li>
     <li>To resolve the primary ability on the <i>Leadership</i> strategy card, the active player gains three command tokens. Then, that player can spend any amount of their influence to gain one command token for every three influence they spend.</li>
     <li>After the active player resolves the primary ability of the <i>Leadership</i> strategy card, each other player, beginning with the player to the left of the active player and proceeding clockwise, may spend any amount of influence to gain one command token for every three influence they spend.</li>
     <li>When a player gains command tokens, that player places each token on their command sheet in the pool of their choice.</li>

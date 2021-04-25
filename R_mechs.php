@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '55.' counter(item, decimal);} </style>
 <p>Mechs are unique, faction&ndash;specific heavy ground forces.</p>
     <ol class="lrr">
-	<li>Mechs are a type of ground force and can be transported and participate in ground combat.</li>
+    <li>Mechs are a type of ground force and can be transported and participate in ground combat.</li>
     <li>Each player begins with their mech unit card in play on their leader sheet and can produce mechs for the cost presented on the card.</li>
     <li>Some mechs have <sc>Deploy</sc> abilities which allow a player to place them on the game board without producing them normally.</li>
     <li>Mech unit cards are not technologies.</li>

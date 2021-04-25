@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '76.' counter(item, decimal);} </style>
 <p>A ship is a unit type consisting of carriers, cruisers, dreadnoughts, destroyers, fighters, and war suns. Each race also has a unique flagship.</p>
     <ol class="lrr">
-	<li>Ships are always placed in space.</li>
+    <li>Ships are always placed in space.</li>
     <li>A player can have a number of ships in a system equal to or less than the number of command tokens in that player&rsquo;s fleet pool.</li>
     <ol><li>Fighters do not count toward the fleet pool limit, and instead count against a player&rsquo;s capacity.</li></ol>
     <li>Ships can have any number of the following attributes: cost, combat, move, and capacity. These attributes are shown on faction sheets and unit upgrade technology cards.</li>

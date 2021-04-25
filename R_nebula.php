@@ -14,7 +14,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-	<li>A player cannot retreat (or similar) into a nebula, since it would not be the active system.</li>
+    <li>A player cannot retreat (or similar) into a nebula, since it would not be the active system.</li>
     <li>The +1 modifiers for the defender does not modify anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
     </ol>
 

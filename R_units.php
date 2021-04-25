@@ -5,10 +5,10 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '96.' counter(item, decimal);} </style>
 <p>A unit is represented by a plastic figure.</p>
     <ol class="lrr">
-	<li>There are three types of units: ships, ground forces, and structures.</li>
+    <li>There are three types of units: ships, ground forces, and structures.</li>
     <li>Each color of plastic comes with the following units:</li>
     <ul>
-    	<li>3 Space Docks</li>
+        <li>3 Space Docks</li>
         <li>6 PDS units</li>
         <li>8 Destroyers</li>
         <li>8 Cruisers</li>
@@ -19,7 +19,7 @@
         <li>5 Dreadnoughts</li>
         <li>1 Flagship</li>
         <li>4 Mechs</li>
-   	</ul>
+    </ul>
     <li>Units exist either on the game board or in a player&rsquo;s reinforcements.</li>
     </ol>
 

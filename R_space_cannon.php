@@ -18,17 +18,17 @@
     <li>This ability can be used even if no ships were moved during the <b>Move Ships</b> step.</li>
     <li><b>Step 2 &ndash; Assign  Hits</b>: The player whose units have been targeted by <sc>Space Cannon</sc> must choose and destroy one of their ships in the active system for each hit result produced against their units.</li>
     <ol>
-	    <li>Players other than the active player must target the active player&rsquo;s units.</li>
-    	<li>If the active player is using the <sc>Space Cannon</sc> ability of their units, they choose a player who has ships in the active system. That player must choose and destroy one of their ships in the active system for each hit the space cannon roll produced.</li>
+        <li>Players other than the active player must target the active player&rsquo;s units.</li>
+        <li>If the active player is using the <sc>Space Cannon</sc> ability of their units, they choose a player who has ships in the active system. That player must choose and destroy one of their ships in the active system for each hit the space cannon roll produced.</li>
     </ol>
     <h2><li>Space Cannon Defense</li></h2>
     <p>During the invasion step of a tactical action, after ground forces have been committed to land on planets, players other than the active player can resolve the <sc>Space Cannon</sc> ability of their units on those planets by performing the following steps:</p>
     <li><b>Step 1 &ndash; Roll Dice</b>: Each player may use the <sc>Space Cannon</sc> ability of each of their units on the invaded planet by rolling a specific number of dice for each of those units; this is called a space cannon roll. A hit is produced for each die roll that is equal to or greater than the unit&rsquo;s <sc>Space Cannon</sc> value.</li>
     <ol>
-    	<li>If a unit has a <sc>Space Cannon</sc> ability, it is present on its faction sheet and technology cards.</li>
-    	<li><sc>Space Cannon</sc> is displayed as &ldquo;<sc>Space Cannon</sc> X (&times;Y).&rdquo; The X is the minimum value needed for a die to produce a hit, and Y is the number of dice rolled. Not all <sc>Space Cannon</sc> abilities are accompanied by a (Y) value; a space cannon roll for such a unit consists of one die.</li>
-    	<li>Game effects that reroll, modify, or otherwise affect combat rolls do not affect space cannon rolls.</li>
-    	<li>Game effects that allow the use of <sc>Space Cannon</sc> abilities against ships in adjacent systems have no effect during Space Cannon Defense.</li>
+        <li>If a unit has a <sc>Space Cannon</sc> ability, it is present on its faction sheet and technology cards.</li>
+        <li><sc>Space Cannon</sc> is displayed as &ldquo;<sc>Space Cannon</sc> X (&times;Y).&rdquo; The X is the minimum value needed for a die to produce a hit, and Y is the number of dice rolled. Not all <sc>Space Cannon</sc> abilities are accompanied by a (Y) value; a space cannon roll for such a unit consists of one die.</li>
+        <li>Game effects that reroll, modify, or otherwise affect combat rolls do not affect space cannon rolls.</li>
+        <li>Game effects that allow the use of <sc>Space Cannon</sc> abilities against ships in adjacent systems have no effect during Space Cannon Defense.</li>
     </ol>
     <li><b>Step 2 &ndash; Assign Hits</b>: The active player must choose and destroy one of their ground forces on the planet for each hit the space cannon roll produced.</li>
     <ol><li>Hits can only be assigned to units that are on the same planet as the units using the <sc>Space Cannon</sc> ability.</li></ol>

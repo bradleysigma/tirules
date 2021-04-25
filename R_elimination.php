@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '33.' counter(item, decimal);} </style>
 <p>A player who is eliminated is no longer part of the game.</p>
     <ol class="lrr">
-	<li>A player is eliminated when they meet <b>all</b> of the following three conditions:</li>
+    <li>A player is eliminated when they meet <b>all</b> of the following three conditions:</li>
     <ol>
         <li>The player has no ground forces on the game board.</li>
         <li>The player has no unit that has <sc>Production</sc>.</li>
@@ -36,7 +36,7 @@
     <ol class="note">
     <li>While the Arborec flagship may produce units, it does not have the <sc>Production</sc> ability. Having it on the game board will not prevent the Arborec player from being eliminated. This applies to all similar effects in the game.</li>
     <li>An eliminated player&rsquo;s home system remains a home system for game effects.</li>
-	</ol>
+    </ol>
 
 <h1>Related Topics</h1>
     <ul>

@@ -5,14 +5,14 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '92.' counter(item, decimal);} </style>
 <p>The <i>Trade</i> strategy card allows players to gain trade goods and replenish commodities. This card&rsquo;s initiative value is &ldquo;5&rdquo;.</p>
     <ol class="lrr">
-	<li>During the action phase, if the active player has the <i>Trade</i> strategy card, they can perform a strategic action to resolve that card&rsquo;s primary ability. To resolve the primary ability on the <i>Trade</i> strategy card, the active player resolves the following effects in order:</li>
+    <li>During the action phase, if the active player has the <i>Trade</i> strategy card, they can perform a strategic action to resolve that card&rsquo;s primary ability. To resolve the primary ability on the <i>Trade</i> strategy card, the active player resolves the following effects in order:</li>
     <li><b>Step 1</b>: The active player gains 3 trade goods.</li>
     <li><b>Step 2</b>: The active player replenishes their commodities by taking the number of commodity tokens necessary to have an amount equal to the commodity value on their faction sheet. Then, they place those tokens in the commodity area of their faction sheet.</li>
     <ol><li>A player cannot have more commodities than the commodity value printed on their faction sheet.</li></ol>
     <li><b>Step 3</b>: The active player chooses any number of other players. Those players use the secondary ability of this card without spending a command token.</li>
     <ol>
-    	<li>The chosen players <b>must</b> resolve the secondary ability of this card without spending a command token after the active player finishes resolving the primary ability.</li>
-    	<li>The chosen players can only use the secondary ability once, and they cannot use it by spending command tokens.</li>
+        <li>The chosen players <b>must</b> resolve the secondary ability of this card without spending a command token after the active player finishes resolving the primary ability.</li>
+        <li>The chosen players can only use the secondary ability once, and they cannot use it by spending command tokens.</li>
     </ol>
     <li>After the active player resolves the primary ability of the <i>Trade</i> strategy card, each other player, beginning with the player to the left of the active player and proceeding clockwise, may spend one command token from their strategy pool to replenish their commodities.</li>
     </ol>
@@ -21,7 +21,7 @@
     <ol class="note">
     <li>Say, for example, Alice is the active player, and is performing a strategic action with the <i>Trade</i> strategy card. To her left is Bob. To his left is Cheng, then Diego, then Esther, then Fahd. The full order of steps is:</li>
     <ol>
-    	<li>Alice gains three trade goods.</li>
+        <li>Alice gains three trade goods.</li>
         <li>Alice replenishes her commodities.</li>
         <li>Alice chooses players for the secondary.</li>
         <li>Bob may/must replenish his commodities by performing the secondary ability.</li>

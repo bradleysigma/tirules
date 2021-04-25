@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '14.' counter(item, decimal);} </style>
 <p>A player&rsquo;s unit with <sc>Production</sc> is blockaded if it is in a system that does not contain any of their ships and contains other players&rsquo; ships.</p>
     <ol class="lrr">
-	<li>A player cannot use a blockaded unit to produce ships; that player can still use a blockaded unit to produce ground forces.</li>
+    <li>A player cannot use a blockaded unit to produce ships; that player can still use a blockaded unit to produce ground forces.</li>
     <li>When a player blockades another player&rsquo;s space dock, if the blockaded player has captured any of the blockading player&rsquo;s units, those units are returned to the blockading player&rsquo;s reinforcements.</li>
     <ol><li>While a player is blockading another player, the blockaded player cannot capture any of the blockading player&rsquo;s units.</li></ol>
     </ol>

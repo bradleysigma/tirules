@@ -5,11 +5,11 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '100.' counter(item, decimal);} </style>
 <p>The wormhole nexus is a system tile where several wormholes converge.</p>
     <ol class="lrr">
-	<li>The wormhole nexus begins the game in play with its inactive side up.</li>
+    <li>The wormhole nexus begins the game in play with its inactive side up.</li>
     <ol>
-    	<li>The inactive side of the wormhole nexus contains a gamma wormhole. The active side of the wormhole nexus contains an alpha, beta, and gamma wormhole.</li>
-    	<li>The wormhole nexus is treated as part of the game board.</li>
-    	<li>The wormhole nexus is on the edge of the game board.</li>
+        <li>The inactive side of the wormhole nexus contains a gamma wormhole. The active side of the wormhole nexus contains an alpha, beta, and gamma wormhole.</li>
+        <li>The wormhole nexus is treated as part of the game board.</li>
+        <li>The wormhole nexus is on the edge of the game board.</li>
     </ol>
     <li>After a player moves or places a unit into the wormhole nexus, or gains control of the planet Mallice, that player flips the wormhole nexus to its active side.</li>
     <ol><li>When a ship moves into the wormhole nexus, the nexus becomes active at the end of the <b>Movement</b> step.</li></ol>

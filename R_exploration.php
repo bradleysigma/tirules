@@ -5,13 +5,13 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '35.' counter(item, decimal);} </style>
 <p>Planets and some space areas can be explored, yielding varying results determined by the cards drawn from the exploration decks.</p>
     <ol class="lrr">
-	<li>When a player takes control of a planet that is not already controlled by another player, they explore that planet.</li>
+    <li>When a player takes control of a planet that is not already controlled by another player, they explore that planet.</li>
     <li>When a player explores a planet, they draw and resolve a card from the exploration deck that corresponds to that planet&rsquo;s trait.</li>
     <ol>
-    	<li>There are three planetary exploration decks, each of which corresponds to a planet trait: cultural, hazardous, and industrial.</li>
-    	<li>Planets that do not have traits, such as Mecatol Rex and planets in home systems, cannot be explored.</li>
-    	<li>If a planet has multiple traits, the player exploring the planet chooses which of the corresponding exploration decks to draw from.</li>
-    	<li>If a player gains control of multiple planets or resolves multiple explore effects at the same time, they choose the order in which they resolve those explorations, completely resolving each exploration card before resolving the next.</li>
+        <li>There are three planetary exploration decks, each of which corresponds to a planet trait: cultural, hazardous, and industrial.</li>
+        <li>Planets that do not have traits, such as Mecatol Rex and planets in home systems, cannot be explored.</li>
+        <li>If a planet has multiple traits, the player exploring the planet chooses which of the corresponding exploration decks to draw from.</li>
+        <li>If a player gains control of multiple planets or resolves multiple explore effects at the same time, they choose the order in which they resolve those explorations, completely resolving each exploration card before resolving the next.</li>
     </ol>
     <li>Certain abilities may allow a planet to be explored multiple times.</li>
     <li>Players can explore space areas that contain frontier tokens if they own the <i>Dark Energy Tap</i> technology or if another game effect allows them to.</li>
@@ -23,8 +23,8 @@
     <li>If a player resolves an exploration card that has an &ldquo;attach&rdquo; header, they attach that card to the planet card of the planet being explored.</li>
     <li>If a player resolves an exploration card that has &ldquo;relic fragment&rdquo; in the title, they place that card faceup in their play area.</li>
     <ol>
-    	<li>Players can resolve the ability of relic fragments that are in their play area. Resolving these abilities allows players to draw cards from the relic deck.</li>
-    	<li>Relic fragments can be exchanged as part of transactions.</li>
+        <li>Players can resolve the ability of relic fragments that are in their play area. Resolving these abilities allows players to draw cards from the relic deck.</li>
+        <li>Relic fragments can be exchanged as part of transactions.</li>
     </ol>
     </ol>
 

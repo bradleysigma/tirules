@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '36.' counter(item, decimal);} </style>
 <p>A fighter token functions as a plastic fighter unit for all game purposes.</p>
     <ol class="lrr">
-	<li>When producing a fighter unit, a player can use a fighter token from the supply instead of a plastic piece.</li>
+    <li>When producing a fighter unit, a player can use a fighter token from the supply instead of a plastic piece.</li>
     <li>Players can replace their plastic fighters with tokens at any time.</li>
     <li>If a player ever has a fighter token in a system that does not contain one of their plastic fighters, that player must replace it with a plastic fighter from their reinforcements.</li>
     <ol><li>If the player cannot replace the token, the unit is destroyed.</li></ol>

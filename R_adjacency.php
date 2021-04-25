@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '6.' counter(item, decimal);} </style>
 <p>Two system tiles are adjacent to each other if any of the tiles&rsquo; sides are touching each other.</p>
     <ol class="lrr">
-	<li>A system that has a wormhole is treated as being adjacent to a system that has a matching wormhole.</li>
+    <li>A system that has a wormhole is treated as being adjacent to a system that has a matching wormhole.</li>
     <li>A unit or planet is adjacent to all system tiles that are adjacent to the system tile that contains that unit or planet.</li>
     <ol><li>A system is not adjacent to itself.</li></ol>
     <li>A planet is treated as being adjacent to the system that contains that planet.</li>

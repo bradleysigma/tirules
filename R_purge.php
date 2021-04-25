@@ -11,7 +11,7 @@
     </ol>
 
 <h1>Notes</h1>
-	<ol class="note">
+    <ol class="note">
     </ol>
 
 <h1>Related Topics</h1>

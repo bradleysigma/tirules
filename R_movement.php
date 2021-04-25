@@ -6,17 +6,17 @@
 <style> .lrr {counter-reset: item 1; }</style>
 <p>A player can move their ships by resolving a tactical action during the action phase. Additionally, some abilities can move a unit outside of the tactical action.</p>
     <ol class="lrr">
-	<h2><li>Tactical Action Movement</li></h2>
+    <h2><li>Tactical Action Movement</li></h2>
     <li>A ship&rsquo;s move value is presented along with its other attributes on faction sheets and unit upgrade technology cards. This value indicates the distance from its current system that a ship can move.</li>
     <p>To resolve movement, players perform the following steps:</p>
-	<li><b>Step 1 &ndash; Move Ships</b>: A player can move any number of their eligible ships into the active system, obeying the following rules:</li>
+    <li><b>Step 1 &ndash; Move Ships</b>: A player can move any number of their eligible ships into the active system, obeying the following rules:</li>
     <ol>
-	    <li>The ship must end its movement in the active system.</li>
-	    <li>The ship cannot move through a system that contains ships that are controlled by another player.</li>
-	    <li>The ship <b>cannot</b> move if it started its movement in another system that contains one of its faction&rsquo;s command tokens.</li>
-	    <li>The ship <b>can</b> move through systems that contain its own faction&rsquo;s command tokens.</li>
-	    <li>The ship <b>can</b> move out of the <b>active</b> system and back into it if its move value is high enough.</li>
-	    <li>The ship must move along a path of adjacent systems, and the number of systems the ship enters cannot exceed its move value.</li>
+        <li>The ship must end its movement in the active system.</li>
+        <li>The ship cannot move through a system that contains ships that are controlled by another player.</li>
+        <li>The ship <b>cannot</b> move if it started its movement in another system that contains one of its faction&rsquo;s command tokens.</li>
+        <li>The ship <b>can</b> move through systems that contain its own faction&rsquo;s command tokens.</li>
+        <li>The ship <b>can</b> move out of the <b>active</b> system and back into it if its move value is high enough.</li>
+        <li>The ship must move along a path of adjacent systems, and the number of systems the ship enters cannot exceed its move value.</li>
     </ol>
     <li>When a ship with a capacity value moves or is moved, it may transport ground forces and fighters.</li>
     <li>The active player declares which of their ships are moving before any ships move. Those ships arrive in the active system simultaneously.</li>

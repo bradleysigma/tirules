@@ -9,7 +9,7 @@
     <li><i>Alliance</i> is returned when the system is activated, even if the active player will perform no hostiles acts towards the other player this turn.</li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the other player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Alliance</i> to be returned.</li>
     <li>Activating a system containing only a player&rsquo;s structures will still cause their <i>Alliance</i> to be returned.</li>
-	<li>For notes about a commander of a specific faction, see that faction&rsquo;s notes page.</li>
+    <li>For notes about a commander of a specific faction, see that faction&rsquo;s notes page.</li>
     </ol>
 
 <h1>Ceasefire</h1>

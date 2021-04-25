@@ -38,7 +38,7 @@
     <li>If an effect allows Floating Factory to move through a system that contains another player&rsquo;s ships (such as the <i>Light/Wave Deflectors</i> technology), it will not be blockaded in systems it moves through.</li>
     <li>If a Floating Factory is in a system that contains none of the Saar player&rsquo;s ships, and another player moves ships into that system, the Floating is immediately destroyed.</li>
     <ol>
-    	<li>This will happen before the <b>Space Cannon Offense</b> step. The Floating Factory is destroyed, even if all of the other player&rsquo; ships are destroyed during this step.</li>
+        <li>This will happen before the <b>Space Cannon Offense</b> step. The Floating Factory is destroyed, even if all of the other player&rsquo; ships are destroyed during this step.</li>
         <li>If all of the other player&rsquo;s ships are removed due to a gravity rift, they will not arrive in the active system. The Floating Factory will not be destroyed.</li>
     </ol>
     </ol>

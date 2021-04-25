@@ -13,7 +13,7 @@
 @font-face
 {
     font-family: helv;
-	font-weight: bold;
+    font-weight: bold;
     src: url(HelvBd.otf);
 }
 @font-face
@@ -24,11 +24,11 @@
 
 html, body
 {
-	width: 100%;
-	margin: 0;
-	padding: 0;
-	font-family: helv, Arial, sans-serif;
-	height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: helv, Arial, sans-serif;
+    height: 100%;
 }
 body
 {
@@ -37,79 +37,79 @@ body
 }
 header
 {
-	padding: 1em;
-	text-align: center;
-	background-color: #000088;
-	color: white;
+    padding: 1em;
+    text-align: center;
+    background-color: #000088;
+    color: white;
     font-family: slid, Futura, sans-serif;
-	font-size: 400%;
-	font-weight: normal;
-	flex: none;
-	font-variant:small-caps;
+    font-size: 400%;
+    font-weight: normal;
+    flex: none;
+    font-variant:small-caps;
 }
 a
 {
-	color: black;
+    color: black;
 }
 article
 {
-	column-width: 24em;
-	column-gap: 6em;
-	padding: 2em 6em;
-	flex: 1 0 auto;
+    column-width: 24em;
+    column-gap: 6em;
+    padding: 2em 6em;
+    flex: 1 0 auto;
     counter-reset: nitem;
 }
 article > h1
 {
-	column-span: all;
-	margin: 0;
-	padding-top: 1ex;
+    column-span: all;
+    margin: 0;
+    padding-top: 1ex;
     font-family: slid, Futura, sans-serif;
-	font-size: 250%;
-	font-weight: normal;
+    font-size: 250%;
+    font-weight: normal;
 }
 article h2
 {
     font-family: slid, Futura, sans-serif;
-	font-size: 150%;
-	font-weight: normal;
-	margin: 0;
+    font-size: 150%;
+    font-weight: normal;
+    margin: 0;
 }
 sub
 {
-	font-size: 50%;
-	vertical-align: baseline;
+    font-size: 50%;
+    vertical-align: baseline;
 }
 sc
 {
-	font-variant: small-caps;
+    font-variant: small-caps;
 }
 li
 {
-	-webkit-column-break-inside: avoid;
-	page-break-inside: avoid;
-	break-inside: avoid;
-	line-height: 1.2;
-	padding-bottom: 1ex;
-	orphans: 3;
-	widows: 3;
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    line-height: 1.2;
+    padding-bottom: 1ex;
+    orphans: 3;
+    widows: 3;
 }
 ol, ul
 {
-	margin: 0;
+    margin: 0;
 }
 p
 {
-	line-height: 1.2;
-	padding-bottom: 1ex;
-	padding-top: 1ex;
-	margin: 0;
-	orphans: 3;
-	widows: 3;
+    line-height: 1.2;
+    padding-bottom: 1ex;
+    padding-top: 1ex;
+    margin: 0;
+    orphans: 3;
+    widows: 3;
 }
 h2 + p, p + p, li + p
 {
-	padding-top: 0;
+    padding-top: 0;
 }
 .lrr
 {
@@ -131,12 +131,12 @@ h2 + p, p + p, li + p
 }
 .lrr > ol > li:before
 {
-	content: counter(subitem, lower-alpha);
+    content: counter(subitem, lower-alpha);
     counter-increment: subitem;
 }
 .lrr > .roman > li:before
 {
-	content: counter(subitem, lower-roman);
+    content: counter(subitem, lower-roman);
     counter-increment: subitem;
 }
 .note
@@ -145,7 +145,7 @@ h2 + p, p + p, li + p
 }
 .note > li:before
 {
-	content: counter(nitem, upper-roman);
+    content: counter(nitem, upper-roman);
     counter-increment: nitem;
 }
 .note > ol
@@ -155,93 +155,93 @@ h2 + p, p + p, li + p
 }
 .note > ol > li:before
 {
-	content: counter(subitem, lower-greek);
+    content: counter(subitem, lower-greek);
     counter-increment: subitem;
 }
 .lrr, .note
 {
-	padding-left: 3em;
+    padding-left: 3em;
 }
 .lrr > li:before, .lrr > h2 > li:before, .note > li:before
 {
-	width: 3em;
-	text-align: left;
-	display: inline-block;
-	margin-left: -3em;
-	left: 0;
-	font-weight: normal;
+    width: 3em;
+    text-align: left;
+    display: inline-block;
+    margin-left: -3em;
+    left: 0;
+    font-weight: normal;
 }
 .lrr > h2 > li:before
 {
-	font-size: 66.67%;
-	vertical-align: baseline;
-	font-family: helv, Arial, sans-serif;
+    font-size: 66.67%;
+    vertical-align: baseline;
+    font-family: helv, Arial, sans-serif;
 }
 .lrr > ol, .note > ol
 {
-	padding-left: 2em;
+    padding-left: 2em;
 }
 .lrr > ol > li:before, .note > ol > li:before
 {
-	width: 2em;
-	text-align: left;
-	display: inline-block;
-	margin-left: -2em;
-	left: 0;
+    width: 2em;
+    text-align: left;
+    display: inline-block;
+    margin-left: -2em;
+    left: 0;
 }
 footer
 {
-	padding: 5em;
-	text-align: center;
-	font-size: 80%;
-	background-color: #000088;
-	color: white;
-	line-height: 1.2;
-	flex: none;
+    padding: 5em;
+    text-align: center;
+    font-size: 80%;
+    background-color: #000088;
+    color: white;
+    line-height: 1.2;
+    flex: none;
 }
 footer > p, footer > p + footer > p
 {
-	padding-bottom: 1ex;
+    padding-bottom: 1ex;
 }
 footer a
 {
-	color: white;
+    color: white;
 }
 header, footer
 {
-	background-image: url("beta.png");
-	background-repeat: repeat;
-	background-attachment: fixed;
-	background-position: <?php echo rand(0, 100);?>% <?php echo rand(0, 100);?>%;
-	background-size: calc(1196px * 0.05) calc(480px * 0.05);
+    background-image: url("beta.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: <?php echo rand(0, 100);?>% <?php echo rand(0, 100);?>%;
+    background-size: calc(1196px * 0.05) calc(480px * 0.05);
 }
 @media screen and (max-width: 600px)
 {
-	header
-	{
-		padding: 0.4em;
-		font-size: 320%;
-	}
-	article
-	{
-		column-width: 24em;
-		column-gap: 2.4em;
-		padding: 0.8em 2.4em;
-	}
-	article > h1
-	{
-		font-size: 200%;
-	}
-	article h2
-	{
-		font-size: 120%;
-	}
-	.lrr > h2 > li:before
-	{
-		font-size: 83.33%;
-	}
-	footer
-	{
-		padding: 2em;
-	}
+    header
+    {
+        padding: 0.4em;
+        font-size: 320%;
+    }
+    article
+    {
+        column-width: 24em;
+        column-gap: 2.4em;
+        padding: 0.8em 2.4em;
+    }
+    article > h1
+    {
+        font-size: 200%;
+    }
+    article h2
+    {
+        font-size: 120%;
+    }
+    .lrr > h2 > li:before
+    {
+        font-size: 83.33%;
+    }
+    footer
+    {
+        padding: 2em;
+    }
 }

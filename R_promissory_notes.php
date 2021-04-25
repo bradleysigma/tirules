@@ -22,7 +22,7 @@
     <ol class="note">
     <li>When two players make a trade for a promissory note, the specific promissory note that was traded may be hidden from other players.</li>
     <ol>
-    	<li>However, it is public information that a promissory note was traded.</li>
+        <li>However, it is public information that a promissory note was traded.</li>
         <li>The <i>Alliance</i> and <i>Support for the Throne</i> promissory notes must be played immediately when received. As such, trading either of these notes cannot be kept hidden.</li>
     </ol>
     <li>A player may choose to reveal any or all of the promissory notes in their hand, if they so choose.</li>

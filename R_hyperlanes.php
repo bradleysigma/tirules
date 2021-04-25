@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '44.' counter(item, decimal);} </style>
 <p>Hyperlanes are tiles that are used in some game board setups to create adjacency of system tiles that are not touching each other.</p>
     <ol class="lrr">
-	<li>Systems that are connected by lines drawn across one or more hyperlane tiles are adjacent for all purposes.</li>
+    <li>Systems that are connected by lines drawn across one or more hyperlane tiles are adjacent for all purposes.</li>
     <li>Hyperlane tiles are not systems. They cannot have units on them and they cannot be targets for effects or abilities.</li>
     </ol>
 
@@ -13,13 +13,13 @@
     <ol class="note">
     <li>If the edge of a system time is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
     <ol>
-    	<li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.</li>
-    	<li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the Creuss home system and the wormhole nexus.</li>
+        <li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.</li>
+        <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the Creuss home system and the wormhole nexus.</li>
     </ol>
     <li>&ldquo;Adjacent for all purposes&rdquo; includes:</li>
     <ol>
-    	<li><sc>Deep Space Cannon</sc>.</li>
-    	<li>Movement.</li>
+        <li><sc>Deep Space Cannon</sc>.</li>
+        <li>Movement.</li>
         <li>Neighbors.</li>
         <li>Any other game effect that specifies adjacent systems.</li>
     </ol>

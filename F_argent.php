@@ -12,6 +12,7 @@
     <li>The <b>Anti&ndash;Fighter Barrage</b> step happens during each space combat, even if no fighters are present in the system.</li>
     <li>The Argent player may choose a damaged ship. This will have no effect.</li>
     <li>The chosen ship becomes damaged, it does not use its <sc>Sustain Damage</sc> ability. As such, effects that trigger when a ship uses its <sc>Sustains Damage</sc> ability, such as the <i>Direct Hit</i> or <i>Reflective Shielding</i> action cards, cannot be played.</li>
+    <ol><li>The chosen ship may be repaired by the <i>Duranium Armor</i> technology later in the same round of combat.</li></ol>
     <li>If the Argent player plays the <i>Waylay</i> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be be assigned.</li>
     <ol><li>For example, say the opponent has three fighters and three dreadnoughts, undamaged. The Argent player plays <a>Waylay</a>, and rolls five hits. This allows them to cause two of the dreadnoughts to become damaged. The opponent then has to assign all five hits. The final dreadnought may use its <sc>Sustain Damage</sc> ability to cancel one of those hits.</li></ol>
     </ol>

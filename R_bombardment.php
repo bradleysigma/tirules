@@ -5,9 +5,9 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '15.' counter(item, decimal);} </style>
 <p>A unit with the <sc>Bombardment</sc> ability may be able to destroy another player&rsquo;s ground forces during an invasion. During the <b>Bombardment</b> step, players perform the following steps:</p>
     <ol class="lrr">
-	<li><b>Step 1</b> &ndash; The active player chooses which planet each of their units that has a <sc>Bombardment</sc> ability will bombard. Then, that player rolls dice for each of those units; this is called a bombardment roll. A hit is produced for each die roll that is equal to or greater than the unit&rsquo;s <sc>Bombardment</sc> value.</li>
+    <li><b>Step 1</b> &ndash; The active player chooses which planet each of their units that has a <sc>Bombardment</sc> ability will bombard. Then, that player rolls dice for each of those units; this is called a bombardment roll. A hit is produced for each die roll that is equal to or greater than the unit&rsquo;s <sc>Bombardment</sc> value.</li>
     <ol>
-    	<li>A unit&rsquo;s <sc>Bombardment</sc> ability is presented along with a unit&rsquo;s attributes on faction sheets and unit upgrade technology cards.</li>
+        <li>A unit&rsquo;s <sc>Bombardment</sc> ability is presented along with a unit&rsquo;s attributes on faction sheets and unit upgrade technology cards.</li>
         <li>The <sc>Bombardment</sc> ability is displayed as &ldquo;<sc>Bombardment</sc> X (&times;Y)&rdquo;. The X is the minimum value needed for a die to produce a hit, and Y is the number of dice rolled. Not all <sc>Bombardment</sc> abilities have a (Y) value; a bombardment roll for such a unit consists of one die.</li>
         <li>Game effects that reroll, modify, or otherwise affect combat rolls do not affect bombardment rolls.</li>
         <li>Multiple planets in a system may be bombarded, but a player must declare which planet a unit is bombarding before making a bombardment roll.</li>

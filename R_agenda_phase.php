@@ -5,12 +5,12 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '8.' counter(item, decimal);} </style>
 <p>During the agenda phase, players can cast votes on agendas that can change the rules of the game.</p>
     <ol class="lrr">
-	<li>Players skip the agenda phase during the early portion of each game. After the custodians token is removed from Mecatol Rex, the agenda phase is added to each game round. To resolve the agenda phase, players perform the following steps:</li>
+    <li>Players skip the agenda phase during the early portion of each game. After the custodians token is removed from Mecatol Rex, the agenda phase is added to each game round. To resolve the agenda phase, players perform the following steps:</li>
     <li><b>Step 1 &ndash; First Agenda</b>: Players resolve the first agenda by following these steps in order:</li>
     <ol class="roman">
-    	<li><b>Reveal Agenda</b>: The speaker draws one agenda card from the top of the agenda deck and reads it aloud to all players, including all of its possible outcomes.</li>
-    	<li><b>Vote</b>: Each player, starting with the player to the left of the speaker and continuing clockwise, can cast votes for an outcome of the current agenda.</li>
-    	<li><b>Resolve Outcome</b>: Players tally each vote that was cast and resolve the outcome that received the most votes.</li>
+        <li><b>Reveal Agenda</b>: The speaker draws one agenda card from the top of the agenda deck and reads it aloud to all players, including all of its possible outcomes.</li>
+        <li><b>Vote</b>: Each player, starting with the player to the left of the speaker and continuing clockwise, can cast votes for an outcome of the current agenda.</li>
+        <li><b>Resolve Outcome</b>: Players tally each vote that was cast and resolve the outcome that received the most votes.</li>
     </ol>
     <li><b>Step 2 &ndash; Second Agenda</b>: Players repeat the <b>First Agenda</b> step of this phase for a second agenda.</li>
     <li><b>Step 3 &ndash; Ready Planets</b>: Each player readies each of their exhausted planets. Then, a new game round begins starting with the strategy phase.</li>
@@ -38,8 +38,8 @@
     <li>If a directive or an &ldquo;Against&rdquo; outcome of a law was resolved, that card is placed in the agenda discard pile.</li>
     <li>Some game effects instruct a player to predict an outcome. To predict an outcome, a player declares aloud the outcome they think will receive the most votes. That player must make this prediction after the agenda is revealed but before any votes have been cast.</li>
     <ol>
-    	<li>A predicted outcome must be a possible outcome of the revealed agenda.</li>
-    	<li>After resolving the outcome of the agenda, any abilities that were dependent upon predicting the outcome are resolved.</li>
+        <li>A predicted outcome must be a possible outcome of the revealed agenda.</li>
+        <li>After resolving the outcome of the agenda, any abilities that were dependent upon predicting the outcome are resolved.</li>
     </ol>
     </ol>
 

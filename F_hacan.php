@@ -56,7 +56,7 @@
     <ol class="note">
     <li>Additional votes must be cast for the same outcome as the other votes the Hacan player cast.</li>
     <ol>
-    	<li>If the Hacan player abstains or otherwise casts zero votes, they cannot cast additional votes.</li>
+        <li>If the Hacan player abstains or otherwise casts zero votes, they cannot cast additional votes.</li>
         <li>If another player has the Hacan player&rsquo;s <i>Alliance</i> promissory note, their additional votes must be cast for the same outcome they cast their other votes for.</li>
     </ol>
     </ol>

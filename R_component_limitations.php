@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '23.' counter(item, decimal);} </style>
 <p>If a component type is depleted during the game, players obey the following rules:</p>
     <ol class="lrr">
-	<li>Dice: Dice are limitless. If a player needs to roll more dice than the game provides, that player should roll as many as possible, record the results, and then reroll dice as necessary.</li>
+    <li>Dice: Dice are limitless. If a player needs to roll more dice than the game provides, that player should roll as many as possible, record the results, and then reroll dice as necessary.</li>
     <li>Tokens: Tokens are limited to those included in the game, except for the following:</li>
     <ul>
         <li>Control Tokens</li>

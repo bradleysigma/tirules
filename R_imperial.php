@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '45.' counter(item, decimal);} </style>
 <p>The <i>Imperial</i> strategy card allows players to score victory points and draw secret objectives. This card&rsquo;s initiative value is &ldquo;8&rdquo;.</p>
     <ol class="lrr">
-	<li>During the action phase, if the active player has the <i>Imperial</i> strategy card, they can perform a strategic action to resolve that card&rsquo;s primary ability.</li>
+    <li>During the action phase, if the active player has the <i>Imperial</i> strategy card, they can perform a strategic action to resolve that card&rsquo;s primary ability.</li>
     <li>To resolve the primary ability on the <i>Imperial</i> strategy card, the active player can score one public objective of their choice if they meet that objective&rsquo;s requirements as described on its card. Then, if the active player controls Mecatol Rex, they gain one victory point; if they do not control Mecatol Rex, they can draw one secret objective card.</li>
     <li>After the active player resolves the primary ability of the <i>Imperial</i> strategy card, each other player, beginning with the player to the left of the active player and proceeding clockwise, may spend one command token from their strategy pool to draw one secret objective card.</li>
     <li>If a player has more than three secret objective cards after drawing a secret objective, they must choose one of their <b>unscored</b> secret objectives and return it to the secret objective deck. This number includes the secret objective cards in the player&rsquo;s hand <b>and</b> the cards that player has already scored. Then, they shuffle the secret objective deck.</li>

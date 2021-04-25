@@ -15,9 +15,9 @@
     <ol><li>Players place any unit upgrades they gain faceup on their faction sheets, covering the unit that shares a name with that upgrade card.</li></ol>
     <li>Each technology that is not a unit upgrade has a colored symbol displayed in the lower&ndash;right corner of the card and on its card back that indicates that technology&rsquo;s color.</li>
     <ol>
-    	<li>A technology&rsquo;s color has no inherent game effect; however, each technology a player owns can satisfy a prerequisite of a matching color when researching other technology.</li>
-    	<li>Unit upgrades do not have a color and do not satisfy prerequisites.</li>
-    	<li>There are four colors of technologies. <code>See your rulebook for images.</code></li>
+        <li>A technology&rsquo;s color has no inherent game effect; however, each technology a player owns can satisfy a prerequisite of a matching color when researching other technology.</li>
+        <li>Unit upgrades do not have a color and do not satisfy prerequisites.</li>
+        <li>There are four colors of technologies. <code>See your rulebook for images.</code></li>
     </ol>
     <li>Most technology cards have a column of colored symbols displayed in the lower&ndash;left corner of the card. Each symbol in this column is a prerequisite.</li>
     <ol><li>A technology card&rsquo;s prerequisites indicate the number and color of technologies a player must own to research that technology card.</li></ol>
@@ -28,9 +28,9 @@
     <li>A player cannot research a faction technology that does not match their faction.</li>
     <li>When researching technology, a player must satisfy each of a technology&rsquo;s prerequisites to research it. To satisfy a technology&rsquo;s prerequisites, that player must own one technology of the matching color for each prerequisite symbol on the technology card they wish to research.</li>
     <ol>
-    	<li>Prerequisites symbols are displayed as symbols on the lower&ndash;left corner of the card.</li>
-    	<li>Unit upgrade technologies do not have a color and do not satisfy prerequisites.</li>
-    	<li>Players may use certain abilities or technology specialties to ignore some prerequisites.</li>
+        <li>Prerequisites symbols are displayed as symbols on the lower&ndash;left corner of the card.</li>
+        <li>Unit upgrade technologies do not have a color and do not satisfy prerequisites.</li>
+        <li>Players may use certain abilities or technology specialties to ignore some prerequisites.</li>
     </ol>
     <h2><li>Technology Specialties</li></h2>
     <p>A technology specialty is a technology symbol found on some planets.</p>

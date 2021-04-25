@@ -27,10 +27,10 @@
     <ol class="note">
     <li>A player may receive <i>Greyfire Mutagen &Omega;</i> in a transaction during a ground combat. If received at the start of ground combat, that player may play it immediately.</li>
     <ol>
-    	<li>A transaction must involve the active player. As such, the defender will be unable to received <i>Greyfire Mutagen &Omega;</i>.</li>
+        <li>A transaction must involve the active player. As such, the defender will be unable to received <i>Greyfire Mutagen &Omega;</i>.</li>
         <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>Greyfire Mutagen &Omega;</i> more than once per turn.</li>
         <li>If the active player received <i>Greyfire Mutagen &Omega;</i> on a previous turn, they may play it and immediately perform a transaction with the Yin player to regain it. However, <i>Greyfire Mutagen &Omega;</i> cannot be played twice in one timing window. The active player cannot play <i>Greyfire Mutagen &Omega;</i> again during the same ground combat.</li>
-    	<li>If an invasion involves ground combat on multiple planets, <i>Greyfire Mutagen &Omega;</i> may be played at the start of each of them.</li>
+        <li>If an invasion involves ground combat on multiple planets, <i>Greyfire Mutagen &Omega;</i> may be played at the start of each of them.</li>
     </ol>
     </ol>
 
@@ -66,15 +66,15 @@
     <ol><li>If that player&rsquo;s opponent has no shops remaining, that player will instead win that combat.</li></ol>
     <li>Capacity is not checked during combat. As such a player may use Brother Milor to place fighters into a space combat where they have no spare capacity. After that combat ends, that player must remove fighters and/or ground forces to meet their capacity limit in that system.</li>
     <li>If the Yin player uses Brother Milor after the <i>Van Hauge</i> is destroyed during a space combat, they will win that combat.</li>
-	<li>If all ships in the system are destroyed, and there are excess hits that have not been assigned to a ship, those hits will lapse, and cannot be assigned to the newly placed fighters.</li>
-	<li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <i>Turn Their Fleets to Dust</i> secret objective before the new fighters are placed.</li>
+    <li>If all ships in the system are destroyed, and there are excess hits that have not been assigned to a ship, those hits will lapse, and cannot be assigned to the newly placed fighters.</li>
+    <li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <i>Turn Their Fleets to Dust</i> secret objective before the new fighters are placed.</li>
     </ol>
 
 <h1>Brother Omar <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>If the <i>Regulated Conscription</i> law is in play, the Yin player may produce two infantry for one resource. This will count one towards their <sc>Production</sc> limit.</li>
     <li>If a game effect instructs the Yin player to produce ships without using the <sc>Production</sc> ability, they may only produce infantry fighters if that game effect allows them to produce infantry.</li>
-	<li>The Yin player may choose to produce one infantry for one resource. If they do, they may produce one additional infantry.</li>
+    <li>The Yin player may choose to produce one infantry for one resource. If they do, they may produce one additional infantry.</li>
     </ol>
 
 <h1>Dannel of the Tenth &mdash; Spinner Overdrive <sub>(Hero)</sub></h1>

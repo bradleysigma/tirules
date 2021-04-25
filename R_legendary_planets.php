@@ -5,11 +5,11 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '53.' counter(item, decimal);} </style>
 <p>Legendary planets grant the player that controls them unique, planet&ndash;specific abilities.</p>
     <ol class="lrr">
-	<li>A legendary planet is indicated by the legendary planet icon.</li>
+    <li>A legendary planet is indicated by the legendary planet icon.</li>
     <li>When a player gains control of a legendary planet, they also place its legendary planet ability card in their play area.</li>
     <ol>
-	    <li>If a player gains control of a legendary planet ability card from the deck, it is readied.</li>
-	    <li>If a player gains control of an exhausted legendary planet ability card, it remains exhausted.</li>
+        <li>If a player gains control of a legendary planet ability card from the deck, it is readied.</li>
+        <li>If a player gains control of an exhausted legendary planet ability card, it remains exhausted.</li>
     </ol>
     <li>Players can use the abilities on the legendary planet ability cards in their play area.</li>
     <li>If a legendary planet&rsquo;s planet card is purged, its corresponding legendary planet ability card is also purged.</li>

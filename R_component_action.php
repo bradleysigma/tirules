@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '22.' counter(item, decimal);} </style>
 <p>A component action is a type of action that a player can perform during their turn of an action phase.</p>
     <ol class="lrr">
-	<li>Component actions can be found on various game components, including action cards, technology cards, leaders, exploration cards, relics, promissory notes, and faction sheets. Each component action is indicated by an &ldquo;Action&rdquo; header.</li>
+    <li>Component actions can be found on various game components, including action cards, technology cards, leaders, exploration cards, relics, promissory notes, and faction sheets. Each component action is indicated by an &ldquo;Action&rdquo; header.</li>
     <li>To perform a component action, a player reads the action&rsquo;s text and follows the instructions as described.</li>
     <li>A component action cannot be performed if its ability cannot be completely resolved.</li>
     <li>If a component action is canceled, it does not use that player&rsquo;s action.</li>

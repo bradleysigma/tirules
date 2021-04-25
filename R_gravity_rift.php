@@ -5,11 +5,11 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '41.' counter(item, decimal);} </style>
 <p>A gravity rift is an anomaly that affects movement.</p>
     <ol class="lrr">
-	<li>A ship that will move out of or through a gravity rift at any time during its movement, applies +1 to its move value.</li>
+    <li>A ship that will move out of or through a gravity rift at any time during its movement, applies +1 to its move value.</li>
     <ol><li>This can allow a ship to reach the active system from farther away than it normally could.</li></ol>
     <li>For each ship that would move out of or through a gravity rift, one die is rolled immediately before it exits the gravity rift system; on a result of 1&ndash;3, that ship is removed from the board.</li>
     <ol>
-    	<li>Dice are not rolled for units that are being transported by ships that have capacity.</li>
+        <li>Dice are not rolled for units that are being transported by ships that have capacity.</li>
         <li>Units that are being transported are removed from the board if the ship transporting them is removed from the board.</li>
         <li>Units that are removed are returned to the player&rsquo;s reinforcements.</li>
     </ol>
@@ -26,7 +26,7 @@
     <li>Retreating from a gravity rift will result in the following:</li>
     <ol>
         <li>The retreating player must declare which, if any, Fighter II are moving themselves and which are being transported, and in which ships.</li>
-    	<li>Each non&ndash;fighter ship and each Fighter II moving itself will have to roll for removal.</li>
+        <li>Each non&ndash;fighter ship and each Fighter II moving itself will have to roll for removal.</li>
         <li>The +1 will have no effect, as retreats are restricted to adjacent systems.</li>
         <li>If all ships are lost to the rift, the retreating player will not place a command token in the destination system.</li>
     </ol>

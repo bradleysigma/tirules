@@ -51,7 +51,7 @@
     <ol><li>For example, before production, the Naalu player has ten fighters on the game board. They pay two resources during production. They cannot produce two fighters, unlock M&rsquo;aban, then produce three more fighters. Instead, they would produce all four fighters, and then unlock M&rsquo;aban.</li></ol>
     <li>If the <i>Regulated Conscription</i> law is in play, the Naalu player may produce two fighters for one resource. This will count one towards their <sc>Production</sc> limit.</li>
     <li>If a game effect instructs the Naalu player to produce ships without using the <sc>Production</sc> ability, they may only produce additional fighters if that game effect allows them to produce fighters.</li>
-	<li>The Naalu player may choose to produce one fighter for one resource. If they do, they may produce one additional fighter.</li>
+    <li>The Naalu player may choose to produce one fighter for one resource. If they do, they may produce one additional fighter.</li>
     </ol>
 
 <h1>The Oracle &mdash; C&ndash;Radium Geometry <sub>(Hero)</sub></h1>

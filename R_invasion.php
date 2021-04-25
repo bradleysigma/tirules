@@ -6,12 +6,12 @@
 <p>Invasion is a step of the tactical action during which the active player can land ground forces on planets to gain control of those planets.</p>
 <p>To resolve an invasion, players perform the following steps:</p>
     <ol class="lrr">
-	<li><b>Step 1 &ndash; Bombardment</b>: The active player may use the <sc>Bombardment</sc> ability of any of their units in the active system.</li>
+    <li><b>Step 1 &ndash; Bombardment</b>: The active player may use the <sc>Bombardment</sc> ability of any of their units in the active system.</li>
     <li><b>Step 2 &ndash; Commit Ground Forces</b>: If the active player has ground forces in the space area of the active system, that player may commit any number of those ground forces to land on any of the planets in that system.</li>
     <ol>
-	    <li>To commit a ground force to a planet, the active player places that ground force unit on that planet.</li>
-	    <li>The planet may contain another player&rsquo;s ground forces.</li>
-	    <li>If the active player does not wish to commit ground forces, that player proceeds to the <b>Production</b> step of the tactical action.</li>
+        <li>To commit a ground force to a planet, the active player places that ground force unit on that planet.</li>
+        <li>The planet may contain another player&rsquo;s ground forces.</li>
+        <li>If the active player does not wish to commit ground forces, that player proceeds to the <b>Production</b> step of the tactical action.</li>
     </ol>
     <li><b>Step 3 &ndash; Space Cannon Defense</b>: If the active player commits any ground forces to a planet that contains units that have the <sc>Space Cannon</sc> ability, those <sc>Space Cannon</sc> abilities can be used against the committed ground forces.</li>
     <ol><li>If the active player committed ground forces to more than one planet that contained units with a <sc>Space Cannon</sc> ability, the active player chooses the order in which those <sc>Space Cannon</sc> abilities are resolved.</li></ol>
@@ -19,10 +19,10 @@
     <ol><li>If players must resolve a combat on more than one planet, the active player chooses the order in which those combats are resolved.</li></ol>
     <li><b>Step 5 &ndash; Establish Control</b>: The active player gains control of each planet they committed ground forces to if that planet still contains at least one of their ground forces.</li>
     <ol>
-    	<li>When a player gains control of a planet, any structures on the planet that belong to other players are immediately destroyed.</li>
-	    <li>When a player gains control of a planet, they gain the planet card that matches that planet and exhaust that card.</li>
-    	<li>A player cannot gain control of a planet they already control.</li>
-    	<li>If there was a combat, and all units belonging to both players were destroyed, the player who was the defender retains control of the planet and places one of their control tokens on the planet.</li>
+        <li>When a player gains control of a planet, any structures on the planet that belong to other players are immediately destroyed.</li>
+        <li>When a player gains control of a planet, they gain the planet card that matches that planet and exhaust that card.</li>
+        <li>A player cannot gain control of a planet they already control.</li>
+        <li>If there was a combat, and all units belonging to both players were destroyed, the player who was the defender retains control of the planet and places one of their control tokens on the planet.</li>
     </ol>
     </ol>
 

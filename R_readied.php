@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '71.' counter(item, decimal);} </style>
 <p>Cards have a readied state, which indicates that a player can exhaust or resolve the abilities on those cards.</p>
     <ol class="lrr">
-	<li>A card that is readied is placed faceup in a player&rsquo;s play area; a card that is exhausted is placed facedown in a player&rsquo;s area.</li>
+    <li>A card that is readied is placed faceup in a player&rsquo;s play area; a card that is exhausted is placed facedown in a player&rsquo;s area.</li>
     <li>A player can exhaust a readied planet card to spend resources or influence from that card&rsquo;s planet.</li>
     <li>A player can exhaust certain readied technology cards to resolve those cards&rsquo; abilities.</li>
     <ol><li>Such a technology will specifically instruct a player to exhaust the card as part of the ability&rsquo;s cost.</li></ol>

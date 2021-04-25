@@ -33,7 +33,7 @@
     <li>While <i>Lazax Gate Folding</i> is exhausted, the wormhole passive effect still applies if its conditions are met.</li>
     <li><i>Lazax Gate Folding</i> may cause the Mecatol Rex system to be adjacent to other systems containing an alpha or beta wormhole for all players during the Winnu player&rsquo;s tactical actions.</li>
     <ol>
-    	<li>The Winnu player may become neighbors with other players via <i>Lazax Gate Folding</i>.</li>
+        <li>The Winnu player may become neighbors with other players via <i>Lazax Gate Folding</i>.</li>
         <li>Other players may use the <sc>Deep Space Cannon</sc> ability of their units in systems containing alpha or beta wormholes during the <b>Space Cannon Offense</b> step of the Winnu player&rsquo;s turn if the Mecatol Rex system is the active system.</li>
         <li>Units in the Mecatol Rex system with the <sc>Deep Space Cannon</sc> ability may it during the <b>Space Cannon Offense</b> step of the Winnu player&rsquo;s turn if the active system contains an alpha or beta wormhole.</li>
         <li>A player may retreat to a system containing an alpha or beta wormhole from the Mecatol Rex system, or vice versa, during the Winnu player&rsquo;s tactical action.</li>

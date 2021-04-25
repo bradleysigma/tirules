@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '7.' counter(item, decimal);} </style>
 <p>Agenda cards represent galactic laws and policies. During each agenda phase, players cast votes for specific outcomes on two agenda cards.</p>
     <ol class="lrr">
-	<li>There are two types of agenda cards: laws and directives.</li>
+    <li>There are two types of agenda cards: laws and directives.</li>
     <li>Laws can permanently change the rules of the game.</li>
     <li>When resolving a law, if a &ldquo;For&rdquo; outcome received the most votes, or if the law requires an election, the law&rsquo;s ability becomes a permanent part of the game. Players resolve the outcome and place the agenda card either in the common play area or in a player&rsquo;s play area, as dictated by the card.</li>
     <li>If a law is in a player&rsquo;s play area as opposed to the common play area, that player owns that law.</li>

@@ -12,9 +12,9 @@
     <li>Each objective card describes the requirement a player must fulfill to score that objective.</li>
     <li>If a player fulfills the requirement described on an objective card, they can score that objective following the timing indicated on the card, either during the action phase or the status phase.</li>
     <ol>
-    	<li>When a player scores an objective during the status phase, they must fulfill the requirement on the card during the <b>Score Objectives</b> step of the status phase to score that objective.</li>
-    	<li>When a player scores an objective during the action phase, they can do so at any time during that phase.</li>
-    	<li>When a player scores an objective during the agenda phase, they can do so at any time during that phase.</li>
+        <li>When a player scores an objective during the status phase, they must fulfill the requirement on the card during the <b>Score Objectives</b> step of the status phase to score that objective.</li>
+        <li>When a player scores an objective during the action phase, they can do so at any time during that phase.</li>
+        <li>When a player scores an objective during the agenda phase, they can do so at any time during that phase.</li>
     </ol>
     <li>A player can score a maximum of one public objective and one secret objective during each status phase.</li>
     <li>A player can score any number of objectives during the agenda phase or during a turn of the action phase; however, they can only score one objective during or after each combat.</li>
@@ -45,7 +45,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-	<li>A status phase objective must have its condition met during the status phase; any activity during the action phase is irrelevant.</li>
+    <li>A status phase objective must have its condition met during the status phase; any activity during the action phase is irrelevant.</li>
     <li>A player may choose to reveal any or all of the secret objective cards in their hand, if they so choose.</li>
     <li>If multiple ground combats happen on separate planets as part of a single invasion during one action, one secret objective may be scored during each.</li>
     <li>The <b>Bombardment</b> and <b>Space Cannon</b> steps happen outside of during combat; any number of secret objectives may be scored during those steps, and do not prevent another secret objective being scored during combat that turn.</li>

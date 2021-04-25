@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '4.' counter(item, decimal);} </style>
 <p>The active player is the player taking a turn during the action phase.</p>
     <ol class="lrr">
-	<li>During the action phase, the player who is first in initiative order is the first active player.</li>
+    <li>During the action phase, the player who is first in initiative order is the first active player.</li>
     <li>After the active player takes a turn, the next player in initiative order becomes the active player.</li>
     <li>After the last player in initiative order takes a turn, the player who is first in initiative order becomes the active player again, and turns begin again in initiative order, ignoring any players who have already passed.</li>
     </ol>

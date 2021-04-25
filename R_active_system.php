@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '5.' counter(item, decimal);} </style>
 <p>The active system is the system that is activated during a tactical action.</p>
     <ol class="lrr">
-	<li>When a player performs a tactical action, they activate a system by placing a command token from their tactic pool in that system. That system is the active system.</li>
+    <li>When a player performs a tactical action, they activate a system by placing a command token from their tactic pool in that system. That system is the active system.</li>
     <li>A player <b>cannot</b> activate a system that already contains one of their command tokens.</li>
     <li>A player <b>can</b> activate a system that contains command tokens that match other players&rsquo; factions.</li>
     <li>A system remains the active system for the duration of the tactical action during which it was activated.</li>

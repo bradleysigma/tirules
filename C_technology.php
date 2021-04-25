@@ -100,7 +100,7 @@
     <li>A player must mandatorily repair a unit with <i>Duranium Armor</i> during each round of combat, if possible.</li>
     <li><i>Duranium Armor</i> is used even if a player&rsquo;s opponent produced no hits during a round of combat.</li>
     <li>If a player starts a combat with a damaged unit, they use <i>Duranium Armor</i> in the first round of combat.</li>
-	<li>Only units participating in the combat may be chosen to be repaired. </li>
+    <li>Only units participating in the combat may be chosen to be repaired.</li>
     </ol>
 
 <h1>Assault Cannon</h1>
@@ -108,7 +108,7 @@
     <li>A player with <i>Assault Cannon</i> must mandatorily resolve its ability if they meet the requirement.</li>
     <li>If a player loses ships before they can resolve the <i>Assault Cannon</i> ability, they will be unable to resolve it if they no longer have three or more non&ndash;fighter ships.</li>
     <ol>
-    	<li>This will most commonly happen when both players in a combat have <i>Assault Cannon</i>, and the defender has exactly three non&ndash;fighter shops.</li>
+        <li>This will most commonly happen when both players in a combat have <i>Assault Cannon</i>, and the defender has exactly three non&ndash;fighter shops.</li>
         <li>The Mentak player may be able to use a combination of their hero and their <sc>Ambush</sc> faction ability to add ships to a system so that they have three or more non&ndash;fighter ships. If they do, and they have <i>Assault Cannon</i>, they must then resolve its ability.</li>
     </ol>
     <li>Effects that cancel hits, such as <sc>Sustain Damage</sc>, cannot be used to prevent ships from being destroyed.</li>

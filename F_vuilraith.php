@@ -21,10 +21,10 @@
     <li>Each gravity rift will still provide its usual +1 to each ship&rsquo;s move value.</li>
     <li><i>Crucible</i> will provide an additional +1 to each ship&rsquo;s move value, which will not increase if that ship moves through two or more gravity rifts.</li>
     <ol>
-    	<li>A ship that moves through or out of no gravity rifts will get +0 to its move value.</li>
-    	<li>A ship that moves through or out of one gravity rifts will get +2 to its move value.</li>
-    	<li>A ship that moves through or out of two gravity rifts will get +3 to its move value.</li>
-    	<li>A ship that moves through or out of three gravity rifts will get +4 to its move value.</li>
+        <li>A ship that moves through or out of no gravity rifts will get +0 to its move value.</li>
+        <li>A ship that moves through or out of one gravity rifts will get +2 to its move value.</li>
+        <li>A ship that moves through or out of two gravity rifts will get +3 to its move value.</li>
+        <li>A ship that moves through or out of three gravity rifts will get +4 to its move value.</li>
         <li>And so on.</li>
     </ol>
     <li>If a ship could move from its current system to the active system through a gravity rift if its move value were +2, it may do so using <i>Cruciable</i>. This is true even if that ship could not reach the gravity rift without <i>Crucible</i>.</li>

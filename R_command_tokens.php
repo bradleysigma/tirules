@@ -5,16 +5,16 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '20.' counter(item, decimal);} </style>
 <p>Command tokens are a currency that players use to perform actions and expand their fleets.</p>
     <ol class="lrr">
-	<li>Each player begins the game with eight tokens on their command sheet: three in their tactic pool, three in their fleet pool, and two in their strategy pool.</li>
+    <li>Each player begins the game with eight tokens on their command sheet: three in their tactic pool, three in their fleet pool, and two in their strategy pool.</li>
     <ol>
-	    <li>Command tokens in the strategy and tactic pool are placed with the faction symbol faceup.</li>
-    	<li>Command tokens in the fleet pool are placed with the ship silhouette faceup.</li>
-	</ol>
+        <li>Command tokens in the strategy and tactic pool are placed with the faction symbol faceup.</li>
+        <li>Command tokens in the fleet pool are placed with the ship silhouette faceup.</li>
+    </ol>
     <li>When a player gains a command token, they choose which of their three pools to place it in.</li>
     <li>A player is limited by the amount of command tokens in their reinforcements.</li>
     <ol>
-    	<li>If a player would gain a command token but has none available in their reinforcements, that player cannot gain that command token.</li>
-    	<li>If a game effect would place a player&rsquo;s command token from their reinforcements and none are available, that player must take a token from a pool on their command sheet, unless the token would be placed into a system that already contains one of their command tokens.</li>
+        <li>If a player would gain a command token but has none available in their reinforcements, that player cannot gain that command token.</li>
+        <li>If a game effect would place a player&rsquo;s command token from their reinforcements and none are available, that player must take a token from a pool on their command sheet, unless the token would be placed into a system that already contains one of their command tokens.</li>
     </ol>
     <li>During the action phase, a player can perform a tactical action by spending a command token from their tactic pool; they place the command token in a system.</li>
     <li>After a player performs a strategic action during the action phase, each other player can resolve the secondary ability of that strategy card by spending a command token from their strategy pool.</li>

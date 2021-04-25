@@ -7,14 +7,14 @@
     <ol class="lrr">
     <li><b>Step 1 &ndash; Activation</b>: The active player must activate a system that does not contain one of their command tokens.</li>
     <ol>
-    	<li>To activate a system, the active player places a command token from their tactic pool in that system. That system is the active system.</li>
-    	<li>Other players&rsquo; command tokens do not prevent a player from activating a system.</li>
+        <li>To activate a system, the active player places a command token from their tactic pool in that system. That system is the active system.</li>
+        <li>Other players&rsquo; command tokens do not prevent a player from activating a system.</li>
     </ol>
     <li><b>Step 2 &ndash; Movement</b>: The active player may move any number of ships that have a sufficient move value from any number of systems that do not contain one of their command tokens into the active system, following the rules for movement.</li>
     <ol>
-    	<li>Ships that have capacity values can transport ground forces and fighters when moving.</li>
-    	<li>The player may choose to not move any ships.</li>
-    	<li>After the <b>Move Ships</b> step, all players can use the <sc>Space Cannon</sc> abilities of their units in the active system.</li>
+        <li>Ships that have capacity values can transport ground forces and fighters when moving.</li>
+        <li>The player may choose to not move any ships.</li>
+        <li>After the <b>Move Ships</b> step, all players can use the <sc>Space Cannon</sc> abilities of their units in the active system.</li>
     </ol>
     <li><b>Step 3 &ndash; Space Combat</b>: If two players have ships in the active system, those players must resolve a space combat.</li>
     <ol><li>If the active player is the only player with ships in the system, they skip this step.</li></ol>

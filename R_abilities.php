@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '1.' counter(item, decimal);} </style>
 <p>Cards and faction sheets each have abilities that players can resolve to trigger various game effects.</p>
     <ol class="lrr">
-	<li>If information in this Rules Reference contradicts the Learn to Play booklet, the Rules Reference takes precedence.</li>
+    <li>If information in this Rules Reference contradicts the Learn to Play booklet, the Rules Reference takes precedence.</li>
     <li>If a card ability contradicts information in the Rules Reference, the card takes precedence. If both the card and the rules can be followed at the same time, they should be.</li>
     <li>Each ability describes when and how a player can resolve it.</li>
     <ol><li>If an ability with a specified duration is resolved, the effect of the ability remains through that duration, even if the component that caused the ability is removed.</li></ol>
@@ -37,7 +37,7 @@
     <li>Each faction has faction abilities presented on its faction sheet. Each faction&rsquo;s flagship has one or more unique abilities. Some abilities provide players with perpetual effects.</li>
     <li>Some units have unit abilities. These abilities are named and presented above a unit&rsquo;s attributes on a player&rsquo;s faction sheet or on a unit upgrade card. Each unit ability has unique rules for when a player can resolve that ability. The following abilities are unit abilities:</li>
     <ul>
-    	<li><sc>Anti&ndash;Fighter Barrage</sc></li>
+        <li><sc>Anti&ndash;Fighter Barrage</sc></li>
         <li><sc>Bombardment</sc></li>
         <li><sc>Deploy</sc></li>
         <li><sc>Planetary Shield</sc></li>
@@ -60,10 +60,10 @@
     <li>Multiple action cards with the same name cannot be played during a single timing window to affect the same units or game effect. See the <a href="/R_action_cards">action cards page</a> for more details.</li>
     <li>During the action phase, abilities are resolved in the current relative turn order, starting with the active player. For example, if it is currently the <i>Trade</i> (5) player&rsquo;s turn, they will have the option to resolve first, then the <i>Warfare</i> (6) player, then the <i>Technology</i> (7) player, and so on.</li>
     <ol>
-    	<li>If a player has multiple abilities they wish to resolve, they must be resolved one at a time. Between each ability being resolved, each other player will have the opportunity to resolve one ability.</li>
+        <li>If a player has multiple abilities they wish to resolve, they must be resolved one at a time. Between each ability being resolved, each other player will have the opportunity to resolve one ability.</li>
         <li>For example, Alice, the active player, wishes to resolve four abilities during the current timing window. Bob, the next player in order, wishes to resolve one. Cheng, later in the order, wishes to resolve two. The o of resolution would be: Alice &num;1; Bob &num;1; Cheng &num;1; Alice &num;2; Cheng &num;2; Alice &num;3; Alice &num;4.</li>
-    	<li>Once every player has consecutively declined to resolve an ability during a timing window, no more abilities may be resolved during that window.</li>
-    	<li>A player may decline to resolve an ability during a timing window, but later chose to resolve an ability during that same timing window, but only if another player chooses to resolve an ability after the player declined.</li>
+        <li>Once every player has consecutively declined to resolve an ability during a timing window, no more abilities may be resolved during that window.</li>
+        <li>A player may decline to resolve an ability during a timing window, but later chose to resolve an ability during that same timing window, but only if another player chooses to resolve an ability after the player declined.</li>
         <li>Following on from the above example, had Alice declined to resolve &ldquo;Alice &num;2&rdquo;, she could still resolve &ldquo;Alice &num;3&rdquo;, as Cheng resolved &ldquo;Cheng &num;2&rdquo;, breaking the series of consecutive declinations. However, if Alice had instead declined to resolve &ldquo;Alice &num;3&rdquo;, she would be unable to resolve &ldquo;Alice &num;4&rdquo;, as then each player would have consecutively declined to resolve an ability.</li>
     </ol>
     <li>The secondary abilities of strategy cards are resolved in clockwise order, after the primary ability.</li>

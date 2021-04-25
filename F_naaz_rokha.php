@@ -22,7 +22,7 @@
     <ol class="note">
     <li>The planet is not readied until after the planet is explored. If the <i>Freelancers</i> exploration card is revealed, then:</li>
     <ol>
-    	<li>If the planet was exhausted before the exploration, its influence or resources cannot be spent to produce the unit.</li>
+        <li>If the planet was exhausted before the exploration, its influence or resources cannot be spent to produce the unit.</li>
         <li>If the planet was readied before the exploration, its influence or resources may be spent to produce the unit by exhausting it. After the unit is produced, the planet will then be readied.</li>
     </ol>
     </ol>
@@ -56,7 +56,7 @@
 <h1>Eidolon<br/>Z&ndash;Grav Eidolon <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>The Naaz&ndash;Rokha mechs are only Z&ndash;Grav Eidolon only during the <b>Activation</b>, <b>Movement</b> and <b>Space Combat</b> steps, only in the active system, and only in the space area.</li>
-	<li>A Eidolon must mandatorily become a Z&ndash;Grav Eidolon when possible.</li>
+    <li>A Eidolon must mandatorily become a Z&ndash;Grav Eidolon when possible.</li>
     <li>Any effect that may target ships or non&ndash;fighter ships may target a Z&ndash;Grav Eidolon.</li>
     <li>A Z&ndash;Grav Eidolon is still a ground force and a mech.</li>
     </ol>

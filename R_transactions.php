@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '94.' counter(item, decimal);} </style>
 <p>A transaction is a way for a player to exchange commodities, trade goods, promissory notes, and relic fragments.</p>
     <ol class="lrr">
-	<li>During the active player&rsquo;s turn, they may resolve up to one transaction with each of their neighbors.</li>
+    <li>During the active player&rsquo;s turn, they may resolve up to one transaction with each of their neighbors.</li>
     <ol><li>A player can resolve a transaction at any time during their turn, even during a combat.</li></ol>
     <li>To resolve a transaction, a player gives any number of trade goods and commodities and up to one promissory note to a neighbor in exchange for any number of trade goods, commodities, and relic fragments, and up to one promissory note.</li>
     <li>Players can exchange commodities, trade goods, promissory notes, and relic fragments, but cannot exchange other types of cards or tokens.</li>

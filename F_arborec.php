@@ -20,7 +20,7 @@
     <ol class="note">
     <li>Any number of infantry may move, but all movement is done simultaneously, and no infantry may move beyond an adjacent system. For example, consider a series of systems A&ndash;B&ndash;C. Only systems connected by a &ldquo;&ndash;&rdquo; are adjacent. In this case:</li>
     <ol>
-    	<li>An infantry cannot move from A to B, then B to C.</li>
+        <li>An infantry cannot move from A to B, then B to C.</li>
         <li>An infantry may move from A to B, while another infantry moves from B to C.</li>
         <li>An infantry may move from A to B, while another infantry moves from C to B.</li>
         <li>An infantry may move from B to A, while another infantry moves from B to C.</li>

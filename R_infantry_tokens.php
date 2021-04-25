@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '46.' counter(item, decimal);} </style>
 <p>An infantry token functions as a plastic infantry unit for all game purposes.</p>
     <ol class="lrr">
-	<li>When producing an infantry unit, a player can use an infantry token from the supply instead of a plastic piece.</li>
+    <li>When producing an infantry unit, a player can use an infantry token from the supply instead of a plastic piece.</li>
     <li>Players can replace their plastic infantry with tokens at any time.</li>
     <li>If a player ever has an infantry token on a planet that does not contain one of their plastic infantry or in the space area of a system that does not contain one of their plastic infantry, that player must replace it with one of their plastic infantry from their reinforcements.</li>
     <ol><li>If the player cannot replace the token, the unit is destroyed.</li></ol>

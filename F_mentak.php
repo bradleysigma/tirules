@@ -8,9 +8,7 @@
     <li>If a cruiser or destroyer is removed before the Mentak player can resolve their <sc>Ambush</sc> ability, that ship cannot be one of the ships used when they do resolve their <sc>Ambush</sc> ability.</li>
     <li>The <i>Shields Holding</i> action card may be used to cancel the hit.</li>
     <li>A ship may cancel the hit by using its <sc>Sustain Damage</sc> ability, if present.</li>
-    <ol>
-    	<li>If the chosen ship does so, the <i>Direct Hit</i> and/or <i>Reflective Shielding</i> action cards may be played.</li>
-    </ol>
+    <ol><li>If the chosen ship does so, the <i>Direct Hit</i> and/or <i>Reflective Shielding</i> action cards may be played.</li></ol>
     </ol>
 
 <h1>Pillage</h1>

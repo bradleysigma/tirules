@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '18.' counter(item, decimal);} </style>
 <p>Combat is an attribute of some units that is presented on faction sheets and unit upgrade technology cards.</p>
     <ol class="lrr">
-	<li>During combat, if a unit&rsquo;s combat roll produces a result equal to or greater than its combat value, it produces a hit.</li>
+    <li>During combat, if a unit&rsquo;s combat roll produces a result equal to or greater than its combat value, it produces a hit.</li>
     <li>If a unit&rsquo;s combat value contains two or more burst icons, instead of rolling a single die, the player rolls one die for each burst icon when making that unit&rsquo;s combat rolls.</li>
     </ol>
 

@@ -5,14 +5,14 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '42.' counter(item, decimal);} </style>
 <p>During the <b>Ground Combat</b> step of an invasion, if the active player has ground forces on a planet that contains another player&rsquo;s ground forces, those players resolve a ground combat on that planet. To resolve a ground combat, players perform the following steps:</p>
     <ol class="lrr">
-	<li><b>Step 1 &ndash; Roll Dice</b>: Each player rolls one die for each ground force they have on the planet; this is a combat roll. If a unit&rsquo;s combat roll produces a result that is equal to or greater than that unit&rsquo;s combat value, that roll produces a hit.</li>
+    <li><b>Step 1 &ndash; Roll Dice</b>: Each player rolls one die for each ground force they have on the planet; this is a combat roll. If a unit&rsquo;s combat roll produces a result that is equal to or greater than that unit&rsquo;s combat value, that roll produces a hit.</li>
     <ol><li>If a unit&rsquo;s combat value contains two or more burst icons, the player rolls one die for each burst icon instead.</li></ol>
     <li><b>Step 2 &ndash; Assign Hits</b>: Each player in the combat must choose one of their own ground forces on the planet to be destroyed for each hit result their opponent produced.</li>
     <ol><li>When a unit is destroyed, the player who controls that unit removes it from the board and places it in their reinforcements.</li></ol>
     <li>After assigning hits, if both players still have ground forces on the planet, players resolve a new combat round starting with the <b>Roll Dice</b> step.</li>
     <li>Ground combat ends when only one player (or neither player) has ground forces on the planet.</li>
     <ol>
-    	<li>During the first round of a combat, &ldquo;start of combat&rdquo; and &ldquo;start of combat round&rdquo; effects occur during the same timing window.</li>
+        <li>During the first round of a combat, &ldquo;start of combat&rdquo; and &ldquo;start of combat round&rdquo; effects occur during the same timing window.</li>
         <li>During the last round of a combat, &ldquo;end of combat&rdquo; and &ldquo;end of combat round&rdquo; effects occur during the same timing window.</li>
         <li>After a combat ends, the player with one or more ground forces remaining on the planet is the winner of the combat; the other player is the loser of the combat.</li>
         <li>If neither player has a ground force remaining, there is no winner; the combat ends in a draw.</li>

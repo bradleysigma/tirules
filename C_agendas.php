@@ -208,7 +208,7 @@
     <ol><li>Players may still play riders if only one law is in play.</li></ol>
     <li>The elected law remains in play, and remains elected to the same object if applicable, while it is being voted on.</li>
     <ol>
-    	<li>If <i>Committee Formation</i> is elected by <i>Miscount Disclosed</i>, the owner may use its ability. The elected player will receive <i>Committee Formation</i> from the discard pile.</li>
+        <li>If <i>Committee Formation</i> is elected by <i>Miscount Disclosed</i>, the owner may use its ability. The elected player will receive <i>Committee Formation</i> from the discard pile.</li>
         <li>If <i>Political Censure</i> is elected by <i>Miscount Disclosed</i>, the current owner cannot play action cards, including <i>Confounding Legal Text</i>, if another player is elected. If another player is elected, that player may play the <i>Confusing Legal Text</i> action card.</li>
         <li>If the elected law is attached to a planet, and is increasing its influence value, the player that controls that planet may still cast votes using the increased influence.</li>
     </ol>
@@ -256,8 +256,8 @@
     <li>If the <i>Publicize Weapon Schematics</i> law is in play, and a player is the first to gain the war sun unit upgrade technology, from then on, prerequisites for the war sun unit upgrade technology will be ignored.</li>
     <li>If the Muaat does not own their Prototype War Sun II faction unit upgrade technology, they do not own a war sun technology.</li>
     <ol>
-    	<li>If the <i>Publicize Weapon Schematics</i> law is in play, the Muaat player will not cause prerequisites for the War Sun unit upgrade technology to be ignored if they do not own their Prototype War Sun II faction unit upgrade technology.</li>
-    	<li>If the &ldquo;Against&rdquo; outcome of <i>Publicize Weapon Schematics</i> is resolved, the Muaat player will not discard their action cards if they do not own their Prototype War Sun II faction unit upgrade technology.</li>
+        <li>If the <i>Publicize Weapon Schematics</i> law is in play, the Muaat player will not cause prerequisites for the War Sun unit upgrade technology to be ignored if they do not own their Prototype War Sun II faction unit upgrade technology.</li>
+        <li>If the &ldquo;Against&rdquo; outcome of <i>Publicize Weapon Schematics</i> is resolved, the Muaat player will not discard their action cards if they do not own their Prototype War Sun II faction unit upgrade technology.</li>
     </ol>
     <li>The Muatt player&rsquo;s Prototype War Sun will lose its <sc>Sustain Damage</sc> ability, regardless of if the Muaat player owns their Prototype War Sun II faction unit upgrade technology.</li>
     </ol>

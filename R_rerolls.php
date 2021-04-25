@@ -5,8 +5,8 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '74.' counter(item, decimal);} </style>
 <p>Some game effects instruct a player to reroll dice.</p>
     <ol class="lrr">
-	<li>When a die is rerolled, its new result is used instead of its previous result.</li>
-	<li>The same ability cannot be used to reroll the same die multiple times, but multiple abilities can be used to reroll a single die.</li>
+    <li>When a die is rerolled, its new result is used instead of its previous result.</li>
+    <li>The same ability cannot be used to reroll the same die multiple times, but multiple abilities can be used to reroll a single die.</li>
     <li>Die rerolls must occur after rolling the dice, before other abilities are resolved.</li>
     </ol>
 

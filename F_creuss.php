@@ -40,7 +40,7 @@
     <li>The <i>Shields Holding</i> action card may be used to cancel the hit.</li>
     <li>The chosen ship may cancel the hit by using its <sc>Sustain Damage</sc> ability, if present. A different ship with the <sc>Sustain Damage</sc> ability cannot do so.</li>
     <ol>
-    	<li>If the chosen ship does so, the <i>Direct Hit</i> and/or <i>Reflective Shielding</i> action cards may be used.</li>
+        <li>If the chosen ship does so, the <i>Direct Hit</i> and/or <i>Reflective Shielding</i> action cards may be used.</li>
     </ol>
     </ol>
 
@@ -74,9 +74,10 @@
     <li>The Cruess player cannot remove a ground force to create capacity for a fighter.</li>
     <li>This ability may be used whenever the Creuss player&rsquo;s ships move, not just during the movement step of a tactical action.</li>
     <ol>
-    	<li>While this ability may be used when the Creuss player retreats, retreating will leave no capacity in the active system.</li>
+        <li>While this ability may be used when the Creuss player retreats, retreating will leave no capacity in the active system.</li>
         <li>If the Mahact player uses their <i>Benediction</i> hero ability to move the Creuss player&rsquo;s ships, then the Creuss player may use this ability.</li>
     </ol>
+    <li>A ship may move out of a system and back into the same system during tactical action movement, if its move value is high enough. If the Creuss player does this with a ship with capacity, and moves in this manner via a wormhole, they may place a fighter, if possible.</li>
     <li>When the Creuss player moves a ship through a wormhole and into a third system that contains an alpha or beta wormhole and unlocks their Sai Seravus, they cannot apply its ability to that movement.</li>
     </ol>
 

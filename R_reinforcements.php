@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '72.' counter(item, decimal);} </style>
 <p>A player&rsquo;s reinforcements is that player&rsquo;s personal supply of units and command tokens that are not on the game board or otherwise in use.</p>
     <ol class="lrr">
-	<li>The components in a player&rsquo;s reinforcements are limited.</li>
+    <li>The components in a player&rsquo;s reinforcements are limited.</li>
     </ol>
 
 <h1>Notes</h1>

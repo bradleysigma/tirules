@@ -9,7 +9,7 @@
     <li>The <sc>Planetary Shield</sc> ability prevents an L1Z1X player from using their <sc>Harrow</sc> faction ability.</li>
     <li>If a war sun is in a system with any number of other players&rsquo; units that have the <sc>Planetary Shield</sc> ability, those units are treated as if they do not have that ability.</li>
     <ol>
-    	<li>Units treated as if they do not have a <sc>Planetary Shield</sc> ability cannot use the <i>Magen Defense Grid</i> technology.</li>
+        <li>Units treated as if they do not have a <sc>Planetary Shield</sc> ability cannot use the <i>Magen Defense Grid</i> technology.</li>
         <li>A war sun can use its <sc>Bombardment</sc> ability against planets that contain units that have the <sc>Planetary Shield</sc> ability.</li>
     </ol>
     </ol>

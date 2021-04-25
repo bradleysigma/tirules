@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '47.' counter(item, decimal);} </style>
 <p>Influence represents a planet&rsquo;s political power. Players spend influence to gain command tokens using the <i>Leadership</i> strategy card, and the influence values of planets are used to cast votes during the agenda phase.</p>
     <ol class="lrr">
-	<li>A planet&rsquo;s influence is the rightmost value (surrounded by a blue border) found on the planet&rsquo;s system tile and planet card.</li>
+    <li>A planet&rsquo;s influence is the rightmost value (surrounded by a blue border) found on the planet&rsquo;s system tile and planet card.</li>
     <li>A player can spend a planet&rsquo;s influence by exhausting that planet&rsquo;s card.</li>
     <li>A player can spend a trade good as if it were one influence.</li>
     <ol><li>Players cannot spend trade goods to cast votes during the agenda phase.</li></ol>

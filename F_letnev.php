@@ -16,7 +16,7 @@
     <li>A player may play <i>War Funding</i> when the Letnev player has zero or one trade goods. The Letnev player will lose the single trade good, if applicable, and the other effects will resolve as normal.</li>
     <li>A player may receive <i>War Funding</i> in a transaction during a combat. If received at the start of a round, that player may play it immediately.</li>
     <ol>
-    	<li>A transaction must involve the active player. As such, the defender will be unable to received <i>War Funding</i>.</li>
+        <li>A transaction must involve the active player. As such, the defender will be unable to received <i>War Funding</i>.</li>
         <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>War Funding</i> more than once per turn.</li>
         <li>If the active player received <i>War Funding</i> on a previous turn, they may play it and immediately perform a transaction with the Letnev player to regain it. However, <i>War Funding</i> cannot be played twice in one timing window. The active player cannot play <i>War Funding</i> again until the next round of combat.</li>
     </ol>

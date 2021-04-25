@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '34.' counter(item, decimal);} </style>
 <p>Some cards can be exhausted. A player cannot resolve abilities or spend the resources or influence of an exhausted card.</p>
     <ol class="lrr">
-	<li>To exhaust a card, a player flips the card facedown.</li>
+    <li>To exhaust a card, a player flips the card facedown.</li>
     <li>During the <b>Ready Cards</b> step of the status phase, each player readies all of their exhausted cards by flipping those cards faceup.</li>
     <li>A player exhausts their planet cards to spend either the resources or influence on that card.</li>
     <li>Abilities, including some found on technology cards, may instruct a player to exhaust a card to resolve those abilities. If a card is already exhausted, it cannot be exhausted again.</li>

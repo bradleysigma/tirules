@@ -13,13 +13,13 @@
     <li>If multiple ground combats happen on separate planets as part of a single <b>Invasion</b> step during one action, the Nekro player may gain a technology during each combat.</li>
     <li>Any method that destroys a unit during combat will trigger <sc>Technology Singularity</sc>, including an anti&ndash;fighter barrage roll, the <i>Direct Hit</i> action card, the Creuss player&rsquo;s <i>Dimensional Splicer</i> faction technology, etc.</li>
     <ol>
-    	<li>This includes any method used by the Nekro player&rsquo;s opponent that destroys their own units, usually as an ability cost.</li>
+        <li>This includes any method used by the Nekro player&rsquo;s opponent that destroys their own units, usually as an ability cost.</li>
         <li>If a unit is removed, but not destroyed, that unit will not trigger the <sc>Technology Singularity</sc> ability.</li>
         <li>Space cannon and bombardment rolls happen outside of combat. Any hits produced cannot be used to trigger the <sc>Technology Singularity</sc> ability.</li>
     </ol>
     <li>If the Nekro player gains the Infantry II unit upgrade from their <sc>Technology Singularity</sc> ability during a combat, any of the Nekro player&rsquo;s infantry destroyed at the same time as the unit used to trigger the <sc>Technology Singularity</sc> ability will be returned to their reinforcements.</li>
     <ol>
-    	<li>If the Nekro player uses a <i>Direct Hit</i> action card to destroy an opponent&rsquo;s unit, and gain the Infantry II unit upgrade, then any infantry destroyed in that <b>Assign Hits</b> step will roll to be placed on the Infantry II card.</li>
+        <li>If the Nekro player uses a <i>Direct Hit</i> action card to destroy an opponent&rsquo;s unit, and gain the Infantry II unit upgrade, then any infantry destroyed in that <b>Assign Hits</b> step will roll to be placed on the Infantry II card.</li>
         <li>Any infantry destroyed by the Argent player&rsquo;s Strike Wing Alpha II faction unit ability are destroyed during the <b>Roll Dice</b> step. The Nekro player will not have the opportunity to gain the Infantry II unit upgrade until the <b>Assign Hits</b> step immediately following, and so the destroyed infantry will be returned to their reinforcements.</li>
     </ol>
     </ol>
@@ -51,7 +51,7 @@
     <li>For notes about a technologies of a specific faction, see that faction&rsquo;s notes.</li>
     <li>If the Nekro player has copied certain technology (possible two or more at different points in time), the following apply:</li>
     <ol>
-    	<li>If both the Saar player&rsquo;s Floating Factory II and the Vuil&rsquo;raith player&rsquo;s <i>Vortex</i> are copied, and another player blockades a Nekro space dock, the Nekro player returns any captured units, then destroys the blockaded space dock.</li>
+        <li>If both the Saar player&rsquo;s Floating Factory II and the Vuil&rsquo;raith player&rsquo;s <i>Vortex</i> are copied, and another player blockades a Nekro space dock, the Nekro player returns any captured units, then destroys the blockaded space dock.</li>
         <li>If both the Letnev player&rsquo;s <i>Non&ndash;Euclidean Shielding</i> and the generic <i>Duranium Armor</i> technologies are copied, then a space combat between the Nekro player and the Letnev player in certain circumstances may result in neither player being able to win. If this happens, the attacker must declare a retreat. If the attacker cannot do so, they destroy all their units in that combat.</li>
         <li>If both the Muaat player&rsquo;s <i>Magmus Reactor</i> and the Saar player&rsquo;s Floating Factory II are copied, the Nekro player may move their space docks into supernovae.</li>
         <li>If the Saar player&rsquo;s Floating Factory II is owned, both the Nekro player and the Saar player may have their space docks in the same system, if there are no ships in that system.</li>
@@ -59,7 +59,7 @@
     </ol>
     <li>The Nekro player may lose a technology if they copy a new one. If they lose certain technologies, the following apply:</li>
     <ol>
-    	<li>If the Saar player&rsquo;s Floating Factory II is lost, each space dock the Nekro player controls must be placed on a planet they control in the same system, or the space dock is removed.</li>
+        <li>If the Saar player&rsquo;s Floating Factory II is lost, each space dock the Nekro player controls must be placed on a planet they control in the same system, or the space dock is removed.</li>
         <li>If the Muaat player&rsquo;s Prototype War Sun II is lost, and the Nekro player does not have the generic war sun technology, each of their war suns are removed from the game board.</li>
         <li>If the Muaat player&rsquo;s <i>Magmus Reactor</i> is lost, the Nekro player&rsquo;s units may remain in and move out of any supernovae they are currently in, but cannot move additional units into or through.</li>
         <li>If the Vuil&rsquo;raith player&rsquo;s Dimensional Tear II is lost, the dimensional tear tokens are removed from unde the Nekro player&rsquo;s space docks.</li>
@@ -70,9 +70,9 @@
     <ol class="note">
     <li>Any effect that may target ships or non&ndash;fighter ships may target a ground force that is participating on space combat due to the effect of the Alastor.</li>
     <ol>
-    	<li>This includes counting towards the three non&ndash;fighter ships necessary to trigger the effect of the <i>Assault Cannon</i> technology.</li>
-    	<li>The Winnu player&rsquo;s <i>Salai Sai Corian</i> flagship will roll one dice for each ground force the Nekro player has participating in a space combat via the effect of <i>The Alastor</i>.</li>
-	</ol>
+        <li>This includes counting towards the three non&ndash;fighter ships necessary to trigger the effect of the <i>Assault Cannon</i> technology.</li>
+        <li>The Winnu player&rsquo;s <i>Salai Sai Corian</i> flagship will roll one dice for each ground force the Nekro player has participating in a space combat via the effect of <i>The Alastor</i>.</li>
+    </ol>
     <li>Ground forces on planets remain there while participating in combat. Effects that target units in a space area cannot target these ground forces.</li>
     <li>If <i>The Alastor</i> is destroyed during space combat, any ground forces in that combat remain in that combat.</li>
     <li>The ground forces in the combat still retain their ability to be transported. Since transported units do not count against capacity during combat, these ground forces will not count toward the Nekro player&rsquo;s fleet pool limit.</li>

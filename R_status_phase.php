@@ -8,15 +8,15 @@
     <li><b>Step 1 &ndash; Score Objectives</b>: Following initiative order, each player may score up to one public objective and one secret objective that can be fulfilled during the status phase. To score an objective, a player must fulfill the requirements on the card; if that player does, they gain a number of victory points indicated on the card.</li>
     <li><b>Step 2 &ndash; Reveal Public Objective</b>: The speaker reveals an unrevealed public objective card by flipping that card faceup.</li>
     <ol>
-    	<li>The speaker cannot reveal &ldquo;Stage II&rdquo; objectives until all &ldquo;Stage I&rdquo; objectives are revealed.</li>
-    	<li>The game ends if there are no unrevealed public objectives at the start of this step.</li>
+        <li>The speaker cannot reveal &ldquo;Stage II&rdquo; objectives until all &ldquo;Stage I&rdquo; objectives are revealed.</li>
+        <li>The game ends if there are no unrevealed public objectives at the start of this step.</li>
     </ol>
     <li><b>Step 3 &ndash; Draw Action Cards</b>: Following initiative order, each player draws one action card.</li>
     <li><b>Step 4 &ndash; Remove Command Tokens</b>: Each player removes all of their command tokens from the game board. Each player returns each removed token to their reinforcements.</li>
     <li><b>Step 5 &ndash; Gain and Redistribute Command Tokens</b>: Each player gains two command tokens. A player takes each gained token from their reinforcements. Then, each player can redistribute each command token on their command sheet, including the two they just gained, among their strategy, tactic, and fleet pools.</li>
     <ol>
-    	<li>Players should remember to check the number of their ships in each system after reducing the size of their fleet pools.</li>
-    	<li>This step can usually be resolved simultaneously, but if there is a timing conflict, it is resolved in initiative order.</li>
+        <li>Players should remember to check the number of their ships in each system after reducing the size of their fleet pools.</li>
+        <li>This step can usually be resolved simultaneously, but if there is a timing conflict, it is resolved in initiative order.</li>
     </ol>
     <li><b>Step 6 &ndash; Ready Cards</b>: Each player readies all of their exhausted cards, including strategy cards.</li>
     <li><b>Step 7 &ndash; Repair Units</b>: Each player repairs all of their damaged units by turning those units upright.</li>

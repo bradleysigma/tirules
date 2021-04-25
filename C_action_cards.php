@@ -146,7 +146,7 @@
     <li>Hits may only be assigned to the active player&rsquo;s ships.</li>
     <li><i>Experimental Battlestation</i> cannot be played if no ships are moved into the active system, even if the active player already has ships in that system.</li>
     <ol>
-    	<li>If ships are moved into the active system, ships that were already in that system may be assigned any hits produced.</li>
+        <li>If ships are moved into the active system, ships that were already in that system may be assigned any hits produced.</li>
         <li>If all ships are lost in a gravity rift, and none arrive in the active system, <i>Experimental Battlestation</i> cannot be played.</li>
     </ol>
     <li><i>Experimental Battlestation</i> cannot be played if ships are moved outside of the <b>Move Ships</b> step, such as during a retreat.</li>
@@ -289,8 +289,12 @@
 <h1>Maneuvering Jets</h1>
     <ol class="note">
     <li><i>Maneuvering Jets</i> cannot be used to cancel hits during combat.</li>
-    <li>A player cannot play a second <i>Maneuvering Jets</i> to cancel a second hit produced by the same Space Cannon roll.</li>
     <li><i>Maneuvering Jets</i> may cancel hits produced during either the <b>Space Cannon Offense</b> or the <b>Space Cannon Defense</b> step.</li>
+    <li>A player cannot play a second <i>Maneuvering Jets</i> to cancel a second hit produced by the same Space Cannon roll.</li>
+    <ol>
+        <li>During the <b>Space Cannon Offense</b> step, each player makes their Space Cannon roll independent of each other player, in clockwise order. As such, a player may use one <i>Maneuvering Jets</i> after each other player makes a space cannon roll.</li>
+        <li>During the <b>Space Cannon Defense</b> step, the units on each planet make their Space Cannon roll independent of each other planet. The active player chooses the order. As such, a player may use one <i>Maneuvering Jets</i> after each the units on each planet make a space cannon roll.</li>
+    </ol>
     <ol><li><i>Maneuvering Jets</i> may cancel hits produced due the the <i>Experimental Battlestation</i> action card.</li></ol>
     </ol>
 
@@ -427,7 +431,7 @@
     <li>If an action card is cancelled by <i>Sabotage</i>, no costs are paid.</li>
     <li>A player playing an action card announces the following before <i>Sabotage</i> may be played:</li>
     <ol>
-    	<li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.</li>
+        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.</li>
         <li>The value of any variable cost to be paid.</li>
     </ol>
     <li>Any dice are rolled and any cards are drawn after each other player has declined to play <i>Sabotage</i>.</li>

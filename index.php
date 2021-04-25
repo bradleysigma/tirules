@@ -16,7 +16,7 @@
 }
 .lrr > li:before
 {
-	content: counter(item, decimal) '.';
+    content: counter(item, decimal) '.';
 }
 </style>
 </head>
@@ -134,7 +134,7 @@
     </ol>
 <h1>Faction Notes</h1>
     <ol class="note">
-    	<li><a href="/F_arborec">The Arborec</a></li>
+        <li><a href="/F_arborec">The Arborec</a></li>
         <li><a href="/F_argent">The Argent Flight</a></li>
         <li><a href="/F_letnev">The Barony of Letnev</a></li>
         <li><a href="/F_saar">The Clan of Saar</a></li>

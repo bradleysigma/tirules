@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '9.' counter(item, decimal);} </style>
 <p>An anomaly is a system tile that has unique rules.</p>
     <ol class="lrr">
-	<li>An anomaly is identified by a red border located on the tile&rsquo;s corners.</li>
+    <li>An anomaly is identified by a red border located on the tile&rsquo;s corners.</li>
     <li>There are four types of anomalies: asteroid fields, nebulae, supernovas, and gravity rifts.</li>
     <ol><li>Some anomalies contain planets; those systems are still anomalies.</li></ol>
     <li>Each type of anomaly is identified by its art. <code>See rulebook for images.</code></li>

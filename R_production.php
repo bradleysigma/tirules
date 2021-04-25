@@ -5,12 +5,12 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '68.' counter(item, decimal);} </style>
 <p>During the <b>Production</b> step of a tactical action, the active player can resolve the <sc>Production</sc> ability of each of their units that are in the active system to produce units</p>
     <ol class="lrr">
-	<li>A unit&rsquo;s <sc>Production</sc> ability, which is presented on a faction sheet or unit upgrade technology card, is always followed by a value. This value is the maximum number of units that this unit can produce.</li>
+    <li>A unit&rsquo;s <sc>Production</sc> ability, which is presented on a faction sheet or unit upgrade technology card, is always followed by a value. This value is the maximum number of units that this unit can produce.</li>
     <ol>
-	    <li>If the active player has multiple units in the active system that have the <sc>Production</sc> ability, that player can produce a number of units up to the combined total of their units&rsquo; production values in that system.</li>
-    	<li>When producing fighters or infantry, each individual unit counts toward the producing unit&rsquo;s production limit.</li>
-    	<li>A player can choose to produce one fighter or infantry instead of two, but must still pay the entire cost.</li>
-    	<li><sc>Production</sc> value from Arborec space docks cannot be used to produce infantry, even if the Arborec player controls other units that have <sc>Production</sc> in the same system.</li>
+        <li>If the active player has multiple units in the active system that have the <sc>Production</sc> ability, that player can produce a number of units up to the combined total of their units&rsquo; production values in that system.</li>
+        <li>When producing fighters or infantry, each individual unit counts toward the producing unit&rsquo;s production limit.</li>
+        <li>A player can choose to produce one fighter or infantry instead of two, but must still pay the entire cost.</li>
+        <li><sc>Production</sc> value from Arborec space docks cannot be used to produce infantry, even if the Arborec player controls other units that have <sc>Production</sc> in the same system.</li>
     </ol>
     <li>When a player produces ships by using <sc>Production</sc> that player must place them in the active system.</li>
     <li>When a player produces ground forces, that player must place those unit on planets that contain a unit that used its <sc>Production</sc> ability.</li>

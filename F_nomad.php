@@ -15,8 +15,8 @@
     <li>One ship is chosen. That ship retains the flagship values and abilities until it is destroyed or the combat ends.</li>
     <li>If the chosen ship does not usually have the <sc>Sustain Damage</sc> ability, and is damaged during combat, it will remain damaged even after losing the <sc>Sustain Damage</sc> ability.</li>
     <ol>
-    	<li>The damaged ship may be chosen again if <i>The Cavalry</i> is played by the same player during a future combat, regaining the <sc>Sustain Damage</sc> ability. As it is already damaged, it will be unable to use its <sc>Sustain Damage</sc> ability again.</li>
-    	<li>The damaged ship will be repaired during the status phase, regardless of if it currently has the <sc>Sustain Damage</sc> ability.</li>
+        <li>The damaged ship may be chosen again if <i>The Cavalry</i> is played by the same player during a future combat, regaining the <sc>Sustain Damage</sc> ability. As it is already damaged, it will be unable to use its <sc>Sustain Damage</sc> ability again.</li>
+        <li>The damaged ship will be repaired during the status phase, regardless of if it currently has the <sc>Sustain Damage</sc> ability.</li>
         <li>In a future combat, the damaged ship may be repaired by the <i>Durainium Armor</i> technology. It will be unable to be damaged again unless it has regained the <sc>Sustain Damage</sc> ability.</li>
         <li>If the <i>Emergency Repairs</i> action card is played, the damaged ship will not be repaired unless it currently has the <sc>Sustain Damage</sc> ability.</li>
     </ol>
@@ -35,7 +35,7 @@
     <li>Other players cannot use the <sc>Deep Space Cannon</sc> ability of units in the same system as a Quantum Manipulator against the <i>Memoria</i>, unless those units are adjacent using another adjacency method.</li>
     <li>The <i>Intimidate Council</i> requires the system to be adjacent to Mecatol Rex. As such, the Nomad player cannot use the <i>Memoria</i>&rsquo;s ability to score this objective. A similar prohibition applies to the <i>Learn the Secrets of the Cosmos</i> and <i>Threaten Enemies</i> objectives.</li>
     <li>All ship movement is simultaneous. The Nomad player cannot transport a Quantum Manipulator into a system, and then use that to move the <i>Memoria</i> into that system during the same movement.</li>
-	</ol>
+    </ol>
 
 <h1>Artuno the Betrayer <sub>(Agent)</sub></h1>
     <ol class="note">
