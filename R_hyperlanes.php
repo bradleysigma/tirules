@@ -23,6 +23,7 @@
         <li>Neighbors.</li>
         <li>Any other game effect that specifies adjacent systems.</li>
     </ol>
+    <li>Hyperlanes on the same tile that converge at a point on the tile edge are not connected. For example, with the &ldquo;Five&ndash;Player Galaxy Setup (With Hyperlanes)&rdquo; in the <i>Prophecy of Kings</i> Map Appendix, the hyperlanes on tile 87A do not connect tiles 39 and 63, and the hyperlanes on tile 88A do not connect tiles 41 and 80.</li>
     </ol>
 
 <h1>Related Topics</h1>
