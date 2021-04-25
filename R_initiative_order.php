@@ -14,7 +14,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>If there are multiple abilities that players wish to resolve at the same time during the action phase, initiaive order will determine the order they are resolved in. See the <a href="/R_abilities">abilities page</a> for more details.</li>
+    <li>If there are multiple abilities that players wish to resolve at the same time during the action phase, initiative order will determine the order they are resolved in. See the <a href="/R_abilities">abilities page</a> for more details.</li>
     <li>The initiative order of all strategy cards is:</li>
     <ol class="roman">
     	<li><a href="/R_leadership">Leadership</a></li>
