@@ -26,7 +26,8 @@
 <h1>Notes</h1>
     <ol class="note">
     <li>A player cannot score public objectives if that player does not control each planet in their home system.</li>
-    <li>If the action card deck is depleted, immediately shuffle the discard pile to form a new action card deck.</li>
+    <li>If there are few cards remaining in the action card deck, they will be dealt out first to the players lowest in initiative order. After those players have discarded down to their seven card hand limit, if necessary, the discard pile will be shuffled to form a new deck. The remaining players (including the player who received the last action card from the previous deck, if applicable) will then be dealt their action cards.</li>
+    <li>All damaged units will be repaired, even if a game effect has caused those units to no longer have the <sc>Sustain Damage</sc> ability.</li> 
     </ol>
 
 <h1>Related Topics</h1>
