@@ -5,7 +5,7 @@
 <style> .lrr > li:before, .lrr > h2 > li:before {content: '54.' counter(item, decimal);} </style>
 <p>Mecatol Rex is the planet placed in the center of the game board during setup.</p>
     <ol class="lrr">
-	<li>During setup, the custodians token is placed on Mecatol Rex. This token prevents a player from committing ground forces to land on the planet unless they spend six influence to remove the token.</li>
+    <li>During setup, the custodians token is placed on Mecatol Rex. This token prevents a player from committing ground forces to land on the planet unless they spend six influence to remove the token.</li>
     </ol>
 
 <h1>Notes</h1>
