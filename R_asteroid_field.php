@@ -10,7 +10,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>A player with the <i>Anti&ndash;Mass Deflectors</i> technology may move their ships through asteroid fields.</li>
+    <li>A player with the <i>Antimass Deflectors</i> technology may move their ships through asteroid fields.</li>
     </ol>
 
 <h1>Related Topics</h1>
