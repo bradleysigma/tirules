@@ -23,7 +23,7 @@
     <li>Legendary planet ability cards exhaust independently from respective planet card.</li>
     <li>A legendary planet ability card will ready in the status phase.</li>
     <li>Mecatol Rex is not a legendary planet.</li>
-    <li>For the system that contains Mallice, see the <a href="/R_wormhole_nexus">wormhole nexus</a>.</li>
+    <li>For the system that contains Malice, see the <a href="/R_wormhole_nexus">wormhole nexus</a>.</li>
     </ol>
 
 <h1>Related Topics</h1>
