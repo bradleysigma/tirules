@@ -55,6 +55,7 @@
 <h1>Rickar Rickani <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>Rickar Rickani may be applied to the combat that follows its unlocking.</li>
+    <li>If a system meets two (or more) of the conditions listed (such as by attaching the <i>Nano&ndash;Forge</i> relic to Mecatol Rex), Rickar Rickani will only apply +2 to combat rolls, not +4 (or +6).</li>
     </ol>
 
 <h1>Mathis Mathinus &mdash; Imperial Seal <sub>(Hero)</sub></h1>
