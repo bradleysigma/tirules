@@ -212,9 +212,12 @@
         <li>If <i>Political Censure</i> is elected by <i>Miscount Disclosed</i>, the current owner cannot play action cards, including <i>Confounding Legal Text</i>, if another player is elected. If another player is elected, that player may play the <i>Confusing Legal Text</i> action card.</li>
         <li>If the elected law is attached to a planet, and is increasing its influence value, the player that controls that planet may still cast votes using the increased influence.</li>
     </ol>
-    <li>When the law is elected, the <i>Veto</i> action card, the Xxcha <sc>Quash</sc> faction ability, or the Xxcha <i>Political Favor</i> promissory note may be played. If so, the law will be discarded.</li>
-    <li>The <i>Political Secret</i> promissory note may also be played when the law is elected.</li>
-    <li>After the law is elected, riders may be played to predict the outcome of the elected law.</li>
+    <li>Once the law is elected, any riders on <i>Miscount Disclosed</i> will resolve. Following that, the elected law is &ldquo;revealed&rdquo;.
+    <ol>
+        <li>When the elected law is &ldquo;revealed&rdquo;, the <i>Veto</i> action card, the Xxcha <sc>Quash</sc> faction ability, or the Xxcha <i>Political Favor</i> promissory note may be played. If so, the law will be discarded.</li>
+        <li>The <i>Political Secret</i> promissory note may also be played when the elected law is &ldquo;revealed&rdquo;.</li>
+        <li>After the elected law is &ldquo;revealed&rdquo;, riders may be played to predict the outcome of the elected law.</li>
+    </ol>
     <li>After all players have voted, the <i>Deadly Plot</i> action card may be played. If so, the elected law is discarded.</li>
     <li>Players who resolved a transaction while voting on and resolving <i>Miscount Disclosed</i> may resolve an additional transaction voting on and resolving the elected law.</li>
     <li>If <i>Holy Planet of Ixth</i>, <i>Shard of the Throne</i> or <i>The Crown of Emphidia</i> is elected by <i>Miscount Disclosed</i>, the owner will not lose a victory point.</li>
