@@ -43,6 +43,7 @@
     <li>The player that originally owned the secret objective elected by <i>Classified Document Leaks</i> cannot score it again after it becomes a public objective.</li>
     <li>The elected secret objective no longer counts towards the original player&rsquo;s limit of three secret objectives.</li>
     <li>If <i>Classified Document Leaks</i> is discarded, the elected secret objective is not returned to the original player, and it is no longer scorable as a public objective. It remains in play, not discarded.</li>
+    <li>A player can score a maximum of one objective of any type during or after each combat. A player cannot score the elected objective and one of their own secret objectives from the same combat.</li>
     </ol>
 
 <h1>Colonial Redistribution</h1>
