@@ -404,8 +404,9 @@
 
 <h1>Reveal Prototype</h1>
     <ol class="note">
+    <li>A player must still meet the prerequisites for the technology they research.</li>
     <li>A player cannot play <i>Reveal Prototype</i> if they have less than four resources available.</li>
-    <li>A player cannot play <i>Reveal Prototype</i> they already own the unit upgrade technology for each unit they have in the combat.</li>
+    <li>A player cannot play <i>Reveal Prototype</i> if they already own the unit upgrade technology for each unit they have in the combat.</li>
     </ol>
 
 <h1>Reverse Engineer</h1>
