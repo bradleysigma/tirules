@@ -51,7 +51,7 @@
     <li>If multiple units use their <sc>Sustain Damage</sc> ability within a single step, the trade goods are gained one at a time.</li>
     </ol>
 
-<h1>Darktalon Treilla &mdash; Dark Matter Affinity<sub>(Hero)</sub></h1>
+<h1>Darktalon Treilla &mdash; Dark Matter Affinity <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from Mecatol Rex).</li>
     <li>At the end of the game round the Letnev player may need to remove ships from the board to satisfy fleet pool limits.</li>
