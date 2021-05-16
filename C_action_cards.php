@@ -150,6 +150,7 @@
         <li>If all ships are lost in a gravity rift, and none arrive in the active system, <i>Experimental Battlestation</i> cannot be played.</li>
     </ol>
     <li><i>Experimental Battlestation</i> cannot be played if ships are moved outside of the <b>Move Ships</b> step, such as during a retreat.</li>
+    <li>The hits produced by the <i>Experimental Battlestation</i> space cannon rolls can be cancelled with <i>Maneuvering Jets</i>.
     </ol>
 
 <h1>Exploration Probe</h1>
@@ -170,6 +171,7 @@
 <h1>Fire Team</h1>
     <ol class="note">
     <li>Any modifiers on the original combat roll will apply to the reroll.</li>
+    <li>Cancelling <i>Flank Speed</i> will not cancel the system activation.</li>
     </ol>
 
 <h1>Flank Speed</h1>
@@ -181,6 +183,7 @@
     <ol class="note">
     <li>A player cannot play <i>Focused Research</i> if they have less than four trade goods.</li>
     <li>A player must still meet the prerequisites for the technology they research.</li>
+    <li>A player must announce which technology they are researching as they play <i>Focused Research</i>, before other players decide whether to play <i>Sabotage</i>.</li>
     </ol>
 
 <h1>Forward Supply Base</h1>
@@ -244,7 +247,7 @@
 <h1>Infiltrate</h1>
     <ol class="note">
     <li>If the L1Z1X player plays <i>Infiltrate</i> before they resolve their <sc>Assimilate</sc> ability, or vice versa, they will replace zero PDS and space docks with zero PDS and space docks when they resolve the latter ability.</li>
-    <li>If a player wishes to place a structure, but there are none of that type left in their reinforcements, they may remove a structure of that type from any system that does not contain one of their command tokens and place that instead.</li>
+    <li>If a player wishes to place a structure, but there are none of that type left in their reinforcements, they may remove a structure of that type from any system that does not contain one of their command tokens and place that instead. That player may make the choice for each structure.</li>
     </ol>
 
 <h1>Insider Information</h1>
@@ -259,6 +262,7 @@
 <h1>Intercept</h1>
     <ol class="note">
     <li>During the next round of combat, that player may declare another retreat.</li>
+    <li><i>Intercept</i> cannot be played to prevent <i>Skilled Retreat</i> or the Naalu player&rsquo;s <i>Foresight</i> faction ability.</li>
     </ol>
 
 <h1>Leadership Rider</h1>
@@ -312,11 +316,12 @@
 <h1>Mining Initiative</h1>
     <ol class="note">
     <li>A player must control at least one planet to play and resolve <i>Mining Initiative</i>.</li>
-    <li>The chosen planet is not exhausted.</li>
+    <li><i>Mining Initiative</i> does not exhaust the chosen planet.</li>
     </ol>
 
 <h1>Morale Boost</h1>
     <ol class="note">
+    <li>The +1 will apply to any rerolls during the combat round.</li>
     <li>A second <i>Morale Boost</i> cannot be played during a combat round to give +2 to the combat rolls of a player&rsquo;s units.</li>
     <li><i>Morale Boost</i> has no effect on anti&ndash;fighter barrage rolls.</li>
     </ol>
@@ -354,6 +359,7 @@
     <ol class="note">
     <li>During the upcoming agenda phase, all abilities remain resolved in speaker order, not initiative order.</li>
     <li>The strategy cards are readied when <i>Political Stability</i> is played.</li>
+    <li>The &ldquo;Return Strategy Cards&rdquo; step is the last step of the status phase. All other steps must be completed by all players before <i>Political Stability</i> may be played. This includes scoring and revealing objectives, drawing action cards (and discarding down to hand limit, if necessary), and gaining and redistributing command tokens.<li>
     </ol>
 
 <h1>Politics Rider</h1>
@@ -486,6 +492,8 @@
 <h1>Skilled Retreat</h1>
     <ol class="note">
     <li>Using <i>Skilled Retreat</i> is not a retreat. As such, it cannot be cancelled with the <i>Intercept</i> action card.</li>
+    <li>A player may use <i>Skilled Retreat</i> to move into a system that does not contain their ships, as long as it does not contain another player&rsquo;s ships.</li>
+    <li>A player cannot use <i>Skilled Retreat</i> to move into a nebula.</li>
     <li>Fighters are moved without being transported. Ground forces may be transported.</li>
     <li>After moving, capacity and fleet pool limits apply in the destination system.</li>
     <li>If the destination system already contains a player&rsquo;s command token, no command token is placed.</li>
@@ -544,7 +552,7 @@
 
 <h1>Upgrade</h1>
     <ol class="note">
-    <li>The cruiser must be in the system when it is activated for Upgrade to be played. <i>Upgrade</i> cannot be played if the cruiser is moved into the active system later in the turn.</li>
+    <li>The cruiser must be in the system when it is activated for <i>Upgrade</i> to be played. <i>Upgrade</i> cannot be played if the cruiser is moved into the active system later in the turn.</li>
     <li>A player must have at least one cruiser in the active system to play and resolve <i>Upgrade</i>.</li>
     <li>If a player wishes to place a dreadnought, but there are none left in their reinforcements, they may remove a dreadnought from any system that does not contain one of their command tokens and place that instead.</li>
     </ol>
