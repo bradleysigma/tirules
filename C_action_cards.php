@@ -359,7 +359,7 @@
     <ol class="note">
     <li>During the upcoming agenda phase, all abilities remain resolved in speaker order, not initiative order.</li>
     <li>The strategy cards are readied when <i>Political Stability</i> is played.</li>
-    <li>The &ldquo;Return Strategy Cards&rdquo; step is the last step of the status phase. All other steps must be completed by all players before <i>Political Stability</i> may be played. This includes scoring and revealing objectives, drawing action cards (and discarding down to hand limit, if necessary), and gaining and redistributing command tokens.<li>
+    <li>The &ldquo;Return Strategy Cards&rdquo; step is the last step of the status phase. All other steps must be completed by all players before <i>Political Stability</i> may be played. This includes scoring and revealing objectives, drawing action cards (and discarding down to hand limit, if necessary), and gaining and redistributing command tokens.</li>
     </ol>
 
 <h1>Politics Rider</h1>
