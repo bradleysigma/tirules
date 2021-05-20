@@ -61,7 +61,8 @@
 <h1>Compensated Disarmament</h1>
     <ol class="note">
     <li>A planet with zero units on it is eligible to be elected.</li>
-    <li>Structures are unaffected by <i>Compensated Disarmament</i> except for the Titans of Ul&rsquo;s Hel&ndash;Titans .</li>
+    <li>Structures are unaffected by <i>Compensated Disarmament</i>.</li>
+    <ol><li>The Titans of Ul&rsquo;s Hel&ndash;Titans are also ground forces and are thus affected by <i>Compensated Disarmament</i>.</li></ol>
     </ol>
 
 <h1>Conventions of War</h1>
@@ -315,7 +316,7 @@
 
 <h1>Seed of an Empire</h1>
     <ol class="note">
-    <li>If <i>Seed of an Empire</i> is resolved, and multiple players have the most or fewest victory points, they gain victory points in speaker order.</li>
+    <li>If multiple players have the most or fewest victory points, they gain victory points in speaker order.</li>
     </ol>
 
 <h1>Senate Sanctuary</h1>
@@ -348,7 +349,7 @@
 
 <h1>Wormhole Reconstruction</h1>
     <ol class="note">
-    <li>The &ldquo;Against&rdquo; effect of Wormhole Reconstruction will cause each player to place command tokens into each system that contains an alpha, beta, delta or gamma wormhole and one or more of that player&rsquo;s ships.</li>
+    <li>The &ldquo;Against&rdquo; effect of Wormhole Reconstruction will cause each player to place command tokens in each system that contains an alpha, beta, delta or gamma wormhole and one or more of that player&rsquo;s ships.</li>
     </ol>
 
 <h1>Wormhole Research</h1>
