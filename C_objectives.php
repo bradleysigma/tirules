@@ -236,7 +236,7 @@
 
 <h1>Improve Infrastructure</h1>
     <ol class="note">
-    <li>The number of structures a planet has is irrelevant, if it has at least one.</li>
+    <li>The number of structures on a planet is irrelevant, if it has at least one.</li>
     <li>The structures may be on planets in another player&rsquo;s home system.</li>
     <li>The Saar player&rsquo;s Floating Factories cannot be used to score <i>Improve Infrastructure</i>.</li>
     </ol>
@@ -335,7 +335,7 @@
 
 <h1>Protect the Border</h1>
     <ol class="note">
-    <li>The number of structures a planet has is irrelevant, if it has at least one.</li>
+    <li>The number of structures on a planet is irrelevant, if it has at least one.</li>
     <li>The structures may be on planets in another player&rsquo;s home system.</li>
     <li>The Saar player&rsquo;s Floating Factories cannot be used to score <i>Protect the Border</i>.</li>
     </ol>
