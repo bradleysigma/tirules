@@ -161,7 +161,7 @@
 <h1>Fighter Conscription</h1>
     <ol class="note">
     <li>Only one fighter will be placed in a system containing both a space dock and a ship with capacity.</li>
-    <li>A player may place fighters in systems that is at its capacity limit. If they do so, they must then remove a fighter or ground force from the space area of that system.</li>
+    <li>A player may place a fighter in a system that is at its capacity limit. If they do so, they must then remove a fighter or ground force from the space area of that system.</li>
     </ol>
 
 <h1>Fighter Prototype</h1>
