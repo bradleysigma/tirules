@@ -60,7 +60,7 @@
 
 <h1>Centralize Galactic Trade</h1>
     <ol class="note">
-    <li>The trade goods must be spent during the status phase. Any trade goods were spent during the action phase will have no effect.</li>
+    <li>The trade goods must be spent during the status phase. Any trade goods that were spent during the action phase will have no effect.</li>
     </ol>
 
 <h1>Command an Armada</h1>
@@ -79,7 +79,7 @@
     <ol class="note">
     <li>The Creuss Gate is not a home system.</li>
     <li>The Wormhole Nexus and the Creuss home system are both on the edge of the game board.</li>
-    <li>If the edge of a system time is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
+    <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
     <ol>
         <li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.</li>
         <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo;, and home systems are on the edge of the game board, along with the Creuss home system and the wormhole nexus.</li>
@@ -128,7 +128,7 @@
 <h1>Develop Weaponry</h1>
     <ol class="note">
     <li>A <i>Valefar Assimilator</i> technology will count if it is currently copying another player&rsquo;s faction unit upgrade technology.</li>
-    <li>If the Nekro player owns both a generic unit upgrade technology and a faction unit upgrade technology, only the faction unit upgrade technology will count for <i>Develop Weaponry</i>.</li>
+    <li>If the Nekro player owns both a generic unit upgrade technology and a faction unit upgrade technology of the same type, only the faction unit upgrade technology will count for <i>Develop Weaponry</i>.</li>
     </ol>
 
 <h1>Dictate Policy</h1>
@@ -193,7 +193,6 @@
 
 <h1>Form Galactic Brain Trust</h1>
     <ol class="note">
-    <li>The number of technology specialties a planet has is irrelevant, if it has at least one.</li>
     </ol>
 
 <h1>Foster Cohesion</h1>
@@ -204,12 +203,11 @@
 <h1>Found a Golden Age</h1>
     <ol class="note">
     <li>The resources must be spent during the status phase. Any resources that were spent during the action phase will have no effect.</li>
-    <li>Trade goods may be spent as resources when scoring Erect a Monument.</li>
+    <li>Trade goods may be spent as resources when scoring <i>Found a Golden Age</i>.</li>
     </ol>
 
 <h1>Found Research Outposts</h1>
     <ol class="note">
-    <li>The number of technology specialties a planet has is irrelevant, if it has at least one.</li>
     </ol>
 
 <h1>Fuel the War Machine</h1>
@@ -238,7 +236,7 @@
 
 <h1>Improve Infrastructure</h1>
     <ol class="note">
-    <li>The number of structures on a planet has is irrelevant, if it has at least one.</li>
+    <li>The number of structures on a planet is irrelevant, if it has at least one.</li>
     <li>The structures may be on planets in another player&rsquo;s home system.</li>
     <li>The Saar player&rsquo;s Floating Factories cannot be used to score <i>Improve Infrastructure</i>.</li>
     </ol>
@@ -262,9 +260,9 @@
 
 <h1>Make an Example of Their World</h1>
     <ol class="note">
-    <li>If the last ground force is destroyed using a <i>Direct Hit</i> action card, <i>Make an Example of Their World</i> cannot be scored.</li>
+    <li>If the last ground force is destroyed using the <i>X&ndash;89 Bacterial Weapon &Omega;</i> technology, <i>Make an Example of Their World</i> cannot be scored.</li>
     <li>Scoring <i>Make an Example of Their World</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.</li>
-    <li>The L1Z1X player may score <i>Make an Example of Their World</i> by using their <sc>Harrow</sc> faction ability.</li>
+    <li>The L1Z1X player may score <i>Make an Example of Their World</i> by using their <sc>Harrow</sc> faction ability. If they do they cannot score another objective during that ground combat.</li>
     </ol>
 
 <h1>Make History</h1>
@@ -323,7 +321,7 @@
     <ol class="note">
     <li>The Creuss Gate is not a home system.</li>
     <li>The Wormhole Nexus and the Creuss home system are both on the edge of the game board.</li>
-    <li>If the edge of a system time is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
+    <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
     <ol>
         <li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.</li>
         <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the Creuss home system and the wormhole nexus.</li>
@@ -337,7 +335,7 @@
 
 <h1>Protect the Border</h1>
     <ol class="note">
-    <li>The number of structures on a planet has is irrelevant, if it has at least one.</li>
+    <li>The number of structures on a planet is irrelevant, if it has at least one.</li>
     <li>The structures may be on planets in another player&rsquo;s home system.</li>
     <li>The Saar player&rsquo;s Floating Factories cannot be used to score <i>Protect the Border</i>.</li>
     </ol>
@@ -362,7 +360,7 @@
 <h1>Revolutionize Warfare</h1>
     <ol class="note">
     <li>A <i>Valefar Assimilator</i> technology will count if it is currently copying another player&rsquo;s faction unit upgrade technology.</li>
-    <li>If the Nekro player owns both a generic unit upgrade technology and a faction unit upgrade technology, only the faction unit upgrade technology will count for <i>Revolutionize Warfare</i>.</li>
+    <li>If the Nekro player owns both a generic unit upgrade technology and a faction unit upgrade technology of the same type, only the faction unit upgrade technology will count for <i>Revolutionize Warfare</i>.</li>
     </ol>
 
 <h1>Rule Distant Lands</h1>
@@ -420,7 +418,7 @@
 <h1>Turn Their Fleets to Dust</h1>
     <ol class="note">
     <li>If the last ship is destroyed using a <i>Direct Hit</i> action card, <i>Turn Their Fleets to Dust</i> cannot be scored.</li>
-    <li>If a player still has fighters in a system after the assigning all hits produced during <b>Space Cannon Offense</b> step, but is forced to remove all of them to meet capacity limits, <i>Turn Their Fleets to Dust</i> cannot be scored.</li>
+    <li>If a player still has fighters in a system after assigning all hits produced during <b>Space Cannon Offense</b> step, but is forced to remove all of them to meet capacity limits, <i>Turn Their Fleets to Dust</i> cannot be scored.</li>
     <li>Scoring <i>Turn Their Fleets to Dust</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.</li>
     </ol>
 

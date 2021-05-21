@@ -31,7 +31,7 @@
 <h1>Bunker</h1>
     <ol class="note">
     <li>The modifier will apply to bombardment rolls for each planet in the active system.</li>
-    <li>The modifier will apply to bombardment rolls made for the the L1Z1X player&rsquo;s <sc>Harrow</sc> faction ability.</li>
+    <li>The modifier will apply to bombardment rolls made for the L1Z1X player&rsquo;s <sc>Harrow</sc> faction ability.</li>
     </ol>
 
 <h1>Confounding Legal Text</h1>
@@ -52,7 +52,7 @@
     <li>A player who cannot vote may still play a <i>Construction Rider</i>.</li>
     <li>If a player wishes to place a space dock, but there are none left in their reinforcements, they may remove a space dock from any system that does not contain one of their command tokens and place that instead.</li>
     <li>The Saar player may play a <i>Construction Rider</i>, and may place a space dock in a system containing a planet they control if successful.</li>
-    <li>If a player successfully resolves a <i>Construction Rider</i> while they own the <i>Minister of Industry</i> law, they use the <sc>Production</sc> ability of their units in system that they place their space dock. They may exhaust planets for resources, but those planets cannot be used to cast votes for the remainder of the agenda phase.</li>
+    <li>If a player successfully resolves a <i>Construction Rider</i> while they own the <i>Minister of Industry</i> law, they use the <sc>Production</sc> ability of their units in the system where they place their space dock. They may exhaust planets for resources, but those planets cannot be used to cast votes for the remainder of the agenda phase.</li>
     </ol>
 
 <h1>Counterstroke</h1>
@@ -123,7 +123,7 @@
 
 <h1>Divert Funding</h1>
     <ol class="note">
-    <li>A player must have al least one non&ndash;unit upgrade, non&ndash;faction technology to play and resolve <i>Divert Funding</i>.</li>
+    <li>A player must have at least one non&ndash;unit upgrade, non&ndash;faction technology to play and resolve <i>Divert Funding</i>.</li>
     <li>A player must still meet the prerequisites for the technology they research.</li>
     <ol><li>The returned technology does not count towards meeting the prerequisites.</li></ol>
     <li>The researched technology may be a unit upgrade technology, and it may be a faction technology.</li>
@@ -161,7 +161,7 @@
 <h1>Fighter Conscription</h1>
     <ol class="note">
     <li>Only one fighter will be placed in a system containing both a space dock and a ship with capacity.</li>
-    <li>A player may place fighters in systems that at its capacity limit. If they do so, they must then remove a fighter or ground force from the space area of that system.</li>
+    <li>A player may place a fighter in a system that is at its capacity limit. If they do so, they must then remove a fighter or ground force from the space area of that system.</li>
     </ol>
 
 <h1>Fighter Prototype</h1>
@@ -171,19 +171,19 @@
 <h1>Fire Team</h1>
     <ol class="note">
     <li>Any modifiers on the original combat roll will apply to the reroll.</li>
-    <li>Cancelling <i>Flank Speed</i> will not cancel the system activation.</li>
     </ol>
 
 <h1>Flank Speed</h1>
     <ol class="note">
     <li>A second <i>Flank Speed</i> cannot be played to give +2 to the move value of each ship.</li>
+    <li>Cancelling <i>Flank Speed</i> will not cancel the system activation.</li>
     </ol>
 
 <h1>Focused Research</h1>
     <ol class="note">
     <li>A player cannot play <i>Focused Research</i> if they have less than four trade goods.</li>
     <li>A player must still meet the prerequisites for the technology they research.</li>
-    <li>A player must announce which technology they are researching as they play <i>Focused Research</i>, before other players decide whether to play <i>Sabotage</i>.</li>
+    <li>Other players must decide whether to play <i>Sabotage</i> before the player playing <i>Focused Research</i> announces which technology they are researching.</li>
     </ol>
 
 <h1>Forward Supply Base</h1>
@@ -299,7 +299,7 @@
         <li>During the <b>Space Cannon Offense</b> step, each player makes their Space Cannon roll independent of each other player, in clockwise order. As such, a player may use one <i>Maneuvering Jets</i> after each other player makes a space cannon roll.</li>
         <li>During the <b>Space Cannon Defense</b> step, the units on each planet make their Space Cannon roll independent of each other planet. The active player chooses the order. As such, a player may use one <i>Maneuvering Jets</i> after each the units on each planet make a space cannon roll.</li>
     </ol>
-    <ol><li><i>Maneuvering Jets</i> may cancel hits produced due the the <i>Experimental Battlestation</i> action card.</li></ol>
+    <ol><li><i>Maneuvering Jets</i> may cancel hits produced due to the <i>Experimental Battlestation</i> action card.</li></ol>
     </ol>
 
 <h1>Manipulate Investments</h1>
@@ -444,7 +444,7 @@
     <li>Any dice are rolled and any cards are drawn after each other player has declined to play <i>Sabotage</i>.</li>
     <li>If an action card is played that will have an effect later, such as a rider, that card may only be cancelled by <i>Sabotage</i> when it is originally played.</li>
     <li>If the action card that was cancelled by <i>Sabotage</i> was to be used to perform a component action, the active player must perform a different action, or pass.</li>
-    <ol><li>If the component action was to be second action the active player was to perform on their turn, though an effect such as the <i>Light/Wave Deflector</i> technology, the active player may end their turn without performing a second action and without passing.</li></ol>
+    <ol><li>If the component action was to be second action the active player was to perform on their turn, though an effect such as the <i>Fleet Logistics</i> technology, the active player may end their turn without performing a second action and without passing.</li></ol>
     </ol>
 
 <h1>Salvage</h1>
@@ -477,7 +477,7 @@
 <h1>Shields Holding</h1>
     <ol class="note">
     <li><i>Shields Holding</i> cannot be used to cancel hits produced by <sc>Space Cannon</sc> abilities.</li>
-    <li><i>Shields Holding</i> cannot be sued to prevent an effect that directly destroys a unit.</li>
+    <li><i>Shields Holding</i> cannot be used to prevent an effect that directly destroys a unit.</li>
     <li><i>Shields Holding</i> cannot be used during ground combat.</li>
     <li><i>Shields Holding</i> may be used to cancel hits produced by any ability during combat.</li>
     <ol><li><i>Shields Holding</i> may be used to cancel hits produced by an anti&ndash;fighter barrage roll.</li></ol>
@@ -546,8 +546,8 @@
 
 <h1>Unstable Planet</h1>
     <ol class="note">
-    <li>A player may select an exhausted planet, and they may select a planet with zero infantry on it.</li>
-    <li>A player may destroy zero, one, two, or three infantry on the selected planet.</li>
+    <li>A player may select an exhausted planet, and they may select a planet with fewer than three infantry on it (including zero).</li>
+    <li>If the selected planet has three or fewer infantry on it, all infantry will be destroyed. Otherwise, three infantry will be destroyed.</li>
     </ol>
 
 <h1>Upgrade</h1>
@@ -586,8 +586,8 @@
     <ol class="note">
     <li>After playing a <i>Warfare Rider</i>, a player may play additional action cards, including other riders.</li>
     <ol><li>Any other riders may be played to predict the same or a different outcome.</li></ol>
-    <li>The effect of a successful a <i>Warfare Rider</i> will be resolved after the effect of the agenda.</li>
-    <li>A player who cannot vote may still play a a <i>Warfare Rider</i>.</li>
+    <li>The effect of a successful <i>Warfare Rider</i> will be resolved after the effect of the agenda.</li>
+    <li>A player who cannot vote may still play a <i>Warfare Rider</i>.</li>
     <li>If a player wishes to place a dreadnought, but there are none in their reinforcements, they may remove a dreadnought from any system that does not contain one of their command tokens and place that instead.</li>
     </ol>
 

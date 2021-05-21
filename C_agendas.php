@@ -4,7 +4,7 @@
 <h1>Anti&ndash;Intellectual Revolution</h1>
     <ol class="note">
     <li>When <i>Anti&ndash;Intellectual Revolution</i> is a law in play, a player that directly gains a technology will be unaffected.</li>
-    <ol><li>The Nekro play is never effected by the <i>Anti&ndash;Intellectual Revolution</i> law.</li></ol>
+    <ol><li>The Nekro player is never affected by the <i>Anti&ndash;Intellectual Revolution</i> law.</li></ol>
     <li>A player with no non&ndash;fighter ships on the game board may still research technology when <i>Anti&ndash;Intellectual Revolution</i> is a law in play.</li>
     <li>A player may only exhaust planets they control for the &ldquo;Against&rdquo; effect of <i>Anti&ndash;Intellectual Revolution</i>.</li>
     </ol>
@@ -62,6 +62,7 @@
     <ol class="note">
     <li>A planet with zero units on it is eligible to be elected.</li>
     <li>Structures are unaffected by <i>Compensated Disarmament</i>.</li>
+    <ol><li>The Titans of Ul&rsquo;s Hel&ndash;Titans are also ground forces and are thus affected by <i>Compensated Disarmament</i>.</li></ol>
     </ol>
 
 <h1>Conventions of War</h1>
@@ -84,7 +85,7 @@
 <h1>The Crown of Emphidia</h1>
     <ol class="note">
     <li>If <i>The Crown of Emphidia</i> law is discarded, no player loses a victory point.</li>
-    <li>If the player that gains <i>The Crown of Emphidia</i> controls no legendary planets in their home system, they cannot lose it.</li>
+    <li>If the player that gains <i>The Crown of Emphidia</i> controls no planets in their home system, they cannot lose it.</li>
     </ol>
 
 <h1>The Crown of Thalnos</h1>
@@ -106,7 +107,7 @@
     <li>When the <i>Enforced Travel Ban</i> law is in play, units cannot move through wormholes, even by effects that move ships outside of the movement step of a tactical action, such as while retreating.</li>
     <li>When the <i>Enforced Travel Ban</i> law is in play, hits may still be produced against ships in the active system by units with the <sc>Deep Space Cannon</sc> ability in systems that are adjacent via a wormhole during the <b>Space Cannon Offense</b> step of a tactical action.</li>
     <li>Players may still be neighbors via systems that are adjacent via wormholes.</li>
-    <li>The &ldquo;Against&rdquo; effect of <i>Enforced Travel Ban</i> will effect PDS in or adjacent to systems containing an alpha, beta, delta or gamma wormhole.</li>
+    <li>The &ldquo;Against&rdquo; effect of <i>Enforced Travel Ban</i> will affect PDS in or adjacent to systems containing an alpha, beta, delta or gamma wormhole.</li>
     </ol>
 
 <h1>Executive Sanctions</h1>
@@ -315,7 +316,7 @@
 
 <h1>Seed of an Empire</h1>
     <ol class="note">
-    <li>If the &ldquo;For&rdquo; outcome of <i>Seed of an Empire</i> is resolved, and multiple players have the most or fewest victory points, they gain victory points in speaker order.</li>
+    <li>If multiple players have the most or fewest victory points, they gain victory points in speaker order.</li>
     </ol>
 
 <h1>Senate Sanctuary</h1>
@@ -330,7 +331,7 @@
 <h1>Shared Research</h1>
     <ol class="note">
     <li>If the <i>Shared Research</i> law is in play, a player still cannot move into a nebula unless it is the active system.</li>
-    <li>If the <i>Shared Research</i> law is in play, a ship that begins the <b>Movement</b> step of a tactical action still treats its move value as one for the duration of that step.</li>
+    <li>If the <i>Shared Research</i> law is in play, a ship that begins the <b>Movement</b> step of a tactical action in a nebula still treats its move value as one for the duration of that step.</li>
     </ol>
 
 <h1>Swords to Plowshares</h1>
@@ -348,7 +349,7 @@
 
 <h1>Wormhole Reconstruction</h1>
     <ol class="note">
-    <li>The &ldquo;Against&rdquo; effect of Wormhole Reconstruction will cause each player to place command tokens each each system that contains an alpha, beta, delta or gamma wormhole and one or more of that player&rsquo;s ships.</li>
+    <li>The &ldquo;Against&rdquo; effect of Wormhole Reconstruction will cause each player to place command tokens in each system that contains an alpha, beta, delta or gamma wormhole and one or more of that player&rsquo;s ships.</li>
     </ol>
 
 <h1>Wormhole Research</h1>
