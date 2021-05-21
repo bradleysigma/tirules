@@ -56,14 +56,14 @@
 <h1>Van Hauge <sub>(Flagship)</sub></h1>
     <ol class="note">
     <li>When the <i>Van Hauge</i> is destroyed, it will not destroy any of the Saar player&rsquo;s Floating Factories present in the system.</li>
-    <li>The the <i>Van Hauge</i> will not destroy ground forces in the system. However, each player must then remove ground forces, if necessary, from the space area of that system to meet capacity limits.</li>
+    <li>The <i>Van Hauge</i> will not destroy ground forces in the system. However, each player must then remove ground forces, if necessary, from the space area of that system to meet capacity limits.</li>
     <li>As both players will have zero ships in the active system after the Van Hauge is destroyed, the combat will end in a draw.</li>
     </ol>
 
 <h1>Brother Milor <sub>(Agent)</sub></h1>
     <ol class="note">
     <li>If all of a player&rsquo;s ships are destroyed during combat, they may still place ships with this ability. If they do, combat will continue.</li>
-    <ol><li>If that player&rsquo;s opponent has no shops remaining, that player will instead win that combat.</li></ol>
+    <ol><li>If that player&rsquo;s opponent has no ships remaining, that player will instead win that combat.</li></ol>
     <li>Capacity is not checked during combat. As such a player may use Brother Milor to place fighters into a space combat where they have no spare capacity. After that combat ends, that player must remove fighters and/or ground forces to meet their capacity limit in that system.</li>
     <li>If the Yin player uses Brother Milor after the <i>Van Hauge</i> is destroyed during a space combat, they will win that combat.</li>
     <li>If all ships in the system are destroyed, and there are excess hits that have not been assigned to a ship, those hits will lapse, and cannot be assigned to the newly placed fighters.</li>
@@ -85,9 +85,9 @@
 <h1>Moyin&rsquo;s Ashes <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>A <sc>Deploy</sc> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Moyin&rsquo;s Ashes are already on the board, no more may be deployed.</li>
-    <ol><li>If a Moyin&rsquo;s Ashes is destroyed during combat, another may deployed in a later combat during the same invasion.</li></ol>
+    <ol><li>If a Moyin&rsquo;s Ashes is destroyed during combat, another may be deployed in a later combat during the same invasion.</li></ol>
     <li>The removed unit must still be an infantry.</li>
-    <li>The <sc>Deploy</sc> ability has a total cost of three influence. The Yin player play exhaust a single planet with three or more influence to pay this cost.</li>
+    <li>The <sc>Deploy</sc> ability has a total cost of three influence. The Yin player may exhaust a single planet with three or more influence to pay this cost.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

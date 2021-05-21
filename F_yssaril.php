@@ -9,7 +9,7 @@
     <ol class="note">
     <li>No other abilities may resolve until the Yssaril player has discarded the action card.</li>
     <li><sc>Scheming</sc> applies whenever the Yssaril player draws action cards.</li>
-    <li>The Yssaril player will draw only one additional action card, regardless of how many action they are instructed to draw.</li>
+    <li>The Yssaril player will draw only one additional action card, regardless of how many action cards they are instructed to draw.</li>
     <li>The discarded action card may be any card in the Yssaril player&rsquo;s hand; it does not have to be one of the cards they just drew.</li>
     <li>Effects that give the Yssaril player action cards without drawing them, such as <i>The Codex</i> relic or the <i>Reverse Engineer</i> action card, will not trigger <sc>Scheming</sc>.</li>
     </ol>
@@ -22,7 +22,7 @@
 <h1>Spy Net <sub>(Promissory Note)</sub></h1>
     <ol class="note">
     <li>The player that plays <i>Spy Net</i> must look at the Yssaril player&rsquo;s hand of action cards. They do not have to read or memorize what they look at.</li>
-    <li>A player may receive <i>Spy Net</i> in a transaction during on their turn. If received at the start of that player&rsquo;s turn, that player may play it immediately.</li>
+    <li>A player may receive <i>Spy Net</i> in a transaction during their turn. If received at the start of that player&rsquo;s turn, that player may play it immediately.</li>
     <ol>
         <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>Spy Net</i> more than once per turn.</li>
         <li>If the active player received <i>Spy Net</i> on a previous turn, they may play it and immediately perform a transaction with the Yssaril player to regain it. However, <i>Spy Net</i> cannot be played twice in one timing window. The active player cannot play <i>Spy Net</i> again until their next turn.</li>

@@ -55,8 +55,8 @@
 
 <h1>Eidolon<br/>Z&ndash;Grav Eidolon <sub>(Mech)</sub></h1>
     <ol class="note">
-    <li>The Naaz&ndash;Rokha mechs are only Z&ndash;Grav Eidolon only during the <b>Activation</b>, <b>Movement</b> and <b>Space Combat</b> steps, only in the active system, and only in the space area.</li>
-    <li>A Eidolon must mandatorily become a Z&ndash;Grav Eidolon when possible.</li>
+    <li>The Naaz&ndash;Rokha mechs are only Z&ndash;Grav Eidolon during the <b>Activation</b>, <b>Movement</b> and <b>Space Combat</b> steps, only in the active system, and only in the space area.</li>
+    <li>An Eidolon must mandatorily become a Z&ndash;Grav Eidolon when possible.</li>
     <li>Any effect that may target ships or non&ndash;fighter ships may target a Z&ndash;Grav Eidolon.</li>
     <li>A Z&ndash;Grav Eidolon is still a ground force and a mech.</li>
     </ol>

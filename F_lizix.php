@@ -5,7 +5,8 @@
     <ol class="note">
     <li>Any space docks that are placed by this ability during a tactical action may produce units during the <b>Production</b> step of that tactical action.</li>
     <li>If the L1Z1X player resolves their <sc>Assimilate</sc> ability, and then plays the <i>Infiltrate</i> action card, or vice versa, they will replace zero PDS and space docks with zero PDS and space docks when they resolve the latter ability.</li>
-    <li>If the L1Z1X player wishes to place a structure, but there are none of that type left in their reinforcements, they may remove a structure of that type from any system that does not contain one of their command tokens and place that instead.</li>
+    <li>This ability is mandatory.</li>
+    <ol><li>If the L1Z1X player would have to place a structure, but there are none of that type left in their reinforcements, they may remove a structure of that type from any system that does not contain one of their command tokens and place that instead. However they are not forced to do so.</li></ol>
     </ol>
 
 <h1>Harrow</h1>
@@ -21,6 +22,10 @@
 <h1>Cybernetic Enhancements <sub>(Promissory Note)</sub></h1>
     <ol class="note">
     <li>If the L1Z1X player has no command tokens in their strategy pool, <i>Cybernetic Enhancements</i> cannot be played.</li>
+    </ol>
+
+<h1>Cybernetic Enhancements &Omega; <sub>(Promissory Note)</sub></h1>
+    <ol class="note">
     </ol>
 
 <h1>Inheritance Systems <sub>(Technology)</sub></h1>

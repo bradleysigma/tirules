@@ -16,9 +16,19 @@
     <li>A player may play <i>War Funding</i> when the Letnev player has zero or one trade goods. The Letnev player will lose the single trade good, if applicable, and the other effects will resolve as normal.</li>
     <li>A player may receive <i>War Funding</i> in a transaction during a combat. If received at the start of a round, that player may play it immediately.</li>
     <ol>
-        <li>A transaction must involve the active player. As such, the defender will be unable to received <i>War Funding</i>.</li>
+        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding</i>.</li>
         <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>War Funding</i> more than once per turn.</li>
         <li>If the active player received <i>War Funding</i> on a previous turn, they may play it and immediately perform a transaction with the Letnev player to regain it. However, <i>War Funding</i> cannot be played twice in one timing window. The active player cannot play <i>War Funding</i> again until the next round of combat.</li>
+    </ol>
+    </ol>
+
+<h1>War Funding &Omega; <sub>(Promissory Note)</sub></h1>
+    <ol class="note">
+    <li>A player may receive <i>War Funding &Omega; </i> in a transaction during a combat. If received at the start of a round, that player may play it immediately.</li>
+    <ol>
+        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding &Omega;</i>.</li>
+        <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>War Funding &Omega;</i> more than once per turn.</li>
+        <li>If the active player received <i>War Funding &Omega;</i> on a previous turn, they may play it and immediately perform a transaction with the Letnev player to regain it. However, <i>War Funding &Omega;</i> cannot be played twice in one timing window. The active player cannot play <i>War Funding</i> again until the next round of combat.</li>
     </ol>
     </ol>
 
@@ -60,7 +70,7 @@
 <h1>Dunlain Reaper <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>A <sc>Deploy</sc> ability may be resolved only once per timing window. As such, the Letnev player may only place one Dunlain Reaper this way per ground combat round.</li>
-    <ol><li>A second Dunlain Reaper may be placed in a later round.</li></ol>
+    <ol><li>Further Dunlain Reapers may be placed in later rounds.</li></ol>
     <li>A <sc>Deploy</sc> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Dunlain Reaper are already on the board, no Dunlain Reaper may be deployed.</li>
     <ol><li>If a Dunlain Reaper is destroyed during combat, another may be deployed in a later round of the same combat.</li></ol>
     </ol>

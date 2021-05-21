@@ -26,7 +26,7 @@
     <li>Either player may initiate negotiations for a transaction.</li>
     <li>The player with <i>Trade Convoys</i> in play is still limited to one transaction with every other player per turn.</li>
     <li><i>Trade Convoys</i> has no effect while it is in a player&rsquo;s hand.</li>
-    <li><i>Trade Convoys</i> is returned when the system is activated, even if the active player will perform no hostiles acts towards the Hacan player this turn.</li>
+    <li><i>Trade Convoys</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Hacan player this turn.</li>
     <li>Activating a system containing only the Hacan player&rsquo;s structures will still cause <i>Trade Convoys</i> to be returned.</li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Hacan player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Trade Convoys</i> to be returned.</li>
     </ol>
@@ -43,7 +43,7 @@
 
 <h1>Wrath of Kenara <sub>(Flagship)</sub></h1>
     <ol class="note">
-    <li>This ability may only be triggered once for each dice rolled, but may only be applied once per dice. The Hacan player cannot spend two (or more) trade goods to apply +2 (or more) to a single die, but they may spend two (or more) trade goods to apply +1 to each of two (or more) dice.</li>
+    <li>This ability may be triggered once for each dice roll, but may only be applied once per die. The Hacan player cannot spend two (or more) trade goods to apply +2 (or more) to a single die, but they may spend two (or more) trade goods to apply +1 to each of two (or more) dice.</li>
     </ol>
 
 <h1>Carth of the Golden Sands <sub>(Agent)</sub></h1>
