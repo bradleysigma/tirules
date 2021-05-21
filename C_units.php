@@ -1,16 +1,16 @@
 <?php include "prefix.php"?>
 <header>Units</header>
 <article>
-<p>For notes about specific faction unit upgrade technology, see the that faction&rsquo;s notes.</p>
+<p>For notes about specific faction unit upgrade technology, see that faction&rsquo;s notes page.</p>
 <h1>War Sun</h1>
     <ol class="note">
-    <li>A player without the war sun unit upgrade technology cannot produce, place or have a war sun on the board board for any reason.</li>
+    <li>A player without the war sun unit upgrade technology cannot produce, place or have a war sun on the board for any reason.</li>
     <ol><li>The Muaat player may do so without owning their Prototype War Sun II faction unit upgrade technology.</li></ol>
     </ol>
 
 <h1>Flagship</h1>
     <ol class="note">
-    <li>For notes about the flagship of a specific faction, see the that faction&rsquo;s notes.</li>
+    <li>For notes about the flagship of a specific faction, see that faction&rsquo;s notes page.</li>
     </ol>
 
 <h1>Dreadnought</h1>

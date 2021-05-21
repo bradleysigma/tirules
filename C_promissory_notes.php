@@ -6,7 +6,7 @@
     <ol class="note">
     <li>An <i>Alliance</i> must be played by the receiving player as soon as it is received. It cannot be kept secret.</li>
     <ol><li>If the active player receives an <i>Alliance</i>, they cannot then attempt to trade it with another player. It must be played immediately.</li></ol>
-    <li><i>Alliance</i> is returned when the system is activated, even if the active player will perform no hostiles acts towards the other player this turn.</li>
+    <li><i>Alliance</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the other player this turn.</li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the other player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Alliance</i> to be returned.</li>
     <li>Activating a system containing only a player&rsquo;s structures will still cause their <i>Alliance</i> to be returned.</li>
     <li>For notes about a commander of a specific faction, see that faction&rsquo;s notes page.</li>
@@ -25,14 +25,14 @@
     <ol class="note">
     <li>A player may still use their faction technology abilities after their <i>Political Secret</i> has been played.</li>
     <li>If an agenda is discarded, each <i>Political Secret</i> that has been played is returned. The affected players may vote on the next agenda as normal.</li>
-    <li>The effect of <i>Political Secret</i>  does not stop a player from using their passive faction ability, only the abilities that player may choose to use.</li>
+    <li>The effect of <i>Political Secret</i> does not stop a player from using their passive faction ability, only the abilities that player may choose to use.</li>
     </ol>
 
 <h1>Support For The Throne</h1>
     <ol class="note">
     <li>A <i>Support For The Throne</i> must be played by the receiving player as soon as it is received. It cannot be kept secret.</li>
     <ol><li>If the active player receives a <i>Support For The Throne</i>, they cannot then attempt to trade it with another player. It must be played immediately.</li></ol>
-    <li><i>Support For The Throne</i> is returned when the system is activated, even if the active player will perform no hostiles acts towards the other player this turn.</li>
+    <li><i>Support For The Throne</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the other player this turn.</li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the other player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Support For The Throne</i> to be returned.</li>
     <li>Activating a system containing only a player&rsquo;s structures will still cause their <i>Support For The Throne</i> to be returned.</li>
     <li>If two players trade their <i>Support For The Throne</i> to one another simultaneously, the active player will be the first to gain a victory point.</li>
