@@ -546,8 +546,8 @@
 
 <h1>Unstable Planet</h1>
     <ol class="note">
-    <li>A player may select an exhausted planet, and they may select a planet with fewer than three infantry on it.</li>
-    <li>A player cannot choose to destroy fewer than three infantry if there are any on the selected planet.</li>
+    <li>A player may select an exhausted planet, and they may select a planet with fewer than three infantry on it (including zero).</li>
+    <li>If the selected planet has three or fewer infantry on it, all infantry will be destroyed. Otherwise, three infantry will be destroyed.</li>
     </ol>
 
 <h1>Upgrade</h1>
