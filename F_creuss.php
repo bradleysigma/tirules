@@ -26,7 +26,7 @@
     <li>A player may receive the <i>Creuss IFF</i> in a transaction during their turn. If received at the start of that player&rsquo;s turn, that player may play it immediately.</li>
     <ol>
         <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive the <i>Creuss IFF</i> more than once per turn.</li>
-        <li>If the active player received the <i>Creuss IFF</i> on a previous turn, they may play it and immediately perform a transaction with the Cruess player to regain it. However, the <i>Creuss IFF</i> cannot be played twice in one timing window. The active player cannot play the <i>Creuss IFF</i> again until their next turn.</li>
+        <li>If the active player received the <i>Creuss IFF</i> on a previous turn, they may play it and immediately perform a transaction with the Creuss player to regain it. However, the <i>Creuss IFF</i> cannot be played twice in one timing window. The active player cannot play the <i>Creuss IFF</i> again until their next turn.</li>
     </ol>
     <li>Any deal between the Creuss player and another player regarding where the wormhole tokens will be placed, if made before the <i>Creuss IFF</i> is exchanged, is non&ndash;binding.</li>
     <li>The Creuss IFF may be played even if the Creuss player has not researched <i>Wormhole Generator</i>.</li>

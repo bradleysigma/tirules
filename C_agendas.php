@@ -264,7 +264,7 @@
         <li>If the <i>Publicize Weapon Schematics</i> law is in play, the Muaat player will not cause prerequisites for the War Sun unit upgrade technology to be ignored if they do not own their Prototype War Sun II faction unit upgrade technology.</li>
         <li>If the &ldquo;Against&rdquo; outcome of <i>Publicize Weapon Schematics</i> is resolved, the Muaat player will not discard their action cards if they do not own their Prototype War Sun II faction unit upgrade technology.</li>
     </ol>
-    <li>The Muatt player&rsquo;s Prototype War Sun will lose its <sc>Sustain Damage</sc> ability, regardless of if the Muaat player owns their Prototype War Sun II faction unit upgrade technology.</li>
+    <li>The Muaat player&rsquo;s Prototype War Sun will lose its <sc>Sustain Damage</sc> ability, regardless of if the Muaat player owns their Prototype War Sun II faction unit upgrade technology.</li>
     </ol>
 
 <h1>Rearmament Agreement</h1>
