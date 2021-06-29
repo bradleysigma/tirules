@@ -63,7 +63,11 @@
 <h1>Navarch Feng <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>Producing the flagship still counts towards <sc>Production</sc> limits.</li>
-    <li>The flagship still has a cost of 8, so it cannot be produced with abilities that are limited by the cost of units, such as the <i>Integrated Economy</i> technology or Muaat&rsquo;s <i>Umbat</i> agent.</li>
+    <li>The flagship still has a cost of 8</li>
+    <ol>
+        <li>It cannot be produced with abilities that are limited by the cost of units, such as the <i>Integrated Economy</i> technology or the Muaat player's agent.</li>
+        <li>If the flagship is chosen for the <i>Scuttle</i> action card, the player gains 8 trade goods.</li>
+    </ol>
     </ol>
 
 <h1>Ahk&ndash;Syl Siven &mdash; Probability Matrix <sub>(Hero)</sub></h1>

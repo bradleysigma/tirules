@@ -60,7 +60,7 @@
 
 <h1>Acamar <sub>(Agent)</sub></h1>
     <ol class="note">
-    <li>Exhausting Acamar is a cost.</li>
+    <li>Exhausting Acamar is a cost. The <i>Acamar</i> agent&rsquo;s ability cannot be used if it is exhausted.</li>
     </ol>
 
 <h1>Xuange <sub>(Commander)</sub></h1>

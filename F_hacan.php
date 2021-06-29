@@ -43,7 +43,7 @@
 
 <h1>Wrath of Kenara <sub>(Flagship)</sub></h1>
     <ol class="note">
-    <li>This ability may be triggered once for each dice roll, but may only be applied once per die. The Hacan player cannot spend two (or more) trade goods to apply +2 (or more) to a single die, but they may spend two (or more) trade goods to apply +1 to each of two (or more) dice.</li>
+    <li>This ability may be triggered only once for each die rolled. The Hacan player cannot spend two (or more) trade goods to apply +2 (or more) to a single die, but they may spend two (or more) trade goods to apply +1 to each of two (or more) dice.</li>
     </ol>
 
 <h1>Carth of the Golden Sands <sub>(Agent)</sub></h1>

@@ -47,7 +47,7 @@
     <li>Any method of movement is sufficient to trigger this ability, not only tactical action movement (e.g. a retreat).</li>
     <li>Any command tokens and the Muaat player&rsquo;s units on the replaced system tile are transferred to the new supernova tile.</li>
     <li>The Muaat player&rsquo;s units may exist in and move out of the supernova system, even if the Muaat player does not own <i>Magmus Reactor</i>.</li>
-    <li>If the Muaat player owns <i>Magmus Reator &Omega;</i>, and resolves this ability during a tactical action, they will be able to produce units during the <b>Production</b> step, if there are still Muaat units present at that point.</li>
+    <li>If the Muaat player owns <i>Magmus Reator &Omega;</i>, and resolves this ability during a tactical action, they will be able to produce units during the <b>Production</b> step, if the Muaat player still has units in the system during the production step.</li>
     </ol>
 
 <h1>Ember Colossus <sub>(Mech)</sub></h1>

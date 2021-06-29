@@ -37,7 +37,6 @@
     <ol class="note">
     <li>A unit is not adjacent to the system it is in; the <i>Vortex</i> ability cannot target a ground force on another planet in the same systems as one of the Vuil&rsquo;raith player&rsquo;s Dimensional Tears, unless there is a second space dock in an adjacent system.</li>
     <li>If a player has all their units of a particular type on the board, other than fighters or infantry, that type of unit belonging to that player cannot be targeted.</li>
-    <ol><li>Most notably, a flagship can never be captured by <i>Vortex</i>.</li></ol>
     </ol>
 
 <h1>Dimensional Tear <sub>(Unit)</sub></h1>
@@ -45,7 +44,7 @@
     <li>This system is a gravity rift, and thus an anomaly.</li>
     <ol><li>This system qualifies for the <i>Make History</i> and similar such objectives.</li></ol>
     <li>If a ship moves through or out of multiple gravity rifts, and/or the same gravity rift multiple times, each instance will provide a +1 to movement.</li>
-    <ol><li>For example, consider a series of systems A&ndash;B&ndash;C&ndash;. Only systems connected by a &ldquo;&ndash;&rdquo; are adjacent. Systems &ldquo;A&rdquo;, &ldquo;B&rdquo; and &ldquo;C&rdquo; have dimensional tears, while system &ldquo;M&rdquo; does not. The Vuil&rsquo;raith player has a carrier with move one in system &ldquo;C&rdquo; and a ground force in system &ldquo;A&rdquo;. They could activate system &ldquo;M&rdquo; and move the carrier along the path &ldquo;C&rdquo; &rarr; &ldquo;B&rdquo; &rarr; &ldquo;A&rdquo; &rarr; &ldquo;B&rdquo; &rarr; &ldquo;C&rdquo; &rarr; &ldquo;M&rdquo;, picking up the ground force from system &ldquo;A&rdquo;. This path would make the carriers move value 1+5, which is more than enough for this movement.</li></ol>
+    <ol><li>For example, consider a series of systems A&ndash;B&ndash;C&ndash;M. Only systems connected by a &ldquo;&ndash;&rdquo; are adjacent. Systems &ldquo;A&rdquo;, &ldquo;B&rdquo; and &ldquo;C&rdquo; have dimensional tears, while system &ldquo;M&rdquo; does not. The Vuil&rsquo;raith player has a carrier with move one in system &ldquo;C&rdquo; and a ground force in system &ldquo;A&rdquo;. They could activate system &ldquo;M&rdquo; and move the carrier along the path &ldquo;C&rdquo; &rarr; &ldquo;B&rdquo; &rarr; &ldquo;A&rdquo; &rarr; &ldquo;B&rdquo; &rarr; &ldquo;C&rdquo; &rarr; &ldquo;M&rdquo;, picking up the ground force from system &ldquo;A&rdquo;. This path would make the carriers move value 1+5, which is more than enough for this movement.</li></ol>
     <li>Multiple Dimensional Tears in a single system have no additional effects.</li>
     <li>If a Dimensional Tear is in a system that is normally a gravity rift (i.e. the Cormund system), the Vuil&rsquo;raith player will not have to roll for removal when moving out of or through that system. There are no additional effects.</li>
     <li>If a Dimensional Tear is in a system with a Nebula, then the +1 to move values will be applied after the nebula sets each ship&rsquo;s move value to 1.</li>
