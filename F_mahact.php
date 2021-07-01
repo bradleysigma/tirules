@@ -37,7 +37,7 @@
 
 <h1>Jae Mir Kan <sub>(Agent)</sub></h1>
     <ol class="note">
-    <li>When resolving the secondary of the <i>Construction</i> strategy card, the active player&rsquo;s comment token in placed in the system the Mahact player places their structure.</li>
+    <li>When resolving the secondary of the <i>Construction</i> strategy card, the active player&rsquo;s command token is placed in the system the Mahact player places their structure.</li>
     <li>If the Mahact player has the Muaat player&rsquo;s promissory note, they will not gain a trade good from it when they use the ability of Jae Mir Kan.</li>
     </ol>
 
@@ -50,14 +50,14 @@
     <ol class="note">
     <li>Fighters and ground forces in the space area of the origin system are moved. Ground forces on planets are left behind.</li>
     <ol><li>If the Mahact player moves their own ships, they may transport ground forces on planets.</li></ol>
-    <li>Any abilities that trigger when a player moves ships trigger from the perceptive of the Mahact player.</li>
-    <li>Any abilities that trigger when a player&rsquo;s ships move trigger from the perceptive of the player that owns them.</li>
+    <li>Any abilities that trigger when a player moves ships trigger from the perspective of the Mahact player.</li>
+    <li>Any abilities that trigger when a player&rsquo;s ships move trigger from the perspective of the player that owns them.</li>
     <li>Any abilities that trigger when a player moves their ships do not trigger.</li>
-    <li>The Mahact player may move another players ships into an asteroid field only if that player owns the <i>Antimass Deflectors</i> technology.</li>
-    <li>The Mahact player may move another players ships into a supernova only if that player owns the <i>Magmus Reactor</i> Muaat factional technology.</li>
+    <li>The Mahact player may move another player&rsquo;s ships into an asteroid field only if that player owns the <i>Antimass Deflectors</i> technology.</li>
+    <li>The Mahact player may move another player&rsquo;s ships into a supernova only if that player owns the <i>Magmus Reactor</i> Muaat factional technology.</li>
     <li>The Mahact player may only move the Empyrean player&rsquo;s ships into a nebula.</li>
     <li>If the Mahact player moves a player&rsquo;s ships out of a gravity rift, that player must roll for removal.</li>
-    <li>The Mahact player cannot move the Cruess player&rsquo;s ships from a system with an alpha wormhole into a system with a beta wormhole (and no alpha wormhole), or vice versa.</li>
+    <li>The Mahact player cannot move the Creuss player&rsquo;s ships from a system with an alpha wormhole into a system with a beta wormhole (and no alpha wormhole), or vice versa.</li>
     <li>The Saar player&rsquo;s Floating Factories are moved.</li>
     <li>The system the combat is taking place in is considered the active system during that that combat.</li>
     <li>The player whose ships were moved is considered to be the attacker, the other player is considered to be the defender.</li>

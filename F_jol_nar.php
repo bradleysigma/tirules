@@ -30,11 +30,11 @@
 
 <h1>E&ndash;Res Siphons <sub>(Technology)</sub></h1>
     <ol class="note">
-    <li><i>E&ndash;Res Siphons</i> ability is triggered when the system is activated, even if the active player will perform no hostiles acts towards the Jol&ndash;Nar player this turn.</li>
+    <li><i>E&ndash;Res Siphons</i> ability is triggered when the system is activated, even if the active player will perform no hostile acts towards the Jol&ndash;Nar player this turn.</li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Jol&ndash;Nar player&rsquo;s ships (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>E&ndash;Res Siphons</i> ability to trigger.</li>
     </ol>
 
-<h1>Spacial Conduit Cylinders <sub>(Technology)</sub></h1>
+<h1>Spatial Conduit Cylinder <sub>(Technology)</sub></h1>
     <ol class="note">
     <li>Other players may use the <sc>Deep Space Cannon</sc> ability of units in the same system as a Jol&ndash;Nar player&rsquo;s unit to produce hits during the <b>Space Cannon Offense</b> step.</li>
     <li>If the Jol&ndash;Nar player moves ships out of a gravity rift, they must still roll for removal.</li>

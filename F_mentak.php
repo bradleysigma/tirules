@@ -29,7 +29,7 @@
     <ol class="note">
     <li>If the player with <i>Promise of Protection</i> in their play area resolves a transaction with another player, the Mentak player may still use their <sc>Pillage</sc> ability on that other player.</li>
     <li><i>Promise of Protection</i> has no effect while it is in a player&rsquo;s hand.</li>
-    <li><i>Promise of Protection</i> is returned when the system is activated, even if the active player will perform no hostiles acts towards the Mentak player this turn.</li>
+    <li><i>Promise of Protection</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Mentak player this turn.</li>
     <li>Activating a system containing only the Mentak player&rsquo;s structures will still cause <i>Promise of Protection</i> to be returned.</li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Mentak player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Promise of Protection</i> to be returned.</li>
     </ol>
@@ -65,7 +65,7 @@
 
 <h1>Ipswitch, Loose Cannon &mdash; Sleeper Cell <sub>(Hero)</sub></h1>
     <ol class="note">
-    <li>The Mentak player can trigger the <i>Sleeper Cell</i> ability, their <sc>Ambush</sc> ability, or any other &ldquo;at the start if a space combat&rdquo; abilities they have in any order.</li>
+    <li>The Mentak player can trigger the <i>Sleeper Cell</i> ability, their <sc>Ambush</sc> ability, or any other &ldquo;at the start of a space combat&rdquo; abilities they have in any order.</li>
     <li>If ships are destroyed before the <i>Sleeper Cell</i> ability is triggered, the Mentak player cannot place those units.</li>
     <li>Fleet pool limits still apply during combat. However, if the Mentak is at their fleet pool limit, they may still place a unit using this ability, but must then immediately remove a unit.</li>
     <li>Capacity is not checked during combat. As such, the Mentak player may place an unlimited number of fighters into a combat with this ability.</li>

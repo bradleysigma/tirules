@@ -49,13 +49,13 @@
     </ol>
 <h1>Notes</h1>
     <ol class="note">
-    <li>An ability may be triggered during the timing window it was gained, if applicable. For example, if a player receives the Cruess player&rsquo;s <i>Creuss Iff</i> promissory note at the start of their turn, they may use it immediately.</li>
+    <li>An ability may be triggered during the timing window it was gained, if applicable. For example, if a player receives the Creuss player&rsquo;s <i>Creuss Iff</i> promissory note at the start of their turn, they may use it immediately.</li>
     <ol>
         <li>Note that some triggers check their conditions when they trigger, while some check their conditions when they would resolve.</li>
         <li>The Ul player&rsquo;s <sc>Awaken</sc> ability is an example of an ability that checks its condition when it triggers; activating a system without a sleeper token will not trigger <sc>Awaken</sc>, even if a sleeper token is later added.</li>
         <li>The <i>Assault Cannon</i> technology is an example of an ability that checks its condition when it would resolve; a player without three or more non&ndash;fighter ships in the system cannot use <i>Assault Cannon</i>, even if they previously had more ships.</li>
     </ol>
-    <li>An ability from a single physical object cannot be resolved more than once in one timing window. For example, if a player starts their turn with the Cruess player&rsquo;s <i>Creuss Iff</i> promissory note in their hand (having received it on a previous turn) and uses it, they will not be able to used it a second time this turn, if they receive it as part of a transaction.</li>
+    <li>An ability from a single physical object cannot be resolved more than once in one timing window. For example, if a player starts their turn with the Creuss player&rsquo;s <i>Creuss Iff</i> promissory note in their hand (having received it on a previous turn) and uses it, they will not be able to used it a second time this turn, if they receive it as part of a transaction.</li>
     <ol><li>Each unit on the board is its own separate physical object. For example, two of the N&rsquo;orr player&rsquo;s <i>Exotrireme II</i> in a system may use their ability to destroy themselves and other ships, even though that ability is printed on a single technology card.</li></ol>
     <li>Multiple action cards with the same name cannot be played during a single timing window to affect the same units or game effect. See the <a href="/R_action_cards">action cards page</a> for more details.</li>
     <li>During the action phase, abilities are resolved in the current relative turn order, starting with the active player. For example, if it is currently the <i>Trade</i> (5) player&rsquo;s turn, they will have the option to resolve first, then the <i>Warfare</i> (6) player, then the <i>Technology</i> (7) player, and so on.</li>

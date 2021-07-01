@@ -36,7 +36,7 @@
 
 <h1>Evelyn DeLouis <sub>(Agent)</sub></h1>
     <ol class="note">
-    <li>If the Sol player chooses one of the L1Z1X player&rsquo;s Annihilator mechs, then this ability applies to dice rolls for that unit&rsquo;s bombardment rolls when the L1Z1X player uses <sc>Harrow</sc>.</li>
+    <li>If the Sol player chooses one of the L1Z1X player&rsquo;s Annihilator mechs on a different planet or in the space area, then this ability applies to dice rolls for that unit&rsquo;s bombardment rolls when the L1Z1X player uses their <sc>Harrow</sc> ability.</li>
     </ol>
 
 <h1>Claire Gibson <sub>(Commander)</sub></h1>

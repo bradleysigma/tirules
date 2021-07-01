@@ -7,8 +7,8 @@
 
 <h1>Awaken <sub></sub></h1>
     <ol class="note">
-    <li>Only sleeper tokens present in the system when it is activated may be replaced with PDSs.</li>
-    <li>A sleeper token that is placed during the activation step, most commonly by using the <i>Scanlink Drone Network</i> technology and the <sc>Terragenesis</sc> abilities, cannot be replaced via the <sc>Awaken</sc> ability during the same tactical action.</li>
+    <li>Only sleeper tokens present in the system when it is activated may be replaced with PDS.</li>
+    <li>A sleeper token that is placed during the activation step, most commonly by using the <i>Scanlink Drone Network</i> technology and the <sc>Terragenesis</sc> ability, cannot be replaced via the <sc>Awaken</sc> ability during the same tactical action.</li>
     </ol>
 
 <h1>Coalescence <sub></sub></h1>
@@ -22,6 +22,7 @@
 <h1>Terraform <sub>(Promissory Note)</sub></h1>
     <ol class="note">
     <li>Once played, <i>Terraform</i> is never returned to the Ul player.</li>
+    <li>Once played, <i>Terraform</i> counts as being in the play area of the player who controls the planet.</li>
     <li>If a planet has multiple traits, the player exploring the planet chooses which of the corresponding exploration decks to draw from.</li>
     </ol>
 

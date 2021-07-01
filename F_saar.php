@@ -21,9 +21,10 @@
     <ol class="note">
     <li>The produced unit must be paid for.</li>
     <li>The produced unit may move later that same turn, if the Saar player performs a tactical action.</li>
-    <li>A unit may be produced on each of the Saar player&rsquo;s turn; <i>Chaos Mapping</i> is not exhausted.</li>
+    <li>A unit may be produced on each of the Saar player&rsquo;s turns; <i>Chaos Mapping</i> is not exhausted.</li>
     <ol><li>A unit may be produced on the turn the Saar player passes.</li></ol>
     <li>A player may still use abilities such as <sc>Deep Space Cannon</sc> that affect the Saar player&rsquo;s units located in asteroid fields.</li>
+    <li>If an asteroid field contains non-ship units belonging to the Saar player, it can still be activated by other players.</li>
     </ol>
 
 <h1>Floating Factory <sub>(Unit)</sub></h1>
@@ -66,6 +67,7 @@
 
 <h1>Scavenger Zeta <sub>(Mech)</sub></h1>
     <ol class="note">
+    <li>The trade good gained by Scavenge may be spent for the <sc>Deploy</sc> ability.</li>
     <li>Exploration will resolve before this ability may trigger.</li>
     <li>If the Saar player gains control of multiple planets, they may deploy one Scavenger Zeta to each.</li>
     </ol>

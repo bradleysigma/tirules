@@ -33,14 +33,14 @@
     <ol class="note">
     <li>The effect of <i>Antivirus</i> does not prevent the Nekro player gaining a technology from a player via their <sc>Galactic Threat</sc> ability.</li>
     <li><i>Antivirus</i> has no effect while it is in a player&rsquo;s hand.</li>
-    <li>Antivirus is returned when the system is activated, even if the active player will perform no hostiles acts towards the Nekro player this turn.</li>
+    <li>Antivirus is returned when the system is activated, even if the active player will perform no hostile acts towards the Nekro player this turn.</li>
     <li>Activating a system containing only the Nekro player&rsquo;s structures will still cause <i>Antivirus</i> to be returned.</li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Nekro player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Antivirus</i> to be returned.</li>
     </ol>
 
 <h1>Valefar Assimilator <sub>(Technology)</sub></h1>
     <ol class="note">
-    <li>When copying another technology, each <i>Valefar Assimilator</i> retains its original text; it may later be used copy a different faction technology.</li>
+    <li>When copying another technology, each <i>Valefar Assimilator</i> retains its original text; it may later be used to copy a different faction technology.</li>
     <li>When copying another technology <i>Valefar Assimilator</i> will retain its exhausted/readied state. It will not copy the target technology&rsquo;s exhausted/readied state.</li>
     <li>If the Nekro player would copy a faction&ndash;specific unit upgrade, and they are already copying a faction&ndash;specific unit upgrade of the same type, they must use the same Valefar Assimilator token; they lose the previous faction unit upgrade.</li>
     <li>The Nekro player cannot copy faction&ndash;specific units that have not been upgraded.</li>
@@ -48,27 +48,27 @@
     <li>If the Nekro player has a generic unit upgrade, and gains a faction&ndash;specific unit upgrade, then the faction&ndash;specific version will be in effect. If the faction&ndash;specific unit upgrade is later lost, they revert to the generic unit upgrade.</li>
     <ol><li>Owning two unit upgrades for the same type of unit in this manner only counts as one unit upgrade towards the <i>Develop Weaponry</i> and <i>Revolutionize Warfare</i> objectives.</li></ol>
     <li>For the <i>Adapt New Strategies</i> objective, a <i>Valefar Assimilator</i> technology will count if and only if it is currently copying another technology.</li>
-    <li>For notes about a technologies of a specific faction, see that faction&rsquo;s notes.</li>
+    <li>For notes about technologies of a specific faction, see that faction&rsquo;s notes.</li>
     <li>If the Nekro player has copied certain technology (possible two or more at different points in time), the following apply:</li>
     <ol>
         <li>If both the Saar player&rsquo;s Floating Factory II and the Vuil&rsquo;raith player&rsquo;s <i>Vortex</i> are copied, and another player blockades a Nekro space dock, the Nekro player returns any captured units, then destroys the blockaded space dock.</li>
         <li>If both the Letnev player&rsquo;s <i>Non&ndash;Euclidean Shielding</i> and the generic <i>Duranium Armor</i> technologies are copied, then a space combat between the Nekro player and the Letnev player in certain circumstances may result in neither player being able to win. If this happens, the attacker must declare a retreat. If the attacker cannot do so, they destroy all their units in that combat.</li>
         <li>If both the Muaat player&rsquo;s <i>Magmus Reactor</i> and the Saar player&rsquo;s Floating Factory II are copied, the Nekro player may move their space docks into supernovae.</li>
         <li>If the Saar player&rsquo;s Floating Factory II is owned, both the Nekro player and the Saar player may have their space docks in the same system, if there are no ships in that system.</li>
-        <li>Is the N&rsquo;orr player&rsquo;s Exotrireme II is copied, and the Nekro player is in a combat with the N&rsquo;orr player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker. If the attacker player has two Exotrireme II in the system and the defender has four, assuming both players are hostile towards each other, the most likely sequence is as follows: The attacker activates one of their Exotrireme II, leaving them with one and the defender with two; The defender activates one of their Exotrireme II leaving them with one and the attacker with none.</li>
+        <li>If the N&rsquo;orr player&rsquo;s Exotrireme II is copied, and the Nekro player is in a combat with the N&rsquo;orr player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker. If the attacking player has two Exotrireme II in the system and the defender has four, assuming both players are hostile towards each other, the most likely sequence is as follows: The attacker activates one of their Exotrireme II, leaving them with one and the defender with two; The defender activates one of their Exotrireme II leaving them with one and the attacker with none.</li>
     </ol>
     <li>The Nekro player may lose a technology if they copy a new one. If they lose certain technologies, the following apply:</li>
     <ol>
         <li>If the Saar player&rsquo;s Floating Factory II is lost, each space dock the Nekro player controls must be placed on a planet they control in the same system, or the space dock is removed.</li>
         <li>If the Muaat player&rsquo;s Prototype War Sun II is lost, and the Nekro player does not have the generic war sun technology, each of their war suns are removed from the game board.</li>
         <li>If the Muaat player&rsquo;s <i>Magmus Reactor</i> is lost, the Nekro player&rsquo;s units may remain in and move out of any supernovae they are currently in, but cannot move additional units into or through.</li>
-        <li>If the Vuil&rsquo;raith player&rsquo;s Dimensional Tear II is lost, the dimensional tear tokens are removed from unde the Nekro player&rsquo;s space docks.</li>
+        <li>If the Vuil&rsquo;raith player&rsquo;s Dimensional Tear II is lost, the dimensional tear tokens are removed from under the Nekro player&rsquo;s space docks.</li>
     </ol>
     </ol>
 
 <h1>The Alastor <sub>(Flagship)</sub></h1>
     <ol class="note">
-    <li>Any effect that may target ships or non&ndash;fighter ships may target a ground force that is participating on space combat due to the effect of the Alastor.</li>
+    <li>Any effect that may target ships or non&ndash;fighter ships may target a ground force that is participating in space combat due to the effect of the Alastor.</li>
     <ol>
         <li>This includes counting towards the three non&ndash;fighter ships necessary to trigger the effect of the <i>Assault Cannon</i> technology.</li>
         <li>The Winnu player&rsquo;s <i>Salai Sai Corian</i> flagship will roll one dice for each ground force the Nekro player has participating in a space combat via the effect of <i>The Alastor</i>.</li>

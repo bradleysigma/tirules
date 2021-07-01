@@ -3,14 +3,14 @@
 <article>
 <h1>Telepathic</h1>
     <ol class="note">
-    <li>The Naalu player retains the Naalu 0 token, even if an effect such as the <i>Imperial Arbiter</i> law causes them lose the strategy card it was on. The Naalu player will place the Naalu 0 token on another strategy card in this scenario.</li>
+    <li>The Naalu player retains the Naalu 0 token, even if an effect such as the <i>Imperial Arbiter</i> law causes them to lose the strategy card it was on. The Naalu player will place the Naalu 0 token on another strategy card in this scenario.</li>
     </ol>
 
 <h1>Foresight</h1>
     <ol class="note">
     <li>Using <sc>Foresight</sc> is not a retreat. As such, it cannot be cancelled with the <i>Intercept</i> action card.</li>
     <li>Fighters are moved without being transported. Ground forces may be transported.</li>
-    <li>The Naalu player cannot use <sc>Foresight</sc> to move into into a nebula or supernova.</li>
+    <li>The Naalu player cannot use <sc>Foresight</sc> to move into a nebula or supernova.</li>
     <ol><li>The Naalu player may use <sc>Foresight</sc> to move into an asteroid field only if they own the <i>Antimass Deflectors</i> technology.</li></ol>
     <li>If the Naalu player uses <sc>Foresight</sc> to move out of a gravity rift, they will have to roll for removal.</li>
     <ol><li>If all ships are removed, the strategy token will still be placed in the destination system.</li></ol>
@@ -21,7 +21,7 @@
 
 <h1>Gift of Prescience <sub>(Promissory Note)</sub></h1>
     <ol class="note">
-    <li>The player with <i>Gift of the Prescience</i> retains the Naalu 0 token, even if an effect such as the <i>Imperial Arbiter</i> law causes them lose the strategy card it was on. That player will place the Naalu 0 token on another strategy card in this scenario.</li>
+    <li>The player with <i>Gift of the Prescience</i> retains the Naalu 0 token, even if an effect such as the <i>Imperial Arbiter</i> law causes them to lose the strategy card it was on. That player will place the Naalu 0 token on another strategy card in this scenario.</li>
     </ol>
 
 <h1>Neuroglaive <sub>(Technology)</sub></h1>
@@ -35,7 +35,7 @@
 
 <h1>Matriarch <sub>(Flagship)</sub></h1>
     <ol class="note">
-    <li>The committed fighters are returned to space area when combat ends, and thus will not be on the planet for the <b>Establish Control</b> step. If the Naalu player does not commit at least one ground force to a planet and have it survive the combat, they will be unable to gain control of that planet, and the ground combat will end in a draw.</li>
+    <li>The committed fighters are returned to the space area when combat ends, and thus will not be on the planet for the <b>Establish Control</b> step. If the Naalu player does not commit at least one ground force to a planet and have it survive the combat, they will be unable to gain control of that planet, and the ground combat will end in a draw.</li>
     <li>Any structures on the planet will not be destroyed if the Naalu player committed no ground forces.</li>
     <li>The <i>Daxive Animators</i> technology will not allow the Naalu player to gain control of a planet without committing a ground force.</li>
     <li>The committed fighters may be assigned hits during the <b>Space Cannon Defense</b> step.</li>

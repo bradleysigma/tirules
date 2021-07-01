@@ -2,7 +2,7 @@
 <header>Technology</header>
 <article>
 <p>For notes about specific generic unit upgrade technologies, see the <a href="C_units">unit component notes page</a>.</p>
-<p>For notes about a technologies of a specific faction, see that faction&rsquo;s notes page.</p>
+<p>For notes about technologies of a specific faction, see that faction&rsquo;s notes page.</p>
 <h1>Antimass Deflectors</h1>
     <ol class="note">
     <li>The &minus;1 applies to space cannon rolls during both the <b>Space Cannon Offense</b> and <b>Space Cannon Defense</b> steps.</li>
@@ -67,7 +67,7 @@
 
 <h1>Plasma Scoring</h1>
     <ol class="note">
-    <li>Only one additional dice is rolled when for each bombardment or space cannon roll, regardless of how many units are using that ability.</li>
+    <li>Only one additional dice is rolled for each bombardment or space cannon roll, regardless of how many units are using that ability.</li>
     <ol><li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional dice to the space cannon rolls on each planet during the <b>Space Cannon Defense</b> step.</li></ol>
     </ol>
 
@@ -84,9 +84,7 @@
 <h1>Magen Defense Grid &Omega;</h1>
     <ol class="note">
     <li>The player with <i>Magen Defense Grid &Omega;</i> chooses which ground force the hit is assigned to.</li>
-    <li>The <i>Shields Holding</i> action card may be used to cancel the hit.</li>
     <li>The chosen ground force may cancel the hit by using its <sc>Sustain Damage</sc> ability, if present. A different ground force with the <sc>Sustain Damage</sc> ability cannot do so.</li>
-    <ol><li>If the chosen ground force does so, the <i>Direct Hit</i> action card may be used.</li></ol>
     </ol>
 
 <h1>Self&ndash;Assembly Routines</h1>
@@ -108,7 +106,7 @@
     <li>A player with <i>Assault Cannon</i> must mandatorily resolve its ability if they meet the requirement.</li>
     <li>If a player loses ships before they can resolve the <i>Assault Cannon</i> ability, they will be unable to resolve it if they no longer have three or more non&ndash;fighter ships.</li>
     <ol>
-        <li>This will most commonly happen when both players in a combat have <i>Assault Cannon</i>, and the defender has exactly three non&ndash;fighter shops.</li>
+        <li>This will most commonly happen when both players in a combat have <i>Assault Cannon</i>, and the defender has exactly three non&ndash;fighter ships.</li>
         <li>The Mentak player may be able to use a combination of their hero and their <sc>Ambush</sc> faction ability to add ships to a system so that they have three or more non&ndash;fighter ships. If they do, and they have <i>Assault Cannon</i>, they must then resolve its ability.</li>
     </ol>
     <li>Effects that cancel hits, such as <sc>Sustain Damage</sc>, cannot be used to prevent ships from being destroyed.</li>
@@ -138,7 +136,7 @@
     <li>When resolving the ability of <i>Transit Diodes</i>, that player may remove ground forces from a system containing their command token.</li>
     <li>The ground forces may be on a planet or in a space area.</li>
     <li>The ground forces may be from different systems.</li>
-    <li>The ground forces may be places on different planets.</li>
+    <li>The ground forces may be placed on different planets.</li>
     <li>Any damaged mechs remain damaged.</li>
     </ol>
 

@@ -5,7 +5,7 @@
     <ol class="note">
     <li>This effect also applies outside the <b>Movement</b> step.</li>
     <li>The Empyrean player treats nebulae as nebulae and as anomalies for all other game purposes.</li>
-    <ol><li>When the Empyrean player is the defenders during a space combat in a nebula, they will receive the +1 to their combat rolls.</li></ol>
+    <ol><li>When the Empyrean player is the defender during a space combat in a nebula, they will receive the +1 to their combat rolls.</li></ol>
     </ol>
 
 <h1>Aetherpassage</h1>
@@ -22,7 +22,7 @@
     <li>Both players must cast at least one vote to trigger the additional votes.</li>
     <ol><li>If either player cannot vote on an agenda, then the additional votes will not trigger for that agenda.</li></ol>
     <li><i>Blood Pact</i> has no effect while it is in a player&rsquo;s hand.</li>
-    <li><i>Blood Pact</i> is returned when the system is activated, even if the active player will perform no hostiles acts towards the Empyrean player this turn.</li>
+    <li><i>Blood Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Empyrean player this turn.</li>
     <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Blood Pact</i> to be returned.</li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Blood Pact</i> to be returned.</li>
     </ol>
@@ -33,7 +33,7 @@
     <li>If the Empyrean player plays a player&rsquo;s <i>Trade Agreement</i> promissory note, this will count for that player giving the Empyrean player all their commodities.</li>
     <li>The trade goods are not gained until after the transaction between the two players is resolved. As a pair of players is limited to one transaction per turn (which must involve the active player) or per agenda, the two players cannot then perform a transaction for these trade goods on the same turn.</li>
     <li><i>Dark Pact</i> has no effect while it is in a player&rsquo;s hand.</li>
-    <li><i>Dark Pact</i> is returned when the system is activated, even if the active player will perform no hostiles acts towards the Empyrean player this turn.</li>
+    <li><i>Dark Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Empyrean player this turn.</li>
     <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Dark Pact</i> to be returned.</li>
     <li>If an effect other than activating a system during a tactical action places a command counter in a system with the Empyrean player&rsquo;s units (for example, the primary ability of the <i>Diplomacy</i> strategy card), this will not cause <i>Dark Pact</i> to be returned.</li>
     </ol>
@@ -60,7 +60,7 @@
 
 <h1>Acamar <sub>(Agent)</sub></h1>
     <ol class="note">
-    <li>Exhausting Acamar is a cost.</li>
+    <li>Exhausting Acamar is a cost. The <i>Acamar</i> agent&rsquo;s ability cannot be used if it is exhausted.</li>
     </ol>
 
 <h1>Xuange <sub>(Commander)</sub></h1>
