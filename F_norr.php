@@ -14,6 +14,7 @@
 <h1>Valkyrie Particle Weave <sub>(Technology)</sub></h1>
     <ol class="note">
     <li>The hit produced by <i>Valkyrie Particle Weave</i> is added to any other hits produced in the immediately preceding <b>Roll Dice</b> step.</li>
+    <ol><li><i>Valkyrie Particle Weave</i> produces a hit before any hits may be cancelled. Cancelling the original hits will not cause the additional hit to be cancelled.</li></ol>
     <li>The N&rsquo;orr player producing zero hits with their combat roll will not prevent <i>Valkyrie Particle Weave</i> from producing an additional hit.</li>
     <li>If the opponent produces a hit, <i>Valkyrie Particle Weave</i> mandatorily produces a hit.</li>
     </ol>
@@ -40,11 +41,20 @@
     <ol class="note">
     <li>This ability allows the N&rsquo;orr player to commit ground forces to a planet even if they have no ships in the active system.</li>
     <li>The <i>Parley</i> action card will place the committed ground forces in the space area of the active system. If the N&rsquo;orr player does not have enough capacity in the space area for the extra ground forces, including zero capacity, they will have to remove fighters and ground forces to meet capacity limits.</li>
+    <i>The N&rsquo;orr player may only commit ground forces as the active player.</li>
     <li>Only the active player may use the <sc>Bombardment</sc> ability of their units during an invasion. As such, any ships in the active system will be unable to use their <sc>Bombardment</sc> ability ability unless they belong to the N&rsquo;orr player.</li>
     <ol><li>This prevents the L1Z1X player from using their <sc>Harrow</sc> faction ability, unless they have the N&rsquo;orr <i>Alliance</i> promissory note and they are the active player.</li></ol>
     <li>Another player may still produce hits against the N&rsquo;orr player&rsquo;s ground forces committed using G&rsquo;hom Sek&rsquo;kus during the <b>Space Cannon Defense</b> step.</li>
-    <li>Effects that prevent or affect movement, such as the N&rsquo;orr player&rsquo;s <i>Ceasefire</i> promissory note or anomalies, do not prevent ground forces from being committed.</li>
+    <li>The N&rsquo;orr player must legally be able to move into the destination system in order to commit ground forces with G&rsquo;hom Sek&rsquo;kus</li>
+    <ol>
+        <li>If another player plays the N&rsquo;orr player&rsquo;s <i>Ceasefire</i> promissory note, they cannot commit any ground forces to planets in the active system during this action.</li>
+        <li>The N&rsquo;orr player cannot commit ground forces to Mirrage if it is in an asteroid field, unless the N&rsquo;orr player owns the <i>Antimass Deflectors</i> technology.</li>
+        <li>The N&rsquo;orr player cannot commit ground forces to Mirrage if it is in a supernova. Another player may do so if they own the <i>Magmus Reactor</i> Muaat factional technology and the N&rsquo;orr player&rsquo;s Alliance promissory note.</li>
+        <li>If the N&rsquo;orr commits any ground forces from a gravity rift system, those ground forces must roll for removal.</li>
+        <li>The N&rsquo;orr player cannot commit ground forces through a wormhole if the <i>Enforced Travel Ban</i> law is in play.</li>
+    </ol>
     <li>The N&rsquo;orr player may use this ability to commit ground forces to any planet in the active system, regardless of who, if anyone, controls it.</li>
+    <li>The <i>Dominus Orb</i> relic does not allow the N&rsquo;orr player from committing ground forces from systems containing their command tokens.</li>
     <li>The <b>Commit Ground Forces</b> step is entirely resolved before the <b>Establish Control</b> step (with other steps between). When the N&rsquo;orr player gains control of their fifth non&ndash;home system planet, an unlocks G&rsquo;hom Sek&rsquo;kus, they cannot then use G&rsquo;hom Sek&rsquo;kus to commit additional ground forces during that tactical action.</li>
     <li>Ground forces cannot be committed to a planet if it has the <i>Demilitarized Zone</i> exploration card attached.</li>
     </ol>

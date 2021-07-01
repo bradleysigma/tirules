@@ -4,11 +4,13 @@
 <h1>Distant Suns</h1>
     <ol class="note">
     <li>If the Naaz&ndash;Rokha player has multiple Eidolon on the planet they explore, they will draw only one additional exploration card.</li>
+    <li>The Naaz&ndash;Rokha player must choose to use this ability before seeing the first exploration card.</li>
     </ol>
 
 <h1>Fabrication</h1>
     <ol class="note">
-    <li>If there are no cards in the relic deck, a player cannot gain a relic.</li>
+    <li>If the relic deck is empty, the Naaz&ndash;Rokha player may still purge two relic fragments as an action.</li>
+    <li>If the Naaz&ndash;Rokha player has no command tokens in their reinforcements, they may still purge one relic fragment as an action.</li>
     <li>Either or both of the relic fragments may be <i>Unknown Relic Fragments</i>.</li>
     </ol>
 
@@ -50,6 +52,7 @@
     <ol class="note">
     <li>The Naaz&ndash;Rokha player may choose to perform the secondary ability of zero, one or two strategy cards.</li>
     <li>If a player is eliminated, the strategy cards that they had are considered &ldquo;unchosen&rdquo;.</li>
+    <li>If the Naaz&ndash;Rokha player has no command tokens in their reinforcements, they must use a command token from their command sheet when performing the secondary ability of the strategy cards.</li>
     <li>If the Naaz&ndash;Rokha player has the Muaat player&rsquo;s promissory note, they will not gain a trade good from it when they use their <i>Perfect Synthesis</i> ability.</li>
     </ol>
 

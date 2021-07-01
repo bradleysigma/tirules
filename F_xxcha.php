@@ -29,7 +29,9 @@
 
 <h1>Nullification Field <sub>(Technology)</sub></h1>
     <ol class="note">
-    <li>The active player may still use any &ldquo;when/after you activate a system&rdquo; and &ldquo;at the end of your turn&rdquo; abilities.</li>
+    <li>The active player cannot use any &ldquo;when/after you activate a system&rdquo; abilities.</li>
+    <ol><li>Other players cannot use any &ldquo;when/after another player activates a system that&hellip;&rdquo; abilities.</li></ol>
+    <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.</li>
     </ol>
 
 <h1>Loncara Ssodu <sub>(Flagship)</sub></h1>
@@ -39,6 +41,7 @@
 <h1>Ggrocuto Rinn <sub>(Agent)</sub></h1>
     <ol class="note">
     <li>A planet is adjacent to both the system it is in, and every system adjacent to that.</li>
+    <li>A planet must be exhausted to be targeted by Ggrocuto Rinn.</li>
     </ol>
 
 <h1>Elder Qanoj <sub>(Commander)</sub></h1>
@@ -56,10 +59,11 @@
     <li>If the Xxcha player draws the <i>Covert Legislation</i> agenda, they will only draw a hidden agenda if they choose to reveal it.</li>
     <li>If the Xxcha player draws, reveals and resolves the <i>Miscount Disclosed</i> agenda, they cast one vote for an outcome of the elected law, and resolve it.</li>
     <li>If the Xxcha player draws, reveals and resolves the <i>Public Execution</i> agenda, the elected player may still vote in the agenda phase following the current action phase.</li>
-    <li>When the Xxcha player chooses and reveals the two laws, they may then use their <sc>Quash</sc> ability.</li>
-    <li>After the Xxcha player chooses and reveals the two laws, they may play any rider action cards on the revealed agendas.</li>
+    <li>When the Xxcha player chooses and reveals an agenda, they may then use their <sc>Quash</sc> ability.</li>
+    <li>After the Xxcha player chooses and reveals an agenda, they may play any rider action cards on the revealed agenda.</li>
     <li>The Xxcha player chooses the order the two agendas are resolved.</li>
-    <li>Both agendas are revealed before either is resolved.</li>
+    <li>The first agenda revealed is resolved before the second is revealed.</li>
+    <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, regardless of the Xxcha player&rsquo;s initiative.</li>
     <li>Other players may still perform one transaction total with the Xxcha player during this turn.</li>
     <li>If the <i>Representative Government</i> law is in play, it will have no effect on the Xxcha player as they resolve <i>Political Data Nexus</i>.</li>
     </ol>

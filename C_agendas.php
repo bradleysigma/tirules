@@ -80,6 +80,8 @@
     <li>If the Speaker draws <i>Classified Document Leaks</i>, <i>Judicial Abolishment</i>, <i>Miscount Disclosed</i> or <i>New Constitution</i>, when that agenda would be discarded if revealed, both the hidden agenda and <i>Covert Legislation</i> are discarded.</li>
     <li>Any effects that take place when or after an agenda is revealed instead take place when or after the speaker has drawn and announced the possible outcomes for the hidden agenda.</li>
     <li>If an effect, such as the <i>Veto</i> action card, would discard <i>Covert Legislation</i>, both it and the hidden agenda are discarded.</li>
+    <li>The hidden agenda is only revealed as it is resolved. All abilities that may be played after voting, such as the <i>Bribary</i>, <i>Confounding Legal Text</i>, <i>Confusing Legal Text</i> or <i>Deadly Plot</i> action cards, must be played before the agenda is revealed.</li>
+    <li>The speaker may still vote on <i>Covert Legislation</li>.</li>
     </ol>
 
 <h1>The Crown of Emphidia</h1>
@@ -180,7 +182,7 @@
     <ol class="note">
     <li>All units in that system may use their <sc>Production</sc> ability, not just the placed space dock.</li>
     <li>The produced units must be paid for.</li>
-    <li>An ability that puts a space dock on the game board by &ldquo;replacing&rdquo;, rather than &ldquo;placing&rdquo;, such as the <i>Infiltrate</i> action card, will not trigger <i>Minister of Industry</i>.</li>
+    <li>An ability that puts a space dock on the game board by &ldquo;replacing&rdquo;, rather than &ldquo;placing&rdquo;, such as the <i>Infiltrate</i> action card, will trigger <i>Minister of Industry</i>.</li>
     </ol>
 
 <h1>Minister of Peace</h1>
@@ -232,6 +234,7 @@
 
 <h1>New Constitution</h1>
     <ol class="note">
+    <li>If a player controls planets in another player&rsquo; home system, those planets are not exhausted by the ldquo;For&rdquo; outcome of <i>New Constitution</i>.</li>
     </ol>
 
 <h1>Nexus Sovereignty</h1>
@@ -270,7 +273,7 @@
 <h1>Rearmament Agreement</h1>
     <ol class="note">
     <li>A player that controls no planets in their home system will not place a mech if the &ldquo;For&rdquo; outcome of Rearmament Agreement is resolved.</li>
-    <li>If a player wishes to place a mech, but there are none in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead.</li>
+    <li>If a player wishes to place a mech, but there are none in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.</li>
     <li>A player that has no mechs on the game board is unaffected by the &ldquo;Against&rdquo; effect of Rearmament Agreement.</li>
     </ol>
 

@@ -18,6 +18,7 @@
     <li>Any number of action cards may be traded.</li>
     <li>A player may receive action cards even if doing so would put them over the seven action card hand limit. They must immediately discard down to seven action cards in this case.</li>
     <li>If the Hacan player has more than seven action cards, they must immediately discard down to seven action cards. They cannot trade away the excess.</li>
+    <li>If the Hacan player has their <i>Political Secret</i> played during an agenda, they may still trade action cards, as <sc>Arbiters</sc> is a passive ability.</li>
     </ol>
 
 <h1>Trade Convoys <sub>(Promissory Note)</sub></h1>
@@ -69,6 +70,7 @@
 <h1>Pride of Kenara <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>Structures are also moved.</li>
+    <li>The planet cannot be traded during combat.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

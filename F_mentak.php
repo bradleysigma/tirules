@@ -70,8 +70,8 @@
     <li>Fleet pool limits still apply during combat. However, if the Mentak is at their fleet pool limit, they may still place a unit using this ability, but must then immediately remove a unit.</li>
     <li>Capacity is not checked during combat. As such, the Mentak player may place an unlimited number of fighters into a combat with this ability.</li>
     <li>If all of the Mentak player&rsquo;s ships are destroyed, they may still place ships with this ability. If they do, combat will continue.</li>
-    <li>No cost is paid for the placed unit.</li>
-    <li>If the Mentak player wishes to place a unit with this ability, but there are none of that type left in their reinforcements, they can remove a unit of that type from any system that does not contain one of their command tokens and place that instead.</li>
+    <li>No costs are paid for the placed units.</li>
+    <li>If the Mentak player wishes to place a unit with this ability, but there are none of that type left in their reinforcements, they can remove a unit of that type from any system that does not contain one of their command tokens and place that instead. This unit will be placed undamaged.</li>
     <li>If the opponent has a faction specific ship, including their flagship, destroyed, the Mentak player may place a generic ship of the same type, or their <i>Fourth Moon</i>, as appropriate.</li>
     <li>If a destroyed unit is a ground force or structure, that the other player is treating as a ship due to some effect, the Mentak player cannot place that unit.</li>
     <li>The Mentak player cannot place a war sun unless they have the war sun technology.</li>

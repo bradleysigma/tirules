@@ -30,6 +30,8 @@
     <li>A player may only resolve a deploy ability to place a unit that is in their reinforcements. A player cannot remove a unit from the board to use its deploy ability.</li>
     <li>Each faction has sixteen command and seventeen control tokens included in the game.</li>
     <li>When a discard pile is shuffled to form a new deck, any cards that have been purged are not included.</li>
+    <li>If a player removes a unit in order to place it, because they have none of that unit type in their reinforcements, that unit is placed undamaged.</li>
+    <li>If a player is instructed to &ldquo;replace&rdquo; one unit with another, and they have none of the replacement unit type in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that unit instead.</li>
     </ol>
 
 <h1>Related Topics</h1>

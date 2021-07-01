@@ -18,6 +18,7 @@
 
 <h1>Become a Legend</h1>
     <ol class="note">
+    <li>The number of units in the system is irrelevant, if there is at least one.</li>
     <li>If Mirage is placed in an anomaly, that system will only count as one system towards the requirements of <i>Become a Legend</i>.</li>
     <li>Any system containing a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is a gravity rift, and thus, an anomaly.</li>
     </ol>
@@ -25,6 +26,9 @@
 <h1>Become a Martyr</h1>
     <ol class="note">
     <li>The lost planet may be in any player&rsquo;s home system. It does not have a planet in the home system of the player scoring <i>Become a Martyr</i>.</li>
+    <li>If the lost planet is the last planet a player controls, that player will be eliminated before they score <i>Become a Martyr</i>, if they meet the other requirements for elimination.</li>
+    <li>If the player with the <i>Shard of the Throne</i> relic loses their home system, they will lose the <i>Shard of the Throne</i> card and the associated victory point before they may score <i>Become a Martyr</i>.</li>
+    <li>The attacker will have the opportunity to score a secret objective before the defender has the opportunity to score <i>Become a Martyr</i>.</li>
     </ol>
 
 <h1>Become the Gatekeeper</h1>
@@ -77,6 +81,7 @@
 
 <h1>Control the Borderlands</h1>
     <ol class="note">
+    <li>The number of units in the system is irrelevant, if there is at least one.</li>
     <li>The Creuss Gate is not a home system.</li>
     <li>The Wormhole Nexus and the Creuss home system are both on the edge of the game board.</li>
     <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
@@ -105,6 +110,7 @@
 
 <h1>Defy Space and Time</h1>
     <ol class="note">
+    <li>The number of units in the system is irrelevant, if there is at least one.</li>
     </ol>
 
 <h1>Demonstrate Your Power</h1>
@@ -147,6 +153,7 @@
 <h1>Drive the Debate</h1>
     <ol class="note">
     <li>Any &ldquo;For&rdquo;/&ldquo;Against&rdquo; agenda cannot count for <i>Drive the Debate</i>, even if the outcome affects only a single player.</li>
+    <li><i>Drive the Debate</i> is scored after the agenda resolves. As such, the <i>Confounding Legal Text</i> and <i>Confusing Legal Text</i> action cards will allow only the newly elected player to score <i>Drive the Debate</i>, and the <i>Deadly Plot</i> action cards will prevent any player from scorind <i>Drive the Debate</i>.</li>
     </ol>
 
 <h1>Engineer a Marvel</h1>
@@ -165,6 +172,7 @@
 
 <h1>Establish Hegemony</h1>
     <ol class="note">
+    <li>With the right attachments, the requirements of <i>Establish Hegemony</i> can be met with a single planet.</li>
     </ol>
 
 <h1>Expand Borders</h1>
@@ -174,12 +182,14 @@
 
 <h1>Explore Deep Space</h1>
     <ol class="note">
+    <li>The number of units in the system is irrelevant, if there is at least one.</li>
     <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered empty.</li>
     </ol>
 
 <h1>Fight with Precision</h1>
     <ol class="note">
     <li>Scoring <i>Fight with Precision</i> will count as that player&rsquo;s single secret objective scoring for that combat.</li>
+    <li>If a player&rsquo;s last fighter in a system is destroyed, but an ability allows that player to then place fighters into that system, <i>Fight with Precision</i> may still be scored.</li>
     </ol>
 
 <h1>Forge an Alliance</h1>
@@ -226,6 +236,7 @@
 
 <h1>Hoard Raw Materials</h1>
     <ol class="note">
+    <li>With the right attachments, the requirements of <i>Hoard Raw Materials</i> can be met with a single planet.</li>
     </ol>
 
 <h1>Hold Vast Reserves</h1>
@@ -236,7 +247,7 @@
 
 <h1>Improve Infrastructure</h1>
     <ol class="note">
-    <li>The number of structures on a planet is irrelevant, if it has at least one.</li>
+    <li>The number of structures on the planet is irrelevant, if there is at least one.</li>
     <li>The structures may be on planets in another player&rsquo;s home system.</li>
     <li>The Saar player&rsquo;s Floating Factories cannot be used to score <i>Improve Infrastructure</i>.</li>
     </ol>
@@ -262,11 +273,13 @@
     <ol class="note">
     <li>If the last ground force is destroyed using the <i>X&ndash;89 Bacterial Weapon &Omega;</i> technology, <i>Make an Example of Their World</i> cannot be scored.</li>
     <li>Scoring <i>Make an Example of Their World</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.</li>
+    <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World</i> may still be scored.</li>
     <li>The L1Z1X player may score <i>Make an Example of Their World</i> by using their <sc>Harrow</sc> faction ability. If they do they cannot score another objective during that ground combat.</li>
     </ol>
 
 <h1>Make History</h1>
     <ol class="note">
+    <li>The number of units in the system is irrelevant, if there is at least one.</li>
     <li>If Mirage is placed in an anomaly, that system will only count as one system towards the requirements of <i>Make History</i>.</li>
     <li>Any system containing a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is a gravity rift, and thus, an anomaly.</li>
     </ol>
@@ -314,11 +327,13 @@
 
 <h1>Patrol Vast Territories</h1>
     <ol class="note">
+    <li>The number of units in the system is irrelevant, if there is at least one.</li>
     <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered empty.</li>
     </ol>
 
 <h1>Populate the Outer Rim</h1>
     <ol class="note">
+    <li>The number of units in the system is irrelevant, if there is at least one.</li>
     <li>The Creuss Gate is not a home system.</li>
     <li>The Wormhole Nexus and the Creuss home system are both on the edge of the game board.</li>
     <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
@@ -331,11 +346,12 @@
 
 <h1>Produce en Masse</h1>
     <ol class="note">
+    <li>The number of units in the system is irrelevant, if there is at least one.</li>
     </ol>
 
 <h1>Protect the Border</h1>
     <ol class="note">
-    <li>The number of structures on a planet is irrelevant, if it has at least one.</li>
+    <li>The number of structures on the planet is irrelevant, if there is at least one.</li>
     <li>The structures may be on planets in another player&rsquo;s home system.</li>
     <li>The Saar player&rsquo;s Floating Factories cannot be used to score <i>Protect the Border</i>.</li>
     </ol>
@@ -366,7 +382,7 @@
 <h1>Rule Distant Lands</h1>
     <ol class="note">
     <li>A player will qualify for <i>Rule Distant Lands</i> if they can select two home systems other than their own, and they control a planet in or adjacent to each of those systems.</li>
-    <li>If a player controls a single planet in a home system that is adjacent to another home system via the use of wormholes, that will not qualify them for <i>Rule Distant Lands</i>.</li>
+    <li>If a player controls a single planet in a home system that is adjacent to another home system via the use of wormholes, that planet alone will not qualify them for <i>Rule Distant Lands</i>.</li>
     </ol>
 
 <h1>Seize an Icon</h1>
@@ -419,6 +435,7 @@
     <ol class="note">
     <li>If the last ship is destroyed using a <i>Direct Hit</i> action card, <i>Turn Their Fleets to Dust</i> cannot be scored.</li>
     <li>If a player still has fighters in a system after assigning all hits produced during <b>Space Cannon Offense</b> step, but is forced to remove all of them to meet capacity limits, <i>Turn Their Fleets to Dust</i> cannot be scored.</li>
+    <li>If a player&rsquo;s last ship in a system is destroyed, but an ability allows that player to then place ships into that system, <i>Turn Their Fleets to Dust</i> may still be scored.</li>
     <li>Scoring <i>Turn Their Fleets to Dust</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.</li>
     </ol>
 

@@ -67,6 +67,9 @@
         <li>Following on from the above example, had Alice declined to resolve &ldquo;Alice &num;2&rdquo;, she could still resolve &ldquo;Alice &num;3&rdquo;, as Cheng resolved &ldquo;Cheng &num;2&rdquo;, breaking the series of consecutive declinations. However, if Alice had instead declined to resolve &ldquo;Alice &num;3&rdquo;, she would be unable to resolve &ldquo;Alice &num;4&rdquo;, as then each player would have consecutively declined to resolve an ability.</li>
     </ol>
     <li>The secondary abilities of strategy cards are resolved in clockwise order, after the primary ability.</li>
+    <li>A player may resolve &ldquo;at the start of your turn&rdquo; and &ldquo;at the end of your turn&rdquo; abilities on the turn that they pass.</li>
+    <li>All abilities that occurs &ldquo;when&rdquo; an event occurs all trigger before any abilities that occur &ldquo;after&rdquo; the same event occurs.</li>
+    <li>All abilities that occurs &ldquo;after&rdquo; an event occurs all trigger before any abilities that occur &ldquo;before&rdquo; the next event occurs.</li>
     </ol>
 <h1>Related Topics</h1>
     <ul>

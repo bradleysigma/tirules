@@ -22,6 +22,7 @@
     <ol class="note">
     <li>Players may still play non&ndash;component action action cards after they have passed.</li>
     <li>Any abilities that occur at the end of an action happen before any abilities that occur at the end of a player&rsquo;s turn.</li>
+    <li>A player may resolve &ldquo;at the start of your turn&rdquo; and &ldquo;at the end of your turn&rdquo; abilities on the turn that they pass.</li>
     <li>If all other players have passed, a player will continue to resolve &ldquo;at the start of your turn&rdquo; and &ldquo;at the end of your turn&rdquo; abilities.</li>
     </ol>
 

@@ -26,6 +26,7 @@
     <ol class="note">
     <li>The Nomad player may perform a transaction with another player even if neither player is the active player.</li>
     <ol><li><i>Temporal Command Suite</i> may allow the Nomad player to perform a transaction at a time they usually could not. For example, if the Mentak player exhausts their Suffi An agent during the strategy phase when another player gains the trade goods on the strategy card they chose, the Nomad player may use <i>Temporal Command Suite</i> and then perform a transaction with the Mentak player.</li></ol>
+    <li><i>Temporal Command Suite</i> may allow the Nomad player to perform a second transaction with another player during one turn, before or after the regular transaction.</li>
     <li>An agent cannot be resolved twice in one timing window. If a player&rsquo;s agent is readied immediately after resolving, it cannot immediately resolve again.</li>
     </ol>
 
@@ -63,9 +64,9 @@
 <h1>Navarch Feng <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>Producing the flagship still counts towards <sc>Production</sc> limits.</li>
-    <li>The flagship still has a cost of 8</li>
+    <li>The flagship still has a cost of 8.</li>
     <ol>
-        <li>It cannot be produced with abilities that are limited by the cost of units, such as the <i>Integrated Economy</i> technology or the Muaat player's agent.</li>
+        <li>The flagship cannot be produced with abilities that are limited by the cost of units, such as the <i>Integrated Economy</i> technology or the Muaat player&rsquo;s agent.</li>
         <li>If the flagship is chosen for the <i>Scuttle</i> action card, the player gains 8 trade goods.</li>
     </ol>
     </ol>

@@ -32,6 +32,8 @@
     <ol class="note">
     <li>An exploration cards that purges itself is not discarded into its respective discard pile.</li>
     <li><i>Enigmatic Device</i> and <i>Ion Storm</i> are placed into play, not into the frontier discard pile.</li>
+    <li>If a player is to gain multiple planets in a system, they choose the order in which they gain them, and explore each planet as they gain it before gaining the next.</li>
+    <li>A player may perform transactions after revealing an exploration card and before resolving it.</li>
     <li>Before resolving an exploration card, it is revealed to all players.</li>
     <li>For notes about specific exploration cards, see the <a href="/C_exploration_cards">exploration cards notes page</a>.</li>
     </ol>

@@ -20,6 +20,12 @@
     <li>A system with a wormhole is not an anomaly.</li>
     <li>If a system contains multiple wormholes of the same type, those are treated as separate wormholes.</li>
     <li>A system cannot be adjacent to itself, even if it has multiple wormholes in it.</li>
+    <li>A player chooses the path of adjacent systems each ship moves through during movement. If two systems on that are adjacent because of a wormhole, that ship moves through that wormhole.</li>
+    <ol>
+        <li>If the two systems are adjacent because of a wormhole and because of a shared edge or another reason, the player may choose whether or not the ship moves through the wormhole.</li>
+        <li>If the two systems are adjacent because of two types of wormhole, the player chooses which type of wormhole the ship moves through.</li>
+        <li>A player may move a ship back and forward through a wormhole between two systems any number of times, if its movement value is high enough.</li>
+    </ol>
     <li>For more information on how the Creuss interact with wormholes, see <a href="/F_creuss">their faction notes page</a>.</li>
     </ol>
 

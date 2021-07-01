@@ -24,7 +24,7 @@
     <li>A unit may be produced on each of the Saar player&rsquo;s turns; <i>Chaos Mapping</i> is not exhausted.</li>
     <ol><li>A unit may be produced on the turn the Saar player passes.</li></ol>
     <li>A player may still use abilities such as <sc>Deep Space Cannon</sc> that affect the Saar player&rsquo;s units located in asteroid fields.</li>
-    <li>If an asteroid field contains non-ship units belonging to the Saar player, it can still be activated by other players.</li>
+    <li>If an asteroid field contains non&ndash;ship units belonging to the Saar player, it can still be activated by other players.</li>
     </ol>
 
 <h1>Floating Factory <sub>(Unit)</sub></h1>
@@ -51,9 +51,12 @@
 <h1>Captain Mendosa <sub>(Agent)</sub></h1>
     <ol class="note">
     <li>The Saar player does not decide to use this ability until after the other player has activated a system. Any deal made to use this ability before the system has been activated is non&ndash;binding.</li>
-    <li>Other effects may be used to modify any ship&rsquo;s move value before or after this ability is used.</li>
-    <ol><li>The effect must be in place when the ability is activated. For example, gravity rifts apply the +1 during movement. This modifier will not be included in Captain Mendosa&rsquo;s effect.</li></ol>
-    <li>The nebula effect of setting all the move value of all ships in that system to one will override any increase provided by Captain Mendosa&rsquo;s effect.</li>
+    <li>The effect of Captain Mendosa occurs when the system is activated. The move value will be set to the chosen ship&rsquo;s move value during this window.</li>
+    <ol>
+        <li>Move value modifying effects that trigger after a system is activated, such as the <i>Flank Speed</i> action card or the <i>Gravity Drive</i> technology will not be included in Captain Mendosa&rsquo;s effect.</li></ol>
+        <li>Gravity rifts apply the +1 during movement. This modifier will not be included in Captain Mendosa&rsquo;s effect.</li></ol>
+    </li>
+    <li>The nebula effect of setting all the move value of all ships in that system to one will be overwritten by Captain Mendosa&rsquo;s effect.</li>
     </ol>
 
 <h1>Rowl Sarring <sub>(Commander)</sub></h1>

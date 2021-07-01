@@ -17,6 +17,7 @@
     <li>As each player only has ten plastic fighter figures, a player cannot have fighters in more than ten systems.</li>
     <li>Players may also swap fighter tokens for plastic pieces at any time.</li>
     <li>Fighter tokens are not component limited.</li>
+    <li>A future rule change will have any unaccompanied fighter tokens removed, instead of destroyed.</li>
     </ol>
 
 <h1>Related Topics</h1>
