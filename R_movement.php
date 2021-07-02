@@ -32,7 +32,7 @@
     <ol><li>During a retreat, units may be transported from the active system.</li></ol>
     <li>A ship that can both move and be transported (i.e. Fighter II) cannot do both by &ldquo;meeting&rdquo; a ship with capacity partway though a tactical action movement, as all movement is simultaneous.</li>
     <li>Ships only move &ldquo;into&rdquo; the destination system. A ship will move &ldquo;through&rdquo; other systems.</li>
-    <li>Fighters alone will block other player&rsquo;s ships from moving through that system, whether they are accompanied by a Spack Dock or they are Fighters II.</li>
+    <li>Fighters alone will block other player&rsquo;s ships from moving through that system, whether they are accompanied by a Space Dock or they are Fighters II.</li>
     </ol>
 
 <h1>Related Topics</h1>

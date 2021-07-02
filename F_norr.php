@@ -48,13 +48,13 @@
     <li>The N&rsquo;orr player must legally be able to move into the destination system in order to commit ground forces with G&rsquo;hom Sek&rsquo;kus</li>
     <ol>
         <li>If another player plays the N&rsquo;orr player&rsquo;s <i>Ceasefire</i> promissory note, they cannot commit any ground forces to planets in the active system during this action.</li>
-        <li>The N&rsquo;orr player cannot commit ground forces to Mirrage if it is in an asteroid field, unless the N&rsquo;orr player owns the <i>Antimass Deflectors</i> technology.</li>
-        <li>The N&rsquo;orr player cannot commit ground forces to Mirrage if it is in a supernova. Another player may do so if they own the <i>Magmus Reactor</i> Muaat factional technology and the N&rsquo;orr player&rsquo;s Alliance promissory note.</li>
-        <li>If the N&rsquo;orr commits any ground forces from a gravity rift system, those ground forces must roll for removal.</li>
+        <li>The N&rsquo;orr player cannot commit ground forces to Mirage if it is in an asteroid field, unless the N&rsquo;orr player owns the <i>Antimass Deflectors</i> technology.</li>
+        <li>The N&rsquo;orr player cannot commit ground forces to Mirage if it is in a supernova. Another player may do so if they own the <i>Magmus Reactor</i> Muaat factional technology and the N&rsquo;orr player&rsquo;s Alliance promissory note.</li>
+        <li>If the N&rsquo;orr player commits any ground forces from a gravity rift system, those ground forces must roll for removal.</li>
         <li>The N&rsquo;orr player cannot commit ground forces through a wormhole if the <i>Enforced Travel Ban</i> law is in play.</li>
     </ol>
     <li>The N&rsquo;orr player may use this ability to commit ground forces to any planet in the active system, regardless of who, if anyone, controls it.</li>
-    <li>The <i>Dominus Orb</i> relic does not allow the N&rsquo;orr player from committing ground forces from systems containing their command tokens.</li>
+    <li>The <i>Dominus Orb</i> relic does not allow the N&rsquo;orr player to committ ground forces from systems containing their command tokens.</li>
     <li>The <b>Commit Ground Forces</b> step is entirely resolved before the <b>Establish Control</b> step (with other steps between). When the N&rsquo;orr player gains control of their fifth non&ndash;home system planet, an unlocks G&rsquo;hom Sek&rsquo;kus, they cannot then use G&rsquo;hom Sek&rsquo;kus to commit additional ground forces during that tactical action.</li>
     <li>Ground forces cannot be committed to a planet if it has the <i>Demilitarized Zone</i> exploration card attached.</li>
     </ol>

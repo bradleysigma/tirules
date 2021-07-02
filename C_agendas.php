@@ -80,7 +80,7 @@
     <li>If the Speaker draws <i>Classified Document Leaks</i>, <i>Judicial Abolishment</i>, <i>Miscount Disclosed</i> or <i>New Constitution</i>, when that agenda would be discarded if revealed, both the hidden agenda and <i>Covert Legislation</i> are discarded.</li>
     <li>Any effects that take place when or after an agenda is revealed instead take place when or after the speaker has drawn and announced the possible outcomes for the hidden agenda.</li>
     <li>If an effect, such as the <i>Veto</i> action card, would discard <i>Covert Legislation</i>, both it and the hidden agenda are discarded.</li>
-    <li>The hidden agenda is only revealed as it is resolved. All abilities that may be played after voting, such as the <i>Bribary</i>, <i>Confounding Legal Text</i>, <i>Confusing Legal Text</i> or <i>Deadly Plot</i> action cards, must be played before the agenda is revealed.</li>
+    <li>The hidden agenda is only revealed as it is resolved. All abilities that may be played after voting, such as the <i>Bribery</i>, <i>Confounding Legal Text</i>, <i>Confusing Legal Text</i> or <i>Deadly Plot</i> action cards, must be played before the agenda is revealed.</li>
     <li>The speaker may still vote on <i>Covert Legislation</li>.</li>
     </ol>
 
@@ -234,7 +234,7 @@
 
 <h1>New Constitution</h1>
     <ol class="note">
-    <li>If a player controls planets in another player&rsquo; home system, those planets are not exhausted by the ldquo;For&rdquo; outcome of <i>New Constitution</i>.</li>
+    <li>If a player controls planets in another player&rsquo;s home system, those planets are not exhausted by the ldquo;For&rdquo; outcome of <i>New Constitution</i>.</li>
     </ol>
 
 <h1>Nexus Sovereignty</h1>

@@ -153,7 +153,7 @@
 <h1>Drive the Debate</h1>
     <ol class="note">
     <li>Any &ldquo;For&rdquo;/&ldquo;Against&rdquo; agenda cannot count for <i>Drive the Debate</i>, even if the outcome affects only a single player.</li>
-    <li><i>Drive the Debate</i> is scored after the agenda resolves. As such, the <i>Confounding Legal Text</i> and <i>Confusing Legal Text</i> action cards will allow only the newly elected player to score <i>Drive the Debate</i>, and the <i>Deadly Plot</i> action cards will prevent any player from scorind <i>Drive the Debate</i>.</li>
+    <li><i>Drive the Debate</i> is scored after the agenda resolves. As such, the <i>Confounding Legal Text</i> and <i>Confusing Legal Text</i> action cards will allow only the newly elected player to score <i>Drive the Debate</i>, and the <i>Deadly Plot</i> action cards will prevent any player from scoring <i>Drive the Debate</i>.</li>
     </ol>
 
 <h1>Engineer a Marvel</h1>

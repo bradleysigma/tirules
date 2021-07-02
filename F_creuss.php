@@ -72,7 +72,7 @@
 
 <h1>Sai Seravus <sub>(Commander)</sub></h1>
     <ol class="note">
-    <li>The fighters are placed one at a time, until either one has been placed for each ship with capacty that moved through a wormhole, or the capacity of the system is reached.</li>
+    <li>The fighters are placed one at a time, until either one has been placed for each ship with capacity that moved through a wormhole, or the capacity of the system is reached.</li>
     <ol>
 	    <li>The Creuss player cannot remove a ground force to create capacity for a fighter.</li>
         <li>If the Creuss player has the Fighter II unit upgrade technology, they may count some fighters they place towards their fleet supply (without removing any other ships) in order to continue placing fighters.</li>

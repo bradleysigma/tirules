@@ -3,8 +3,8 @@
 <article>
 <h1>Edict</h1>
     <ol class="note">
-    <li>If the Mahact player is every required to remove one of their command tokens from their fleet pool, and they only have other players&rsquo; command tokens in their fleet pool, they must remove on of their tokens, and return it to the reinforcements of the player taht owns it.</li>
-    <li>If the Mahact player is ever limited by the number of tokens they may have in their fleet pool, such as by the <i>Fleet Regulations</i> law, they may still add a command token to their fleet pool when they are at the limit, but must then remove one command token and return it to the corrosponding reinforcements.</li>
+    <li>If the Mahact player is ever required to remove one of their command tokens from their fleet pool, and they only have other players&rsquo; command tokens in their fleet pool, they must remove one of their tokens, and return it to the reinforcements of the player that owns it.</li>
+    <li>If the Mahact player is ever limited by the number of tokens they may have in their fleet pool, such as by the <i>Fleet Regulations</i> law, they may still add a command token to their fleet pool when they are at the limit, but must then remove one command token and return it to the corresponding reinforcements.</li>
     </ol>
 
 <h1>Imperia</h1>
@@ -42,7 +42,7 @@
     <ol class="note">
     <li>When resolving the secondary ability of the <i>Construction</i> strategy card, the active player&rsquo;s command token is placed in the system the Mahact player places their structure.</li>
     <ol>
-        <li>If the Mahact chooses to resolve the secondary ability of the <i>Construction</i> strategy card, they must choose a system in which they can place a structure.</li>
+        <li>If the Mahact player chooses to resolve the secondary ability of the <i>Construction</i> strategy card, they must choose a system in which they can place a structure.</li>
         <li>If the Mahact player already has a command token in the chosen system, they place one of the active player&rsquo;s command tokens in that system regardless.</li>
     </ol>
     <li>If the Mahact player has the Muaat player&rsquo;s promissory note, they will not gain a trade good from it when they use the ability of Jae Mir Kan.</li>

@@ -56,7 +56,7 @@
         <li>Move value modifying effects that trigger after a system is activated, such as the <i>Flank Speed</i> action card or the <i>Gravity Drive</i> technology will not be included in Captain Mendosa&rsquo;s effect.</li></ol>
         <li>Gravity rifts apply the +1 during movement. This modifier will not be included in Captain Mendosa&rsquo;s effect.</li></ol>
     </li>
-    <li>The nebula effect of setting all the move value of all ships in that system to one will be overwritten by Captain Mendosa&rsquo;s effect.</li>
+    <li>The nebula effect of setting the move value of all ships in that system to one will be overwritten by Captain Mendosa&rsquo;s effect.</li>
     </ol>
 
 <h1>Rowl Sarring <sub>(Commander)</sub></h1>

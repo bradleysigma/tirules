@@ -76,7 +76,7 @@
     <li>When the Ul player would place multiple PDS during a single step, they may resolve a <sc>Deploy</sc> ability to place one Hecatoncheries for any or all of those PDS.</li>
     <li>A <sc>Deploy</sc> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four of the Hecatoncheries are already on the board, no Hecatoncheries may be deployed.</li>
     <li>The Ul player cannot place a PDS on a planet that already has two of their PDS on it. As such, they are unable to place a Hecatoncheries on a planet with two of their PDS using its <sc>Deploy</sc> ability.</li>
-    <li>The Ul player must have at least one PDS in their reinforcements to place in order to use the <sc>Deploy</sc> ability of a Hecatoncheries. However, when they would place a PDS, they may remove a PDS from any system that does not contain one of their command tokens and put it in their reinforcements. They may then use the <sc>Deploy</sc> ability of a Hecatoncheries.</li>
+    <li>The Ul player must have at least one PDS in their reinforcements in order to use the <sc>Deploy</sc> ability of a Hecatoncheires. However, when they would place a PDS, they may remove a PDS from any system that does not contain one of their command tokens and put it in their reinforcements. They may then use the <sc>Deploy</sc> ability of a Hecatoncheries.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>
