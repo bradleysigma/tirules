@@ -29,6 +29,7 @@
         <li>The carrier may transport nothing, leaving behind all eight of the infantry in the system. Now that the system has zero capacity, all four of the fighters will be removed.</li>
         <li>The carrier cannot attempt to pick up all eight infantry, even if it immediately removes four of them (and the fighters).</li>
     </ol>
+    <li>A future rule change will allow a player&rsquo;s ships to transport units from systems that contain that player&rsquo;s command token when those ships move outside of a tactical action.</li>
     </ol>
 
 <h1>Related Topics</h1>

@@ -83,7 +83,7 @@
 
 <h1>Decoy Operation</h1>
     <ol class="note">
-    <li>Any damaged mechs remain damaged.</li>
+    <li>If a mech is damaged when it is removed, it will remain damaged when it is placed.</li>
     </ol>
 
 <h1>Diplomacy Rider</h1>
@@ -232,7 +232,8 @@
 <h1>Impersonation</h1>
     <ol class="note">
     <li>A player cannot play <i>Impersonation</i> if they have less than three influence available.</li>
-    <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.</li>
+    <li>A player with three secret objectives may draw a fourth, and then shuffle one of their unscored secret objectives into the secret objective deck.</li>
+    <ol><li>If a player has scored three secret objectives, they may use <i>Impersonation</i> to draw a secret objective, then immediately shuffle it into the secret objective deck.</li></ol>
     </ol>
 
 <h1>In The Silence Of Space</h1>
@@ -248,6 +249,7 @@
     <ol class="note">
     <li>If the L1Z1X player plays <i>Infiltrate</i> before they resolve their <sc>Assimilate</sc> ability, or vice versa, they will replace zero PDS and space docks with zero PDS and space docks when they resolve the latter ability.</li>
     <li>If a player wishes to place a structure, but there are none of that type left in their reinforcements, they may remove a structure of that type from any system that does not contain one of their command tokens and place that instead. That player may make the choice for each structure.</li>
+    <ol><li>The Ul player will place each of their Hel Titan PDS undamaged.</li></li>
     </ol>
 
 <h1>Insider Information</h1>
@@ -389,12 +391,14 @@
 <h1>Refit Troops</h1>
     <ol class="note">
     <li>A player must have at least one infantry on the game board to play and resolve <i>Refit Troops</i>.</li>
+    <li>If a player has no mechs left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.</li>
     </ol>
 
 <h1>Reflective Shielding</h1>
     <ol class="note">
     <li>If <i>Reflective Shielding</i> is played after a ship uses its <sc>Sustain Damage</sc> ability during an <b>Assign Hits</b> step, then the hits produced by <i>Reflective Shielding</i> are added to any other hits produced in the immediately proceeding <b>Roll Dice</b> step.</li>
     <ol><li>A unit that used its <sc>Sustain Damage</sc> ability to cancel some of those other hits, and been repaired, cannot use is <sc>Sustain Damage</sc> ability again to cancel the hits produced by <i>Reflective Shielding</i>.</li></ol>
+    <li>If <i>Reflective Shielding</i> is played after a ship uses its <sc>Sustain Damage</sc> ability at any other time during combat (for example, when the Creuss player uses their <i>Dimensional Splicer</i> faction technology ability), the hits are assigned immediately.</li>
     </ol>
 
 <h1>Reparations</h1>
@@ -554,7 +558,7 @@
     <ol class="note">
     <li>The cruiser must be in the system when it is activated for <i>Upgrade</i> to be played. <i>Upgrade</i> cannot be played if the cruiser is moved into the active system later in the turn.</li>
     <li>A player must have at least one cruiser in the active system to play and resolve <i>Upgrade</i>.</li>
-    <li>If a player wishes to place a dreadnought, but there are none left in their reinforcements, they may remove a dreadnought from any system that does not contain one of their command tokens and place that instead.</li>
+    <li>If a player wishes to place a dreadnought, but there are none left in their reinforcements, they may remove a dreadnought from any system that does not contain one of their command tokens and place that instead. This dreadnought will be placed undamaged.</li>
     </ol>
 
 <h1>Uprising</h1>
@@ -573,7 +577,7 @@
 
 <h1>War Effort</h1>
     <ol class="note">
-    <li>If a player wishes to place a cruiser, but there are none left in their reinforcements, they may remove a cruiser from any system that does not contain one of their command tokens and place that instead.</li>
+    <li>If a player wishes to place a cruiser, but there are none left in their reinforcements, they may remove a cruiser from any system that does not contain one of their command tokens and place that instead. This cruiser will be placed undamaged.</li>
     </ol>
 
 <h1>War Machine</h1>
@@ -588,7 +592,7 @@
     <ol><li>Any other riders may be played to predict the same or a different outcome.</li></ol>
     <li>The effect of a successful <i>Warfare Rider</i> will be resolved after the effect of the agenda.</li>
     <li>A player who cannot vote may still play a <i>Warfare Rider</i>.</li>
-    <li>If a player wishes to place a dreadnought, but there are none in their reinforcements, they may remove a dreadnought from any system that does not contain one of their command tokens and place that instead.</li>
+    <li>If a player wishes to place a dreadnought, but there are none in their reinforcements, they may remove a dreadnought from any system that does not contain one of their command tokens and place that instead. This dreadnought will be placed undamaged.</li>
     </ol>
 
 <h1>Waylay</h1>

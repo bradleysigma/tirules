@@ -15,6 +15,8 @@
 
 <h1>Notes</h1>
     <ol class="note">
+    <li>If the relic deck is empty, a player may still purge three relic fragments as an action.</li>
+    <li>If an eliminated player had any relic fragments, they are discarded to their respective exploration discard piles. If an eliminated player had any relics, they are purged.</li>
     <li>For notes about specific relics, see the <a href="/C_relics">relic notes page</a>.</li>
     </ol>
 

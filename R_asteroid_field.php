@@ -11,6 +11,7 @@
 <h1>Notes</h1>
     <ol class="note">
     <li>A player with the <i>Antimass Deflectors</i> technology may move their ships through asteroid fields.</li>
+    <li>A future rule change will place the ship movement restrictions of anomalies upon all units.</li>
     </ol>
 
 <h1>Related Topics</h1>

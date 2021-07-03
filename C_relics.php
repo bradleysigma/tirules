@@ -13,6 +13,7 @@
 
 <h1>The Crown of Thalnos</h1>
     <ol class="note">
+    <li>A player may only reroll combat rolls with <i>The Crown of Thalnos</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.</li>
     <li>If a unit rolls multiple dice, it will not be destroyed if it produces at least one hit from its original roll, and that dice is not rerolled, even if it produces no hits from its reroll.</li>
     <li>A reroll caused by any other effect will not cause a unit to be destroyed.</li>
     <li>Units destroyed by <i>The Crown of Thalnos</i> are destroyed at the end of the <b>Roll Dice</b> step, before the <b>Assign Hits</b> step.</li>
@@ -25,10 +26,10 @@
 
 <h1>Dynamis Core</h1>
     <ol class="note">
-    <li>If a player uses the purge ability of <i>Dynamis Core</i>, they may need to return commodities if they now exceed their original commodity value.</li>
+    <li>If a player uses the purge ability of <i>Dynamis Core</i>, they will need to return commodities if they now exceed their original commodity value.</li>
     </ol>
 
-<h1>JR-XS455-O</h1>
+<h1>JR&ndash;XS455&ndash;O</h1>
     <ol class="note">
     <li><i>JR-XS455-O</i> is an agent. All rules that apply to agents (and leaders) applies to <i>JR-XS455-O</i>.</li>
     <ol>

@@ -20,6 +20,7 @@
 <h1>Sling Relay</h1>
     <ol class="note">
     <li>The produced unit must be paid for.</li>
+    <li><i>Sling Relay</i> cannot be used without producing a unit.</li>
     </ol>
 
 <h1>Fleet Logistics</h1>
@@ -91,6 +92,7 @@
     <ol class="note">
     <li>If multiple mechs are destroyed, the trade goods are gained one at a time.</li>
     <li>A mech cannot be placed in a space area with <i>Self&ndash;Assembly Routines</i>, and so cannot be placed in a system that does not contain a planet.</li>
+    <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.</li>
     </ol>
 
 <h1>Duranium Armor</h1>
@@ -128,16 +130,17 @@
 
 <h1>Predictive Intelligence</h1>
     <ol class="note">
+    <li>Neither ability of <i>Predictive Intelligence</i> may be used if it is exhausted.</li>
     <li>If a player removes any tokens from their fleet pool, they will need to meet their new fleet pool limits before any other effects may resolve.</li>
     </ol>
 
 <h1>Transit Diodes</h1>
     <ol class="note">
     <li>When resolving the ability of <i>Transit Diodes</i>, that player may remove ground forces from a system containing their command token.</li>
-    <li>The ground forces may be on a planet or in a space area.</li>
-    <li>The ground forces may be from different systems.</li>
+    <li>The ground forces may be removed from on a planet or from in a space area.</li>
+    <li>The ground forces may be removed from different systems.</li>
     <li>The ground forces may be placed on different planets.</li>
-    <li>Any damaged mechs remain damaged.</li>
+    <li>If a mech is damaged when it is removed, it will remain damaged when it is placed.</li>
     </ol>
 
 <h1>Integrated Economy</h1>

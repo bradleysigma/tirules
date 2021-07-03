@@ -51,7 +51,7 @@
     <ol class="note">
     <li>The replaced ship is not destroyed. The replacing ship is not produced.</li>
     <ol><li>The <i>Sarween Tools</i> technology and similar effects will not allow a more expensive ship to be placed.</li></ol>
-    <li>If the player wishes to place a ship, but there are none of that type left in their reinforcements, they may remove a ship of that type from any system that does not contain one of their command tokens and place that instead.</li>
+    <li>If the player wishes to place a ship, but there are none of that type left in their reinforcements, they may remove a ship of that type from any system that does not contain one of their command tokens and place that instead. This ship will be placed undamaged.</li>
     </ol>
 
 <h1>Dirzuga Rophal <sub>(Commander)</sub></h1>
@@ -60,7 +60,7 @@
     <li>The unit is produced before ships move. A ship may be produced if no other player currently has ships in that system.</li>
     <li>No unit is using its <sc>Production</sc> ability. The <i>Sarween Tools</i> technology and similar effects will not apply.</li>
     <li>If a ground force is produced, it may be placed on any planet the Arborec player controls in that system, regardless of what units, if any, the Arborec player has on that planet. The produced ground force may also be placed in the space area of that system.</li>
-    <li>If the Arborec player wishes to place a unit, but there are none of that type left in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that instead.</li>
+    <li>If the Arborec player wishes to place a unit, but there are none of that type left in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that instead. This unit will be placed undamaged.</li>
     </ol>
 
 <h1>Letani Miasmiala &mdash; Ultrasonic Emitter <sub>(Hero)</sub></h1>

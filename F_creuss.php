@@ -58,6 +58,7 @@
     <li>If the <i>Hil Colish</i> moves before or after other ships, it does not generate a second <b>Space Cannon Offense</b> step.</li>
     <li>A unit with the <sc>Deep Space Cannon</sc> ability may produce hits in systems adjacent to that unit via the delta wormhole in the <i>Hil Colish</i>&rsquo;s system.</li>
     <li>If an effect allows another player to move through a system that contains the Creuss player&rsquo;s ships (such as the <i>Light/Wave Deflector</i> technology), that player may move through the delta wormhole in the <i>Hil Colish</i>&rsquo;s system.</li>
+    <li>When the <i>Hil Colish</i> retreats, it may retreat before or after the Creuss player&rsquo;s other ships, but cannot retreat in such a way that would prevent the other ships from retreating to the same system.</li>
     </ol>
 
 <h1>Emissary Taivra <sub>(Agent)</sub></h1>
@@ -71,7 +72,12 @@
 
 <h1>Sai Seravus <sub>(Commander)</sub></h1>
     <ol class="note">
-    <li>The Creuss player cannot remove a ground force to create capacity for a fighter.</li>
+    <li>The fighters are placed one at a time, until either one has been placed for each ship with capacity that moved through a wormhole, or the capacity of the system is reached.</li>
+    <ol>
+        <li>The Creuss player cannot remove a ground force to create capacity for a fighter.</li>
+        <li>If the Creuss player has the Fighter II unit upgrade technology, they may count some of the fighters they place towards their fleet supply (without removing any other ships) in order to continue placing fighters.</li>
+        <li>If the Creuss player has a space dock in the active system, they may consider some of the fighters they place as held by the space dock, in order to continue placing fighters.</li>
+    </ol>
     <li>This ability may be used whenever the Creuss player&rsquo;s ships move, not just during the movement step of a tactical action.</li>
     <ol>
         <li>While this ability may be used when the Creuss player retreats, retreating will leave no capacity in the active system.</li>

@@ -31,7 +31,8 @@
     <ol class="note">
     <li>A player cannot have more commodities than their commodity value.</li>
     <li>If the Empyrean player plays a player&rsquo;s <i>Trade Agreement</i> promissory note, this will count for that player giving the Empyrean player all their commodities.</li>
-    <li>The trade goods are not gained until after the transaction between the two players is resolved. As a pair of players is limited to one transaction per turn (which must involve the active player) or per agenda, the two players cannot then perform a transaction for these trade goods on the same turn.</li>
+    <li>The trade goods gained from <i>Dark Pact</li> are gained simultaneously with the commodities transacted between the two players. As a pair of players is limited to one transaction per turn (which must involve the active player) or per agenda, the two players cannot then perform a transaction for these trade goods on the same turn.</li>
+    <li>As the trade goods from <i>Dark Pact</li> are gained simultaneously with any commodities and/or trade goods transacted, the Mentak player may only use their <sc>Pillage</sc> ability on each player once per <i>Dark Pact</i> transaction.</li>
     <li><i>Dark Pact</i> has no effect while it is in a player&rsquo;s hand.</li>
     <li><i>Dark Pact</i> is returned when the system is activated, even if the active player will perform no hostile acts towards the Empyrean player this turn.</li>
     <li>Activating a system containing only the Empyrean player&rsquo;s structures will still cause <i>Dark Pact</i> to be returned.</li>

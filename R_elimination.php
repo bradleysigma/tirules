@@ -36,6 +36,7 @@
     <ol class="note">
     <li>While the Arborec flagship may produce units, it does not have the <sc>Production</sc> ability. Having it on the game board will not prevent the Arborec player from being eliminated. This applies to all similar effects in the game.</li>
     <li>An eliminated player&rsquo;s home system remains a home system for game effects.</li>
+    <li>If an eliminated player had any relic fragments, they are discarded to their respective exploration discard piles. If an eliminated player had any relics, they are purged.</li>
     </ol>
 
 <h1>Related Topics</h1>

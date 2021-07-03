@@ -30,6 +30,7 @@
         <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>War Funding &Omega;</i> more than once per turn.</li>
         <li>If the active player received <i>War Funding &Omega;</i> on a previous turn, they may play it and immediately perform a transaction with the Letnev player to regain it. However, <i>War Funding &Omega;</i> cannot be played twice in one timing window. The active player cannot play <i>War Funding</i> again until the next round of combat.</li>
     </ol>
+    <li>A player may only reroll combat rolls with <i>War Funding &Omega;</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.</li>
     </ol>
 
 <h1>L4 Disruptors <sub>(Technology)</sub></h1>

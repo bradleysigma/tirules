@@ -16,6 +16,8 @@
 
 <h1>Cultural Relic Fragment</h1>
     <ol class="note">
+    <li>If the relic deck is empty, a player may still purge three Cultural Relic Fragments as an action.</li>
+    <li>If an eliminated player had any Cultural Relic Fragments, they are discarded to the cultural planet exploration discard pile.</li>
     </ol>
 
 <h1>Cybernetic Research Facility</h1>
@@ -48,7 +50,8 @@
 <h1>Freelancers</h1>
     <ol class="note">
     <li>A planet may be exhausted to spend its influence or resources, but not both.</li>
-    <li>If a player wishes to place a unit, but there are none of that type left in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that instead.</li>
+    <li>If a player is to gain multiple planets in a system, they choose the order in which they gain them, and explore each planet as they gain it before gaining the next. As such, a player cannot place ground forces produced by <i>Freelancers</i> on a planet in the active system that they are yet to gain and explore.</li>
+    <li>If a player wishes to place a unit, but there are none of that type left in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that instead. This unit will be placed undamaged.</li>
     </ol>
 
 <h1>Functioning Base</h1>
@@ -66,10 +69,14 @@
 
 <h1>Hazardous Relic Fragment</h1>
     <ol class="note">
+    <li>If the relic deck is empty, a player may still purge three Hazardous Relic Fragments as an action.</li>
+    <li>If an eliminated player had any Hazardous Relic Fragments, they are discarded to the hazardous planet exploration discard pile.</li>
     </ol>
 
 <h1>Industrial Relic Fragment</h1>
     <ol class="note">
+    <li>If the relic deck is empty, a player may still purge three Industrial Relic Fragments as an action.</li>
+    <li>If an eliminated player had any Industrial Relic Fragments, they are discarded to the industrial planet exploration discard pile.</li>
     </ol>
 
 <h1>Ion Storm</h1>
@@ -89,7 +96,7 @@
 <h1>Local Fabricators</h1>
     <ol class="note">
     <li>A player cannot have more commodities than their commodity value.</li>
-    <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead.</li>
+    <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.</li>
     </ol>
 
 <h1>Lost Crew</h1>
@@ -131,6 +138,7 @@
 <h1>Unknown Relic Fragment</h1>
     <ol class="note">
     <li>A player cannot purge three Unknown Relic Fragments to gain a relic. At least one cultural, hazardous or industrial relic fragment must be purged.</li>
+    <li>If an eliminated player had any Unknown Relic Fragments, they are discarded to the frontier exploration discard pile.</li>
     </ol>
 
 <h1>Volatile Fuel Source</h1>

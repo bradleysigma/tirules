@@ -43,6 +43,7 @@
 <h1>I48S <sub>(Agent)</sub></h1>
     <ol class="note">
     <li>The infantry must be in the system when it is activated for it to be eligible to be replaced. It cannot be replaced if it is moved into the active system later in the turn.</li>
+    <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.</li>
     </ol>
 
 <h1>2RAM <sub>(Commander)</sub></h1>
@@ -54,6 +55,7 @@
     <ol class="note">
     <li>Ships in systems with a L1Z1X command token may move.</li>
     <li>Ships may transport units only if their origin system does not contain a L1Z1X command token.</li>
+    <ol><li>A future rule change will allow a player&rsquo;s ships to transport units from systems that contain that player&rsquo;s command token when those ships move outside of a tactical action.</li></ol>
     <li>Ships move directly to their destination system. They may only transport units from their origin system.</li>
     <li>Ships moving out of a gravity rift must roll for removal.</li>
     <li>Ships cannot move into a nebula or supernova, even if it contains a L1Z1X command token.</li>

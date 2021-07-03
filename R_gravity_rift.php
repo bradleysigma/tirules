@@ -33,6 +33,7 @@
     <li>If a ship moves through or out of multiple gravity rifts, and/or the same gravity rift multiple times, each instance will provide a +1 to movement, and requires a separate roll for removal.</li>
     <li>If a ship with capacity would transport another unit after moving out of or through a gravity rift, but is removed, that unit remains where it is.</li>
     <li>A system containing a Vuil&rsquo;raith Dimensional Tear is a gravity rift, and thus an anomaly.</li>
+    <li>A future rule change will place the ship movement restrictions of anomalies upon all units.</li>
     </ol>
 
 <h1>Related Topics</h1>

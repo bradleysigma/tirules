@@ -27,6 +27,7 @@
 <h1>Propagation</h1>
     <ol class="note">
     <li>The Nekro player may still resolve the primary or secondary abilities of the <i>Technology</i> strategy card, which will instead gain them command tokens.</li>
+    <li>The Nekro player may still use any abilities that trigger off of researching technologies, such as <i>The Prophet&rsquo;s Tears</i> relic.</li>
     </ol>
 
 <h1>Antivirus <sub>(Promissory Note)</sub></h1>
@@ -47,6 +48,7 @@
     <li>A faction&rsquo;s mech is not a technology. The Nekro player cannot use a <i>Valefar Assimilator</i> to copy a mech.</li>
     <li>If the Nekro player has a generic unit upgrade, and gains a faction&ndash;specific unit upgrade, then the faction&ndash;specific version will be in effect. If the faction&ndash;specific unit upgrade is later lost, they revert to the generic unit upgrade.</li>
     <ol><li>Owning two unit upgrades for the same type of unit in this manner only counts as one unit upgrade towards the <i>Develop Weaponry</i> and <i>Revolutionize Warfare</i> objectives.</li></ol>
+    <li>If another player returns a technology which is currently being copied by a <i>Valefar Assimilator</i>, it will remain copied with a <i>Valefar Assimilator</i> token on it while in that player&rsquo;s technology deck.</li>
     <li>For the <i>Adapt New Strategies</i> objective, a <i>Valefar Assimilator</i> technology will count if and only if it is currently copying another technology.</li>
     <li>For notes about technologies of a specific faction, see that faction&rsquo;s notes.</li>
     <li>If the Nekro player has copied certain technology (possible two or more at different points in time), the following apply:</li>
@@ -75,7 +77,10 @@
     </ol>
     <li>Ground forces on planets remain there while participating in combat. Effects that target units in a space area cannot target these ground forces.</li>
     <li>If <i>The Alastor</i> is destroyed during space combat, any ground forces in that combat remain in that combat.</li>
+    <li>If the Nekro player copies another player&rsquo;s flagship unit upgrade technology with one of their <i>Valefar Assimilator</i> technologies during a space combat, any ground forces in that combat remain in that combat. If the Nekro player starts the space combat copying another player&rsquo;s flagship unit upgrade technology, ground forces cannot participate in that combat, unless the Nekro player stops copying that flagship unit upgrade technology during the &ldquo;start of combat&rdquo; window.</li>
     <li>The ground forces in the combat still retain their ability to be transported. Since transported units do not count against capacity during combat, these ground forces will not count toward the Nekro player&rsquo;s fleet pool limit.</li>
+    <li>A mech in the space combat may be targeted with the <i>Direct Hit</i> action card if it uses its <sc>Sustain Damage</sc> ability.</li>
+    <li>Some abilities may destroy <i>The Alastor</i> at the start of a combat before the Nekro player has used its ability, such as the <i>Assault Cannon</i> technology.</li>
     </ol>
 
 <h1>Nekro Malleon <sub>(Agent)</sub></h1>

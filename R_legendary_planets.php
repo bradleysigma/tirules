@@ -17,7 +17,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>If a player wishes to resolve the <i>Imperial Arms Vault</i> ability of Hope&rsquo;s End, but they have no mechs left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead.</li>
+    <li>If a player wishes to resolve the <i>Imperial Arms Vault</i> ability of Hope&rsquo;s End, but they have no mechs left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.</li>
     <li>In an effect instructs a player to &ldquo;end your turn&rdquo;, that player may still resolve any &ldquo;at the end of your turn&rdquo; abilities, including those of legendary planets.</li>
     <li>A player may resolve multiple legendary planet abilities at the end of a single turn.</li>
     <li>Legendary planet ability cards exhaust independently from respective planet card.</li>
