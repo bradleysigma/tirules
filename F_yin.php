@@ -13,7 +13,6 @@
     <ol class="note">
     <li>When resolving <sc>Devotion</sc>, the Yin player chooses which ships are destroyed.</li>
     <ol><li>The Yin cannot choose their own ships as targets.</li></ol>
-    <li>Effects that cancel hits, such as the <sc>Sustain Damage</sc> ability, cannot be used to prevent ships from being destroyed.</li>
     <li>If a player retreats, the Yin player will be unable to use <sc>Devotion</sc> to destroy an opponent&rsquo;s ship.</li>
     <li>If the Yin player is in a combat with the N&rsquo;orr player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.</li>
     </ol>
