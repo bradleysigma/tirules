@@ -47,7 +47,7 @@
     <li>Another player may still produce hits against the N&rsquo;orr player&rsquo;s ground forces committed using G&rsquo;hom Sek&rsquo;kus during the <b>Space Cannon Defense</b> step.</li>
     <li>The N&rsquo;orr player must legally be able to move into the destination system in order to commit ground forces with G&rsquo;hom Sek&rsquo;kus</li>
     <ol>
-        <li>If another player plays the N&rsquo;orr player&rsquo;s <i>Ceasefire</i> promissory note, they cannot commit any ground forces to planets in the active system during this action.</li>
+        <li>If another player plays the N&rsquo;orr player&rsquo;s <i>Ceasefire</i> promissory note, they cannot commit any ground forces to planets in the active system during this action, other than ground forces already in the active system.</li>
         <li>The N&rsquo;orr player cannot commit ground forces to Mirage if it is in an asteroid field, unless the N&rsquo;orr player owns the <i>Antimass Deflectors</i> technology.</li>
         <li>The N&rsquo;orr player cannot commit ground forces to Mirage if it is in a supernova. Another player may do so if they own the <i>Magmus Reactor</i> Muaat factional technology and the N&rsquo;orr player&rsquo;s Alliance promissory note.</li>
         <li>If the N&rsquo;orr player commits any ground forces from a gravity rift system, those ground forces must roll for removal.</li>

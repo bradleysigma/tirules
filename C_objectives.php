@@ -172,7 +172,7 @@
 
 <h1>Establish Hegemony</h1>
     <ol class="note">
-    <li>With the right attachments, the requirements of <i>Establish Hegemony</i> can be met with a single planet.</li>
+    <li>With the right attachments, the requirements of <i>Establish Hegemony</i> may be met with a single planet.</li>
     </ol>
 
 <h1>Expand Borders</h1>
@@ -236,7 +236,7 @@
 
 <h1>Hoard Raw Materials</h1>
     <ol class="note">
-    <li>With the right attachments, the requirements of <i>Hoard Raw Materials</i> can be met with a single planet.</li>
+    <li>With the right attachments, the requirements of <i>Hoard Raw Materials</i> may be met with a single planet.</li>
     </ol>
 
 <h1>Hold Vast Reserves</h1>

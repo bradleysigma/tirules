@@ -17,7 +17,7 @@
     <li>A player cannot retreat (or similar) into a nebula, since it would not be the active system.</li>
     <li>The +1 modifiers for the defender does not modify anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
     <li>A future rule change will place the ship movement restrictions of anomalies upon all units.</li>
-    <li>A future rule change will allow ships to move into nebulae when it is not the active system.</li>
+    <li>A future rule change will allow ships to move into a nebula when it is not the active system.</li>
     </ol>
 
 <h1>Related Topics</h1>

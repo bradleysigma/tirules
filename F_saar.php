@@ -24,7 +24,7 @@
     <li>A unit may be produced on each of the Saar player&rsquo;s turns; <i>Chaos Mapping</i> is not exhausted.</li>
     <ol><li>A unit may be produced on the turn the Saar player passes.</li></ol>
     <li>A player may still use abilities such as <sc>Deep Space Cannon</sc> that affect the Saar player&rsquo;s units located in asteroid fields.</li>
-    <li>If an asteroid field contains non&ndash;ship units belonging to the Saar player, it can still be activated by other players.</li>
+    <li>If an asteroid field contains non&ndash;ship units belonging to the Saar player, it may still be activated by other players.</li>
     </ol>
 
 <h1>Floating Factory <sub>(Unit)</sub></h1>

@@ -249,7 +249,7 @@
     <ol class="note">
     <li>If the L1Z1X player plays <i>Infiltrate</i> before they resolve their <sc>Assimilate</sc> ability, or vice versa, they will replace zero PDS and space docks with zero PDS and space docks when they resolve the latter ability.</li>
     <li>If a player wishes to place a structure, but there are none of that type left in their reinforcements, they may remove a structure of that type from any system that does not contain one of their command tokens and place that instead. That player may make the choice for each structure.</li>
-    <ol><li>The Ul player will place each PDS undamaged.</li></li>
+    <ol><li>The Ul player will place each of their Hel Titan PDS undamaged.</li></li>
     </ol>
 
 <h1>Insider Information</h1>
@@ -398,7 +398,7 @@
     <ol class="note">
     <li>If <i>Reflective Shielding</i> is played after a ship uses its <sc>Sustain Damage</sc> ability during an <b>Assign Hits</b> step, then the hits produced by <i>Reflective Shielding</i> are added to any other hits produced in the immediately proceeding <b>Roll Dice</b> step.</li>
     <ol><li>A unit that used its <sc>Sustain Damage</sc> ability to cancel some of those other hits, and been repaired, cannot use is <sc>Sustain Damage</sc> ability again to cancel the hits produced by <i>Reflective Shielding</i>.</li></ol>
-    <li>If <i>Reflective Shielding</i> is played after a ship uses its <sc>Sustain Damage</sc> ability during any other time (for example, when the Creuss player uses their <i>Dimensional Splicer</i> faction technology ability), the hits are assigned immediately.</li>
+    <li>If <i>Reflective Shielding</i> is played after a ship uses its <sc>Sustain Damage</sc> ability at any other time during combat (for example, when the Creuss player uses their <i>Dimensional Splicer</i> faction technology ability), the hits are assigned immediately.</li>
     </ol>
 
 <h1>Reparations</h1>

@@ -74,9 +74,9 @@
     <ol class="note">
     <li>The fighters are placed one at a time, until either one has been placed for each ship with capacity that moved through a wormhole, or the capacity of the system is reached.</li>
     <ol>
-	    <li>The Creuss player cannot remove a ground force to create capacity for a fighter.</li>
-        <li>If the Creuss player has the Fighter II unit upgrade technology, they may count some fighters they place towards their fleet supply (without removing any other ships) in order to continue placing fighters.</li>
-        <li>If the Creuss player has space docks in the active system, they may consider some fighters they place as held by the space dock, in order to continue placing fighters.</li>
+        <li>The Creuss player cannot remove a ground force to create capacity for a fighter.</li>
+        <li>If the Creuss player has the Fighter II unit upgrade technology, they may count some of the fighters they place towards their fleet supply (without removing any other ships) in order to continue placing fighters.</li>
+        <li>If the Creuss player has a space dock in the active system, they may consider some of the fighters they place as held by the space dock, in order to continue placing fighters.</li>
     </ol>
     <li>This ability may be used whenever the Creuss player&rsquo;s ships move, not just during the movement step of a tactical action.</li>
     <ol>

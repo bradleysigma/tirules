@@ -3,7 +3,7 @@
 <article>
 <h1>Edict</h1>
     <ol class="note">
-    <li>If the Mahact player is ever required to remove one of their command tokens from their fleet pool, and they only have other players&rsquo; command tokens in their fleet pool, they must remove one of their tokens, and return it to the reinforcements of the player that owns it.</li>
+    <li>If the Mahact player is ever required to remove one of their command tokens from their fleet pool, and they only have other players&rsquo; command tokens in their fleet pool, they must remove one of those tokens, and return it to the reinforcements of the player that owns it.</li>
     <li>If the Mahact player is ever limited by the number of tokens they may have in their fleet pool, such as by the <i>Fleet Regulations</i> law, they may still add a command token to their fleet pool when they are at the limit, but must then remove one command token and return it to the corresponding reinforcements.</li>
     </ol>
 
@@ -80,7 +80,7 @@
     <li>The active player cannot use any &ldquo;when/after you activate a system&rdquo; abilities.</li>
     <ol><li>Other players cannot use any &ldquo;when/after another player activates a system that&hellip;&rdquo; abilities.</li></ol>
     <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.</li>
-    <li>The Mahact player may end their own turn and gain their own spent command token from their fleet pool.</li>
+    <li>The Mahact player may use the ability to end their own turn and gain their own spent command token from their fleet pool.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>
