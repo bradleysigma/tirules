@@ -54,7 +54,7 @@
         <li>The N&rsquo;orr player cannot commit ground forces through a wormhole if the <i>Enforced Travel Ban</i> law is in play.</li>
     </ol>
     <li>The N&rsquo;orr player may use this ability to commit ground forces to any planet in the active system, regardless of who, if anyone, controls it.</li>
-    <li>The <i>Dominus Orb</i> relic does not allow the N&rsquo;orr player to committ ground forces from systems containing their command tokens.</li>
+    <li>The <i>Dominus Orb</i> relic does not allow the N&rsquo;orr player to commit ground forces from systems containing their command tokens.</li>
     <li>The <b>Commit Ground Forces</b> step is entirely resolved before the <b>Establish Control</b> step (with other steps between). When the N&rsquo;orr player gains control of their fifth non&ndash;home system planet, an unlocks G&rsquo;hom Sek&rsquo;kus, they cannot then use G&rsquo;hom Sek&rsquo;kus to commit additional ground forces during that tactical action.</li>
     <li>Ground forces cannot be committed to a planet if it has the <i>Demilitarized Zone</i> exploration card attached.</li>
     </ol>
