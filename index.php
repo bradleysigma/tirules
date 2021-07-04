@@ -151,7 +151,7 @@
         <li><a href="/F_nekro">The Nekro Virus</a></li>
         <li><a href="/F_nomad">The Nomad</a></li>
         <li><a href="/F_norr">Sardakk N&rsquo;orr</a></li>
-        <li><a href="/F_ul">The Titans Ul</a></li>
+        <li><a href="/F_ul">The Titans of Ul</a></li>
         <li><a href="/F_jol_nar">The Universities of Jol&ndash;Nar</a></li>
         <li><a href="/F_vuilraith">The Vuil&rsquo;raith Cabal</a></li>
         <li><a href="/F_winnu">The Winnu</a></li>
