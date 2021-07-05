@@ -35,6 +35,7 @@
     <ol class="note">
     <li>The produced units must be paid for.</li>
     <li>No unit is using its <sc>Production</sc> ability. The <i>Sarween Tools</i> technology and similar effects will not allow a more expensive ship to be produced.</li>
+    <li>If ground forces are produced, they may be placed in the space area or on a planet the player controls in the system with their War Sun or Flagship.</li>
     </ol>
 
 <h1>Magmus <sub>(Commander)</sub></h1>
