@@ -4,6 +4,11 @@
 <h1>Scavenge</h1>
     <ol class="note">
     <li>If the Saar player gains control of multiple planets during one invasion, the trade goods are gained one at a time.</li>
+    <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before gaining the trade good from this ability.</li>
+    <ol>
+        <li>If the Saar player is to gain control of multiple planets not already controlled by another player, they will gain and explore one planet and gain a trade good before gaining and exploring the next.</li>
+        <li>If the Saar player has the Naaz&ndash;Rokha player&rsquo;s <i>Alliance</i> promissory note, and they gain control of a planet that was controlled by another player, they may explore it or gain a trade good in either order.</li>
+    </ol>
     </ol>
 
 <h1>Nomadic</h1>
@@ -70,8 +75,8 @@
 
 <h1>Scavenger Zeta <sub>(Mech)</sub></h1>
     <ol class="note">
-    <li>The trade good gained by Scavenge may be spent for the <sc>Deploy</sc> ability.</li>
-    <li>Exploration will resolve before this ability may trigger.</li>
+    <li>The Saar player may perform the <sc>Deploy</sc> ability or their <sc>Scanenge</sc> ability in either order. If they perform their <sc>Scanenge</sc> ability first, they may pay for the <sc>Deploy</sc> ability with the gained trade good.</li>
+    <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before the <sc>Deploy</sc> ability will be able to trigger.</li>
     <li>If the Saar player gains control of multiple planets, they may deploy one Scavenger Zeta to each.</li>
     </ol>
 </article>
