@@ -32,10 +32,10 @@
 
 <h1>Related Topics</h1>
     <ul>
-    <li><a href="/R_">Blockaded</a></li>
-    <li><a href="/R_">Fighter Tokens</a></li>
-    <li><a href="/R_">Infantry Tokens</a></li>
-    <li><a href="/R_">Transactions</a></li>
+    <li><a href="/R_blockaded">Blockaded</a></li>
+    <li><a href="/R_fighter_tokens">Fighter Tokens</a></li>
+    <li><a href="/R_infantry_tokens">Infantry Tokens</a></li>
+    <li><a href="/R_transactions">Transactions</a></li>
     </ul>
 </article>
 <?php include "suffix.php"?>
