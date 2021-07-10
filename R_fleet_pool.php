@@ -6,11 +6,11 @@
 <p>The fleet pool is an area of a player&rsquo;s command sheet.</p>
     <ol class="lrr">
     <li>The number of command tokens in a player&rsquo;s fleet pool indicates the maximum number of non&ndash;fighter ships that a player can have in a system.</li>
-    <li>Units that are on planets or that count against a player&rsquo;s capacity do not count against that player&rsquo;s fleet pool.</li>
     <ol>
+        <li>Units that are on planets or that count against a player&rsquo;s capacity do not count against that player&rsquo;s fleet pool.</li>
         <li>Units that are being transported through systems do not count against a player&rsquo;s fleet pool in those systems.</li>
-        <li>Players place command tokens in their fleet pools with the ship silhouette faceup.</li>
     </ol>
+    <li>Players place command tokens in their fleet pools with the ship silhouette faceup.</li>
     <li>If at any time the number of a player&rsquo;s non&ndash;fighter ships in a system exceeds the number of tokens in that player&rsquo;s fleet pool, they choose and remove excess ships in that system, returning those units to their reinforcements.</li>
     <li>Players do not spend command tokens from this pool unless a game effect specifically allows it.</li>
     </ol>
