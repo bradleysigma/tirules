@@ -17,7 +17,7 @@
     <ol><li>The chosen ship may be repaired by the <i>Duranium Armor</i> technology later in the same round of combat.</li></ol>
     <li>If the Argent player plays the <i>Waylay</i> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be be assigned.</li>
     <ol><li>For example, say the opponent has three fighters and three dreadnoughts, undamaged. The Argent player plays <a>Waylay</a>, and rolls five hits. This allows them to cause two of the dreadnoughts to become damaged. The opponent then has to assign all five hits. The final dreadnought may use its <sc>Sustain Damage</sc> ability to cancel one of those hits.</li></ol>
-    <li>If the Argent player is in combat with the Nekro player, and the Nekro player has their mechs participating in the space combat via the effects of <i>The Alastor<i>, those mechs may become damaged by the effect of <sc>Raid Formation</sc>.</li>
+    <li>If the Argent player is in combat with the Nekro player, and the Nekro player has their mechs participating in the space combat via the effects of <i>The Alastor</i>, those mechs may become damaged by the effect of <sc>Raid Formation</sc>.</li>
     </ol>
 
 <h1>Strike Wing Ambuscade <sub>(Promissory Note)</sub></h1>
@@ -47,7 +47,7 @@
 
 <h1>Trrakan Aun Zulok <sub>(Commander)</sub></h1>
     <ol class="note">
-    <li>Ships that gain <sc>Bombardment<sc> due to the <i>Blitz</i> action card will contribute to the unlock condition.</li>
+    <li>Ships that gain <sc>Bombardment</sc> due to the <i>Blitz</i> action card will contribute to the unlock condition.</li>
     <ol><li>The <i>Experimental Battlestation</i> action card will not contribute.</li></ol>
     <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability.</li>
     </ol>
