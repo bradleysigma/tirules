@@ -47,6 +47,8 @@
 
 <h1>Trrakan Aun Zulok <sub>(Commander)</sub></h1>
     <ol class="note">
+    <li>Ships that gain <sc>Bombardment<sc> due to the <i>Blitz</i> action card will contribute to the unlock condition.</li>
+    <ol><li>The <i>Experimental Battlestation</i> action card will not contribute.</li></ol>
     <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability.</li>
     </ol>
 
