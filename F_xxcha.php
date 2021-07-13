@@ -70,6 +70,7 @@
 
 <h1>Indomitus <sub>(Mech)</sub></h1>
     <ol class="note">
+    <li>The Xxcha player cannot use the <sc>Space Cannon</sc> ability of their mechs after committing them to planets as the active player.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>
