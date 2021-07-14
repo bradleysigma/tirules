@@ -29,7 +29,7 @@
 <h1>Related Topics</h1>
     <ul>
     <li><a href="/R_control">Control</a></li>
-    <li><a href="/R_exhaust">Exhaust</a></li>
+    <li><a href="/R_exhausted">Exhausted</a></li>
     <li><a href="/R_planets">Planets</a></li>
     </ul>
 </article>

@@ -249,7 +249,7 @@
     <ol class="note">
     <li>If the L1Z1X player plays <i>Infiltrate</i> before they resolve their <sc>Assimilate</sc> ability, or vice versa, they will replace zero PDS and space docks with zero PDS and space docks when they resolve the latter ability.</li>
     <li>If a player wishes to place a structure, but there are none of that type left in their reinforcements, they may remove a structure of that type from any system that does not contain one of their command tokens and place that instead. That player may make the choice for each structure.</li>
-    <ol><li>The Ul player will place each of their Hel Titan PDS undamaged.</li></li>
+    <ol><li>The Ul player will place each of their Hel Titan PDS undamaged.</li></ol>
     </ol>
 
 <h1>Insider Information</h1>

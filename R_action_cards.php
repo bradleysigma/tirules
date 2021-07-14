@@ -36,7 +36,7 @@
     <ul>
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_component_action">Component Action</a></li>
-    <li><a href="/R__politics">Politics</a></li>
+    <li><a href="/R_politics">Politics</a></li>
     <li><a href="/R_status_phase">Status Phase</a></li>
     </ul>
 </article>

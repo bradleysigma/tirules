@@ -41,7 +41,7 @@
     <ol class="note">
     <li>This ability allows the N&rsquo;orr player to commit ground forces to a planet even if they have no ships in the active system.</li>
     <li>The <i>Parley</i> action card will place the committed ground forces in the space area of the active system. If the N&rsquo;orr player does not have enough capacity in the space area for the extra ground forces, including zero capacity, they will have to remove fighters and ground forces to meet capacity limits.</li>
-    <i>The N&rsquo;orr player may only commit ground forces as the active player.</li>
+    <li>The N&rsquo;orr player may only commit ground forces as the active player.</li>
     <li>Only the active player may use the <sc>Bombardment</sc> ability of their units during an invasion. As such, any ships in the active system will be unable to use their <sc>Bombardment</sc> ability ability unless they belong to the N&rsquo;orr player.</li>
     <ol><li>This prevents the L1Z1X player from using their <sc>Harrow</sc> faction ability, unless they have the N&rsquo;orr <i>Alliance</i> promissory note and they are the active player.</li></ol>
     <li>Another player may still produce hits against the N&rsquo;orr player&rsquo;s ground forces committed using G&rsquo;hom Sek&rsquo;kus during the <b>Space Cannon Defense</b> step.</li>

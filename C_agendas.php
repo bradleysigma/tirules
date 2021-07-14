@@ -81,7 +81,7 @@
     <li>Any effects that take place when or after an agenda is revealed instead take place when or after the speaker has drawn and announced the possible outcomes for the hidden agenda.</li>
     <li>If an effect, such as the <i>Veto</i> action card, would discard <i>Covert Legislation</i>, both it and the hidden agenda are discarded.</li>
     <li>The hidden agenda is only revealed as it is resolved. All abilities that may be played after voting, such as the <i>Bribery</i>, <i>Confounding Legal Text</i>, <i>Confusing Legal Text</i> or <i>Deadly Plot</i> action cards, must be played before the agenda is revealed.</li>
-    <li>The speaker may still vote on <i>Covert Legislation</li>.</li>
+    <li>The speaker may still vote on <i>Covert Legislation</i>.</li>
     </ol>
 
 <h1>The Crown of Emphidia</h1>

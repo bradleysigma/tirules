@@ -21,7 +21,7 @@
 <h1>Related Topics</h1>
     <ul>
     <li><a href="/R_active_system">Active System</a></li>
-    <li><a href="/R_comment_tokens">Command Tokens</a></li>
+    <li><a href="/R_command_tokens">Command Tokens</a></li>
     <li><a href="/R_initiative_order">Initiative Order</a></li>
     <li><a href="/R_planets">Planets</a></li>
     <li><a href="/R_readied">Readied</a></li>
