@@ -8,6 +8,7 @@
 
 <h1>Reclamation</h1>
     <ol class="note">
+    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a Space Dock, they cannot produce out of it during the same action.</li>
     <li>If the Winnu player has no PDS or Space Docks left in their reinforcements, they may remove a unit from any system that does not contain one of their command tokens and place that unit on Mecatol Rex when resolving <sc>Reclamation</sc>.</li>
     </ol>
 
@@ -68,8 +69,10 @@
 
 <h1>Reclaimer <sub>(Mech)</sub></h1>
     <ol class="note">
+    <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a Space Dock, they cannot produce out of it during the same action.</li>
     <li>If the Winnu player has no PDS or Space Docks left in their reinforcements, they may remove a unit from any system that does not contain one of their command tokens and place that unit on Mecatol Rex.</li>
     <li>If the Winnu player gains control of a planet with multiple Reclaimers, they may place a structure for each one, if they may do so without exceeding the maximum number of that structure allowed on a planet.</li>
+    <li>The Reclaimer need only be on the planet at the end of the turn the Winnu player gained it, not when the Winnu player gains control of it.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>
