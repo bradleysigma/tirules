@@ -75,7 +75,7 @@
 
 <h1>Scavenger Zeta <sub>(Mech)</sub></h1>
     <ol class="note">
-    <li>The Saar player may perform the <sc>Deploy</sc> ability or their <sc>Scanenge</sc> ability in either order. If they perform their <sc>Scanenge</sc> ability first, they may pay for the <sc>Deploy</sc> ability with the gained trade good.</li>
+    <li>The Saar player may perform the <sc>Deploy</sc> ability or their <sc>Scavenge</sc> ability in either order. If they perform their <sc>Scavenge</sc> ability first, they may pay for the <sc>Deploy</sc> ability with the gained trade good.</li>
     <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before the <sc>Deploy</sc> ability will be able to trigger.</li>
     <li>If the Saar player gains control of multiple planets, they may deploy one Scavenger Zeta to each.</li>
     </ol>
