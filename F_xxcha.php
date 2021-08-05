@@ -70,7 +70,7 @@
 
 <h1>Indomitus <sub>(Mech)</sub></h1>
     <ol class="note">
-    <li>The Xxcha player cannot use the <sc>Space Cannon</sc> ability of their mechs after committing them to planets as the active player.</li>
+        <li>During the <b>Space Cannon Defense</b> step of a a tactical action, only non&ndash;active players can use the <sc>Space Cannon</sc> ability of their units. The Xxcha player cannot use the <sc>Space Cannon</sc> ability of their mechs immediately after committing them to a planet against units owned by that planet&rsquo;s controller.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>
