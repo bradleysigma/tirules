@@ -114,7 +114,7 @@
     <li>A player may use an ability to ships at the start of combat. If this brings the number of non&ndash;fighter ships to three or more, the player may then use the ability of <i>Assault Cannon</i>.</li>
     <ol>
         <li>Each other player may use one ability after that player has gained ships, and before that player has the opportunity to use the <i>Assault Cannon</i> ability. This may prevent that player from using the ability, as above.
-        <li>Examples of abilities that may add units at the start of space combat include a combination of the Mentak player&rsquo;s <sc>Sleeper Cell</sc> hero and their <sc>Ambush</sc> faction ability, the Nekro player&rsquo;s <i>Alastor</i> flagship ability and the Naaz&ndash;Rokha player&rsquo; <i>Eidolon</i> mech ability.</li>
+        <li>Examples of abilities that may add units at the start of space combat include a combination of the Mentak player&rsquo;s <i>Sleeper Cell</i> hero ability and their <sc>Ambush</sc> faction ability, the Nekro player&rsquo;s <i>Alastor</i> flagship ability and the Naaz&ndash;Rokha player&rsquo; <i>Eidolon</i> mech ability.</li>
     </ol>
     <li>Effects that cancel hits, such as <sc>Sustain Damage</sc>, cannot be used to prevent ships from being destroyed.</li>
     </ol>
