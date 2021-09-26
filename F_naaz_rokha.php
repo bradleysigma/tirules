@@ -58,8 +58,12 @@
 
 <h1>Eidolon<br/>Z&ndash;Grav Eidolon <sub>(Mech)</sub></h1>
     <ol class="note">
-    <li>The Naaz&ndash;Rokha mechs are only Z&ndash;Grav Eidolon during the <b>Activation</b>, <b>Movement</b> and <b>Space Combat</b> steps, only in the active system, and only in the space area.</li>
-    <li>An Eidolon must mandatorily become a Z&ndash;Grav Eidolon when possible.</li>
+    <li>The Naaz&ndash;Rokha mechs are only Z&ndash;Grav Eidolon during the <b>Space Combat</b> step, only in the active system, and only in the space area.</li>
+    <li>If the Naaz&ndash;Rokha player had  an Eidolon in the space area of the active system, they must mandatorily use its ability to convert it to a Z&ndash;Grav Eidolon.</li>
+    <ol>
+        <li>All other players will have the opportunity to resolve an ability between the Naaz&ndash;Rokha player resolving their Eidolon ability and any other ability.</li>
+        <li>If the Naaz&ndash;Rokha player owns the <i>Assault Cannon</i> technology, they may count their Z&ndash;Grav Eidolon towards the three non&ndash;fighter ships, once they resolve its ability. However, if another player then resolves an ability that reduces the number of non&ndash;ships the Naaz&ndash;Rokha player has in the active system to less than three, the Naaz&ndash;Rokha player will no longer be able to resolve the <i>Assault Cannon</i> technology ability. </li>
+    </ol>
     <li>Any effect that may target ships or non&ndash;fighter ships may target a Z&ndash;Grav Eidolon.</li>
     <li>A Z&ndash;Grav Eidolon is still a ground force and a mech.</li>
     </ol>
