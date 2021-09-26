@@ -5,7 +5,7 @@
     <ol class="note">
     <li>If the Mahact player is ever required to remove one of their command tokens from their fleet pool, and they only have other players&rsquo; command tokens in their fleet pool, they must remove one of those tokens, and return it to the reinforcements of the player that owns it.</li>
     <li>If the Mahact player is ever limited by the number of tokens they may have in their fleet pool, such as by the <i>Fleet Regulations</i> law, they may still add a command token to their fleet pool when they are at the limit, but must then remove one command token and return it to the corresponding reinforcements.</li>
-    <li>If the Mahact player wins a combat against a player that has no command tokens in their reinforcements, and none of their command tokens are on the Mahact player&rsquo;s command sheet, that player must choose one of their command tokens on their command sheet to remove and place on the Mahact player&rquo;s command sheet.</li>
+    <li>If the Mahact player wins a combat against a player that has no command tokens in their reinforcements, and none of their command tokens are on the Mahact player&rsquo;s command sheet, that player must choose one of their command tokens on their command sheet to remove and place on the Mahact player&rsquo;s command sheet.</li>
     <ol><li>If a player has no command tokens in their reinforcements or on their command sheet, the Mahact player cannot place one of that player&rsquo;s command tokens on their command sheet if they win a combat against that player.</li></ol>
     </ol>
 
