@@ -109,7 +109,7 @@
     <li>If a player loses ships before they can resolve the <i>Assault Cannon</i> ability, they will be unable to resolve it if they no longer have three or more non&ndash;fighter ships.</li>
     <ol>
         <li>This will most commonly happen when both players in a combat have <i>Assault Cannon</i>, and the defender has exactly three non&ndash;fighter ships.</li>
-        <li>Examples of other abilities that may remove units at the start of a sapce combat include the Creuss player&rsquo;s <i>Dimensional Splicer</i> faction technology ability, the Mentak player&rsquo;s <sc>Ambush</sc> faction ability, the Yin player&rsquo;s <i>Impulse Core</i> faction technology ability, as well as abilities such as the <i>Courageous to the End</i> action card or the <i>Reflective Shielding</i> action card that may trigger off of any of the previous abilities.</li>
+        <li>Examples of other abilities that may remove units at the start of a space combat include the Creuss player&rsquo;s <i>Dimensional Splicer</i> faction technology ability, the Mentak player&rsquo;s <sc>Ambush</sc> faction ability, the Yin player&rsquo;s <i>Impulse Core</i> faction technology ability, as well as abilities such as the <i>Courageous to the End</i> action card or the <i>Reflective Shielding</i> action card that may trigger off of any of the previous abilities.</li>
     </ol>
     <li>A player may use an ability to ships at the start of combat. If this brings the number of non&ndash;fighter ships to three or more, the player may then use the ability of <i>Assault Cannon</i>.</li>
     <ol>
