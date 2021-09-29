@@ -56,8 +56,10 @@
     <li>If the <i>Hil Colish</i> moves first, but is removed due to the effect of a gravity rift, then ships that move later cannot use its wormhole.</li>
     <li>If the <i>Hil Colish</i> moves last, then it may move itself into (or though, if its move value is increased) the Creuss Gate or Creuss home system. Before it does so, the Creuss player&rsquo;s other ships may move through the wormhole in the <i>Hil Colish</i>&rsquo;s system.</li>
     <li>If the <i>Hil Colish</i> moves before or after other ships, it does not generate a second <b>Space Cannon Offense</b> step.</li>
-    <li>A unit with the <sc>Deep Space Cannon</sc> ability may produce hits in systems adjacent to that unit via the delta wormhole in the <i>Hil Colish</i>&rsquo;s system.</li>
+    <li>A unit with the <sc>Deep Space Cannon</sc> ability may produce hits in systems adjacent to that unit via the delta wormhole in the <i>Hil Colish</i>&rsquo;s system. Most commonly, this will allow the Creuss player to target units in the <i>Hil Colish</i>&rsquo;s system from the space cannon rolls of units in their home system.</li>
     <li>If an effect allows another player to move through a system that contains the Creuss player&rsquo;s ships (such as the <i>Light/Wave Deflector</i> technology), that player may move through the delta wormhole in the <i>Hil Colish</i>&rsquo;s system.</li>
+    <li>During space combat involving the <i>Hil Colish</i>, either player may retreat to another system containing a delta wormhole, if that system meets the other requirements for retreating.</li>
+    <ol><li>If the <i>Hil Colish</i> is destroyed between the <b>Announce Retreats</b> step and the <b>Retreat</b> step, then the retreating player must retreat to a different eligible system. If no such system exists, then their retreat is cancelled.</li></ol>
     <li>When the <i>Hil Colish</i> retreats, it may retreat before or after the Creuss player&rsquo;s other ships, but cannot retreat in such a way that would prevent the other ships from retreating to the same system.</li>
     </ol>
 
