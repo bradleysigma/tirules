@@ -57,7 +57,6 @@ article
     column-gap: 6em;
     padding: 2em 6em;
     flex: 1 0 auto;
-    counter-reset: nitem;
 }
 article > h1
 {
@@ -67,6 +66,7 @@ article > h1
     font-family: slid, Futura, sans-serif;
     font-size: 250%;
     font-weight: normal;
+    counter-reset: nitem;
 }
 article h2
 {

@@ -109,7 +109,12 @@
     <li>If a player loses ships before they can resolve the <i>Assault Cannon</i> ability, they will be unable to resolve it if they no longer have three or more non&ndash;fighter ships.</li>
     <ol>
         <li>This will most commonly happen when both players in a combat have <i>Assault Cannon</i>, and the defender has exactly three non&ndash;fighter ships.</li>
-        <li>The Mentak player may be able to use a combination of their hero and their <sc>Ambush</sc> faction ability to add ships to a system so that they have three or more non&ndash;fighter ships. If they do, and they have <i>Assault Cannon</i>, they must then resolve its ability.</li>
+        <li>Examples of other abilities that may remove units at the start of a space combat include the Creuss player&rsquo;s <i>Dimensional Splicer</i> faction technology ability, the Mentak player&rsquo;s <sc>Ambush</sc> faction ability, the Yin player&rsquo;s <i>Impulse Core</i> faction technology ability, as well as abilities such as the <i>Courageous to the End</i> action card or the <i>Reflective Shielding</i> action card that may trigger off of any of the previous abilities.</li>
+    </ol>
+    <li>A player may use an ability to ships at the start of combat. If this brings the number of non&ndash;fighter ships to three or more, the player may then use the ability of <i>Assault Cannon</i>.</li>
+    <ol>
+        <li>Each other player may use one ability after that player has gained ships, and before that player has the opportunity to use the <i>Assault Cannon</i> ability. This may prevent that player from using the ability, as above.
+        <li>Examples of abilities that may add units at the start of space combat include a combination of the Mentak player&rsquo;s <i>Sleeper Cell</i> hero ability and their <sc>Ambush</sc> faction ability, the Nekro player&rsquo;s <i>Alastor</i> flagship ability and the Naaz&ndash;Rokha player&rsquo; <i>Eidolon</i> mech ability.</li>
     </ol>
     <li>Effects that cancel hits, such as <sc>Sustain Damage</sc>, cannot be used to prevent ships from being destroyed.</li>
     </ol>

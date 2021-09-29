@@ -86,7 +86,8 @@
         <li>If the Mahact player uses their <i>Benediction</i> hero ability to move the Creuss player&rsquo;s ships, then the Creuss player may use this ability.</li>
     </ol>
     <li>A ship may move out of a system and back into the same system during tactical action movement, if its move value is high enough. If the Creuss player does this with a ship with capacity, and moves in this manner via a wormhole, they may place a fighter, if possible.</li>
-    <li>When the Creuss player moves a ship through a wormhole and into a third system that contains an alpha or beta wormhole and unlocks their Sai Seravus, they cannot apply its ability to that movement.</li>
+    <li>When the Creuss player moves a ship through a wormhole and into a third system that contains an alpha or beta wormhole and unlocks Sai Seravus, they cannot apply its ability to that movement.</li>
+    <ol><li>If the Creuss player moves the <i>Hil Colish</i> separately from other ships during the same <b>Move Ships</b> step, Sai Seravus cannot unlock until all movement is completed.</li></ol>
     </ol>
 
 <h1>Riftwalker Meian &mdash; Singularity Reactor <sub>(Hero)</sub></h1>

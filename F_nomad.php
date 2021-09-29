@@ -79,7 +79,12 @@
 <h1>Quantum Manipulator <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>When a Quantum Manipulator uses its <sc>Sustain Damage</sc> ability to cancel a hit produced against a ship, the <i>Direct Hit</i> and <i>Reflective Shielding</i> action cards cannot be played, as the Quantum Manipulator is not a ship.</li>
-    <li>A Quantum Manipulator cannot be repaired by the <i>Duranium Armor</i> technology, as it is not participating in the combat.</li>
+    <li>A Quantum Manipulator may use its <sc>Sustain Damage</sc> ability to cancel any hit produced during combat against the Nomad player&rsquo;s ships, not just hits produced by combat rolls. For example, hits produced by anti&ndash;fighter barrage rolls may be cancelled.</li>
+    <ol>
+        <li>Effects that directly destroys a ship cannot be prevented with the ability of a Quantum Manipulator.</li>
+        <li>Hits that are produced outside of combat cannot be cancelled with the ability of a Quantum Manipulator. For example, hits produced by space cannon rolls cannot be canceled.</li>
+    </ol>
+    <li>During a space combat, A Quantum Manipulator cannot be repaired by the <i>Duranium Armor</i> technology, as it is not participating in the combat.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>
