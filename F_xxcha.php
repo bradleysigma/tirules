@@ -64,7 +64,7 @@
     <li>The Xxcha player chooses the order the two agendas are resolved.</li>
     <li>The first agenda revealed is resolved before the second is revealed.</li>
     <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, regardless of the Xxcha player&rsquo;s initiative.</li>
-    <li>Other players may still perform one transaction total with the Xxcha player during this turn.</li>
+    <li>Other players may still perform one transaction total with the Xxcha player during this turn, if they are neighbors.</li>
     <li>If the <i>Representative Government</i> law is in play, it will have no effect on the Xxcha player as they resolve <i>Political Data Nexus</i>.</li>
     </ol>
 
