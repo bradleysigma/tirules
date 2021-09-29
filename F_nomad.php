@@ -68,6 +68,7 @@
     <ol>
         <li>The flagship cannot be produced with abilities that are limited by the cost of units, such as the <i>Integrated Economy</i> technology or the Muaat player&rsquo;s agent.</li>
         <li>If the flagship is chosen for the <i>Scuttle</i> action card, the player gains 8 trade goods.</li>
+    </ol>
     <li>The objective elected by the <i>Classified Document Leaks</i> agenda is a public objective, not a secret objective. Navarch Feng cannot be unlocked by scoring it.</li>
     <ol>
         <li>If the <i>Classified Document Leaks</i> agenda is discarded, the elected objective is neither a public objective nor a secret objective. Navarch Feng cannot be unlocked by having scoring it.</li>
