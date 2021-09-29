@@ -217,16 +217,16 @@
     <ol><li>Players may still play riders if only one law is in play.</li></ol>
     <li>The elected law remains in play, and remains elected to the same object if applicable, while it is being voted on.</li>
     <ol>
-        <li>If <i>Articles of War</i> is elected by <i>Miscount Disclosed</i>, the Hacan player&rsquo;s transactions during the revote cannot trade any planets containing their Pride of Kenara mechs, and the Empyrean player cannot cancel action cards played during the revote with their Watcher mechs.</li>
+        <li>If <i>Articles of War</i> is elected by <i>Miscount Disclosed</i>, the Hacan player&rsquo;s transactions during the revote cannot involve any planets containing their Pride of Kenara mechs, and the Empyrean player cannot cancel action cards played during the revote with their Watcher mechs.</li>
         <li>If <i>Classified Document Leaks</i> is elected by <i>Miscount Disclosed</i>, the objective that was originally elected will remain a public objective during the vote. It therefore cannot be re&ndash;elected.</li>
         <li>If <i>Committee Formation</i> is elected by <i>Miscount Disclosed</i>, the owner may use its ability. The elected player will receive <i>Committee Formation</i> from the discard pile.</li>
         <li>If <i>Homeland Defense Act</i> is elected by <i>Miscount Disclosed</i>, and the &ldquo;For&rdquo; effect is resolved again, players will not have to remove any PDS from the board.</li>
         <li>If <i>Political Censure</i> is elected by <i>Miscount Disclosed</i>, the current owner cannot play action cards, including <i>Confounding Legal Text</i>, if another player is elected. If another player is elected, that player may play the <i>Confusing Legal Text</i> action card.</li>
-        <li>If <i>Wormhole Reconstruction</i> is elected by <i>Miscount Disclosed</i>, the Mentak player will remain neighbors with players through wormholes, allowing them to use their <sc>Pillage</sc> faction ability on those players. The Empyrean player&rsquo;s Watcher mechs will remaing adjacent to other players&rsquo; units through wormholes, allowing them to cancel action cards played with the mech&rquo;s ability.</li>
+        <li>If <i>Wormhole Reconstruction</i> is elected by <i>Miscount Disclosed</i>, the Mentak player will remain neighbors with players through wormholes, allowing them to use their <sc>Pillage</sc> faction ability on those players. The Empyrean player&rsquo;s Watcher mechs will remaing adjacent to other players&rsquo; units through wormholes, allowing them to cancel action cards played with the mech&rsquo;s ability.</li>
         <li>If <i>Representative Government</i> is elected by <i>Miscount Disclosed</i>, each player will cast only one vote during the revote.</li>
         <li>If the elected law is attached to a planet, and is increasing its influence value, the player that controls that planet may still cast votes using the increased influence.</li>
     </ol>
-    <li>Once the law is elected, any riders on <i>Miscount Disclosed</i> will resolve. Following that, the elected law is &ldquo;revealed&rdquo;.
+    <li>Once the law is elected, any riders on <i>Miscount Disclosed</i> will resolve. Following that, the elected law is &ldquo;revealed&rdquo;.</li>
     <ol>
         <li>If <i>Classified Document Leaks</i> is elected by <i>Miscount Disclosed</i>, and there are no other secret objectives eligable to be elected by the <i>Miscount Disclosed</i> revote, <i>Classified Document Leaks</i> will be discarded and replaced.</li>
         <li>When the elected law is &ldquo;revealed&rdquo;, the <i>Veto</i> action card, the Xxcha <sc>Quash</sc> faction ability, or the Xxcha <i>Political Favor</i> promissory note may be played. If so, the law will be discarded and replaced.</li>
