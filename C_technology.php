@@ -62,8 +62,9 @@
 
 <h1>X&ndash;89 Bacterial Weapon &Omega;</h1>
     <ol class="note">
-    <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> can be used against each planet in a system, if the conditions are met.</li>
-    <li>The L1Z1X may use <i>X&ndash;89 Bacterial Weapon &Omega;</i> when they use their <sc>Harrow</sc> faction ability.</li>
+    <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> may be used against each planet in a system, if the conditions are met.</li>
+    <li><i>X&ndash;89 Bacterial Weapon &Omega;</i> will trigger only after all bombardment hits have been assigned.</li> 
+    <li>The L1Z1X may use <i>X&ndash;89 Bacterial Weapon &Omega;</i> after they use their <sc>Harrow</sc> faction ability.</li>
     </ol>
 
 <h1>Plasma Scoring</h1>
