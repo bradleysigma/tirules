@@ -115,6 +115,7 @@
 
 <h1>Demonstrate Your Power</h1>
     <ol class="note">
+    <li>A player need not win the combat to score <i>Demonstrate Your Power</i>; they are able to score it if their opponent plays the <i>Skilled Retreat</i> action card.</li>
     <li>A player involved in a combat due to the Mahact player&rsquo;s <i>Benediction</i> hero ability may score <i>Demonstrate Your Power</i> after that combat.</li>
     </ol>
 
