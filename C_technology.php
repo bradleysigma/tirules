@@ -25,7 +25,8 @@
 
 <h1>Fleet Logistics</h1>
     <ol class="note">
-    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s action.</li>
+    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.</li>
+    <li>A player may use the ability of <i>Fleet Logistics</i> the same turn they gain it.</li>
     </ol>
 
 <h1>Light/Wave Deflector</h1>
