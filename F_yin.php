@@ -73,7 +73,7 @@
 <h1>Brother Omar <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>If the <i>Regulated Conscription</i> law is in play, the Yin player may produce two infantry for one resource. This will count one towards their <sc>Production</sc> limit.</li>
-    <li>If a game effect instructs the Yin player to produce ships without using the <sc>Production</sc> ability, they may only produce infantry if that game effect allows them to produce infantry.</li>
+    <li>If a game effect instructs the Yin player to produce units without using the <sc>Production</sc> ability, they may only produce infantry if that game effect allows them to produce infantry.</li>
     <li>The Yin player may choose to produce one infantry for one resource. If they do, they may produce one additional infantry.</li>
     </ol>
 
