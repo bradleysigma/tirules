@@ -192,7 +192,9 @@
 
 <h1>Minister of Peace</h1>
     <ol class="note">
-    <li>When <i>Minister of Peace</i> is discarded, the active player may still use any &ldquo;when you activate a system&rdquo; and &ldquo;at the end of your turn&rdquo; abilities.</li>
+    <li>When <i>Minister of Peace</i> is discarded, the active player cannot use any &ldquo;after you activate a system&rdquo; and &ldquo;at the end of your turn&rdquo; abilities.</li>
+    <ol><li>Other players cannot use any &ldquo;after another player activates a system that&hellip;&rdquo; abilities.</li></ol>
+    <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities when their turn is ended by <i>Minister of Peace</i>.</li>
     </ol>
 
 <h1>Minister of Policy</h1>
