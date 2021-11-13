@@ -61,7 +61,7 @@
     <li>The Ta Zern may be used to reroll dice for an Infantry II resurrection ability.</li>
     </ol>
 
-<h1>Rin, The Master&rsquo;s Legacy &mdash; Genetic Memory<sub>(Hero)</sub></h1>
+<h1>Rin, The Master&rsquo;s Legacy &mdash; Genetic Memory <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>The Jol&ndash;Nar player does not have to meet the prerequisites of the technologies they acquire.</li>
     <li>All replacements happen simultaneously. If this ability returns a specific technology, it cannot then be regained via this ability.</li>
