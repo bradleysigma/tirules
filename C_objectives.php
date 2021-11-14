@@ -190,7 +190,7 @@
 <h1>Explore Deep Space</h1>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
-    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered empty.</li>
+    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.</li>
     </ol>
 
 <h1>Fight with Precision</h1>
@@ -335,7 +335,7 @@
 <h1>Patrol Vast Territories</h1>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
-    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered empty.</li>
+    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.</li>
     </ol>
 
 <h1>Populate the Outer Rim</h1>

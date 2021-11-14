@@ -79,7 +79,7 @@
 <h1>It Feeds on Carrion &mdash; Dimensional Anchor<sub> (Hero)</sub></h1>
     <ol class="note">
     <li>Units captured while resolving <i>Dimensional Anchor</i> are not destroyed.</li>
-    <li>If a player&rsquo;s units are blockading one of the Vuil&rsquo;raith player&rsquo;s Dimensional Tears, dice will not be rolled for that player&rsquo;s units when resolving Dimensional Anchor.</li>
+    <li>If a player&rsquo;s units are blockading one of the Vuil&rsquo;raith player&rsquo;s Dimensional Tears, dice will not be rolled for that player&rsquo;s units when resolving <i>Dimensional Anchor</i>.</li>
     <li>Each non&ndash;fighter ship affected will roll only once, regardless of how many Dimensional Tears it is adjacent to.</li>
     <li>The player that owns the ground forces and fighters chooses which are removed. They are not assigned to particular ships beforehand.</li>
     <li>If the Nekro player has used a <i>Valefar Assimilator</i> faction technology to copy Dimensional Tear II, ships in systems containing or adjacent to the Nekro player&rsquo; Dimensional Tears will also have to roll for capture when resolving <i>Dimensional Anchor</i>.</li>

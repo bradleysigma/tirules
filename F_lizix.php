@@ -60,7 +60,7 @@
     <li>Ships moving out of a gravity rift must roll for removal.</li>
     <li>Ships cannot move into a nebula or supernova, even if it contains a L1Z1X command token.</li>
     <ol><li>Ships may travel into an asteroid field only if the L1Z1X player owns the <i>Antimass Deflectors</i> technology.</li></ol>
-    <li>Dark Space Navigation may be used to move ships into the wormhole nexus. If the nexus is inactive, this will cause it to activate.</li>
+    <li><i>Dark Space Navigation</i> may be used to move ships into the wormhole nexus. If the nexus is inactive, this will cause it to activate.</li>
     </ol>
 
 <h1>Annihilator <sub>(Mech)</sub></h1>

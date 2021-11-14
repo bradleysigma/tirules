@@ -72,7 +72,7 @@
 <h1>Stellar Converter</h1>
     <ol class="note">
     <li>A planet is adjacent to the system it is in; the system the planet is in and the system the unit with the <sc>Bombardment</sc> ability is in may be adjacent or the same system.</li>
-    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i>, and no other planets, is considered empty.</li>
+    <li>A system that contains a planet destroyed by <i>Stellar Converter</i>, and no other planets, is considered to contain no planets.</li>
     <li>A player cannot target a planet they control with <i>Stellar Converter</i>.</li> 
     </ol>
 </article>

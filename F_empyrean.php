@@ -61,7 +61,8 @@
 
 <h1>Acamar <sub>(Agent)</sub></h1>
     <ol class="note">
-    <li>Exhausting Acamar is a cost. The <i>Acamar</i> agent&rsquo;s ability cannot be used if it is exhausted.</li>
+    <li>Exhausting Acamar is a cost. Acamar cannot be used if it is exhausted.</li>
+    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.</li>
     </ol>
 
 <h1>Xuange <sub>(Commander)</sub></h1>
@@ -74,7 +75,7 @@
 <h1>Conservator Procyon &mdash; Multiverse Shift <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>The Empyrean player chooses the order of exploration.</li>
-    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered empty.</li>
+    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.</li>
     </ol>
 
 <h1>Watcher <sub>(Mech)</sub></h1>

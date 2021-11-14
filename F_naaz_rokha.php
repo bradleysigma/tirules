@@ -66,7 +66,7 @@
     </ol>
     <li>Any effect that may target ships or non&ndash;fighter ships may target a Z&ndash;Grav Eidolon.</li>
     <li>A Z&ndash;Grav Eidolon is still a ground force and a mech.</li>
-    <li>A Z&ndash;Grav Eidolon will revert back to an Eidolon before the Naaz&ndash;Rokha player has the opportunity to score the <i>Demonstrate Your Power</i> secret objective.; they will not count towards the three non&ndash;fighter ships.</li>
+    <li>A Z&ndash;Grav Eidolon will revert back to an Eidolon before the Naaz&ndash;Rokha player has the opportunity to score the <i>Demonstrate Your Power</i> secret objective; they will not count towards the three non&ndash;fighter ships.</li>
     <li>When a Z&ndash;Grav Eidolon reverts back to an Eidolon at the end of combat, it will count towards capacity in the active system. Capacity limits must be met before proceeding to the <b>Invasion</b> step.</li>
     </ol>
 </article>
