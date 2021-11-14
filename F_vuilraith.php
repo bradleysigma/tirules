@@ -4,12 +4,18 @@
 <h1>Devour</h1>
     <ol class="note">
     <li>When an opponent&rsquo;s Infantry II is destroyed during combat, the Vuil&rsquo;raith player captures an infantry token, and the opponent rolls for resurrection, placing the destroyed infantry on the Infantry II unit upgrade card if successful.</li>
+    <li>The Vuil&rsquo;raith player cannot capture the Ul player&rsquo;s Hel Titan PDS.</li>
     </ol>
 
 <h1>Amalgamation</h1>
     <ol class="note">
     <li>If the Vuil&rsquo;raith player produces multiple units, their <sc>Amalgamation</sc> ability may be applied to each.</li>
     <li>If the Vuil&rsquo;raith player has captured their own units, they may use their <sc>Amalgamation</sc> ability when producing a unit of that type, even of they have no other units of that type in their reinforcements.</li>
+    <li><sc>Amalgamation</sc> does not change the cost of the produced units, only the resources spent.</li>
+    <ol><li>If the Vuil&rsquo;raith player uses the ability of the <i>Integrated Economy</i> technology, <sc>Amalgamation</sc> will have no effect on the limit to the units they may build.</li></ol>
+    <li>If the Vuil&rsquo;raith player has captured one of their own units, they may use <sc>Amalgamation</sc> to produce that unit, even if thay have no other units of that type in their reinforcements.</li>
+    <li>The Vuil&rsquo;raith player produces one fighter or infantry without spending resources for each captured fighter or infantry they spend.</li>
+    <li>If the Vuil&rsquo;raith player has the Naalu or Yin player&rsquo;s <i>Alliance</i> promissory note, they may spend one resource for one fighter or infantry, but spend a captured unit instead of that resource, then get one additional fighter or infantry for no cost, which will not count towards their production limit.</li>
     </ol>
 
 <h1>Riftmeld</h1>
@@ -70,11 +76,13 @@
     <ol class="note">
     </ol>
 
-<h1>It Feeds on Carrion &mdash; Dimensional Anchor<sub>(Hero)</sub></h1>
+<h1>It Feeds on Carrion &mdash; Dimensional Anchor<sub> (Hero)</sub></h1>
     <ol class="note">
+    <li>Units captured while resolving <i>Dimensional Anchor</i> are not destroyed.</li>
+    <li>If a player&rsquo;s units are blockading one of the Vuil&rsquo;raith player&rsquo;s Dimensional Tears, dice will not be rolled for that player&rsquo;s units when resolving Dimensional Anchor.</li>
     <li>Each non&ndash;fighter ship affected will roll only once, regardless of how many Dimensional Tears it is adjacent to.</li>
     <li>The player that owns the ground forces and fighters chooses which are removed. They are not assigned to particular ships beforehand.</li>
-    <li>If the Nekro player has used a <i>Valefar Assimilator</i> faction technology to copy Dimensional Tear II, ships in systems adjacent to the Nekro player&rsquo; Dimensional Tears will also have to roll for capture when resolving <i>Dimensional Anchor</i>.</li>
+    <li>If the Nekro player has used a <i>Valefar Assimilator</i> faction technology to copy Dimensional Tear II, ships in systems containing or adjacent to the Nekro player&rsquo; Dimensional Tears will also have to roll for capture when resolving <i>Dimensional Anchor</i>.</li>
     </ol>
 
 <h1>Reanimator <sub>(Mech)</sub></h1>

@@ -34,13 +34,15 @@
     <ol class="note">
     <li>Only the <i>Memoria</i> is adjacent to systems with a Quantum Manipulator. Other ships cannot move between the <i>Memoria</i>&rsquo;s system and a system containing a Quantum Manipulator using this ability.</li>
     <li>Other players cannot use the <sc>Deep Space Cannon</sc> ability of units in the same system as a Quantum Manipulator against the <i>Memoria</i>, unless those units are adjacent using another adjacency method.</li>
+    <li>The <i>Memoria</i> cannot retreat to a system containing a Quantum Manipulator, unless it is adjacent to that system using another adjacency method.</li>
     <li>The <i>Intimidate Council</i> objective requires the system to be adjacent to Mecatol Rex. As such, the Nomad player cannot use the <i>Memoria</i>&rsquo;s ability to score this objective. A similar prohibition applies to the <i>Learn the Secrets of the Cosmos</i> and <i>Threaten Enemies</i> objectives.</li>
     <li>All ship movement is simultaneous. The Nomad player cannot transport a Quantum Manipulator into a system, and then use that to move the <i>Memoria</i> into that system during the same movement.</li>
     </ol>
 
 <h1>Artuno the Betrayer <sub>(Agent)</sub></h1>
     <ol class="note">
-    <li>If the Nomad player would gain multiple trade goods one at a time, they may only put one on Artuno the Betrayer.</li>
+    <li>If the Nomad player would gain trade goods from multiple effects, they may only put the trade goods from one of those effects on Artuno the Betrayer.</li>
+    <ol><li>For example, if the Nomad player successfully predicts the outcome of an agenda via the <i>Trade Rider</i> action card, they could put either the trade goods gained from the <i>Trade Rider</i>, or from <sc>Future Sight</sc>, but not both.</li></ol>
     <li>When a player gains trade goods that were on a strategy card, they do not gain them from the supply.</li>
     <li>When the Nomad player gains trade goods that were on Artuno the Betrayer, they do not gain them from the supply.</li>
     </ol>

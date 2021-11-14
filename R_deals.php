@@ -16,7 +16,7 @@
     <ol class="note">
     <li>In general, only the terms of the deal that a player can immediately perform, even without the deal taking place, are binding. For example:</li>
     <ol>
-        <li>If a player has four resources available during the <b>production</b> step of a tactical action, another player may give them four trade goods to on the condition that they produce a dreadnought during this <b>production</b> step. As the active player could produce a dreadnought with the resources, this deal is binding.</li>
+        <li>If a player has four resources available during the <b>Production</b> step of a tactical action, another player may give them four trade goods to on the condition that they produce a dreadnought during this <b>Production</b> step. As the active player could produce a dreadnought with the resources, this deal is binding.</li>
         <li>If instead the active player has zero resources available, the same deal would be non&ndash;binding.</li>
     </ol>
     <li>The following are further examples of non&ndash;binding deals:</li>

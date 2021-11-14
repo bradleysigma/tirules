@@ -23,7 +23,8 @@
 
 <h1>Political Secret</h1>
     <ol class="note">
-    <li>A player may still use their faction technology abilities after their <i>Political Secret</i> has been played.</li>
+    <li>A player may still use abilities from their faction technology, leaders, or mechs after their <i>Political Secret</i> has been played.</li>
+    <ol><li>If a player has had their <i>Political Secret</i> played, other players may still use that player&rsquo;s other promissory notes.</li></ol>
     <li>If an agenda is discarded, each <i>Political Secret</i> that has been played is returned. The affected players may vote on the next agenda as normal.</li>
     <li>The effect of <i>Political Secret</i> does not stop a player from using their passive faction ability, only the abilities that player may choose to use.</li>
     </ol>

@@ -51,6 +51,7 @@
         <li><i>Antivirus</i> (Nekro).</li>
         <li><i>Terraform</i> (Ul).</li>
     </ol>
+    <li>The defender cannot score <i>Betray a Friend</i>.</li>
     </ol>
 
 <h1>Brave the Void</h1>
@@ -127,7 +128,7 @@
 
 <h1>Destroy Their Greatest Ship</h1>
     <ol class="note">
-    <li>If a player destroys their own flagship during battle, their opponent cannot score <i>Destroy their Greatest Ship</i>.</li>
+    <li>If a player destroys their own flagship during combat, such as via the effect of <i>The Crown of Thalnos</i> relic, their opponent cannot score <i>Destroy their Greatest Ship</i>.</li>
     <li>A player does not have to win a combat to score <i>Destroy their Greatest Ship</i>.</li>
     <li>A player may score <i>Destroy their Greatest Ship</i> outside of a combat.</li>
     </ol>
@@ -140,6 +141,10 @@
 
 <h1>Dictate Policy</h1>
     <ol class="note">
+    <li><i>Dictate Policy</i> is scored after the third law resolves. As such, the <i>Deadly Plot</i> action card will prevent any player from scoring <i>Dictate Policy</i>.</li>
+    <li><i>Dictate Policy</i> is scored before any rider action cards are resolved.</li>
+    <li>If there are three laws in play at the start of the agenda phase, a player may score <i>Dictate Policy</i> immediately.</li>
+    <li>If the <i>Political Data Nexus</i> Xxcha hero ability puts a third law in play, <i>Dictate Policy</i> cannot be scored until the agenda phase.</li>
     </ol>
 
 <h1>Discover Lost Outposts</h1>
@@ -154,7 +159,8 @@
 <h1>Drive the Debate</h1>
     <ol class="note">
     <li>Any &ldquo;For&rdquo;/&ldquo;Against&rdquo; agenda cannot count for <i>Drive the Debate</i>, even if the outcome affects only a single player.</li>
-    <li><i>Drive the Debate</i> is scored after the agenda resolves. As such, the <i>Confounding Legal Text</i> and <i>Confusing Legal Text</i> action cards will allow only the newly elected player to score <i>Drive the Debate</i>, and the <i>Deadly Plot</i> action cards will prevent any player from scoring <i>Drive the Debate</i>.</li>
+    <li><i>Drive the Debate</i> is scored after the agenda resolves. As such, the <i>Confounding Legal Text</i> and <i>Confusing Legal Text</i> action cards will allow only the newly elected player to score <i>Drive the Debate</i>, and the <i>Deadly Plot</i> action card will prevent any player from scoring <i>Drive the Debate</i>.</li>
+    <li><i>Drive the Debate</i> is scored before any rider action cards are resolved.</li>
     </ol>
 
 <h1>Engineer a Marvel</h1>
@@ -359,6 +365,7 @@
 
 <h1>Prove Endurance</h1>
     <ol class="note">
+    <li><i>Prove Endurance</i> is scored when the player passes during the action phase. They may then score another secret objective in the status phase immediately following.</li>
     </ol>
 
 <h1>Push Boundaries</h1>
@@ -393,6 +400,7 @@
 <h1>Spark a Rebellion</h1>
     <ol class="note">
     <li>A player that currently outright has the most victory points cannot score <i>Spark a Rebellion</i>.</li>
+    <li>If multiple players are tied for the most victory points, <i>Spark a Rebellion</i> may be scored by winning a combat against any of them.</li>
     </ol>
 
 <h1>Stake Your Claim</h1>

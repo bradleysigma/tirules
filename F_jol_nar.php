@@ -65,6 +65,7 @@
     <ol class="note">
     <li>The Jol&ndash;Nar player does not have to meet the prerequisites of the technologies they acquire.</li>
     <li>All replacements happen simultaneously. If this ability returns a specific technology, it cannot then be regained via this ability.</li>
+    <li>If the Jol&ndash;Nar player later gains a technology they returned, they gain it readied.</li>
     </ol>
 
 <h1>Shield Paling <sub>(Mech)</sub></h1>

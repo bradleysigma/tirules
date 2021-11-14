@@ -17,7 +17,7 @@
     <li>A player loses control of a planet if they no longer have units on it and another player has units on it.</li>
     <ol>
         <li>The player that placed units on the planet gains control of that planet.</li>
-        <li>During the invasion step of a tactical action, control is determined during the <b>Establish Control</b> step instead.</li>
+        <li>During the <b>Invasion</b> step of a tactical action, control is determined during the <b>Establish Control</b> step instead.</li>
     </ol>
     <li>A player can lose control of a planet through some game effects.</li>
     <li>If a player loses control of a planet that contains their control token, they remove their control token from the planet.</li>

@@ -4,6 +4,7 @@
 <h1>Peace Accords</h1>
     <ol class="note">
     <li>A planet is adjacent to both the system it is in, and every system adjacent to that.</li>
+    <li>If the planet was uncontrolled, the Xxcha player explores it.</li>
     </ol>
 
 <h1>Quash</h1>
@@ -53,7 +54,7 @@
     <li>Game effects may prevent the Xxcha player from casting additional votes.</li>
     </ol>
 
-<h1>Xxekir Grom &mdash; Political Data Nexus<sub>(Hero)</sub></h1>
+<h1>Xxekir Grom &mdash; Political Data Nexus <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>If the Xxcha player draws one of the <i>Classified Document Leaks</i>, <i>Judicial Abolishment</i>, <i>Miscount Disclosed</i> or <i>New Constitution</i> agendas, they will only discard it (if required) and reveal a new one if they choose to reveal that agenda.</li>
     <li>If the Xxcha player draws the <i>Covert Legislation</i> agenda, they will only draw a hidden agenda if they choose to reveal it.</li>
@@ -66,6 +67,8 @@
     <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, regardless of the Xxcha player&rsquo;s initiative.</li>
     <li>Other players may still perform one transaction total with the Xxcha player during this turn, if they are neighbors.</li>
     <li>If the <i>Representative Government</i> law is in play, it will have no effect on the Xxcha player as they resolve <i>Political Data Nexus</i>.</li>
+    <li>If a third law is put into play, the <i>Dictate Policy</i> objective cannot be scored until the agenda phase.</li>
+    <li>The <i>Drive the Debate</i> objective cannot be scored while resolving <i>Political Data Nexus</i>.</li>
     </ol>
 
 <h1>Indomitus <sub>(Mech)</sub></h1>

@@ -5,6 +5,8 @@
     <ol class="note">
     <li>The Nekro player may still play rider action cards.</li>
     <li>If the Nekro player has the Xxcha player&rsquo;s <i>Alliance</i> promissory note, the Nekro player may vote, without losing their ability to predict outcomes for their <sc>Galactic Threat</sc> ability.</li>
+    <li>If the speaker breaks a tie without casting any votes, then the speaker&rsquo;s technology are ineligible to be gained.</li>
+    <ol><li>If no player casts votes, then no technology can be gained.</li></ol>
     </ol>
 
 <h1>Technology Singularity</h1>
@@ -70,17 +72,21 @@
 
 <h1>The Alastor <sub>(Flagship)</sub></h1>
     <ol class="note">
-    <li>Any effect that may target ships or non&ndash;fighter ships may target a ground force that is participating in space combat due to the effect of the Alastor.</li>
+    <li>Any effect that may target ships or non&ndash;fighter ships may target a ground force that is participating in space combat due to the effect of <i>The Alastor</i>.</li>
     <ol>
         <li>This includes counting towards the three non&ndash;fighter ships necessary to trigger the effect of the <i>Assault Cannon</i> technology.</li>
         <li>The Winnu player&rsquo;s <i>Salai Sai Corian</i> flagship will roll one dice for each ground force the Nekro player has participating in a space combat via the effect of <i>The Alastor</i>.</li>
     </ol>
+    <li>After the Nekro player uses the ability of <i>The Alastor</i>, all other players will have the opportunity to resolve an &ldquo;at the start of combat&rdquo; or an &ldquo;at the start of a round of combat&rdquo; ability before the Nekro player may resolve another ability.</li>
+	<ol><li>For example, say the Nekro player owns the <i>Assault Cannon</i> technology, and uses the ability of <i>The Alastor</i> to bring the total number of non&ndash;fighter ships in the combat to three (or more). Other players may then resolve one ability each. If their opponent uses an ability that destroys ships, such as from their own <i>Assault Cannon</i>, to reduce the number of non&ndash;fighter ships the Nekro player has in the combat to two (or fewer), then the Nekro player will be unable to resolve the ability of their <i>Assault Cannon</i></li></ol>
+    <li>Some abilities may destroy <i>The Alastor</i> at the start of a combat before the Nekro player has used its ability, such as the <i>Assault Cannon</i> technology.</li>
     <li>Ground forces on planets remain there while participating in combat. Effects that target units in a space area cannot target these ground forces.</li>
     <li>If <i>The Alastor</i> is destroyed during space combat, any ground forces in that combat remain in that combat.</li>
     <li>If the Nekro player copies another player&rsquo;s flagship unit upgrade technology with one of their <i>Valefar Assimilator</i> technologies during a space combat, any ground forces in that combat remain in that combat. If the Nekro player starts the space combat copying another player&rsquo;s flagship unit upgrade technology, ground forces cannot participate in that combat, unless the Nekro player stops copying that flagship unit upgrade technology during the &ldquo;start of combat&rdquo; window.</li>
     <li>The ground forces in the combat still retain their ability to be transported. Since transported units do not count against capacity during combat, these ground forces will not count toward the Nekro player&rsquo;s fleet pool limit.</li>
     <li>A mech in the space combat may be targeted with the <i>Direct Hit</i> action card if it uses its <sc>Sustain Damage</sc> ability.</li>
-    <li>Some abilities may destroy <i>The Alastor</i> at the start of a combat before the Nekro player has used its ability, such as the <i>Assault Cannon</i> technology.</li>
+    <li>If the Nekro player has one of their <i>Valefar Assimilator</i> tokens on the Ul player&rsquo;s Hel Titan II faction unit upgrade technology, they may use <i>The Alastor</i> to have their PDS in the active system participate in the space combat.</li>
+    <li>All ground forces will leave the space combat before the Nekro player has the opportunity to score the <i>Demonstrate Your Power</i> secret objective; they will not count towards the three non&ndash;fighter ships.</li>
     </ol>
 
 <h1>Nekro Malleon <sub>(Agent)</sub></h1>

@@ -47,6 +47,7 @@
 <h1>Arc Secundus <sub>(Flagship)</sub></h1>
     <ol class="note">
     <li>The <i>Arc Secundus</i> is not repaired at the end of combat.</li>
+    <li>The <i>Arc Secundus</i> has no effect on the <i>Magen Defense Grid &Omega;</i> technology.</li>
     </ol>
 
 <h1>Viscount Unlenn <sub>(Agent)</sub></h1>

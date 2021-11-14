@@ -32,8 +32,9 @@
 
 <h1>Strike Wing Alpha <sub>(Unit)</sub></h1>
     <ol class="note">
-    <li>When a Strike Wing Alpha II rolls a 9 or 10, infantry are destroyed at the end of the <b>Roll Dice</b> step. This occurs before any ship may use its <sc>Sustain Damage</sc> ability at the start of the <b>Assign Hits</b> step.</li>
+    <li>When a Strike Wing Alpha II rolls a 9 or 10 for their <sc>anti&ndash;fighter barrage</sc> ability, infantry are destroyed at the end of the <b>Roll Dice</b> step. This occurs before any ship may use its <sc>Sustain Damage</sc> ability at the start of the <b>Assign Hits</b> step.</li>
     <li>Effects that cancel hits, such as the <i>Shields Holding</i> action card, cannot prevent the infantry from being destroyed. If an effects rerolls any anti&ndash;fighter barrage dice, the new result will determine how many infantry are destroyed.</li>
+    <li>If the last of a player&rsquo;s ground forces are destroyed by the ability of a Strike Wing Alpha II, and that player meets the other conditions for elimination, that player is immediately eliminated. All of their units are removed from the board, and the Argent player wins the combat.</li>
     </ol>
 
 <h1>Quetzecoatl <sub>(Flagship)</sub></h1>
@@ -62,6 +63,7 @@
     <li>Ships moving out of a gravity rift must roll for removal.</li>
     <li>Ships cannot move into a nebula or supernova, even if it contains an Argent command token.</li>
     <ol><li>Ships may travel into an asteroid field only if the Argent player has the <i>Antimass Deflectors</i> technology.</li></ol>
+    <li><i>Helix Protocol</i> may be used to move ships into the wormhole nexus. If the nexus is inactive, this will cause it to activate.</li>
     </ol>
 
 <h1>Aerie Sentinel <sub>(Mech)</sub></h1>

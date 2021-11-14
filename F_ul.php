@@ -9,7 +9,7 @@
     <ol class="note">
     <li>Only sleeper tokens present in the system when it is activated may be replaced with PDS.</li>
     <li>The Ul player cannot place a PDS on a planet that already has two of their PDS on it. As such, they are unable to place a Hecatoncheires on a planet with two of their PDS using its <sc>Deploy</sc> ability.</li>
-    <li>A sleeper token that is placed during the activation step, most commonly by using the <i>Scanlink Drone Network</i> technology and the <sc>Terragenesis</sc> ability, cannot be replaced via the <sc>Awaken</sc> ability during the same tactical action.</li>
+    <li>A sleeper token that is placed during the <b>Activation</b> step, most commonly by using the <i>Scanlink Drone Network</i> technology and the <sc>Terragenesis</sc> ability, cannot be replaced via the <sc>Awaken</sc> ability during the same tactical action.</li>
     <li>If the Ul player wishes to place a PDS, but there are none left in their reinforcements, they may remove a PDS from any system that does not contain one of their command tokens and place that instead. The PDS will be placed undamaged.</li>
     </ol>
 

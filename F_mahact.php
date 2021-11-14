@@ -7,6 +7,7 @@
     <li>If the Mahact player is ever limited by the number of tokens they may have in their fleet pool, such as by the <i>Fleet Regulations</i> law, they may still add a command token to their fleet pool when they are at the limit, but must then remove one command token and return it to the corresponding reinforcements.</li>
     <li>If the Mahact player wins a combat against a player that has no command tokens in their reinforcements, and none of their command tokens are on the Mahact player&rsquo;s command sheet, that player must choose one of their command tokens on their command sheet to remove and place on the Mahact player&rsquo;s command sheet.</li>
     <ol><li>If a player has no command tokens in their reinforcements or on their command sheet, the Mahact player cannot place one of that player&rsquo;s command tokens on their command sheet if they win a combat against that player.</li></ol>
+    <li>If the Mahact player is required to place a command token from their reinforcements on the board, such as when they retreat from a space combat, or the primary ability of the <i>Diplomacy</i> strategy card, if they have no tokens in their reinforcements, they may use any tokens from their command sheet, including another player&rsquo;s token in their fleet pool.</li>
     </ol>
 
 <h1>Imperia</h1>
@@ -60,7 +61,10 @@
 <h1>Airo Shir Aur &mdash; Benediction <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>Fighters and ground forces in the space area of the origin system are moved. Ground forces on planets are left behind.</li>
-    <ol><li>If the Mahact player moves their own ships, they may transport ground forces on planets.</li></ol>
+    <ol>
+        <li>If the Mahact player moves their own ships, they may transport ground forces on planets.</li>
+        <li>If the Mahact player moves the Saar player&rsquo;s units, any Floating Factories in the origin system will also be moved.</li>
+    </ol>
     <li>Any abilities that trigger when a player moves ships trigger from the perspective of the Mahact player.</li>
     <li>Any abilities that trigger when a player&rsquo;s ships move trigger from the perspective of the player that owns them.</li>
     <li>Any abilities that trigger when a player moves their ships do not trigger.</li>
@@ -68,6 +72,8 @@
     <li>The Mahact player may move another player&rsquo;s ships into a supernova only if that player owns the <i>Magmus Reactor</i> Muaat factional technology.</li>
     <!--li>The Mahact player may only move the Empyrean player&rsquo;s ships into a nebula.</li-->
     <li>If the Mahact player moves a player&rsquo;s ships out of a gravity rift, that player must roll for removal.</li>
+    <ol><li>If the Mahact player is moving the Vuil&rsquo;raith player&rsquo;s ships out of a system containing a Dimensional Tear, the Vuil&rsquo;raith player will not roll for removal.</li></ol>
+    <li>The Mahact player cannot move ships through a wormhole while the <i>Enforced Travel Ban</i> law is in play.</li>
     <li>The Mahact player cannot move the Creuss player&rsquo;s ships from a system with an alpha wormhole into a system with a beta wormhole (and no alpha wormhole), or vice versa.</li>
     <li>The Saar player&rsquo;s Floating Factories are moved.</li>
     <li>The system the combat is taking place in is considered the active system during that that combat.</li>

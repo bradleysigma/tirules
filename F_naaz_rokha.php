@@ -56,7 +56,7 @@
     <li>If the Naaz&ndash;Rokha player has the Muaat player&rsquo;s promissory note, they will not gain a trade good from it when they use their <i>Perfect Synthesis</i> ability.</li>
     </ol>
 
-<h1>Eidolon<br/>Z&ndash;Grav Eidolon <sub>(Mech)</sub></h1>
+<h1>Eidolon /<br/>Z&ndash;Grav Eidolon <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>The Naaz&ndash;Rokha mechs are only Z&ndash;Grav Eidolon during the <b>Space Combat</b> step, only in the active system, and only in the space area.</li>
     <li>If the Naaz&ndash;Rokha player had  an Eidolon in the space area of the active system, they must mandatorily use its ability to convert it to a Z&ndash;Grav Eidolon.</li>
@@ -66,6 +66,8 @@
     </ol>
     <li>Any effect that may target ships or non&ndash;fighter ships may target a Z&ndash;Grav Eidolon.</li>
     <li>A Z&ndash;Grav Eidolon is still a ground force and a mech.</li>
+    <li>A Z&ndash;Grav Eidolon will revert back to an Eidolon before the Naaz&ndash;Rokha player has the opportunity to score the <i>Demonstrate Your Power</i> secret objective.; they will not count towards the three non&ndash;fighter ships.</li>
+    <li>When a Z&ndash;Grav Eidolon reverts back to an Eidolon at the end of combat, it will count towards capacity in the active system. Capacity limits must be met before proceeding to the <b>Invasion</b> step.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

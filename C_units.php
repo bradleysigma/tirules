@@ -6,6 +6,7 @@
     <ol class="note">
     <li>A player without the war sun unit upgrade technology cannot produce, place or have a war sun on the board for any reason.</li>
     <ol><li>The Muaat player may do so without owning their Prototype War Sun II faction unit upgrade technology.</li></ol>
+    <li>A war sun has no effect on the <i>Magen Defense Grid &Omega;</i> technology.</li>
     </ol>
 
 <h1>Flagship</h1>
@@ -32,7 +33,8 @@
 <h1>Fighter</h1>
     <ol class="note">
     <li>Fighters and ground forces do not count towards capacity during combat. As such, any number of Fighter II may be in a system during combat, regardless of capacity and fleet pool. This will usually only be caused by effects that place units in a system during combat. When combat ends, however units will need to be removed to meet capacity and fleet pool requirements.</li>
-    <li>A ship cannot move through a system that contains Fighter II that are controlled by another player during the movement step of a tactical action.</li>
+    <li>A ship cannot move through a system that contains Fighter II that are controlled by another player during the <b>Movement</b> step of a tactical action.</li>
+    <li>Ships may be moved into, produced in or placed in a system even if doing so would exceed the fleet pool limit. However, some of those ships must immediately be removed to satisfy the limit. If some of those ships are fighters II, they may instead count towards that player&rsquo;s capacity in that system. If capacity is exceeded, fighters or ground forces must be removed to meet the limit.</li>
     </ol>
 
 <h1>Mech</h1>

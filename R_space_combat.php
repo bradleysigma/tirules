@@ -63,6 +63,7 @@
         <li>The <i>Shared Research</i> law will not allow a player to retreat into a nebula.</li>
     </ol>
     <li>A player may attempt to retreat from a combat in a gravity rift, but will still be affected by it. See the <a href="/R_gravity_rift">gravity rift page</a> for more details.</li>
+    <li>If a player only has fighters I in the combat when they retreat, those will be removed from the board, and they will not place a command token in an adjacent system.</li>
     <li>The <i>Nav Suite</i> action card will not allow a player ignore an anomaly while retreating.</li>
     <li>The <i>Dark Energy Tap</i> technology allows a player to retreat into a system that does not contain their ships or a planet they control.</li>
     <li>Modifying the move value of a ship will have no effect when retreating. Retreats are limited to adjacent systems.</li>

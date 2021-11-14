@@ -111,7 +111,8 @@
 <h1>Enforced Travel Ban</h1>
     <ol class="note">
     <li>The effect of the <i>Enforced Travel Ban</i> law does not affect the Creuss player.</li>
-    <li>When the <i>Enforced Travel Ban</i> law is in play, units cannot move through wormholes, even by effects that move ships outside of the movement step of a tactical action, such as while retreating.</li>
+    <li><i>Enforced Travel Ban</i> only prevents movement using the normal adjacency provided by wormholes. Other effects that creates adjacency, such as <i>Wormhole Reconstruction</i> or the <i>Lost Star Chart</i> agenda, may be used to allow movement between systems containing wormholes.</li>
+    <li>When the <i>Enforced Travel Ban</i> law is in play, units cannot move through wormholes, even by effects that move ships outside of the <b>Movement</b> step of a tactical action, such as while retreating.</li>
     <li>When the <i>Enforced Travel Ban</i> law is in play, hits may still be produced against ships in the active system by units with the <sc>Deep Space Cannon</sc> ability in systems that are adjacent via a wormhole during the <b>Space Cannon Offense</b> step of a tactical action.</li>
     <li>Players may still be neighbors via systems that are adjacent via wormholes.</li>
     <li>The &ldquo;Against&rdquo; effect of <i>Enforced Travel Ban</i> will affect PDS in or adjacent to systems containing an alpha, beta, delta or gamma wormhole.</li>
@@ -187,6 +188,7 @@
     <ol class="note">
     <li>All units in that system may use their <sc>Production</sc> ability, not just the placed space dock.</li>
     <li>The produced units must be paid for.</li>
+    <li>A space dock cannot be placed on a planet already containing a space dock.</li>
     <li>An ability that puts a space dock on the game board by &ldquo;replacing&rdquo;, rather than &ldquo;placing&rdquo;, such as the <i>Infiltrate</i> action card, will trigger <i>Minister of Industry</i>.</li>
     </ol>
 
@@ -352,7 +354,7 @@
 
 <h1>Swords to Plowshares</h1>
     <ol class="note">
-    <li>Mechs are ignored by the &ldquo;For&rdquo; effect of <i>Swords to Plowshares</i></li>
+    <li>Mechs are ignored by the &ldquo;For&rdquo; effect of <i>Swords to Plowshares.</i></li>
     </ol>
 
 <h1>Terraforming Initiative</h1>
@@ -365,7 +367,8 @@
 
 <h1>Wormhole Reconstruction</h1>
     <ol class="note">
-    <li>The &ldquo;Against&rdquo; effect of Wormhole Reconstruction will cause each player to place command tokens in each system that contains an alpha, beta, delta or gamma wormhole and one or more of that player&rsquo;s ships.</li>
+    <li>While <i>Wormhole Reconstruction</i> is in play, <i>Enforced Travel Ban</i> will have no effect.</li>
+    <li>The &ldquo;Against&rdquo; effect of <i>Wormhole Reconstruction</i> will cause each player to place command tokens in each system that contains an alpha, beta, delta or gamma wormhole and one or more of that player&rsquo;s ships.</li>
     </ol>
 
 <h1>Wormhole Research</h1>

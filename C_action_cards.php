@@ -113,6 +113,7 @@
 <h1>Disable</h1>
     <ol class="note">
     <li>If the Ul player is targeted, their Hel&ndash;Titans will still participate in the ground combat during the current invasion.</li>
+    <li><i>Disable</i> has no effect on the <i>Magen Defense Grid &Omega;</i> technology.</li>
     </ol>
 
 <h1>Distinguished Councilor</h1>
@@ -128,6 +129,8 @@
     <ol><li>The returned technology does not count towards meeting the prerequisites.</li></ol>
     <li>The researched technology may be a unit upgrade technology, and it may be a faction technology.</li>
     <li>The researched technology cannot be the returned technology.</li>
+    <li>Other players must decide whether to play <i>Sabotage</i> before the player playing <i>Divert Funding</i> announces which technology they are researching.</li>
+    <li>If a player later gains the technology they returned, they gain it readied.</li>
     </ol>
 
 <h1>Economic Initiative</h1>
@@ -350,6 +353,9 @@
     <ol class="note">
     <li>A player cannot play <i>Plagiarize</i> if they have less than five influence available.</li>
     <li>A player does not need to meet the prerequisites of the technology they gain from <i>Plagiarize</i>.</li>
+    <li>Other players must decide whether to play <i>Sabotage</i> before the player playing <i>Plagiarize</i> announces which technology they are gaining.</li>
+    <li>If a faction has a faction&ndash;specific unit upgrade as one of their faction technologies, they cannot use <i>Plagiarize</i> to gain that unit upgrade.</li>
+    <ol><li>If a player&rsquo;s neighbor owns a faction&ndash;specific unit upgrade, that cannot be used to gain the generic version of that unit upgrade by using <i>Plagiarize</i>.</li></ol>
     </ol>
 
 <h1>Plague</h1>
@@ -417,11 +423,12 @@
     <li>A player must still meet the prerequisites for the technology they research.</li>
     <li>A player cannot play <i>Reveal Prototype</i> if they have less than four resources available.</li>
     <li>A player cannot play <i>Reveal Prototype</i> if they already own the unit upgrade technology for each unit they have in the combat.</li>
+    <li>Other players must decide whether to play <i>Sabotage</i> before the player playing <i>Reveal Prototype</i> announces which technology they are researching.</li>
     </ol>
 
 <h1>Reverse Engineer</h1>
     <ol class="note">
-    <li><i>Reverse Engineer</i> may be played if the action card is discarded after being played, if it is discarded due to hand size limits, or if it is discarded for another game effect.</li>
+    <li><i>Reverse Engineer</i> may be played if the action card is discarded after being played or cancelled, if it is discarded due to hand size limits, or if it is discarded for another game effect.</li>
     <li>It is public knowlege which action cards a player takes using <i>Reverse Engineer</i>.</li>
     </ol>
 

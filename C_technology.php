@@ -41,6 +41,7 @@
 
 <h1>Psychoarchaeology</h1>
     <ol class="note">
+    <li>When researching a technology, each planet with a technology speciality can only be used to ignore a single prerequisite.</li>
     <li>Exhausting planets to gain trade goods can be done at any time during action phase.</li>
     <li>If multiple planets are exhausted, the trade goods are gained one at a time.</li>
     </ol>
@@ -128,7 +129,7 @@
 
 <h1>Scanlink Drone Network</h1>
     <ol class="note">
-    <li>The units must be on the planet before the movement step of the tactical action.</li>
+    <li>The units must be on the planet before the <b>Movement</b> step of the tactical action.</li>
     </ol>
 
 <h1>Graviton Laser System</h1>
