@@ -27,6 +27,7 @@
 <h1>Neuroglaive <sub>(Technology)</sub></h1>
     <ol class="note">
     <li>The active player must meet fleet pool limits in all systems that contain their ships before they may proceed to the <b>Movement</b> step.</li>
+    <li>If the Mahact player only has other players&rsquo; command tokens in their fleet pool when they trigger Neuroglaive, they must return one of those command tokens to that player&rsquo;s reinforcements.</li>
     </ol>
 
 <h1>Hybrid Crystal Fighter <sub>(Unit)</sub></h1>

@@ -29,12 +29,13 @@
         <li>If the active player received the <i>Creuss IFF</i> on a previous turn, they may play it and immediately perform a transaction with the Creuss player to regain it. However, the <i>Creuss IFF</i> cannot be played twice in one timing window. The active player cannot play the <i>Creuss IFF</i> again until their next turn.</li>
     </ol>
     <li>Any deal between the Creuss player and another player regarding where the wormhole tokens will be placed, if made before the <i>Creuss IFF</i> is exchanged, is non&ndash;binding.</li>
-    <li>The Creuss IFF may be played even if the Creuss player has not researched <i>Wormhole Generator</i>.</li>
+    <li>The <i>Creuss IFF</i> may be played even if the Creuss player has not researched <i>Wormhole Generator</i>.</li>
+    <li>The <i>Creuss IFF</i> cannot place wormhole tokens in the home system of an eliminated player.</li>
     </ol>
 
 <h1>Dimensional Splicer <sub>(Technology)</sub></h1>
     <ol class="note">
-    <li>Any wormhole may trigger <i>Dimensional Splicer</i>, including the <i>Hil Colish</i></li>
+    <li>Any wormhole may trigger <i>Dimensional Splicer</i>, including the one produced by the ability of the <i>Hil Colish</i></li>
     <li>One hit will be produced even if the system contains multiple wormholes.</li>
     <li>The Creuss player chooses which ship the hit is assigned to.</li>
     <li>The <i>Shields Holding</i> action card may be used to cancel the hit.</li>
@@ -48,6 +49,13 @@
     <ol class="note">
     <li>This ability is mandatory for the Creuss player in every status phase after it has been researched.</li>
     <ol><li>The Creuss player may move a wormhole token from the system it is in into the same system.</li></ol>
+    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player.</li>
+    </ol>
+
+<h1>Wormhole Generator &Omega; <sub>(Technology)</sub></h1>
+    <ol class="note">
+    <ol><li>The Creuss player may move a wormhole token from the system it is in into the same system.</li></ol>
+    <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player.</li>
     </ol>
 
 <h1>Hil Colish <sub>(Flagship)</sub></h1>
@@ -70,6 +78,8 @@
     <li>If this ability is used, the active system will be adjacent to systems with delta wormholes.</li>
     <li>This ability does not cause the active system to contain a wormhole. <i>Dimensional Splicer</i> cannot be used in the system unless it already contained a wormhole.</li>
     <li>If a ship moves from the system containing the Ion Storm, it will not flip, unless the active player may move ships through the Ion Storm wormhole and chooses to do so.</li>
+    <li>The system must have a non&ndash;delta wormhole in it at the moment of activation. If a wormhole is placed in a system with no other wormholes using the ability of an Icarus Drive, then Emissary Taivra cannot be used during the same activation.</li>
+    <ol><li>If a wormhole is placed at the start of a player&rsquo;s turn in the system using the Creuss IFF, then Emissary Taivra may be used for the activation immediately following.</li></ol>
     </ol>
 
 <h1>Sai Seravus <sub>(Commander)</sub></h1>

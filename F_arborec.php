@@ -18,6 +18,8 @@
 
 <h1>Stymie &Omega; <sub>(Promissory Note)</sub></h1>
     <ol class="note">
+    <li>If a player has no command tokens in their reinforcements, that player places one command token of their choice from their command sheet.</li>
+    <li><i>Stymie</i> cannot place a command token in the home system of an eliminated player.</li>
     </ol>
 
 <h1>Bioplasmosis <sub>(Technology)</sub></h1>

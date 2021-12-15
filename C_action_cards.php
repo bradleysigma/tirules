@@ -201,8 +201,9 @@
 
 <h1>Ghost Ship</h1>
     <ol class="note">
-    <li>A player may place the destroyer in the Creuss gate, the wormhole nexus, or any system with a wormhole token.</li>
-    <ol><li>Placing the destroyer in the inactive wormhole nexus will cause it to flip.</li></ol>
+    <li>A player may place the destroyer in the Creuss gate (tile 17), the wormhole nexus, or any system with a printed wormhole or wormhole token.</li>
+    <ol><li>Placing the destroyer in the inactive wormhole nexus will cause it to flip to its active side.</li></ol>
+    <li>The destroyer cannot be placed in the home system of an eliminated player.<li>
     <li>There must be an eligible system to place the destroyer in for a player to play and resolve <i>Ghost Ship</i>.</li>
     <li>If a player wishes to place a destroyer, but there are none left in their reinforcements, they may remove a destroyer from any system that does not contain one of their command tokens and place that instead.</li>
     </ol>
@@ -392,6 +393,8 @@
     <ol class="note">
     <li>A player cannot destroy their own space dock with <i>Reactor Meltdown</i>.</li>
     <li>At least one space dock belonging to another player must exist on the game board in a non&ndash;home system for a player to play and resolve <i>Reactor Meltdown</i>.</li>
+    <li>If a player owns a space dock in another player&rsquo;s home system, that space dock cannot be targeted by <i>Reactor Meltdown</i>.</li>
+    <ol><li>A space dock in an eliminated player&rsquo;s home system cannot be targeted.</li></ol>
     </ol>
 
 <h1>Refit Troops</h1>
@@ -498,6 +501,7 @@
 <h1>Signal Jamming</h1>
     <ol class="note">
     <li>The Mecatol Rex system may be chosen.</li>
+    <li>A command token cannot be placed in an eliminated player&rsquo;s home system.</li>
     </ol>
 
 <h1>Skilled Retreat</h1>

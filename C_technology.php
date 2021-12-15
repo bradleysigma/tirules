@@ -89,6 +89,7 @@
     <ol class="note">
     <li>The player with <i>Magen Defense Grid &Omega;</i> chooses which ground force the hit is assigned to.</li>
     <li>The chosen ground force may cancel the hit by using its <sc>Sustain Damage</sc> ability, if present. A different ground force with the <sc>Sustain Damage</sc> ability cannot do so.</li>
+    <li>If the last of a player&rsquo;s ground forces in a ground combat are destroyed by the effect of <i>Magen Defense Grid &Omega;</i>, that player loses the combat immediately. They will be unable to use any &ldquo;start of combat&rdquo; abilities.</li>
     </ol>
 
 <h1>Self&ndash;Assembly Routines</h1>

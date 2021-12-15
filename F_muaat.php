@@ -16,6 +16,7 @@
 
 <h1>Magmus Reactor <sub>(Technology)</sub></h1>
     <ol class="note">
+    <li>The war sun must be in the system prior to the use of <sc>Production</sc> to gain the trade good.</li>
     <li>The trade good is gained after the use of <sc>Production</sc>; it cannot be used to pay for the produced units.</li>
     </ol>
 
@@ -52,6 +53,8 @@
     <li>Any command tokens, frontier tokens and the Muaat player&rsquo;s units on the replaced system tile are transferred to the new supernova tile. Any Creuss wormhole tokens are returned to the Creuss player. All other tokens are purged.</li>
     <li>The Muaat player&rsquo;s units may exist in and move out of the supernova system, even if the Muaat player does not own <i>Magmus Reactor</i>.</li>
     <li>If the Muaat player owns <i>Magmus Reactor &Omega;</i>, and resolves this ability during a tactical action, they will be able to produce units during the <b>Production</b> step, if the Muaat player still has units in the system.</li>
+    <li><i>Nova Seed</i> cannot target the home system of an eliminated player.</li>
+    <li><i>Nova Seed</i> may target the Creuss Gate (tile 17) or the Wormhole Nexus (tile 82).</li>
     </ol>
 
 <h1>Ember Colossus <sub>(Mech)</sub></h1>

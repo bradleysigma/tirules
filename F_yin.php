@@ -7,6 +7,7 @@
     <li>If an invasion involves ground combats on multiple planets, <sc>Indoctrination</sc> may be used at the start of each of them.</li>
     <li>If the Yin player&rsquo;s opponent only has mechs in the ground combat, <sc>Indoctrination</sc> cannot be used.</li>
     <ol><li>If the Yin player is in a combat with the Naalu player, and the Naalu player is using their flagship ability to commit only fighters to the ground combat, <sc>Indoctrination</sc> cannot be used.</li></ol>
+    <li>If the last of a player&rsquo;s ground forces in a ground combat are removed by <sc>Indoctrination</sc>, that player loses the combat immediately. They will be unable to use any &ldquo;start of combat&rdquo; abilities.</li>
     </ol>
 
 <h1>Devotion</h1>

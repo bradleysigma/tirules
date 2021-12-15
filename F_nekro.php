@@ -67,6 +67,7 @@
         <li>If the Muaat player&rsquo;s Prototype War Sun II is lost, and the Nekro player does not have the generic war sun technology, each of their war suns are removed from the game board.</li>
         <li>If the Muaat player&rsquo;s <i>Magmus Reactor</i> is lost, the Nekro player&rsquo;s units may remain in and move out of any supernovae they are currently in, but cannot move additional units into or through.</li>
         <li>If the Vuil&rsquo;raith player&rsquo;s Dimensional Tear II is lost, the dimensional tear tokens are removed from under the Nekro player&rsquo;s space docks.</li>
+        <li>If a unit upgrade that provides that unit with the <sc>Sustain Damage</sc> ability is lost, any damaged units will remain damaged, until either the status phase or another effect repairs them.</li>
     </ol>
     </ol>
 

@@ -39,6 +39,7 @@
 
 <h1>G&rsquo;hom Sek&rsquo;kus <sub>(Commander)</sub></h1>
     <ol class="note">
+    <li>Planets in the home system of an eliminated player will not contribute to unlocking G&rsquo; Sek&rsquo;kus.</li>
     <li>This ability allows the N&rsquo;orr player to commit ground forces to a planet even if they have no ships in the active system.</li>
     <li>The <i>Parley</i> action card will place the committed ground forces in the space area of the active system. If the N&rsquo;orr player does not have enough capacity in the space area for the extra ground forces, including zero capacity, they will have to remove fighters and ground forces to meet capacity limits.</li>
     <li>The N&rsquo;orr player may only commit ground forces as the active player.</li>

@@ -22,7 +22,9 @@
     <ol class="note">
     <li>If a player already has a command token in the chosen system, they do not place a command token there.</li>
     <li>If a player has no command tokens in their reinforcements, that player places one command token of their choice from their command sheet.</li>
-    <li>Any deal between the Mahact player and another player regarding which system that player will choose when resolving <i>Scepter of Domination</i>, if made before <i>Scepter of Domination</i> is exchanged, is non&ndash;binding.</li>
+    <li>There is no mechanism to create a binding deal between the Mahact player and another player regarding which system that player will choose when resolving <i>Scepter of Domination</i>.</li>
+    <li>The Mahact player will also place a command token in the chosen system, unless their command sheet has none of their own tokens on it.</li>
+    <li><i>Scepter of Dominion</i> cannot place command tokens in the home system of an eliminated player.</li>
     </ol>
 
 <h1>Genetic Recombination <sub>(Technology)</sub></h1>
@@ -54,7 +56,10 @@
 <h1>Il Na Viroset <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>The Mahact player cannot use any &ldquo;when/after you activate a system&rdquo; abilities.</li>
-    <ol><li>Other players cannot use any &ldquo;when/after another player activates a system that&hellip;&rdquo; abilities.</li></ol>
+    <ol>
+        <li>Other players cannot use any &ldquo;when/after another player activates a system that&hellip;&rdquo; abilities.</li>
+        <li>If the Mahact player activates a system containing another player&rsquo;s units, must still return any promissory notes with such an activation as the return condition.</li>
+    </ol>
     <li>The Mahact player may still use any &ldquo;at the end of your turn&rdquo; abilities.</li>
     </ol>
 

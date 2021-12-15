@@ -3,6 +3,7 @@
 <article>
 <h1>Achieve Supremacy</h1>
     <ol class="note">
+    <li>The flagship or war sun may be in the home system of an eliminated player.<li>
     </ol>
 
 <h1>Adapt New Strategies</h1>
@@ -26,6 +27,7 @@
 <h1>Become a Martyr</h1>
     <ol class="note">
     <li>The lost planet may be in any player&rsquo;s home system. It does not have a planet in the home system of the player scoring <i>Become a Martyr</i>.</li>
+    <ol><li>The lost planent may be in the home system of an eliminated player.<li><ol>
     <li>If the lost planet is the last planet a player controls, that player will be eliminated before they score <i>Become a Martyr</i>, if they meet the other requirements for elimination.</li>
     <li>If the player with the <i>Shard of the Throne</i> relic loses their home system, they will lose the <i>Shard of the Throne</i> card and the associated victory point before they may score <i>Become a Martyr</i>.</li>
     <li>The attacker will have the opportunity to score a secret objective before the defender has the opportunity to score <i>Become a Martyr</i>.</li>
@@ -74,6 +76,7 @@
 
 <h1>Conquer the Weak</h1>
     <ol class="note">
+    <li>The planet may be in the home system of an eliminated player.</li>
     </ol>
 
 <h1>Construct Massive Cities</h1>
@@ -83,6 +86,7 @@
 <h1>Control the Borderlands</h1>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
+    <li>The units may be in another player&rsquo;s home system.</li>
     <li>The Creuss Gate is not a home system.</li>
     <li>The Wormhole Nexus and the Creuss home system are both on the edge of the game board.</li>
     <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
@@ -90,7 +94,6 @@
         <li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.</li>
         <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo;, and home systems are on the edge of the game board, along with the Creuss home system and the wormhole nexus.</li>
     </ol>
-    <li>The units may be in another player&rsquo;s home system.</li>
     </ol>
 
 <h1>Control the Region</h1>
@@ -107,6 +110,7 @@
 
 <h1>Darken the Skies</h1>
     <ol class="note">
+    <li><i>Darken the Skies</i> may be scored by winning a combat in an eliminated player&rsquo;s home system.<li>
     </ol>
 
 <h1>Defy Space and Time</h1>
@@ -184,7 +188,7 @@
 
 <h1>Expand Borders</h1>
     <ol class="note">
-    <li>The planets cannot be in any player&rsquo;s home system.</li>
+    <li>The planets cannot be in any player&rsquo;s home system, including those of eliminiated players.</li>
     </ol>
 
 <h1>Explore Deep Space</h1>
@@ -341,6 +345,7 @@
 <h1>Populate the Outer Rim</h1>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
+    <li>The units may be in another player&rsquo;s home system.</li>
     <li>The Creuss Gate is not a home system.</li>
     <li>The Wormhole Nexus and the Creuss home system are both on the edge of the game board.</li>
     <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
@@ -348,7 +353,6 @@
         <li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.</li>
         <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the Creuss home system and the wormhole nexus.</li>
     </ol>
-    <li>The units may be in another player&rsquo;s home system.</li>
     </ol>
 
 <h1>Produce en Masse</h1>
@@ -390,6 +394,7 @@
 <h1>Rule Distant Lands</h1>
     <ol class="note">
     <li>A player will qualify for <i>Rule Distant Lands</i> if they can select two home systems other than their own, and they control a planet in or adjacent to each of those systems.</li>
+    <li>The planets may meet the criteria by being adjacent to an eliminated player&rsquo;s home system.<li>
     <li>If a player controls a single planet in a home system that is adjacent to another home system via the use of wormholes, that planet alone will not qualify them for <i>Rule Distant Lands</i>.</li>
     </ol>
 
@@ -426,7 +431,7 @@
 
 <h1>Subdue the Galaxy</h1>
     <ol class="note">
-    <li>The planets cannot be in any player&rsquo; home system.</li>
+    <li>The planets cannot be in any player&rsquo;s home system, including those of eliminiated players.</li>
     </ol>
 
 <h1>Sway the Council</h1>
@@ -438,6 +443,7 @@
 <h1>Threaten Enemies</h1>
     <ol class="note">
     <li>Any ships in another players home system are irrelevant.</li>
+    <li>The ships may be adjacent to the home system of an eliminated player.<li>
     </ol>
 
 <h1>Turn Their Fleets to Dust</h1>
