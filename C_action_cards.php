@@ -203,7 +203,7 @@
     <ol class="note">
     <li>A player may place the destroyer in the Creuss gate (tile 17), the wormhole nexus, or any system with a printed wormhole or wormhole token.</li>
     <ol><li>Placing the destroyer in the inactive wormhole nexus will cause it to flip to its active side.</li></ol>
-    <li>The destroyer cannot be placed in the home system of an eliminated player.<li>
+    <li>The destroyer cannot be placed in the home system of an eliminated player.</li>
     <li>There must be an eligible system to place the destroyer in for a player to play and resolve <i>Ghost Ship</i>.</li>
     <li>If a player wishes to place a destroyer, but there are none left in their reinforcements, they may remove a destroyer from any system that does not contain one of their command tokens and place that instead.</li>
     </ol>

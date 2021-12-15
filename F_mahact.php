@@ -58,7 +58,7 @@
     <li>The Mahact player cannot use any &ldquo;when/after you activate a system&rdquo; abilities.</li>
     <ol>
         <li>Other players cannot use any &ldquo;when/after another player activates a system that&hellip;&rdquo; abilities.</li>
-        <li>If the Mahact player activates a system containing another player&rsquo;s units, must still return any promissory notes with such an activation as the return condition.</li>
+        <li>If the Mahact player activates a system containing another player&rsquo;s units, they must still return any promissory notes with such an activation as the return condition.</li>
     </ol>
     <li>The Mahact player may still use any &ldquo;at the end of your turn&rdquo; abilities.</li>
     </ol>

@@ -3,7 +3,7 @@
 <article>
 <h1>Achieve Supremacy</h1>
     <ol class="note">
-    <li>The flagship or war sun may be in the home system of an eliminated player.<li>
+    <li>The flagship or war sun may be in the home system of an eliminated player.</li>
     </ol>
 
 <h1>Adapt New Strategies</h1>
@@ -27,7 +27,7 @@
 <h1>Become a Martyr</h1>
     <ol class="note">
     <li>The lost planet may be in any player&rsquo;s home system. It does not have a planet in the home system of the player scoring <i>Become a Martyr</i>.</li>
-    <ol><li>The lost planent may be in the home system of an eliminated player.<li><ol>
+    <ol><li>The lost planent may be in the home system of an eliminated player.</li></ol>
     <li>If the lost planet is the last planet a player controls, that player will be eliminated before they score <i>Become a Martyr</i>, if they meet the other requirements for elimination.</li>
     <li>If the player with the <i>Shard of the Throne</i> relic loses their home system, they will lose the <i>Shard of the Throne</i> card and the associated victory point before they may score <i>Become a Martyr</i>.</li>
     <li>The attacker will have the opportunity to score a secret objective before the defender has the opportunity to score <i>Become a Martyr</i>.</li>
@@ -110,7 +110,7 @@
 
 <h1>Darken the Skies</h1>
     <ol class="note">
-    <li><i>Darken the Skies</i> may be scored by winning a combat in an eliminated player&rsquo;s home system.<li>
+    <li><i>Darken the Skies</i> may be scored by winning a combat in an eliminated player&rsquo;s home system.</li>
     </ol>
 
 <h1>Defy Space and Time</h1>
@@ -394,7 +394,7 @@
 <h1>Rule Distant Lands</h1>
     <ol class="note">
     <li>A player will qualify for <i>Rule Distant Lands</i> if they can select two home systems other than their own, and they control a planet in or adjacent to each of those systems.</li>
-    <li>The planets may meet the criteria by being adjacent to an eliminated player&rsquo;s home system.<li>
+    <li>The planets may meet the criteria by being adjacent to an eliminated player&rsquo;s home system.</li>
     <li>If a player controls a single planet in a home system that is adjacent to another home system via the use of wormholes, that planet alone will not qualify them for <i>Rule Distant Lands</i>.</li>
     </ol>
 
@@ -443,7 +443,7 @@
 <h1>Threaten Enemies</h1>
     <ol class="note">
     <li>Any ships in another players home system are irrelevant.</li>
-    <li>The ships may be adjacent to the home system of an eliminated player.<li>
+    <li>The ships may be adjacent to the home system of an eliminated player.</li>
     </ol>
 
 <h1>Turn Their Fleets to Dust</h1>
