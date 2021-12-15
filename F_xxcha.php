@@ -64,7 +64,7 @@
     <li>After the Xxcha player chooses and reveals an agenda, they may play any rider action cards on the revealed agenda.</li>
     <li>The Xxcha player chooses the order the two agendas are resolved.</li>
     <li>The two agendas are revealed before either is resolved.</li>
-    <li><ol>The Xxcha player will resovle all abilities that trigger when or after an agenda is revealed for the first agenda before revealing the second agenda.<li></ol>
+    <li><ol>The Xxcha player will resovle all abilities that trigger when or after an agenda is revealed for the first agenda before revealing the second agenda.</li></ol>
     <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, regardless of the Xxcha player&rsquo;s initiative.</li>
     <li>Other players may still perform one transaction total with the Xxcha player during this turn, if they are neighbors.</li>
     <li>If the <i>Representative Government</i> law is in play, it will have no effect on the Xxcha player as they resolve <i>Political Data Nexus</i>.</li>
