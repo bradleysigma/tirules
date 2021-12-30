@@ -80,7 +80,7 @@
     <ol><li>If the Mahact player is moving the Vuil&rsquo;raith player&rsquo;s ships out of a system containing a Dimensional Tear, the Vuil&rsquo;raith player will not roll for removal.</li></ol>
     <li>The Mahact player cannot move ships through a wormhole while the <i>Enforced Travel Ban</i> law is in play.</li>
     <li>The Mahact player cannot move the Creuss player&rsquo;s ships from a system with an alpha wormhole into a system with a beta wormhole (and no alpha wormhole), or vice versa.</li>
-    <li>The Saar player&rsquo;s Floating Factories are moved.</li>
+    <li>If the Mahact player moves the Muaat player&rsquo;s war sun, the Muaat player cannot trigger their <i>Nova Seed</i> hero ability.</li>
     <li>The system the combat is taking place in is considered the active system during that that combat.</li>
     <li>The player whose ships were moved is considered to be the attacker, the other player is considered to be the defender.</li>
     <ol>

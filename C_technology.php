@@ -72,7 +72,10 @@
 <h1>Plasma Scoring</h1>
     <ol class="note">
     <li>Only one additional dice is rolled for each bombardment or space cannon roll, regardless of how many units are using that ability.</li>
-    <ol><li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional dice to the space cannon rolls on each planet during the <b>Space Cannon Defense</b> step.</li></ol>
+    <ol>
+        <li>During an invasion in a system with multiple planets, only one unit will add a dice to its bombardment roll.</li>
+        <li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional dice to the space cannon rolls on each planet during the <b>Space Cannon Defense</b> step.</li>
+    </ol>
     </ol>
 
 <h1>AI Development Algorithm</h1>
