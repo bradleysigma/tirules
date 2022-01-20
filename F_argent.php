@@ -10,7 +10,7 @@
 <h1>Raid Formation</h1>
     <ol class="note">
     <li>The <b>Anti&ndash;Fighter Barrage</b> step happens during each space combat, even if no fighters are present in the system.</li>
-    <li><sc>Raid Formation</sc> occurs when hits are produced, not after hits are assigned. As such, cancelling any hits will not prevent an opponent&rsquo;s ships from being damaged.</li>
+    <li><sc>Raid Formation</sc> occurs when hits are produced, not after hits are assigned. As such, cancelling any hits will not prevent an opponent&rsquo;s ships from becoming damaged.</li>
     <ol><li>If any of the anti&ndash;fighter barrage dice are rerolled, the number of ships that become damaged will depend only on the rerolled values.</li></ol>
     <li>The Argent player may choose a damaged ship. This will have no effect.</li>
     <li>The chosen ship becomes damaged, it does not use its <sc>Sustain Damage</sc> ability. As such, effects that trigger when a ship uses its <sc>Sustains Damage</sc> ability, such as the <i>Direct Hit</i> or <i>Reflective Shielding</i> action cards, cannot be played.</li>

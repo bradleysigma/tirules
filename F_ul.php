@@ -16,7 +16,7 @@
 <h1>Coalescence <sub></sub></h1>
     <ol class="note">
     <li>Units placed on planets via the <sc>Coalescence</sc> ability are not committed. They cannot be assigned hits during the <b>Space Cannon Defense</b> step.</li>
-    <li>If the Ul player&rsquo;s units exist in the same location as another player&rsquo;s units, no game effect can prevent the combat from occuring, such as effects that end the Ul player&rsquo;s turn.</li>
+    <li>If the Ul player&rsquo;s units exist in the same location as another player&rsquo;s units, no game effect can prevent the combat from occuring, including effects that end the Ul player&rsquo;s turn.</li>
     <li>If another player plays the Ul player&rsquo;s <i>Ceasefire</i> promissory note, the Ul player may still place units into the active system using their flagship or <sc>Awaken</sc> ability.</li>
     <li>Only the active player may use the <sc>Bombardment</sc> ability of their units during an invasion. As such, any ships in the active system will be unable to use their <sc>Bombardment</sc> ability unless they belong to the Ul player.</li>
     <ol><li>This prevents the L1Z1X player from using their <sc>Harrow</sc> ability.</li></ol>

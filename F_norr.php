@@ -62,9 +62,10 @@
 
 <h1>Sh&rsquo;val, Harbinger &mdash; Tekklar Conditioning <sub>(Hero)</sub></h1>
     <ol class="note">
-    <li>The <i>Parley</i> action card will place the committed ground forces in the space area of the active system. As the N&rsquo;orr player will not have enough capacity in the space area for their ground forces, they will have to remove all ground forces from that planet now in the space area of that system.</li>
+    <li>The <i>Parley</i> action card will place the committed ground forces in the space area of the active system. As the N&rsquo;orr player will not have enough capacity in the space area for their ground forces, they will have to remove from the board all ground forces from that planet, that are now in the space area of that system.</li>
     <li>The <b>Space Cannon Offense</b>, <b>Space Combat</b> and <b>Bombardment</b> steps are skipped.</li>
     <li>Another player may still produce hits against the N&rsquo;orr player&rsquo;s ground forces committed using <i>Tekklar Conditioning</i> during the <b>Space Cannon Defense</b> step.</li>
+    <li>Any abilities that trigger &ldquo;after a player moves ships&hellip;&rdquo; or similar cannot be used following <i>Tekklar Conditioning</i>.</li> 
     </ol>
 
 <h1>Valkyrie Exoskeleton <sub>(Mech)</sub></h1>

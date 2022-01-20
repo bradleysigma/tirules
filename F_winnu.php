@@ -45,6 +45,7 @@
 
 <h1>Salai Sai Corian <sub>(Flagship)</sub></h1>
     <ol class="note">
+    <li>If the Winnu player&rsquo;s opponent has only fighters participating in the combat, the <i>Salai Sai Corian</i> will roll no dice.</li>
     <li>During a combat against the Nekro player in a system containing each player&rsquo;s flagships, the <i>Salai Sai Corian</i> will count the Nekro player&rsquo;s infantry participating in the combat when determining how many dice to roll.</li>
     </ol>
 
