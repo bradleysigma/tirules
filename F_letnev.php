@@ -47,6 +47,7 @@
 <h1>Arc Secundus <sub>(Flagship)</sub></h1>
     <ol class="note">
     <li>The <i>Arc Secundus</i> is not repaired at the end of combat.</li>
+    <li>The <i>Arc Secundus</i> only uses it repair ability during combats it is participating in.</li>
     <li>The <i>Arc Secundus</i> has no effect on the <i>Magen Defense Grid &Omega;</i> technology.</li>
     </ol>
 

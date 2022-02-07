@@ -35,6 +35,7 @@
 <h1>Antivirus <sub>(Promissory Note)</sub></h1>
     <ol class="note">
     <li>The effect of <i>Antivirus</i> does not prevent the Nekro player gaining a technology from a player via their <sc>Galactic Threat</sc> ability.</li>
+    <li>The player holding <i>Antivirus</i> may only play it at the start of a combat between them and the Nekro player.</li>
     <li><i>Antivirus</i> has no effect while it is in a player&rsquo;s hand.</li>
     <li>Antivirus is returned when the system is activated, even if the active player will perform no hostile acts towards the Nekro player this turn.</li>
     <li>Activating a system containing only the Nekro player&rsquo;s structures will still cause <i>Antivirus</i> to be returned.</li>
@@ -82,6 +83,7 @@
 	<ol><li>For example, say the Nekro player owns the <i>Assault Cannon</i> technology, and uses the ability of <i>The Alastor</i> to bring the total number of non&ndash;fighter ships in the combat to three (or more). Other players may then resolve one ability each. If their opponent uses an ability that destroys ships, such as from their own <i>Assault Cannon</i>, to reduce the number of non&ndash;fighter ships the Nekro player has in the combat to two (or fewer), then the Nekro player will be unable to resolve the ability of their <i>Assault Cannon</i></li></ol>
     <li>Some abilities may destroy <i>The Alastor</i> at the start of a combat before the Nekro player has used its ability, such as the <i>Assault Cannon</i> technology.</li>
     <li>Ground forces on planets remain there while participating in combat. Effects that target units in a space area cannot target these ground forces.</li>
+    <ol><li>When the Nekro player is in a space combat against the Argent player, their infantry on planets participating in the combat cannot be targeted by the ability of the Argent player&rsquo; <i>Strike Wing Alpha II</i> destroyers.</li></ol>
     <li>If <i>The Alastor</i> is destroyed during space combat, any ground forces in that combat remain in that combat.</li>
     <li>If the Nekro player copies another player&rsquo;s flagship unit upgrade technology with one of their <i>Valefar Assimilator</i> technologies during a space combat, any ground forces in that combat remain in that combat. If the Nekro player starts the space combat copying another player&rsquo;s flagship unit upgrade technology, ground forces cannot participate in that combat, unless the Nekro player stops copying that flagship unit upgrade technology during the &ldquo;start of combat&rdquo; window.</li>
     <li>The ground forces in the combat still retain their ability to be transported. Since transported units do not count against capacity during combat, these ground forces will not count toward the Nekro player&rsquo;s fleet pool limit.</li>
@@ -94,6 +96,7 @@
     <ol class="note">
     <li>If the chosen player is the Muaat player with their commander unlocked, they will gain a trade good from it if they spend a token from their strategy pool when resolving this ability.</li>
     <ol><li>That trade good will be gained separately from the other two.</li></ol>
+    <li>The ability of Nekro Malleon cannot be resolved while another ability is resolving. For example, if the Nekro player is targeted by the <i>Spy</i> action card, they cannot use the ability of Nekro Malleon to discard one of their action cards before <i>Spy</i> resolves.</li>
     </ol>
 
 <h1>Nekro Acidos <sub>(Commander)</sub></h1>

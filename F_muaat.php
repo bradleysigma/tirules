@@ -52,7 +52,7 @@
     <ol class="note">
     <li>Any method of movement is sufficient to trigger this ability, not only tactical action movement. For example, the Muaat player may trigger <i>Nova Seed</i> when they retreat.</li>
     <ol><li>If the Mahact player moves the Muaat player&rsquo;s war sun via the use of their <i>Benediction</i> hero ability, the Muaat player cannot trigger <i>Nova Seed</i>.</li></ol>
-    <li>Any command tokens, frontier tokens and the Muaat player&rsquo;s units on the replaced system tile are transferred to the new supernova tile. Any Creuss wormhole tokens are returned to the Creuss player. All other tokens are purged.</li>
+    <li>Any command tokens, frontier tokens and the Muaat player&rsquo;s units on the replaced system tile are transferred to the new supernova tile. Any Creuss wormhole tokens are returned to the Creuss player and any Ul sleeper tokens are returned to the Ul player. All other tokens are purged.</li>
     <li>The Muaat player&rsquo;s units may exist in and move out of the supernova system, even if the Muaat player does not own <i>Magmus Reactor</i>.</li>
     <li>If the Muaat player owns <i>Magmus Reactor &Omega;</i>, and resolves this ability during a tactical action, they will be able to produce units during the <b>Production</b> step, if the Muaat player still has units in the system.</li>
     <li><i>Nova Seed</i> cannot target the home system of an eliminated player.</li>

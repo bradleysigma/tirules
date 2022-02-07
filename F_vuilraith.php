@@ -66,10 +66,11 @@
 <h1>The Stillness of Stars <sub>(Agent)</sub></h1>
     <ol class="note">
     <li>If a player loses their commodities immediately after replenishing them, most commonly via that player&rsquo;s <i>Trade Agreement</i> promissory note, the Vuil&rsquo;raith player may still target them. If they do, they still use that player&rsquo;s full commodity value to determine which units may be captured.</li>
-    <li>The Vuil&rsquo;raith player cannot capture a unit without a cost. Notably, they cannot capture a PDS, a Space Dock, or a War Sun of a player without their War Sun unit upgrade.</li>
+    <li>The Vuil&rsquo;raith player cannot capture a unit without a cost. Notably, they cannot capture a PDS, a space dock, or a war sun of a player without their war sun unit upgrade.</li>
     <li>If the Vuil&rsquo;raith player chooses to capture a fighter or infantry, they will capture one, not two.</li>
     <li>When the primary ability of the <i>Trade</i> strategy card is resolved, the Vuil&rsquo;raith player must choose if they will use The Stillness of Stars or not after the active player has replenished their commodities, but before players are chosen to perform the secondary ability without spending a command token.</li>
     <li>When the secondary ability of the <i>Trade</i> strategy card is resolved, the Vuil&rsquo;raith player must choose if they will use The Stillness of Stars or not after the current player has replenished their commodities, but before the next player has decided if they will spend a command token to perform the secondary.</li>
+    <li>When The Stillness of Stars converts a player&rsquo;s commodities to trade goods, those trade goods are not treated as being gained for the purpose of triggering other abilities. In particular, the Mentak player&rsquo;s <sc>Pillage</sc> faction ability is not triggered by this ability.</li>
     </ol>
 
 <h1>That Which Molds Flesh <sub>(Commander)</sub></h1>

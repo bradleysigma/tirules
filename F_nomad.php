@@ -82,6 +82,7 @@
 <h1>Ahk&ndash;Syl Siven &mdash; Probability Matrix <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from Mecatol Rex).</li>
+    <li>The <i>Memoria</i> may transport ground forces from systems containing one of the Nomad player&rsquo;s command tokens while the ability of Ahk&ndash;Syl Siven is active.</li>
     </ol>
 
 <h1>Quantum Manipulator <sub>(Mech)</sub></h1>

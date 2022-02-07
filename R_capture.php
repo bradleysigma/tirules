@@ -28,6 +28,7 @@
     <li>For more information, see the <a href="/F_vuilraith">Vuil&rsquo;raith faction notes page</a>.</li>
     <li>A captured unit may only be returned to the player that originally owned it, and not to another player.</li>
     <li>The Nekro player and the Yssaril player are able to capture units by copying the Vuil&rsquo;raith player&rsquo;s abilities, but they will be unable to spend the captured units.</li>
+    <li>If a player is eliminated, any of their units that are captured remain with the player that captured them. When the capturing player would return them, the units are instead returned to the game box.</li>
     </ol>
 
 <h1>Related Topics</h1>
