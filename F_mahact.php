@@ -94,6 +94,7 @@
     <ol><li>Other players cannot use any &ldquo;when/after another player activates a system that&hellip;&rdquo; abilities.</li></ol>
     <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.</li>
     <li>The Mahact player may use the ability to end their own turn and gain their own spent command token from their fleet pool.</li>
+    <li>The Starlancer must be in the system before activation to be able to use its ability.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

@@ -57,7 +57,7 @@
 <h1>Xxekir Grom &mdash; Political Data Nexus <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>If the Xxcha player draws one of the <i>Classified Document Leaks</i>, <i>Judicial Abolishment</i>, <i>Miscount Disclosed</i> or <i>New Constitution</i> agendas, they will only discard it (if required) and reveal a new one if they choose to reveal that agenda.</li>
-    <li>If the Xxcha player draws the <i>Covert Legislation</i> agenda, they will only draw a hidden agenda if they choose to reveal it.</li>
+    <li>If the Xxcha player draws the <i>Covert Legislation</i> agenda, they will only draw a hidden agenda if they choose to reveal it. If the Xxcha player is not the speaker, the speaker will view the hidden agenda, but the Xxcha player will not see the it until it is either discarded from <sc>Quash</sc>, or resolved.</li>
     <li>If the Xxcha player draws, reveals and resolves the <i>Miscount Disclosed</i> agenda, they cast one vote for an outcome of the elected law, and resolve it.</li>
     <li>If the Xxcha player draws, reveals and resolves the <i>Public Execution</i> agenda, the elected player may still vote in the agenda phase following the current action phase.</li>
     <li>When the Xxcha player chooses and reveals an agenda, they may then use their <sc>Quash</sc> ability.</li>
@@ -65,11 +65,15 @@
     <li>The Xxcha player chooses the order the two agendas are resolved.</li>
     <li>The two agendas are revealed before either is resolved.</li>
     <ol><li>The Xxcha player will resovle all abilities that trigger when or after an agenda is revealed for the first agenda before revealing the second agenda.</li></ol>
+    <li>When an agenda outcome with an immediate effect resolves, other players resolve the effect if it is mandatory, but cannot resolve resolve it if it is optional.</li>
+    <ol><li>For example, if the Xxcha player chooses <i>Ixthian Artifact</i> as one of the agendas to resolve, the speaker rolls a dice. If the result is 6&ndash;10, then only the Xxcha player may research. If the result is 1&ndash;5, then all players must destroy units in and around Mecatol Rex. If a player has more than three units in a system adjacent to Mecatol Rex, they choose which three are destroyed.</li></ol>
     <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, regardless of the Xxcha player&rsquo;s initiative.</li>
     <li>Other players may still perform one transaction total with the Xxcha player during this turn, if they are neighbors.</li>
     <li>If the <i>Representative Government</i> law is in play, it will have no effect on the Xxcha player as they resolve <i>Political Data Nexus</i>.</li>
     <li>If a third law is put into play, the <i>Dictate Policy</i> objective cannot be scored until the agenda phase.</li>
     <li>The <i>Drive the Debate</i> objective cannot be scored while resolving <i>Political Data Nexus</i>.</li>
+    <li>Effects from agenda outcomes that occur &ldquo;at the end of this agenda phase&rdquo; are ignored.</li>
+    <li>Effects from agenda outcomes that occur &ldquo;at the start of the next strategy phase&rdquo; will still occur.</li>
     </ol>
 
 <h1>Indomitus <sub>(Mech)</sub></h1>

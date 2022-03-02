@@ -38,6 +38,7 @@
     <li>An eliminated player&rsquo;s home system remains a home system for game effects.</li>
         <ol><li>This includes effects that specify &ldquo;another player&rsquo;s home system&rdquo;.</li></ol>
     <li>If an eliminated player had any relic fragments, they are discarded to their respective exploration discard piles. If an eliminated player had any relics, they are purged.</li>
+    <li>If a player is eliminated, any of their units that are captured remain with the player that captured them. When the capturing player would return them, the units are instead returned to the game box.</li>
     </ol>
 
 <h1>Related Topics</h1>
