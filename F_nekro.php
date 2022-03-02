@@ -35,7 +35,7 @@
 <h1>Antivirus <sub>(Promissory Note)</sub></h1>
     <ol class="note">
     <li>The effect of <i>Antivirus</i> does not prevent the Nekro player gaining a technology from a player via their <sc>Galactic Threat</sc> ability.</li>
-    <li>The player holding <i>Antivirus</i> may only play it at the start of a combat between them and the Nekro player.</li>
+    <li>The player holding <i>Antivirus</i> may only play it at the start of a combat they are participating in.</li>
     <li><i>Antivirus</i> has no effect while it is in a player&rsquo;s hand.</li>
     <li>Antivirus is returned when the system is activated, even if the active player will perform no hostile acts towards the Nekro player this turn.</li>
     <li>Activating a system containing only the Nekro player&rsquo;s structures will still cause <i>Antivirus</i> to be returned.</li>
