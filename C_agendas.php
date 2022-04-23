@@ -112,7 +112,7 @@
 <h1>Enforced Travel Ban</h1>
     <ol class="note">
     <li>The effect of the <i>Enforced Travel Ban</i> law does not affect the Creuss player.</li>
-    <li><i>Enforced Travel Ban</i> only prevents movement using the normal adjacency provided by wormholes. Other effects that creates adjacency, such as <i>Wormhole Reconstruction</i> or the <i>Lost Star Chart</i> agenda, may be used to allow movement between systems containing wormholes.</li>
+    <li><i>Enforced Travel Ban</i> only prevents movement using the normal adjacency provided by wormholes. Other effects that creates adjacency, such as <i>Wormhole Reconstruction</i> agenda or the <i>Lost Star Chart</i> action card, may be used to allow movement between systems containing wormholes.</li>
     <li>When the <i>Enforced Travel Ban</i> law is in play, units cannot move through wormholes, even by effects that move ships outside of the <b>Movement</b> step of a tactical action, such as while retreating.</li>
     <li>When the <i>Enforced Travel Ban</i> law is in play, hits may still be produced against ships in the active system by units with the <sc>Deep Space Cannon</sc> ability in systems that are adjacent via a wormhole during the <b>Space Cannon Offense</b> step of a tactical action.</li>
     <li>Players may still be neighbors via systems that are adjacent via wormholes.</li>
