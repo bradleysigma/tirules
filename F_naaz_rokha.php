@@ -5,6 +5,7 @@
     <ol class="note">
     <li>If the Naaz&ndash;Rokha player has multiple Eidolon on the planet they explore, they will draw only one additional exploration card.</li>
     <li>The Naaz&ndash;Rokha player must choose to use this ability before seeing the first exploration card.</li>
+    <li>If a planet has multiple traits, the additional exploration card must come from the same deck as the first.</li>
     </ol>
 
 <h1>Fabrication</h1>

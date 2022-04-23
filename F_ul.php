@@ -31,9 +31,10 @@
 <h1>Hel&ndash;Titan <sub>(Unit)</sub></h1>
     <ol class="note">
     <li>The Ul player cannot use the secondary ability of the <i>Warfare</i> strategy card to use the <sc>Production</sc> ability of a Hel&ndash;Titan.</li>
-    <li>When multiple units use their <sc>Production</sc> ability, the <sc>Production</sc> value is pooled. As such, if the Ul player has two Hel&ndash;Titans in a system, they may produce two infantry for one resource, rather than two resources.</li>
+    <li>When multiple units use their <sc>Production</sc> ability, the <sc>Production</sc> value is pooled. As such, if the Ul player has two Hel&ndash;Titans in a system, they may produce two infantry or fighters for one resource, rather than two resources.</li>
     <li>Effects that remove ground forces, and then place them on the game board without transporting them, such as the <i>Decoy Operation</i> action card or the <i>Transit Diodes</i> technology, may be used on a Hel&ndash;Titan.</li>
     <li>Effects that move ground forces, such as the <i>Ghost Squad</i> action card or the N&rsquo;orr player&rsquo;s G&rsquo;hom Sek&rsquo;kus commander ability (via the <i>Alliance</i> promissory note), cannot be used to move a Hel&ndash;Titan to another planet.</li>
+    <li>If a player is able to ignore <sc>Planetary Shield</sc>, then Hel&ndash;Titan are eligible units to assign any hits produced by a bombardment roll.</li>
     </ol>
 
 <h1>Saturn Engine <sub>(Unit)</sub></h1>

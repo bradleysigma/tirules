@@ -48,7 +48,7 @@
     <li>A status phase objective must have its condition met during the status phase; any activity during the action phase is irrelevant.</li>
     <li>A player may choose to reveal any or all of the secret objective cards in their hand, if they so choose.</li>
     <li>If multiple ground combats happen on separate planets as part of a single invasion during one action, one secret objective may be scored during each.</li>
-    <li>The <b>Bombardment</b> and <b>Space Cannon</b> steps happen outside of during combat; any number of secret objectives may be scored during those steps, and do not prevent another secret objective being scored during combat that turn.</li>
+    <li>The <b>Bombardment</b> and <b>Space Cannon</b> steps happen outside of combat; any number of secret objectives may be scored during those steps, and do not prevent another secret objective being scored during combat that turn.</li>
     <ol><li>The <b>Anti&ndash;Fighter Barrage</b> step, however, is a step during combat.</li></ol>
     <li>A player may score an action phase secret objective when they are not the active player.</li>
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.</li>

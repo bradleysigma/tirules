@@ -79,6 +79,8 @@
     <ol class="note">
     <li>Any prediction made for a rider or similar ability is incorrect.</li>
     <li>A player cannot make the prediction that <i>Deadly Plot</i> will be played when they predict the outcome of an agenda.</li>
+    <li>If a player predicts multiple outcomes, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.</li>
+    <ol><li>If the Xxcha player uses their commander to vote for one outcome and predict another, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.</li></ol>
     </ol>
 
 <h1>Decoy Operation</h1>
