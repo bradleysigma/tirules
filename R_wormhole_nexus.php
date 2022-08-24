@@ -19,7 +19,7 @@
     <ol class="note">
     <li>The wormhole nexus will flip if a unit exists in the system while inactive, even if that unit did not move through a gamma wormhole.</li>
     <li>As the wormhole nexus becomes active at the end of the <b>Movement</b> step, only units with the <sc>Deep Space Cannon</sc> ability in systems containing a gamma wormhole will be able to produce hits during the <b>Space Cannon Offense</b> step.</li>
-    <li>If the Creuss player moves their <i>Hil Colish</i> flagship into the inactive wormhole nexus, the wormhole nexus will not flip before they move any other ships. Any other ships they wish to move into the wormhole nexus must do so via either a delta wormhole or a gamma wormhole, unless the Creuss player is utilizing the ability of their Emissary Taivra agent.</li>
+    <li>If the Creuss player moves their <i>Hil Colish</i> flagship into the inactive wormhole nexus, the wormhole nexus will not flip before they move any other ships. Any other ships they wish to move into the wormhole nexus must do so via either a delta wormhole or a gamma wormhole, unless the Creuss player is utilizing the ability of their agent, Emissary Taivra.</li>
     <li>Any units and tokens on the inactive side are transferred to the active side when the wormhole nexus flips.</li>
     <li>A ship in the wormhole will single&ndash;handedly qualify for the <i>Become the Gatekeeper</i> objective.</li>
     </ol>

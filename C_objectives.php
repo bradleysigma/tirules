@@ -122,6 +122,9 @@
     <ol class="note">
     <li>A player need not win the combat to score <i>Demonstrate Your Power</i>; they are able to score it if their opponent plays the <i>Skilled Retreat</i> action card.</li>
     <li>A player involved in a combat due to the Mahact player&rsquo;s <i>Benediction</i> hero ability may score <i>Demonstrate Your Power</i> after that combat.</li>
+    <li>Units that are temporarily ships for the duration of a space combat, such as those made so by the Nekro player&rsquo;s flagship, <i>The Alastor</i>, or the Naaz&ndash;Rokha player&rsquo;s Z&ndash;Grav Eidolon mechs, may count towards scoring <i>Demonstrate Your Power</i>.</li>
+    <li>The Mentak player may use the <i>Sleeper Cell</i> ability of their hero, during the last round of combat to place ships before scoring <i>Demonstrate Your Power</i>. However, fleet pool limits are also checked before scoring.</li>
+    <ol><li>The Mentak player cannot use the ability of their <i>Salvage Operations</i> technology until after the window in which to score <i>Demonstrate Your Power</i>.</li></ol>
     </ol>
 
 <h1>Destroy Heretical Works</h1>
@@ -238,7 +241,7 @@
 <h1>Galvanize the People</h1>
     <ol class="note">
     <li>The command tokens must be spent during the status phase. Any command tokens that were spent during the action phase will have no effect.</li>
-    <li>Any effect that triggers when a command token is spent will be triggered six times. For example, if the Muaat player has unlocked their commander, they will gain six trade goods, one at a time, when scoring <i>Galvanize the People</i>.</li>
+    <li>Any effect that triggers when a command token is spent will be triggered six times. For example, if the Muaat player has unlocked their commander, Magmus, they will gain six trade goods, one at a time, when scoring <i>Galvanize the People</i>.</li>
     </ol>
 
 <h1>Gather a Mighty Fleet</h1>
@@ -271,7 +274,7 @@
 <h1>Lead From the Front</h1>
     <ol class="note">
     <li>The command tokens must be spent during the status phase. Any command tokens that were spent during the action phase will have no effect.</li>
-    <li>Any effect that triggers when a command token is spent will be triggered three times. For example, if the Muaat player has unlocked their commander, they will gain three trade goods, one at a time when scoring <i>Lead From the Front</i>.</li>
+    <li>Any effect that triggers when a command token is spent will be triggered three times. For example, if the Muaat player has unlocked their commander, Magmus, they will gain three trade goods, one at a time when scoring <i>Lead From the Front</i>.</li>
     </ol>
 
 <h1>Learn the Secrets of the Cosmos</h1>

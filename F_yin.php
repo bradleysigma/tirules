@@ -6,7 +6,7 @@
     <li><sc>Indoctrination</sc> is limited to once per ground combat.</li>
     <li>If an invasion involves ground combats on multiple planets, <sc>Indoctrination</sc> may be used at the start of each of them.</li>
     <li>If the Yin player&rsquo;s opponent only has mechs in the ground combat, <sc>Indoctrination</sc> cannot be used.</li>
-    <ol><li>If the Yin player is in a combat with the Naalu player, and the Naalu player is using their flagship ability to commit only fighters to the ground combat, <sc>Indoctrination</sc> cannot be used.</li></ol>
+    <ol><li>If the Yin player is in a combat with the Naalu player, and the Naalu player is using the ability of their flagship, the <i>Matriarch</i>, to commit only fighters to the ground combat, <sc>Indoctrination</sc> cannot be used.</li></ol>
     <li>If the last of a player&rsquo;s ground forces in a ground combat are removed by <sc>Indoctrination</sc>, that player loses the combat immediately. They will be unable to use any &ldquo;start of combat&rdquo; abilities.</li>
     </ol>
 
@@ -68,7 +68,8 @@
     <li>Capacity is not checked during combat. As such a player may use Brother Milor to place fighters into a space combat where they have no spare capacity. After that combat ends, that player must remove fighters and/or ground forces to meet their capacity limit in that system.</li>
     <li>If the Yin player uses Brother Milor after the <i>Van Hauge</i> is destroyed during a space combat, they will win that combat.</li>
     <li>If all ships in the system are destroyed, and there are excess hits that have not been assigned to a ship, those hits will lapse, and cannot be assigned to the newly placed fighters.</li>
-    <li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <i>Turn Their Fleets to Dust</i> secret objective before the new fighters are placed.</li>
+    <ol><li>If a ship uses its <sc>Sustain Damage</sc> ability, and is then destroyed by a <i>Direct Hit</i> action card, then any remaining hits may be assigned to any placed fighters.</li></ol>
+	<li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <i>Turn Their Fleets to Dust</i> secret objective before the new fighters are placed.</li>
     </ol>
 
 <h1>Brother Omar <sub>(Commander)</sub></h1>

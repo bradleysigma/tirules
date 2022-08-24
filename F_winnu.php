@@ -21,7 +21,7 @@
 <h1>Acquiescence &Omega; <sub>(Promissory Note)</sub></h1>
     <ol class="note">
     <li>If a player plays <i>Acquiescence &Omega;</i> when the Winnu player is resolving the <i>Construction</i> strategy card, that player will not place a command token in the system they place their structure in.</li>
-    <li>If the Muaat player has their Magmus commander unlocked, and they play <i>Acquiescence &Omega;</i>, they will not gain a trade good from their Magmus commander ability.</li>
+    <li>If the Muaat player has their commander, Magmus, unlocked, and they play <i>Acquiescence &Omega;</i>, they will not gain a trade good from their commander ability.</li>
     </ol>
 
 <h1>Hegemonic Trade Policy <sub>(Technology)</sub></h1>

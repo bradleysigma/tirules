@@ -12,7 +12,7 @@
 <h1>Harrow</h1>
     <ol class="note">
     <li>The <sc>Planetary Shield</sc> ability will prevent the use of the <sc>Harrow</sc> ability on a planet.</li>
-    <li>The L1Z1X player cannot use their <sc>Harrow</sc> ability if they are not the active player. This will most commonly occur due to the effect of the N&rsquo;orr player&rsquo;s Commander.</li>
+    <li>The L1Z1X player cannot use their <sc>Harrow</sc> ability if they are not the active player. This will most commonly occur due to the effect of the N&rsquo;orr player&rsquo;s commander, G&rsquo;hom Sek&rsquo;kus.</li>
     <li>The L1Z1X player may use their <sc>Harrow</sc> ability at the end of the round in which their last ground force was destroyed. This may cause the combat to end in a draw.</li>
     <li>During the <b>Bombardment</b> step, each of the L1Z1X player&rsquo;s units with the <sc>Bombardment</sc> ability is assigned only one planet to bombard. However, during ground combat, every unit in the system with the <sc>Bombardment</sc> ability may use it against the planet the ground combat is taking place on.</li>
     <ol><li>An Annihilator may bombard when using <sc>Harrow</sc> if that mech is not currently participating in ground combat, even if it has been committed to a different planet, and has been or will be involved in another ground combat during the current invasion.</li></ol>

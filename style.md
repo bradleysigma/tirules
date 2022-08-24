@@ -6,6 +6,7 @@
 - US English.
 - A reference to an object found on the same page can be referenced by just its name. A reference to an object found on another page should be referenced by name and type (including faction if applicable).
   - e.g. "The Harrow ability" on the L1Z1X page, or "The L1Z1X player's Harrow faction ability" on any other page.
+  - Leaders and flagships on other pages should be post-fix in commas, e.g. "the Nomad player's flagship, the *Memoria*, ...".
 - Players should be described as such.
   - e.g. "The L1Z1X player&rsquo;s ships...", not ""The L1Z1X&rsquo;s ships...".
 - #TODO: work out when to use "effect" and when to use "ability".

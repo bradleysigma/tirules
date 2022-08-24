@@ -34,7 +34,7 @@
     <li><i>JR-XS455-O</i> is an agent. All rules that apply to agents (and leaders) applies to <i>JR-XS455-O</i>.</li>
     <ol>
         <li><i>JR-XS455-O</i> may be refreshed by the Nomad player's <i>Temporal Command Suite</i> technology.</li>
-        <li>The ability of <i>JR-XS455-O</i> may be duplicated by the Yssaril player's agent.</li>
+        <li>The ability of <i>JR-XS455-O</i> may be duplicated by the Yssaril player&rsquo;s agent, Ssruu.</li>
     </ol>
     </ol>
 

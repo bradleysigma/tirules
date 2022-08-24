@@ -12,7 +12,7 @@
 
 <h1>The Cavalry <sub>(Promissory Note)</sub></h1>
     <ol class="note">
-    <li>One ship is chosen. That ship retains the flagship values and abilities until it is destroyed or the combat ends.</li>
+    <li>One ship is chosen. That ship retains the flagship&rsquo;s values and abilities until it is destroyed or the combat ends.</li>
     <li>If the chosen ship does not usually have the <sc>Sustain Damage</sc> ability, and is damaged during combat, it will remain damaged even after losing the <sc>Sustain Damage</sc> ability.</li>
     <ol>
         <li>The damaged ship may be chosen again if <i>The Cavalry</i> is played by the same player during a future combat, regaining the <sc>Sustain Damage</sc> ability. As it is already damaged, it will be unable to use its <sc>Sustain Damage</sc> ability again.</li>
@@ -25,7 +25,7 @@
 <h1>Temporal Command Suite <sub>(Technology)</sub></h1>
     <ol class="note">
     <li>The Nomad player may perform a transaction with another player even if neither player is the active player.</li>
-    <ol><li><i>Temporal Command Suite</i> may allow the Nomad player to perform a transaction at a time they usually could not. For example, if the Mentak player exhausts their Suffi An agent during the strategy phase when another player gains the trade goods on the strategy card they chose, the Nomad player may use <i>Temporal Command Suite</i> and then perform a transaction with the Mentak player.</li></ol>
+    <ol><li><i>Temporal Command Suite</i> may allow the Nomad player to perform a transaction at a time they usually could not. For example, if the Mentak player exhausts their agent, Suffi An, during the strategy phase when another player gains the trade goods on the strategy card they chose, the Nomad player may use <i>Temporal Command Suite</i> and then perform a transaction with the Mentak player.</li></ol>
     <li><i>Temporal Command Suite</i> may allow the Nomad player to perform a second transaction with another player during one turn, before or after the regular transaction.</li>
     <li>An agent cannot be resolved twice in one timing window. If a player&rsquo;s agent is readied immediately after resolving, it cannot immediately resolve again.</li>
     </ol>

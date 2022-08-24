@@ -46,7 +46,7 @@
 
 <h1>Construction Rider</h1>
     <ol class="note">
-    <li>After playing a <i>Construction Rider</i>, a player may play additional action cards, including other riders.</li>
+    <li>After playing a <i>Construction Rider</i>, a player may use additional abilities, including playing other rider cards.</li>
     <ol><li>Any other riders may be played to predict the same or a different outcome.</li></ol>
     <li>The effect of a successful <i>Construction Rider</i> will be resolved after the effect of the agenda.</li>
     <li>A player who cannot vote may still play a <i>Construction Rider</i>.</li>
@@ -80,7 +80,7 @@
     <li>Any prediction made for a rider or similar ability is incorrect.</li>
     <li>A player cannot make the prediction that <i>Deadly Plot</i> will be played when they predict the outcome of an agenda.</li>
     <li>If a player predicts multiple outcomes, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.</li>
-    <ol><li>If the Xxcha player uses their commander to vote for one outcome and predict another, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.</li></ol>
+    <ol><li>If the Xxcha player uses their commander, Elder Qanoj, to vote for one outcome, when they have predicted another, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.</li></ol>
     </ol>
 
 <h1>Decoy Operation</h1>
@@ -91,7 +91,7 @@
 <h1>Diplomacy Rider</h1>
     <ol class="note">
     <li>The Mecatol Rex system may be chosen.</li>
-    <li>After playing a <i>Diplomacy Rider</i>, a player may play additional action cards, including other riders.</li>
+    <li>After playing a <i>Diplomacy Rider</i>, a player may use additional abilities, including playing other rider cards.</li>
     <ol><li>Any other riders may be played to predict the same or a different outcome.</li></ol>
     <li>The effect of a successful <i>Diplomacy Rider</i> will be resolved after the effect of the agenda.</li>
     <li>A player who cannot vote may still play a <i>Diplomacy Rider</i>.</li>
@@ -230,7 +230,7 @@
 
 <h1>Imperial Rider</h1>
     <ol class="note">
-    <li>After playing an <i>Imperial Rider</i>, a player may play additional action cards, including other riders.</li>
+    <li>After playing an <i>Imperial Rider</i>, a player may use additional abilities, including playing other rider cards.</li>
     <ol><li>Any other riders may be played to predict the same or a different outcome.</li></ol>
     <li>The effect of a successful <i>Imperial Rider</i> will be resolved after the effect of the agenda.</li>
     <li>A player who cannot vote may still play an <i>Imperial Rider</i>.</li>
@@ -276,7 +276,7 @@
 
 <h1>Leadership Rider</h1>
     <ol class="note">
-    <li>After playing a <i>Leadership Rider</i>, a player may play additional action cards, including other riders.</li>
+    <li>After playing a <i>Leadership Rider</i>, a player may use additional abilities, including playing other rider cards.</li>
     <ol><li>Any other riders may be played to predict the same or a different outcome.</li></ol>
     <li>The effect of a successful <i>Leadership Rider</i> will be resolved after the effect of the agenda.</li>
     <li>A player who cannot vote may still play a <i>Leadership Rider</i>.</li>
@@ -376,7 +376,7 @@
 
 <h1>Politics Rider</h1>
     <ol class="note">
-    <li>After playing a <i>Politics Rider</i>, a player may play additional action cards, including other riders.</li>
+    <li>After playing a <i>Politics Rider</i>, a player may use additional abilities, including playing other rider cards.</li>
     <ol><li>Any other riders may be played to predict the same or a different outcome.</li></ol>
     <li>The effect of a successful <i>Politics Rider</i> will be resolved after the effect of the agenda.</li>
     <li>A player who cannot vote may still play a <i>Politics Rider</i>.</li>
@@ -471,7 +471,7 @@
 
 <h1>Sanction</h1>
     <ol class="note">
-    <li>After playing <i>Sanction</i>, a player may play additional action cards, including riders.</li>
+    <li>After playing a <i>Sanction</i>, a player may use additional abilities, including playing rider cards.</li>
     <ol><li>Any riders may be played to predict the same or a different outcome.</li></ol>
     <li>The effect of a successful <i>Sanction</i> will be resolved after the effect of the agenda.</li>
     <li>A player who cannot vote may still play a <i>Sanction</i>.</li>
@@ -542,16 +542,16 @@
 
 <h1>Technology Rider</h1>
     <ol class="note">
-    <li>A player must still meet the prerequisites for the technology they research.</li>
-    <li>After playing a <i>Technology Rider</i>, a player may play additional action cards, including other riders.</li>
+    <li>After playing a <i>Technology Rider</i>, a player may use additional abilities, including playing other rider cards.</li>
     <ol><li>Any other riders may be played to predict the same or a different outcome.</li></ol>
     <li>The effect of a successful <i>Technology Rider</i> will be resolved after the effect of the agenda.</li>
     <li>A player who cannot vote may still play a <i>Technology Rider</i>.</li>
+    <li>A player must still meet the prerequisites for the technology they research.</li>
     </ol>
 
 <h1>Trade Rider</h1>
     <ol class="note">
-    <li>After playing a <i>Trade Rider</i>, a player may play additional action cards, including other riders.</li>
+    <li>After playing a <i>Trade Rider</i>, a player may use additional abilities, including playing other rider cards.</li>
     <ol><li>Any other riders may be played to predict the same or a different outcome.</li></ol>
     <li>The effect of a successful <i>Trade Rider</i> will be resolved after the effect of the agenda.</li>
     <li>A player who cannot vote may still play a <i>Trade Rider</i>.</li>
@@ -602,7 +602,7 @@
 
 <h1>Warfare Rider</h1>
     <ol class="note">
-    <li>After playing a <i>Warfare Rider</i>, a player may play additional action cards, including other riders.</li>
+    <li>After playing a <i>Warfare Rider</i>, a player may use additional abilities, including playing other rider cards.</li>
     <ol><li>Any other riders may be played to predict the same or a different outcome.</li></ol>
     <li>The effect of a successful <i>Warfare Rider</i> will be resolved after the effect of the agenda.</li>
     <li>A player who cannot vote may still play a <i>Warfare Rider</i>.</li>
