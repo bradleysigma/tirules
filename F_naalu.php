@@ -44,6 +44,22 @@
 
 <h1>Z&rsquo;eu <sub>(Agent)</sub></h1>
     <ol class="note">
+    <li>When the <i>Covert Legislation<i> agenda is revealed during the agenda phase, the Naalu player cannot look at the hidden agenda. Once the speaker has read the hidden agenda, the Naalu player may look at the next card of the agenda deck.</li>
+    </ol>
+
+<h1>Z&rsquo;eu &Omega;<sub>(Agent)</sub></h1>
+    <ol class="note">
+    <li>All other rules applying to tactical actions apply, other than placing a command token.</li>
+    <ol>
+        <li>The system cannot already contain a command token for the player performing the tactical action.</li>
+        <li>A player may play a <i>Ceasefire</i> promissory note or discard the <i>Minister of Peace</i> law.</li>
+        <li>If a player uses Z&rsquo;eu &Omega; to activate a system containing another player&rsquo;s units, that will count for the purposes of returning promissory notes, and other similar effects.</li>
+    </ol>
+    <li>The chosen player is considered to be the active player.</li>
+    <li>If the chosen player is not the Naalu player, they cannot use any &ldquo;at the start/end of your turn&rdquo; abilities.</li>
+    <li>If the chosen player is not the Naalu player, they may use any &ldquo;before/after you perform an action&rdquo; abilities.</li>
+    <li>If the chosen player is not the Naalu player, abilities that would end their turn instead end tehir tactical action.</li>
+    <li>Any deal between the Naalu player and another player regarding which system will be activated, if made before Z&rsquo;eu &Omega; is exhausted, is non&ndash;binding.</li>
     </ol>
 
 <h1>M&rsquo;aban <sub>(Commander)</sub></h1>
@@ -55,6 +71,12 @@
     <li>The Naalu player may choose to produce one fighter for one resource. If they do, they may produce one additional fighter.</li>
     </ol>
 
+<h1>M&rsquo;aban &Omega; <sub>(Commander)</sub></h1>
+    <ol class="note">
+    <li>The Naalu player cannot look at the agenda deck while a player is resolving the primary ability of the Politics strategy card.</li>
+    <li>When the <i>Covert Legislation<i> agenda is revealed during the agenda phase, the Naalu player cannot look at the hidden agenda. Once the speaker has read the hidden agenda, the Naalu player may look at the next card of the agenda deck.</li>
+    </ol>
+
 <h1>The Oracle &mdash; C&ndash;Radium Geometry <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>Each other player chooses which promissory note they give the Naalu player.</li>
@@ -63,6 +85,11 @@
 <h1>Iconoclast <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>The +1 will not apply to an opponent who has a relic but zero relic fragments.</li>
+    </ol>
+
+<h1>Iconoclast &Omega;<sub>(Mech)</sub></h1>
+    <ol class="note">
+    <li>The ability will apply regardless of if the Iconoclast is in the space area or on a planet in the system.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>
