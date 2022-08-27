@@ -91,7 +91,7 @@
 
 <h1>Kuuasi Aun Jalatai &mdash; Overwing Zeta <sub>(Hero)</sub></h1>
     <ol class="note">
-    <li>The Keleres player must be participating in the combat in order to resolve <i>Oerwing Zeta</i>.</li>
+    <li>The Keleres player must be participating in the combat in order to resolve <i>Overwing Zeta</i>.</li>
     <li>If a player wishes to place a ship, but there are none of that type left in their reinforcements, they may remove a ship of that type from any system that does not contain one of their command tokens and place that instead.</li>
     <li><i>Overwing Zeta</i> may be played at the start of any round of combat, not just the first.</li>
     <ol><li><i>Overwing Zeta</i> may be played in a round following the <i>Artemiris</i> being destroyed.</li></ol>
