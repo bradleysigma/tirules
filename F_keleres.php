@@ -1,5 +1,5 @@
 <?php include "prefix.php"?>
-<header>The Arborec</header>
+<header>Council Keleres</header>
 <article>
 <h1>The Tribunii</h1>
     <ol class="note">
@@ -100,7 +100,7 @@
 <h1>Odlynn Myrr &mdash; Operation Archon <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>The additional votes are not cast until the Keleres player casts votes normally.</li>
-    <li>The Keleres player vote for a different outcome than the one they predicted. If they do, they will gain one trade good and one command token.</li>
+    <li>The Keleres player may vote for a different outcome than the one they predicted. If they do, they will gain one trade good and one command token.</li>
     </ol>
 
 <h1>Omniopiares <sub>(Mech)</sub></h1>

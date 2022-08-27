@@ -87,7 +87,7 @@
         <li>The influence of a planet will not increase the number of units the Xxcha player may produce when using the <i>Integrated Economy</i> technology.<li>
         <li>The resources of the planets the Xxcha player controls will not contribute to unlocking Elder Qanoj.<li>
         <li><i>Political Data Nexus</i> does not apply when scoring the <i>Establish Hegemony</i> or <i>Hoard Raw Materials</i> objectives.<li>
-        <li>The Xxcha player will not add the influence of a planet when they gain trade goods with the <i>Mining Initiative</i> action card. Other players will not add the influence when they gain trade goods from the <i>Uprising</i> action card if they choose to exhaust one of the Xxcha player&rsquo;s action cards.</li>
+        <li>The Xxcha player will not add the influence of a planet when they gain trade goods with the <i>Mining Initiative</i> action card. Other players will not add the influence when they gain trade goods from the <i>Uprising</i> action card if they choose to exhaust one of the Xxcha player&rsquo;s planets.</li>
     </ol>
     <li>The resource value of a planet will be added to its influence value when the Xxcha player casts votes during the agenda phase.</li>
     </ol>

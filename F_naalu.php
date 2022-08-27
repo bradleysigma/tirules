@@ -58,7 +58,7 @@
     <li>The chosen player is considered to be the active player.</li>
     <li>If the chosen player is not the Naalu player, they cannot use any &ldquo;at the start/end of your turn&rdquo; abilities.</li>
     <li>If the chosen player is not the Naalu player, they may use any &ldquo;before/after you perform an action&rdquo; abilities.</li>
-    <li>If the chosen player is not the Naalu player, abilities that would end their turn instead end tehir tactical action.</li>
+    <li>If the chosen player is not the Naalu player, abilities that would end their turn instead end their tactical action.</li>
     <li>Any deal between the Naalu player and another player regarding which system will be activated, if made before Z&rsquo;eu &Omega; is exhausted, is non&ndash;binding.</li>
     </ol>
 

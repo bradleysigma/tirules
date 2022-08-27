@@ -79,11 +79,11 @@
     <ol><li>If that player&rsquo;s opponent has no units remaining, that player will instead win that combat.</li></ol>
     <li>Capacity is not checked during combat. As such a player may use Brother Milor &Omega; to place fighters into a space combat where they have no spare capacity. After that combat ends, that player must remove fighters and/or ground forces to meet their capacity limit in that system.</li>
     <li>If the Yin player uses Brother Milor &Omega; after the <i>Van Hauge</i> is destroyed during a space combat, they will win that combat.</li>
-    <li>If all units in the comat are destroyed, and there are excess hits that have not been assigned to a unit, those hits will lapse, and cannot be assigned to the newly placed units.</li>
+    <li>If all units in the combat are destroyed, and there are excess hits that have not been assigned to a unit, those hits will lapse, and cannot be assigned to the newly placed units.</li>
     <ol><li>If a ship uses its <sc>Sustain Damage</sc> ability, and is then destroyed by a <i>Direct Hit</i> action card, then any remaining hits may be assigned to any placed fighters.</li></ol>
     <li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <i>Turn Their Fleets to Dust</i> secret objective before the new fighters are placed.</li>
-    <li>If all ground forces on a planet are destroyed by hits produced from a bombardment roll, the player that produced those hits may score the <i>Mane an Example of Their World</i> secret objective before the new infantry are placed.</li>
-    <li>If the Yin player uses Brother Milor when a unit is destroyed that is both a ground force and a ship due to some game effect, that unit&rsquo;s owner may playce two fighters or two infantry.</li>
+    <li>If all ground forces on a planet are destroyed by hits produced from a bombardment roll, the player that produced those hits may score the <i>Make an Example of Their World</i> secret objective before the new infantry are placed.</li>
+    <li>If the Yin player uses Brother Milor when a unit is destroyed that is both a ground force and a ship due to some game effect, that unit&rsquo;s owner may place two fighters or two infantry.</li>
     <ol><li>If placed this way during a space combat, any newly placed infantry cannot participate. If placed this way during a ground combat, any newly placed fighters cannot participate.</li></ol>
     </ol>
 
@@ -110,7 +110,7 @@
     <li>Only the <b>Commit Ground Forces</b>, <b>Ground Combat</b> and <b>Establish Control</b> steps of an invasion are resolved.</li>
     <ol><li>Only the three infantry from the Yin player&rsqo;s reinforcements may be committed during the <b>Commit Ground Forces</b> step.</li></ol>
     <li>The Yin player may use their <sc>Indoctrination</sc> ability and their mech&rsquo;s <sc>Deploy</sc> ability.</li>
-    <li>The Yin player does not active the systems containing the planets that they are committing infantry to. As such, any effects that trigger &ldquo;when/after a player activates a system&rdquo; do not trigger.</li>
+    <li>The Yin player does not activate the systems containing the planets that they are committing infantry to. As such, any effects that trigger &ldquo;when/after a player activates a system&rdquo; do not trigger.</li>
     <li>The <i>Parley</i> action card may be used on one planet when the Yin player resolves <i>Quantum Dissemination</i>.
     <ol>
         <li>If the Yin player has no ships with capacity in the planet&rsquo;s system, then the infantry will be removed from the board.</li>
