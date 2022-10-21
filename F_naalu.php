@@ -44,7 +44,7 @@
 
 <h1>Z&rsquo;eu <sub>(Agent)</sub></h1>
     <ol class="note">
-    <li>When the <i>Covert Legislation<i> agenda is revealed during the agenda phase, the Naalu player cannot look at the hidden agenda. Once the speaker has read the hidden agenda, the Naalu player may look at the next card of the agenda deck.</li>
+    <li>When the <i>Covert Legislation</i> agenda is revealed during the agenda phase, the Naalu player cannot look at the hidden agenda. Once the speaker has read the hidden agenda, the Naalu player may look at the next card of the agenda deck.</li>
     </ol>
 
 <h1>Z&rsquo;eu &Omega;<sub>(Agent)</sub></h1>
@@ -74,7 +74,7 @@
 <h1>M&rsquo;aban &Omega; <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>The Naalu player cannot look at the agenda deck while a player is resolving the primary ability of the Politics strategy card.</li>
-    <li>When the <i>Covert Legislation<i> agenda is revealed during the agenda phase, the Naalu player cannot look at the hidden agenda. Once the speaker has read the hidden agenda, the Naalu player may look at the next card of the agenda deck.</li>
+    <li>When the <i>Covert Legislation</i> agenda is revealed during the agenda phase, the Naalu player cannot look at the hidden agenda. Once the speaker has read the hidden agenda, the Naalu player may look at the next card of the agenda deck.</li>
     </ol>
 
 <h1>The Oracle &mdash; C&ndash;Radium Geometry <sub>(Hero)</sub></h1>

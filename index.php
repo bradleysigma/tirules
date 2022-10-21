@@ -138,6 +138,7 @@
         <li><a href="/F_argent">The Argent Flight</a></li>
         <li><a href="/F_letnev">The Barony of Letnev</a></li>
         <li><a href="/F_saar">The Clan of Saar</a></li>
+        <li><a href="/F_keleres">The Council Keleres</a></li>
         <li><a href="/F_muaat">The Embers of Muaat</a></li>
         <li><a href="/F_hacan">The Emirates of Hacan</a></li>
         <li><a href="/F_empyrean">The Empyrean</a></li>
