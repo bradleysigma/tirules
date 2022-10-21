@@ -65,7 +65,7 @@
         <li>This may trigger the abilities of the <i>Sarween Tools</i> technology, and other similar abilities.</li>
         <li>Custodia Vigilia counts towards scoring the <i>Produce en Masse</i> objective within the Mecatol Rex system.</li>
     </ol>
-    <li>The Ul player&rsquo;s <i>Terraform</li> faction promissory note and the <i>Nanoforge<i> relic may be attached to Custodia Vigilia.</li>
+    <li>The Ul player&rsquo;s <i>Terraform</i> faction promissory note and the <i>Nanoforge</i> relic may be attached to Custodia Vigilia.</li>
     <ol><li>If <i>Terraform</i> is attached to Custodia Vigilia, it may be explored. However, Custodia Vigilia may be immune to the effects of some exploration cards.</li></ol>
     </ol>
 

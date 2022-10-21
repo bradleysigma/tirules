@@ -138,12 +138,12 @@
         <li><a href="/F_argent">The Argent Flight</a></li>
         <li><a href="/F_letnev">The Barony of Letnev</a></li>
         <li><a href="/F_saar">The Clan of Saar</a></li>
+        <li><a href="/F_keleres">The Council Keleres</a></li>
         <li><a href="/F_muaat">The Embers of Muaat</a></li>
         <li><a href="/F_hacan">The Emirates of Hacan</a></li>
         <li><a href="/F_empyrean">The Empyrean</a></li>
         <li><a href="/F_sol">The Federation of Sol</a></li>
         <li><a href="/F_creuss">The Ghosts of Creuss</a></li>
-        <li><a href="/F_keleres">The Council Keleres</a></li>
         <li><a href="/F_lizix">The L1Z1X Mindnet</a></li>
         <li><a href="/F_mahact">The Mahact Gene&ndash;Sorcerers</a></li>
         <li><a href="/F_mentak">The Mentak Coalition</a></li>
