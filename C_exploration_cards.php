@@ -24,6 +24,11 @@
     <ol class="note">
     </ol>
 
+<h1>Dead World</h1>
+    <ol class="note">
+    <li>If the relic deck is empty, <i>Dead World</i> will be discarded with no effect.</li>
+    </ol>
+
 <h1>Demilitarized Zone</h1>
     <ol class="note">
     <li>After the active player has returned ground forces on the planet to the space area, if they does not have enough capacity in the space area for the returned ground forces, including zero capacity, they will have to remove fighters and/or ground forces to meet capacity limits.</li>
@@ -41,6 +46,10 @@
 <h1>Enigmatic Device</h1>
     <ol class="note">
     <li>A player cannot play <i>Enigmatic Device</i> as a component action if they have less than six resources available.</li>
+    </ol>
+
+<h1>Entropic Field</h1>
+    <ol class="note">
     </ol>
 
 <h1>Expedition</h1>
@@ -89,6 +98,10 @@
     <li>If ships are moved through the Ion Storm token wormhole outside of the <b>Move Ship</b> or <b>Retreat</b> substeps of a tactical action, such as by the effect of the <i>Skilled Retreat</i> action card, the Ion Storm token is not flipped.</li>
     </ol>
 
+<h1>Keleres Ship</h1>
+    <ol class="note">
+    </ol>
+
 <h1>Lazax Survivors</h1>
     <ol class="note">
     </ol>
@@ -103,6 +116,10 @@
     <ol class="note">
     </ol>
 
+<h1>Major Entropic Field</h1>
+    <ol class="note">
+    </ol>
+
 <h1>Mercenary Outfit</h1>
     <ol class="note">
     </ol>
@@ -112,6 +129,10 @@
     </ol>
 
 <h1>Mining World</h1>
+    <ol class="note">
+    </ol>
+
+<h1>Minor Entropic Field</h1>
     <ol class="note">
     </ol>
 

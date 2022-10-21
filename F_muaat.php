@@ -45,6 +45,10 @@
 <h1>Magmus <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>If the Muaat player spends multiple tokens from their strategy pool (e.g. for the <i>Lead From the Front</i> objective), they gain that many trade goods, one at a time.</li>
+    <ol>
+        <li>Each trade good gained may trigger the Mentak player&rsquo;s <sc>Pillage</sc> faction ability.</li>
+        <li>If the Muaat player wishes to score <i>Lead From the Front</i> and <i>Form a Spy Network</i> during the one status phase, they must do so simultaneously, and both happen before the Mentak player may use their <sc>Pillage</sc> faction ability. If the Mentak player subsequently uses their agent, Suffi An, when they use their <sc>Pillage</sc> faction ability on the trade goods the Muaat player gained from Magmus when spending the tokens for <i>Lead From the Front</i>, then the Muaat player cannot discard the drawn action card for <i>Form a Spy Network</i>.</li>
+    </ol>
     <li>If the Muaat player uses the ability of the <i>Scepter of Emelpar</i> relic, they will be unable to benefit from the ability of Magmus.</li>
     </ol>
 

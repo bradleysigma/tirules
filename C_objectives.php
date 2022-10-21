@@ -206,6 +206,12 @@
     <li>If a player&rsquo;s last fighter in a system is destroyed, but an ability allows that player to then place fighters into that system, <i>Fight with Precision</i> may still be scored.</li>
     </ol>
 
+<h1>Fight with Precision &Omega;</h1>
+    <ol class="note">
+    <li>Scoring <i>Fight with Precision &Omega;</i> will count as that player&rsquo;s single secret objective scoring for that combat.</li>
+    <li>If a player&rsquo;s last fighter in a system is destroyed, but an ability allows that player to then place fighters into that system, <i>Fight with Precision &Omega;</i> may still be scored.</li>
+    </ol>
+
 <h1>Forge an Alliance</h1>
     <ol class="note">
     </ol>
@@ -289,6 +295,14 @@
     <li>Scoring <i>Make an Example of Their World</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.</li>
     <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World</i> may still be scored.</li>
     <li>The L1Z1X player may score <i>Make an Example of Their World</i> by using their <sc>Harrow</sc> faction ability. If they do they cannot score another objective during that ground combat.</li>
+    </ol>
+
+<h1>Make an Example of Their World &Omega;</h1>
+    <ol class="note">
+    <li>If the last ground force is destroyed using the <i>X&ndash;89 Bacterial Weapon &Omega;</i> technology, <i>Make an Example of Their World &Omega;</i> may be scored.</li>
+    <li>Scoring <i>Make an Example of Their World &Omega;</i> will not prevent that player from scoring a secret objective in any ground combats during this tactical action.</li>
+    <li>If a player&rsquo;s last ground force on a planet is destroyed, but an ability allows that player to then place ground forces onto that planet, <i>Make an Example of Their World &Omega;</i> may still be scored.</li>
+    <li>The L1Z1X player cannot score <i>Make an Example of Their World &Omega;</i> by using their <sc>Harrow</sc> faction ability.</li>
     </ol>
 
 <h1>Make History</h1>
@@ -455,6 +469,15 @@
     <li>If a player still has fighters in a system after assigning all hits produced during <b>Space Cannon Offense</b> step, but is forced to remove all of them to meet capacity limits, <i>Turn Their Fleets to Dust</i> cannot be scored.</li>
     <li>If a player&rsquo;s last ship in a system is destroyed, but an ability allows that player to then place ships into that system, <i>Turn Their Fleets to Dust</i> may still be scored.</li>
     <li>Scoring <i>Turn Their Fleets to Dust</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.</li>
+    </ol>
+
+<h1>Turn Their Fleets to Dust &Omega;</h1>
+    <ol class="note">
+    <li>If the last ship is destroyed using a <i>Direct Hit</i> action card, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.</li>
+    <li>If a player still has fighters in a system after assigning all hits produced during <b>Space Cannon Offense</b> step, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.</li>
+    <li>If a player&rsquo;s last ship in a system is destroyed, but an ability allows that player to then place ships into that system, <i>Turn Their Fleets to Dust &Omega;</i> may still be scored.</li>
+    <li>Scoring <i>Turn Their Fleets to Dust &Omega;</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.</li>
+    <li>If a system contains only fighters, then <i>Turn Their Fleets to Dust &Omega;</i> cannot be scored by destroying them.</li>
     </ol>
 
 <h1>Unify the Colonies</h1>

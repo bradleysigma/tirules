@@ -76,6 +76,22 @@
     <li>Effects from agenda outcomes that occur &ldquo;at the start of the next strategy phase&rdquo; will still occur.</li>
     </ol>
 
+<h1>Xxekir Grom &mdash; Political Data Nexus &Omega;<sub>(Hero)</sub></h1>
+    <ol class="note">
+    <li>During the status phase, public and secret objectives are scored simultaneously. The Xxcha player cannot score a public objective, unlock Xxekir Grom, and then use <i>Political Data Nexus</i> in order to score a secret objective, or vice versa.</li>
+    <li>The combined value may be spent as either influence or resources, not both, and cannot be split between the two.</li>
+    <ol><li>If the Xxcha player owns a planet with three influence and three resources, they cannot score the <i>Amass Wealth</li> objective by exhausting it and spending three trade goods.</li></ol>
+    <li><i>Political Data Nexus</i> only changes the spendable influence and resources. It does not change the value for any other game effect.</li>
+    <ol>
+        <li>A space dock will not add the influence of the planet it is on to its <sc>Production<sc> value.<li>
+        <li>The influence of a planet will not increase the number of units the Xxcha player may produce when using the <i>Integrated Economy</i> technology.<li>
+        <li>The resources of the planets the Xxcha player controls will not contribute to unlocking Elder Qanoj.<li>
+        <li><i>Political Data Nexus</i> does not apply when scoring the <i>Establish Hegemony</i> or <i>Hoard Raw Materials</i> objectives.<li>
+        <li>The Xxcha player will not add the influence of a planet when they gain trade goods with the <i>Mining Initiative</i> action card. Other players will not add the influence when they gain trade goods from the <i>Uprising</i> action card if they choose to exhaust one of the Xxcha player&rsquo;s planets.</li>
+    </ol>
+    <li>The resource value of a planet will be added to its influence value when the Xxcha player casts votes during the agenda phase.</li>
+    </ol>
+
 <h1>Indomitus <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>During the <b>Space Cannon Defense</b> step of a a tactical action, only non&ndash;active players can use the <sc>Space Cannon</sc> ability of their units. The Xxcha player cannot use the <sc>Space Cannon</sc> ability of their mechs immediately after committing them to a planet against units owned by that planet&rsquo;s controller.</li>
