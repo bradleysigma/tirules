@@ -30,6 +30,7 @@
     <ol class="note">
     <li>The Nekro player may still resolve the primary or secondary abilities of the <i>Technology</i> strategy card, which will instead gain them command tokens.</li>
     <li>The Nekro player may still use any abilities that trigger off of researching technologies, such as <i>The Prophet&rsquo;s Tears</i> relic.</li>
+	<li>The Nekro player may play any action card that would allow them to research a technology, even if there is no viable technology that the Nekro player could have researched.</li>
     </ol>
 
 <h1>Antivirus <sub>(Promissory Note)</sub></h1>
@@ -102,6 +103,7 @@
 <h1>Nekro Acidos <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>When the Nekro player gains their third technology and unlocks Nekro Acidos, they cannot apply Nekro Acidos to that instance of gaining a technology.</li>
+    <li>When the Nekro places a Valefar Assimilator token on a technology, they are not gaining a technology.</li>
     </ol>
 
 <h1>UNIT.DSGN.FLAYESH &mdash; Polymorphic Algorithm <sub>(Hero)</sub></h1>

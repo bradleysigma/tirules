@@ -357,7 +357,7 @@
     <ol class="note">
     <li>A player cannot play <i>Plagiarize</i> if they have less than five influence available.</li>
     <li>A player does not need to meet the prerequisites of the technology they gain from <i>Plagiarize</i>.</li>
-    <li>Other players must decide whether to play <i>Sabotage</i> before the player playing <i>Plagiarize</i> announces which technology they are gaining.</li>
+    <li>The active player must announce which technology they are gaining before other players decide whether to play a <i>Sabotage</i>.</li>
     <li>If a faction has a faction&ndash;specific unit upgrade as one of their faction technologies, they cannot use <i>Plagiarize</i> to gain that unit upgrade.</li>
     <ol><li>If a player&rsquo;s neighbor owns a faction&ndash;specific unit upgrade, that cannot be used to gain the generic version of that unit upgrade by using <i>Plagiarize</i>.</li></ol>
     </ol>

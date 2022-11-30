@@ -108,7 +108,8 @@
     <ol class="note">
     <li>A total of three infantry may be placed. These may all be placed on one planet, or placed one each on three planets, or split two/one between two planets.</li>
     <li>Only the <b>Commit Ground Forces</b>, <b>Ground Combat</b> and <b>Establish Control</b> steps of an invasion are resolved.</li>
-    <ol><li>Only the three infantry from the Yin player&rsqo;s reinforcements may be committed during the <b>Commit Ground Forces</b> step.</li></ol>
+    <li>The Yin player commits all infantry before resolving any combats.</li>
+    <ol><li>Only the three infantry from the Yin player&rsqo;s reinforcements may be committed during the <b>Commit Ground Forces</b> step. Ground forces in the space area above the planets cannot be committed.</li></ol>
     <li>The Yin player may use their <sc>Indoctrination</sc> ability and their mech&rsquo;s <sc>Deploy</sc> ability.</li>
     <li>The Yin player does not activate the systems containing the planets that they are committing infantry to. As such, any effects that trigger &ldquo;when/after a player activates a system&rdquo; do not trigger.</li>
     <li>The <i>Parley</i> action card may be used on one planet when the Yin player resolves <i>Quantum Dissemination</i>.

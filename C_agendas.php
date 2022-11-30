@@ -330,7 +330,7 @@
 <h1>Search Warrant</h1>
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.</li>
-    <li>If necessary, the elected player shuffles the excess secret objectives into the deck before revealing their remaining secret objectives.</li>
+    <li>If the elected player has three secret objective cards, and they would draw another, the drawn secret objective card is reveal before that player chooses which card to discard. This applies both when the elected player initially draws the secret objective cards from the effect of <i>Search Warrant</i> when they are elected, and if they later draw secret objective cards from another effect.</li>
     </ol>
 
 <h1>Seed of an Empire</h1>
