@@ -13,6 +13,7 @@
 <h1>Archived Secret</h1>
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.</li>
+	<li>If a player draws the <i>Drive the Debate</i> secret objective while resolving <i>Archived Secret</i>, they cannot score it immediately.</li>
     </ol>
 
 <h1>Armed Forces Standardization</h1>
