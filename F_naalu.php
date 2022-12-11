@@ -38,7 +38,7 @@
     <ol class="note">
     <li>The committed fighters are returned to the space area when combat ends, and thus will not be on the planet for the <b>Establish Control</b> step. If the Naalu player does not commit at least one ground force to a planet and have it survive the combat, they will be unable to gain control of that planet, and the ground combat will end in a draw.</li>
     <li>Any structures on the planet will not be destroyed if the Naalu player committed no ground forces.</li>
-    <li>The <i>Daxive Animators</i> technology will not allow the Naalu player to gain control of a planet without committing a ground force.</li>
+    <li>The <i>Daxcive Animators</i> technology will not allow the Naalu player to gain control of a planet without committing a ground force.</li>
     <li>The committed fighters may be assigned hits during the <b>Space Cannon Defense</b> step.</li>
     </ol>
 
