@@ -24,8 +24,8 @@
 
 <h1>Temporal Command Suite <sub>(Technology)</sub></h1>
     <ol class="note">
-    <li>The Nomad player may perform a transaction with another player even if neither player is the active player.</li>
     <li>The Nomad player may perform a transaction with another player without being neighbors with that player.</li>
+    <li>The Nomad player may perform a transaction with another player even if neither player is the active player.</li>
     <ol><li><i>Temporal Command Suite</i> may allow the Nomad player to perform a transaction at a time they usually could not. For example, if the Mentak player exhausts their agent, Suffi An, during the strategy phase when another player gains the trade goods on the strategy card they chose, the Nomad player may use <i>Temporal Command Suite</i> and then perform a transaction with the Mentak player.</li></ol>
     <li><i>Temporal Command Suite</i> may allow the Nomad player to perform a second transaction with another player during one turn, before or after the regular transaction.</li>
     <li>An agent cannot be resolved twice in one timing window. If a player&rsquo;s agent is readied immediately after resolving, it cannot immediately resolve again.</li>
