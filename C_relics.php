@@ -55,7 +55,7 @@
 <h1>The Prophet&rsquo;s Tears</h1>
     <ol class="note">
     <li>A player cannot use the ability of <i>The Prophet&rsquo;s Tears</i> when they directly gain a technology.</li>
-    <ol><li>The Nekro player cannot use the ability of <i>The Prophet&rsquo;s Tears</i>.</li></ol>
+    <ol><li>When the Nekro Virus player uses their Propagation faction ability, they can exhaust <i>The Prophet&rsquo;s Tears</i> to gain an action card.</li></ol>
     </ol>
 
 <h1>Scepter of Emelpar</h1>
