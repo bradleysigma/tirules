@@ -54,6 +54,7 @@
     <li>The replaced ship is not destroyed. The replacing ship is not produced.</li>
     <ol><li>The <i>Sarween Tools</i> technology and similar effects will not allow a more expensive ship to be placed.</li></ol>
     <li>If the player wishes to place a ship, but there are none of that type left in their reinforcements, they may remove a ship of that type from any system that does not contain one of their command tokens and place that instead. This ship will be placed undamaged.</li>
+    <li>A fighter may be placed with Letani Ospha.</li>
     </ol>
 
 <h1>Dirzuga Rophal <sub>(Commander)</sub></h1>

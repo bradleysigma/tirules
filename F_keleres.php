@@ -58,6 +58,7 @@
     <li>The Keleres player cannot lose control of Custodia Vigilia.</li>
     <ol><li>The Keleres player cannot be eliminated once they control Custodia Vigilia.</li></ol>
     <li>Custodia Vigilia may be used to qualify for objectives, if it meets any other requirements listed.</li>
+    <ol><li>Custodia Vigilia cannot be used to qualify for any objective that requires planets in a system.</li></ol>
     <li>Custodia Vigilia may be elected by any &ldquo;elect planet&rdquo; agendas. However, Custodia Vigilia may be immune to the effects of the agenda.</li>
     <li>A player gains victory points from the Imperial strategy card only when they control Mecatol Rex. If they use the Imperial strategy card to score an objective, then they gain victory points from that objective, and not the Imperial strategy card.</li>
     <li>When the Keleres player uses the <sc>Production</sc> ability of Custodia Vigilia, it is treated as though the Keleres player was using the <sc>Production</sc> abilitiy of one of their units on Mecatol Rex.</li>

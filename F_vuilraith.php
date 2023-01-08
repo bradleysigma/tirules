@@ -60,6 +60,7 @@
 <h1>The Terror Between <sub>(Flagship)</sub></h1>
     <ol class="note">
     <li>When <i>The Terror Between</i> is destroyed, it still captures units that were destroyed at the same time.</li>
+    <ol><li>Using the <sc>Sustain Damage<sc> ability of units is done before remaining hits are assigned. As such, if <i>The Terror Between</i> is destroyed by a <i>Direct Hit</i> action card, units destroyed by being assigned hits in the same round of combat will not be captured.</li></ol>
     <li>If ships are destroyed outside of combat, those ships will still be captured by <i>The Terror Between</i>.</li>
     </ol>
 
@@ -83,7 +84,7 @@
     <li>If a player&rsquo;s units are blockading one of the Vuil&rsquo;raith player&rsquo;s Dimensional Tears, dice will not be rolled for that player&rsquo;s units when resolving <i>Dimensional Anchor</i>.</li>
     <li>Each non&ndash;fighter ship affected will roll only once, regardless of how many Dimensional Tears it is adjacent to.</li>
     <li>The player that owns the ground forces and fighters chooses which are removed. They are not assigned to particular ships beforehand.</li>
-    <li>If the Nekro player has used a <i>Valefar Assimilator</i> faction technology to copy Dimensional Tear II, ships in systems containing or adjacent to the Nekro player&rsquo; Dimensional Tears will also have to roll for capture when resolving <i>Dimensional Anchor</i>.</li>
+    <li>If the Nekro player has used a <i>Valefar Assimilator</i> faction technology to copy Dimensional Tear II, ships in systems containing or adjacent to the Nekro player&rsquo;s space docks will also have to roll for capture when resolving <i>Dimensional Anchor</i>. This includes the Nekro player&rsquo;s own ships.</li>
     </ol>
 
 <h1>Reanimator <sub>(Mech)</sub></h1>

@@ -8,6 +8,7 @@
     <li>If the Mahact player wins a combat against a player that has no command tokens in their reinforcements, and none of their command tokens are on the Mahact player&rsquo;s command sheet, that player must choose one of their command tokens on their command sheet to remove and place on the Mahact player&rsquo;s command sheet.</li>
     <ol><li>If a player has no command tokens in their reinforcements or on their command sheet, the Mahact player cannot place one of that player&rsquo;s command tokens on their command sheet if they win a combat against that player.</li></ol>
     <li>If the Mahact player is required to place a command token from their reinforcements on the board, such as when they retreat from a space combat, or the primary ability of the <i>Diplomacy</i> strategy card, if they have no tokens in their reinforcements, they may use any tokens from their command sheet, including another player&rsquo;s token in their fleet pool.</li>
+    <li>When the Mahact player wins a space combat, they add the command token to their fleet pool before they resolve fleet pool requirements.</li>
     </ol>
 
 <h1>Imperia</h1>
@@ -16,6 +17,7 @@
 
 <h1>Hubris</h1>
     <ol class="note">
+    <li>If a game effect would force another player to give a promissory note to the Mahact player, but the only promissory note that player has is their <i>Alliance</i> promissory note, that player does not give anything to the Mahact player.<li>
     </ol>
 
 <h1>Scepter of Dominion <sub>(Promissory Note)</sub></h1>

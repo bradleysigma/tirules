@@ -74,7 +74,7 @@
     </ol>
     <li>The objective elected by the <i>Classified Document Leaks</i> agenda is a public objective, not a secret objective. Navarch Feng cannot be unlocked by scoring it.</li>
     <ol>
-        <li>If the <i>Classified Document Leaks</i> agenda is discarded, the elected objective is neither a public objective nor a secret objective. Navarch Feng cannot be unlocked by having scoring it.</li>
+        <li>If the <i>Classified Document Leaks</i> agenda is discarded, the elected objective is neither a public objective nor a secret objective. Navarch Feng cannot be unlocked by having scored it.</li>
         <li>Commanders cannot become locked after being unlocked. If the Nomad player has only one scored secret objective, and it is elected by the <i>Classified Document Leaks</i> agenda, this will have no effect on Navarch Feng.</li>
     </ol>
     </ol>

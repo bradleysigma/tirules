@@ -31,6 +31,7 @@
 <h1>Checks and Balances</h1>
     <ol class="note">
     <li>If there are any trade goods on a chosen strategy card while <i>Checks and Balances</i> is a law in play, the player who chose the strategy card gains them, not the player who receives that card.</li>
+    <li>The <i>Public Disgrace</i> action card may be played after a player has chosen a strategy card and announced which player will be receiving it. The player must choose a different strategy card, and then choose the same or a different player to receive it.</li>
     </ol>
 
 <h1>Clandestine Operations</h1>
@@ -67,6 +68,7 @@
 
 <h1>Compensated Disarmament</h1>
     <ol class="note">
+    <li>All trade goods are gained together.</li>
     <li>A planet with zero units on it is eligible to be elected.</li>
     <li>Structures are unaffected by <i>Compensated Disarmament</i>.</li>
     <ol><li>The Titans of Ul&rsquo;s Hel&ndash;Titans are also ground forces and are thus affected by <i>Compensated Disarmament</i>.</li></ol>
@@ -164,6 +166,7 @@
     <ol><li>A player may use the first technology they research to meet the prerequisites of the second technology they research.</li></ol>
     <li>A player with three or fewer units in a system adjacent to the Mecatol Rex system destroys all of their units in that system. Otherwise, a player chooses which three units are destroyed.</li>
     <li>All units are destroyed simultaneously.</li>
+    <li style="color:white;">To cast vote against or to play a rider on <i>Ixthian Artifact</i> is to commit heresy.</li>
     </ol>
 
 <h1>Judicial Abolishment</h1>
@@ -178,6 +181,8 @@
 
 <h1>Minister of Commerce</h1>
     <ol class="note">
+	<li><i>Minister of Commerce</i> triggers when its owner has their commodities replenished by any game effect.</li>
+    <ol><li>Gaining a fixed number of commodities does not trigger <i>Minister of Commerce</i>, even if doing so would result in its owner having commodities equal to their commodity value.</li></ol>
     <li>All trade goods are gained together.</li>
     </ol>
 
@@ -251,7 +256,7 @@
 
 <h1>New Constitution</h1>
     <ol class="note">
-    <li>If a player controls planets in another player&rsquo;s home system, those planets are not exhausted by the ldquo;For&rdquo; outcome of <i>New Constitution</i>.</li>
+    <li>If a player controls planets in another player&rsquo;s home system, those planets are not exhausted by the &ldquo;For&rdquo; outcome of <i>New Constitution</i>.</li>
     </ol>
 
 <h1>Nexus Sovereignty</h1>

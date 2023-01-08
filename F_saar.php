@@ -17,6 +17,7 @@
 
 <h1>Ragh&rsquo;s Call <sub>(Promissory Note)</sub></h1>
     <ol class="note">
+    <li>Playing <i>Ragh&rsquo;s Call</i> will prevent ground combat from occuring on that planet.</li>
     <li>Any PDS on the planet remain. They might produce hits during the <b>Space Cannon Defense</b> step.</li>
     <li>All of the Saar player&rsquo;s ground forces must be placed on the same planet.</li>
     <li>Any damaged mechs remain damaged.</li>
