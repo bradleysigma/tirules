@@ -38,9 +38,10 @@
     <ol class="note">
     <li>The <b>Space Cannon Offense</b> step happens before combat. Any secret objectives that require winning a combat or similar cannot be scored if all of one player&rsquo;s ships in a system are destroyed during this step.</li>
     <li>If a player chooses to use the <sc>Space Cannon</sc> ability of their units, they must do so for all of their eligible units with the <sc>Space Cannon</sc> ability. This includes units in adjacent systems, if applicable.</li>
-    <ol><li>A player that chooses to use the <sc>Space Cannon</sc> ability of their units may choose whether or not they use the ability of the <i>Plasma Scoring</i> technology, if they own it.</li></ol>
+    <ol><li>A player that chooses to use the <sc>Space Cannon</sc> ability of their units may choose whether or not they use the ability of the <i>Plasma Scoring</i> technology, if they own it, and any similar abilities, independent of one another.</li></ol>
     <li>A player may use the <sc>Sustain Damage</sc> ability of a ship in the active system to cancel a hit produced during the <b>Space Cannon Offense</b> step.</li>
     <li>A player may use the <sc>Sustain Damage</sc> ability of a mech committed to a planet to cancel a produced during the <b>Space Cannon Defense</b> step by a unit on that planet.</li>
+    <li>If multiple players are resolving the <sc>Space Cannon</sc> ability of their units against the active player, the active player must resolve capacity limits after assigning one player&rsquo;s hits and before the next player make their space cannon roll.</li> 
     <li>A player cannot assign hits produced by a space cannon roll to their own units.</li>
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.</li>
     </ol>

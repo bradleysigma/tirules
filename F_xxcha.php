@@ -95,7 +95,7 @@
 
 <h1>Indomitus <sub>(Mech)</sub></h1>
     <ol class="note">
-    <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <sc>Space Cannon</sc> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. If they remove any of their mechs, they will not resolve thier own <sc>Space Cannon</sc> abilities.</li>
+    <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <sc>Space Cannon</sc> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <sc>Space Cannon</sc> abilities of any of their removed mechs.</li>
     <li>During the <b>Space Cannon Defense</b> substep of a a tactical action, only non&ndash;active players can use the <sc>Space Cannon</sc> ability of their units. The Xxcha player cannot use the <sc>Space Cannon</sc> ability of their mechs immediately after committing them to a planet against units owned by that planet&rsquo;s controller.</li>
     </ol>
 </article>

@@ -60,7 +60,7 @@
 <h1>The Terror Between <sub>(Flagship)</sub></h1>
     <ol class="note">
     <li>When <i>The Terror Between</i> is destroyed, it still captures units that were destroyed at the same time.</li>
-    <ol><li>Using the <sc>Sustain Damage<sc> ability of units is done before remaining hits are assigned. As such, if <i>The Terror Between</i> is destroyed by a <i>Direct Hit</i> action card, units destroyed by being assigned hits in the same round of combat will not be captured.</li></ol>
+    <ol><li>Using the <sc>Sustain Damage</sc> ability of units is done before remaining hits are assigned. As such, if <i>The Terror Between</i> is destroyed by a <i>Direct Hit</i> action card, units destroyed by being assigned hits in the same round of combat, or from the same pool of <sc>Space Cannon</sc> hits, will not be captured.</li></ol>
     <li>If ships are destroyed outside of combat, those ships will still be captured by <i>The Terror Between</i>.</li>
     </ol>
 

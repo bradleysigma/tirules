@@ -14,7 +14,7 @@
     <ol class="note">
     <li>While a player is involved in a space combat in a system, their units in that system are not blockaded, as both players will have ships in the system. Consequently, they may capture their opponent&rsquo;s units.</li>
     <ol><li>If that player has a unit in another system that their opponent is blockading, they will be unable to capture their opponent&rsquo;s units.</li></ol>
-    <li>If, and the end of a combat, one player has no ships, but a space dock in the system, and the other player has only fighters, the space dock will be blockaded before the fighters are removed.</li>
+    <li>If, at the end of a combat, one player has no ships, but a space dock in the system, and the other player has only fighters, the space dock will be blockaded before the fighters are removed.</li>
     <li>When a ship moves, it does not blockade units in systems it moves through.</li>
     </ol>
 

@@ -138,6 +138,7 @@
 
 <h1>Graviton Laser System</h1>
     <ol class="note">
+    <li>If multiple players are resolving the <sc>Space Cannon</sc> ability of their units against the active player, the active player must resolve capacity limits after assigning one player&rsquo;s hits and before the next player make their space cannon roll.</li> 
     </ol>
 
 <h1>Predictive Intelligence</h1>

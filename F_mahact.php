@@ -17,7 +17,7 @@
 
 <h1>Hubris</h1>
     <ol class="note">
-    <li>If a game effect would force another player to give a promissory note to the Mahact player, but the only promissory note that player has is their <i>Alliance</i> promissory note, that player does not give anything to the Mahact player.<li>
+    <li>If a game effect would force another player to give a promissory note to the Mahact player, but the only promissory note that player has is their <i>Alliance</i> promissory note, that player does not give anything to the Mahact player.</li>
     </ol>
 
 <h1>Scepter of Dominion <sub>(Promissory Note)</sub></h1>
