@@ -88,6 +88,11 @@
     <ol>
         <li>Regardless of which of the two players in combat is the attacker and which is the defender, the next player in initiative order will resolve abilities first, after the Mahact player.</li>
     </ol>
+    <li>Resolving <i>Benediction</i> is not a tactical action. The <b>Activation</b>, <b>Movement</b>, <b>Invasion</b> and <b>Production</b> steps are not resolved.</li>
+    <ol>
+        <li>Any abilities that occur &ldquo;when/after you/another player activate a system&rdquo; will not trigger.</li>
+        <li>The <b>Space Cannon Offense</b> substep is not resolved.</li>
+    </ol>
     </ol>
 
 <h1>Starlancer <sub>(Mech)</sub></h1>

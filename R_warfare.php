@@ -14,6 +14,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
+    <li>If the player with <i>Warfare</i> has no command tokens on the game board, they may still perform a strategic action. However, they will not gain a command token.</li>
     </ol>
 
 <h1>Related Topics</h1>

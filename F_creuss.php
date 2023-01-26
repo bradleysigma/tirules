@@ -54,7 +54,7 @@
 
 <h1>Wormhole Generator &Omega; <sub>(Technology)</sub></h1>
     <ol class="note">
-    <ol><li>The Creuss player may move a wormhole token from the system it is in into the same system.</li></ol>
+    <li>The Creuss player may move a wormhole token from the system it is in into the same system.</li>
     <li><i>Wormhole Generator</i> cannot place wormhole tokens in the home system of an eliminated player.</li>
     </ol>
 
@@ -87,7 +87,7 @@
     <li>The fighters are placed one at a time, until either one has been placed for each ship with capacity that moved through a wormhole, or the capacity of the system is reached.</li>
     <ol>
         <li>The Creuss player cannot remove a ground force to create capacity for a fighter.</li>
-        <li>If the Creuss player has the Fighter II unit upgrade technology, they may count some of the fighters they place towards their fleet supply (without removing any other ships) in order to continue placing fighters.</li>
+        <li>The Creuss cannot place additional fighters once they have fighters and infantry in the space area equal to their capacity in that system, even if they have unused fleet pool and the fighter II unit upgrade technology.</li>
         <li>If the Creuss player has a space dock in the active system, they may consider some of the fighters they place as held by the space dock, in order to continue placing fighters.</li>
     </ol>
     <li>This ability may be used whenever the Creuss player&rsquo;s ships move, not just during the movement step of a tactical action.</li>
@@ -96,7 +96,7 @@
         <li>If the Mahact player uses their <i>Benediction</i> hero ability to move the Creuss player&rsquo;s ships, then the Creuss player may use this ability.</li>
     </ol>
     <li>A ship may move out of a system and back into the same system during tactical action movement, if its move value is high enough. If the Creuss player does this with a ship with capacity, and moves in this manner via a wormhole, they may place a fighter, if possible.</li>
-    <li>When the Creuss player moves a ship through a wormhole and into a third system that contains an alpha or beta wormhole and unlocks Sai Seravus, they cannot apply its ability to that movement.</li>
+    <li>When the Creuss player moves a ship through a wormhole, ending in a system that contains an alpha or beta wormhole and unlocks Sai Seravus, they cannot apply its ability to that movement.</li>
     <ol><li>If the Creuss player moves the <i>Hil Colish</i> separately from other ships during the same <b>Move Ships</b> step, Sai Seravus cannot unlock until all movement is completed.</li></ol>
     </ol>
 
