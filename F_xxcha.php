@@ -30,8 +30,8 @@
 
 <h1>Nullification Field <sub>(Technology)</sub></h1>
     <ol class="note">
-    <li>The active player cannot use any &ldquo;when/after you activate a system&rdquo; abilities.</li>
-    <ol><li>Other players cannot use any &ldquo;when/after another player activates a system that&hellip;&rdquo; abilities.</li></ol>
+    <li>Once the Xxcha player resolves the ability of <i>Nullification Field</i>, the active player cannot use any &ldquo;after you activate a system&rdquo; abilities.</li>
+    <ol><li>Other players, including the Xxcha player, cannot use any &ldquo;after another player activates a system that&hellip;&rdquo; abilities.</li></ol>
     <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.</li>
     </ol>
 

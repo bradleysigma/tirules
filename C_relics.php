@@ -60,6 +60,8 @@
 
 <h1>Scepter of Emelpar</h1>
     <ol class="note">
+    <li>If a player has no command tokens in their reinforcements, they cannot resolve the ability of <i>Scepter of Emelpar</i>.</li>
+    <li>The <i>Scepter of Emelpar</i> may be used whenever a command token would be spent from a player&rsquo;s strategy pool. This includes when spending to perform the secondary ability of a strategy card, for faction abilities, and when scoring objectives.</li>
     <li>If the Muaat player uses the ability of the <i>Scepter of Emelpar</i>, they will be unable to use the ability of their commander.</li>
     </ol>
 

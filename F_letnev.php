@@ -42,6 +42,8 @@
     <ol class="note">
     <li><i>Non&ndash;Euclidean Shielding</i> may be applied when a Dunlain Reaper uses its <sc>Sustain damage</sc> ability.</li>
     <li><i>Non&ndash;Euclidean Shielding</i> applies whenever hits are produced. This includes hits produced by <sc>Bombardment</sc> and <sc>Space Cannon</sc> abilities.</li>
+    <li>The Letnev player must cancel two hits whenever one of their units uses its <sc>Sustain damage</sc> ability; they cannot cancel just one.</li>
+    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <sc>Sustain damage</sc> to cancel it. If additional hits are produced against the Letnev player's units, such as with the <i>Reflective Shielding</i> action card, the Letnev cannot retroactively use the previous use of <sc>Sustain damage</sc> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.</li>
     </ol>
 
 <h1>Arc Secundus <sub>(Flagship)</sub></h1>

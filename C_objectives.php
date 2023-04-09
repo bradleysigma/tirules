@@ -210,6 +210,8 @@
     <ol class="note">
     <li>Scoring <i>Fight with Precision &Omega;</i> will count as that player&rsquo;s single secret objective scoring for that combat.</li>
     <li>If a player&rsquo;s last fighter in a system is destroyed, but an ability allows that player to then place fighters into that system, <i>Fight with Precision &Omega;</i> may still be scored.</li>
+    <li>Any effect that destroys fighters during the <b>Anti&ndash;Fighter Barrage</b> step may be used to score <i>Fight with Precision &Omega;</i>, not just hits produced by an anti&ndash;fighter barrage roll.</li>
+	<ol><li>For example, say a player plays the <i>Courageous to the End</i> action card when one of their fighters are destroyed during the <b>Anti&ndash;Fighter Barrage</b> step. If the dice roll causes their opponent to destroy their ships, and they choose their last fighter, that would allow the player to score <i>Fight with Precision &Omega;</i>.</li></ol>
     </ol>
 
 <h1>Forge an Alliance</h1>
@@ -478,6 +480,8 @@
     <li>If a player&rsquo;s last ship in a system is destroyed, but an ability allows that player to then place ships into that system, <i>Turn Their Fleets to Dust &Omega;</i> may still be scored.</li>
     <li>Scoring <i>Turn Their Fleets to Dust &Omega;</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.</li>
     <li>If a system contains only fighters, then <i>Turn Their Fleets to Dust &Omega;</i> cannot be scored by destroying them.</li>
+    <li>Any effect that destroys non&ndash;fighter ships during the <b>Space Cannon Offense</b> step may be used to score <i>Turn Their Fleets to Dust &Omega;</i>, not just hits produced by a space cannon roll.</li>
+	<ol><li>For example, say the Yin player has their flagship, the <i>Van Hauge</i>, destroyed during the <b>Space Cannon Offense</b> step. They may score <i>Turn Their Fleets to Dust &Omega;</i> if the effect of their flagship destroys a non&ndash;fighter ship owned by another player.</li></ol>
     </ol>
 
 <h1>Unify the Colonies</h1>

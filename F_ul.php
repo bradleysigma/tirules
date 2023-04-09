@@ -10,11 +10,12 @@
     <li>Only sleeper tokens present in the system when it is activated may be replaced with PDS.</li>
     <li>A sleeper token that is placed during the <b>Activation</b> step, most commonly by using the <i>Scanlink Drone Network</i> technology and the <sc>Terragenesis</sc> ability, cannot be replaced via the <sc>Awaken</sc> ability during the same tactical action.</li>
     <li>If the Ul player wishes to place a PDS, but there are none left in their reinforcements, they may remove a PDS from any system that does not contain one of their command tokens and place that instead. The PDS will be placed undamaged.</li>
+    <li>If the Ul player places a PDS on a planet controlled by another player, and that player does not have any ground forces on that planet, the Ul player will destroy any of the other players structures, and gain control of that planet immediately. If the other player has ground forces, then a ground combat will be resolved during the <b>Invasion</b> of the tactical action.</li>
     </ol>
 
 <h1>Coalescence <sub></sub></h1>
     <ol class="note">
-    <li>Units placed on planets via the <sc>Coalescence</sc> ability are not committed. They cannot be assigned hits during the <b>Space Cannon Defense</b> step.</li>
+    <li>Units placed on planets via the <sc>Awaken</sc> ability are not committed. They cannot be assigned hits during the <b>Space Cannon Defense</b> step.</li>
     <li>If the Ul player&rsquo;s units exist in the same location as another player&rsquo;s units, no game effect can prevent the combat from occuring, including effects that end the Ul player&rsquo;s turn.</li>
     <li>If another player plays the Ul player&rsquo;s <i>Ceasefire</i> promissory note, the Ul player may still place units into the active system using their flagship or <sc>Awaken</sc> ability.</li>
     <li>Only the active player may use the <sc>Bombardment</sc> ability of their units during an invasion. As such, any ships in the active system will be unable to use their <sc>Bombardment</sc> ability during the Ul player&rsquo;s turn, unless they belong to the Ul player.</li>

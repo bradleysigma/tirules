@@ -52,6 +52,11 @@
 <h1>Hesh and Prit &mdash; Perfect Synthesis <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>The Naaz&ndash;Rokha player may choose to perform the secondary ability of zero, one or two strategy cards.</li>
+    <ol><li>The Naaz&ndash;Rokha player cannot choose the same strategy card twice.</li></ol>
+    <li>When resolving the abilities of two strategy cards, they may be resolved in either order. Game objects affected by the first strategy card ability may be affected by the second.</li>
+    <ol>
+        <li>For example, say the Naaz&ndash;Rokha player chooses to resolve the secondary abilities of the <i>Diplomacy</i> and <i>Warfare</i> strategy cards. They may resolve the <i>Diplomacy</i> ability first to ready some planets, then exhaust those same planets to pay for the units they produce with the <i>Warfare</i> ability. Alternatively, they may resolve the <i>Warfare</i> ability first, exhausting some of their readied planets to pay for the units they produce, then resolve the <i>Diplomacy</i> ability to ready those same planets.</li>
+    </ol>
     <li>If a player is eliminated, the strategy cards that they had are considered &ldquo;unchosen&rdquo;.</li>
     <li>If the Naaz&ndash;Rokha player has no command tokens in their reinforcements, they must use a command token from their command sheet when performing the secondary ability of the strategy cards.</li>
     <li>If the Naaz&ndash;Rokha player has the Muaat player&rsquo;s promissory note, they will not gain a trade good from it when they use their <i>Perfect Synthesis</i> ability.</li>

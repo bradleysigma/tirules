@@ -44,6 +44,7 @@
 
 <h1>Magmus <sub>(Commander)</sub></h1>
     <ol class="note">
+    <li>When a command token is spent to resolve the secondary ability of a strategy card, the trade good is gained after resolving the secondary ability. As such, it cannot be spent to pay for costs of the secondary ability.</li>
     <li>If the Muaat player spends multiple tokens from their strategy pool (e.g. for the <i>Lead From the Front</i> objective), they gain that many trade goods, one at a time.</li>
     <ol>
         <li>Each trade good gained may trigger the Mentak player&rsquo;s <sc>Pillage</sc> faction ability.</li>
