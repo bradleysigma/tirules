@@ -481,7 +481,7 @@
     <li>Scoring <i>Turn Their Fleets to Dust &Omega;</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.</li>
     <li>If a system contains only fighters, then <i>Turn Their Fleets to Dust &Omega;</i> cannot be scored by destroying them.</li>
     <li>Any effect that destroys non&ndash;fighter ships during the <b>Space Cannon Offense</b> step may be used to score <i>Turn Their Fleets to Dust &Omega;</i>, not just hits produced by a space cannon roll.</li>
-	<ol><li>For example, say the Yin player has their flagship, the <i>Van Hauge</i>, destroyed during the <b>Space Cannon Offense</b> step. They may score <i>Turn Their Fleets to Dust &Omega;</i> if the effect of their flagship destroys a non&ndash;fighter ship owned by another player.</li></ol>
+	<ol><li>For example, say the Yin player has their flagship, the <i>Van Hauge</i>, destroyed during the <b>Space Cannon Offense</b> step. They may score <i>Turn Their Fleets to Dust &Omega;</i> if the effect of their flagship destroys all non&ndash;fighter ships owned by another player in the active system.</li></ol>
     </ol>
 
 <h1>Unify the Colonies</h1>

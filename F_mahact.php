@@ -52,7 +52,7 @@
         <li>If the Mahact player chooses to resolve the secondary ability of the <i>Construction</i> strategy card, they must choose a system in which they can place a structure.</li>
         <li>If the Mahact player already has a command token in the chosen system, they place one of the active player&rsquo;s command tokens in that system regardless.</li>
     </ol>
-    <li>If the Mahact player has the Muaat player&rsquo;s promissory note, they will not gain a trade good from it when they use the ability of Jae Mir Kan.</li>
+    <li>If the Mahact player has the Muaat player&rsquo;s <i>Alliance</i> promissory note, they will not gain a trade good from it when they use the ability of Jae Mir Kan.</li>
     </ol>
 
 <h1>Il Na Viroset <sub>(Commander)</sub></h1>

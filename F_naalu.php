@@ -9,6 +9,7 @@
 <h1>Foresight</h1>
     <ol class="note">
     <li>Using <sc>Foresight</sc> is not a retreat. As such, it cannot be cancelled with the <i>Intercept</i> action card.</li>
+    <li>The command token is not spent. The Naalu player cannot use the <i>Scepter of Emelpar</i>, nor will they gain a trade good if they have the Muuat player&rsquo;s <i>Alliance</i> promissory note.</li>
     <li>Fighters are moved without being transported. Ground forces may be transported.</li>
     <li>The Naalu player cannot use <sc>Foresight</sc> to move into a nebula or supernova.</li>
     <ol><li>The Naalu player may use <sc>Foresight</sc> to move into an asteroid field only if they own the <i>Antimass Deflectors</i> technology.</li></ol>

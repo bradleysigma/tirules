@@ -10,7 +10,7 @@
     <li>Only sleeper tokens present in the system when it is activated may be replaced with PDS.</li>
     <li>A sleeper token that is placed during the <b>Activation</b> step, most commonly by using the <i>Scanlink Drone Network</i> technology and the <sc>Terragenesis</sc> ability, cannot be replaced via the <sc>Awaken</sc> ability during the same tactical action.</li>
     <li>If the Ul player wishes to place a PDS, but there are none left in their reinforcements, they may remove a PDS from any system that does not contain one of their command tokens and place that instead. The PDS will be placed undamaged.</li>
-    <li>If the Ul player places a PDS on a planet controlled by another player, and that player does not have any ground forces on that planet, the Ul player will destroy any of the other players structures, and gain control of that planet immediately. If the other player has ground forces, then a ground combat will be resolved during the <b>Invasion</b> of the tactical action.</li>
+    <li>If the Ul player places a PDS on a planet controlled by another player, and that player does not have any ground forces on that planet, the Ul player will destroy all of the other player&rsquo;s structures, and gain control of that planet immediately. If the other player has ground forces, then a ground combat will be resolved during the <b>Invasion</b> step of the tactical action.</li>
     </ol>
 
 <h1>Coalescence <sub></sub></h1>

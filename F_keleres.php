@@ -40,7 +40,7 @@
         <li>During a tactical action, the active player must use every <sc>Production</sc> ability of their units in the active system, or none of them. As such, the additional <sc>Production</sc> ability must belong to a unit in a different system.</li>
         <li>When the Keleres player resolves the secondary ability of the Warfare strategy card, they use the <sc>Production</sc> ability of a single space dock in their home system. As such, they may use the <sc>Production</sc> ability of a second unit in their home system, if present.</li>
     </ol>
-    <li>The Keleres player may use Custodia Vigilia as the additional <sc>Production</sc> ability, and when they use Custodia Vigilia as the original <sc>Production</sc> ability, they may use an additional <sc>Production</sc> ability.<li>
+    <li>The Keleres player may use Custodia Vigilia as the additional <sc>Production</sc> ability, and when they use Custodia Vigilia as the original <sc>Production</sc> ability, they may use an additional <sc>Production</sc> ability.</li>
     <li>The original <sc>Production</sc> ability must be fully resolved, before the Keleres player may use an additional <sc>Production</sc> ability.</li>
     <ol><li>The Keleres player cannot pay one resource for two fighters or infantry, then place one with a unit using the original <sc>Production</sc> ability and one with the unit using the additional <sc>Production</sc> ability.</li></ol>
     </ol>
@@ -60,7 +60,8 @@
     <li>Custodia Vigilia may be used to qualify for objectives, if it meets any other requirements listed.</li>
     <ol><li>Custodia Vigilia cannot be used to qualify for any objective that requires planets in a system.</li></ol>
     <li>Custodia Vigilia may be elected by any &ldquo;elect planet&rdquo; agendas. However, Custodia Vigilia may be immune to the effects of the agenda.</li>
-    <li>A player gains victory points from the Imperial strategy card only when they control Mecatol Rex. If they use the Imperial strategy card to score an objective, then they gain victory points from that objective, and not the Imperial strategy card.</li>
+    <li>A player gains victory points from the Imperial strategy card only if they control Mecatol Rex. If they use the Imperial strategy card to score an objective, then they gain victory points from that objective, and not the Imperial strategy card.</li>
+    <li>The Keleres player may use a command token to perform the secondary of Imperial during the same strategic action that they gained that token.</li>
     <li>When the Keleres player uses the <sc>Production</sc> ability of Custodia Vigilia, it is treated as though the Keleres player was using the <sc>Production</sc> abilitiy of one of their units on Mecatol Rex.</li>
     <ol>
         <li>This may trigger the abilities of the <i>Sarween Tools</i> technology, and other similar abilities.</li>

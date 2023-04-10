@@ -59,7 +59,7 @@
     </ol>
     <li>If a player is eliminated, the strategy cards that they had are considered &ldquo;unchosen&rdquo;.</li>
     <li>If the Naaz&ndash;Rokha player has no command tokens in their reinforcements, they must use a command token from their command sheet when performing the secondary ability of the strategy cards.</li>
-    <li>If the Naaz&ndash;Rokha player has the Muaat player&rsquo;s promissory note, they will not gain a trade good from it when they use their <i>Perfect Synthesis</i> ability.</li>
+    <li>If the Naaz&ndash;Rokha player has the Muaat player&rsquo;s <i>Alliance</i> promissory note, they will not gain a trade good from it when they use their <i>Perfect Synthesis</i> ability.</li>
     </ol>
 
 <h1>Eidolon /<br/>Z&ndash;Grav Eidolon <sub>(Mech)</sub></h1>

@@ -40,6 +40,7 @@
     <ol class="note">
     <li>If either strategy card had trade goods on it at the start of the strategy phase, those trade goods remain with the player that originally chose the strategy card.</li>
     <li>In a three&ndash; or four&ndash;player game, the Hacan player chooses which strategy cards are swapped.</li>
+    <li>The Hacan player must have three trade goods before they spend the command token; they cannot use the Muaat player&rsquo;s <i>Alliance</i> promissory note to gain the third trade good.</li>
     </ol>
 
 <h1>Wrath of Kenara <sub>(Flagship)</sub></h1>
