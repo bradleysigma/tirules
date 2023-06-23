@@ -15,6 +15,8 @@
 <h1>Notes</h1>
     <ol class="note">
     <li>A Space Dock is both a structure and a unit.</li>
+	<li>Fighters transported during movement remain assigned to the transporting ship until movement is complete. They cannot be counted towards a space dock&rsquo; allocation until after.</li>
+	<ol><li>If a player moves one of their units with capacity into a system, transporting fighters, they cannot pick up ground forces from a planet in that system with that ship by transferring those fighters to a space dock in that system to free up capacity.</li></ol>
     </ol>
 
 <h1>Related Topics</h1>

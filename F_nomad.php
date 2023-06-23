@@ -38,6 +38,7 @@
     <li>The <i>Memoria</i> cannot retreat to a system containing a Quantum Manipulator, unless it is adjacent to that system using another adjacency method.</li>
     <li>The <i>Intimidate Council</i> objective requires the system to be adjacent to Mecatol Rex. As such, the Nomad player cannot use the <i>Memoria</i>&rsquo;s ability to score this objective. A similar prohibition applies to the <i>Learn the Secrets of the Cosmos</i> and <i>Threaten Enemies</i> objectives.</li>
     <li>All ship movement is simultaneous. The Nomad player cannot transport a Quantum Manipulator into a system, and then use that to move the <i>Memoria</i> into that system during the same movement.</li>
+	<li>The <i>Memoria</i> is adjacent to the system that the Quantum Manipulator is in before movement, regardless of if that Quantum Manipulator is transported during that movement.</li>
     </ol>
 
 <h1>Artuno the Betrayer <sub>(Agent)</sub></h1>

@@ -55,7 +55,7 @@
 
 <h1>Viscount Unlenn <sub>(Agent)</sub></h1>
     <ol class="note">
-    <li>This ability applies to dice rolls for a unit&rsquo;s <sc>Anti&ndash;Fighter Barrage</sc> ability.</li>
+    <li>This ability does not apply to dice rolls for a unit&rsquo;s <sc>Anti&ndash;Fighter Barrage</sc> ability.</li>
     <li>The extra dice is mandatory for the chosen unit.</li>
     </ol>
 

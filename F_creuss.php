@@ -60,9 +60,14 @@
 
 <h1>Hil Colish <sub>(Flagship)</sub></h1>
     <ol class="note">
-    <li>If the <i>Hil Colish</i> moves first, then the Creuss player uses the <i>Hil Colish</i>&rsquo;s new position when determining if the active system may be reached by their other ships.</li>
-    <li>If the <i>Hil Colish</i> moves first, but is removed due to the effect of a gravity rift, then ships that move later cannot use its wormhole.</li>
-    <li>If the <i>Hil Colish</i> moves last, then it may move itself into (or though, if its move value is increased) the Creuss Gate or Creuss home system. Before it does so, the Creuss player&rsquo;s other ships may move through the wormhole in the <i>Hil Colish</i>&rsquo;s system.</li>
+    <li>If the <i>Hil Colish</i> moves first, then the Creuss player uses the new position of the <i>Hil Colish</i> when determining if the active system may be reached by their other ships.</li>
+    <li>If the <i>Hil Colish</i> moves last, then it may move itself into (or though, if its move value is increased) the Creuss Gate or Creuss home system. Before it does so, the Creuss player&rsquo;s other ships may move through the wormhole created by the <i>Hil Colish</i>.</li>
+    <ol><li>The delta wormhole moves with the <i>Hil Colish</i>; it cannot move back to its origin system using its own delta wormhole.</li></ol>
+	<li>The Creuss player must declare all ships that will moving before they move the <i>Hil Colish</i> or their other ships. They then declare the path that the first ship(s) to move will travel along, and move those ship(s). Then then declare the path that the other ship(s) to move will travel along, and move those ships. Any ships that were declared to move must, if it is possible to do so.</li>
+	<ol>
+	    <li>If the <i>Hil Colish</i> is moved first, and is removed due to the effect of a gravity rift, other ships that were declared to move that can reach the destination system must do so, even if the path is through the gravity rift. Ships that cannot reach the active system do not move.</li>
+		<li>The Creuss player cannot wait to see the result of their other ships&rsquo; gravity rift rolls before deciding to move the <i>Hil Colish</i>; they must declare if the <i>Hil Colish</i> is moving at the same time they declare which other ships are moving.</li>
+	</ol>
     <li>If the <i>Hil Colish</i> moves before or after other ships, it does not generate a second <b>Space Cannon Offense</b> step.</li>
     <li>A unit with the <sc>Deep Space Cannon</sc> ability may produce hits in systems adjacent to that unit via the delta wormhole in the <i>Hil Colish</i>&rsquo;s system. Most commonly, this will allow the Creuss player to target units in the <i>Hil Colish</i>&rsquo;s system from the space cannon rolls of units in their home system.</li>
     <li>If an effect allows another player to move through a system that contains the Creuss player&rsquo;s ships (such as the <i>Light/Wave Deflector</i> technology), that player may move through the delta wormhole in the <i>Hil Colish</i>&rsquo;s system.</li>

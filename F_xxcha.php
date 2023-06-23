@@ -66,8 +66,7 @@
     <li>The Xxcha player chooses the order the two agendas are resolved.</li>
     <li>The two agendas are revealed before either is resolved.</li>
     <ol><li>The Xxcha player will resovle all abilities that trigger when or after an agenda is revealed for the first agenda before revealing the second agenda.</li></ol>
-    <li>When an agenda outcome with an immediate effect resolves, other players resolve the effect if it is mandatory, but cannot resolve resolve it if it is optional.</li>
-    <ol><li>For example, if the Xxcha player chooses <i>Ixthian Artifact</i> as one of the agendas to resolve, the speaker rolls a dice. If the result is 6&ndash;10, then only the Xxcha player may research. If the result is 1&ndash;5, then all players must destroy units in and around Mecatol Rex. If a player has more than three units in a system adjacent to Mecatol Rex, they choose which three are destroyed.</li></ol>
+    <li>When an agenda outcome with an immediate effect resolves, all players resolve the effect.</li>
     <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, regardless of the Xxcha player&rsquo;s initiative.</li>
     <li>Other players may still perform one transaction total with the Xxcha player during this turn, if they are neighbors.</li>
     <li>If the <i>Representative Government</i> law is in play, it will have no effect on the Xxcha player as they resolve <i>Political Data Nexus</i>.</li>
