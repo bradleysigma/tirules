@@ -383,6 +383,13 @@
     <ol class="note">
     <li>A player with ships in a delta or gamma wormhole may research a technology from the &ldquo;For&rdquo; effect. Those ships will not be destroyed.</li>
     <li>A player must still meet the prerequisites for the technology they research.</li>
+    <li>Ground forces in the space area of a system containing an alpha or beta wormhole will be removed due to lack of capacity after the ships in that system are destroyed; those ground forces will not trigger any &ldquo;destroyed&rdquo; effects.
+    <li>If <i>Anti&ndash;Intellectual Revolution</i> is in play as a law, players who research a technology will destroy a ship due to <i>Anti&ndash;Intellectual Revolution</i> before they destroy ships in systems containing alpha or beta wormholes. As such, they may choose a ship in a system containing an alpha or beta wormhole to destroy for <i>Anti&ndash;Intellectual Revolution</i></li>
+    <ol>
+        <li>If the Vuil&rsquo;raith player has their flagship, <i>The Terror Between</i>, in a system containing an alpha or beta wormhole, and they choose to destroy it for <i>Anti&ndash;Intellectual Revolution</i>, then they will not capture the other ships in that system that are destroyed by <i>Wormhole Research</i>.</li>
+        <li>If the Vuil&rsquo;raith player has their flagship, <i>The Terror Between</i>, in a system containing an alpha or beta wormhole, and they choose to destroy another ship with capacity, they must resolve capacity before <i>Wormhole Research</i> destroys any ships. Any fighters they remove due to capacity will not be captured when ships are destroyed for <i>Wormhole Research</i>.</li>
+    </ol>
+    <li>The Saar player&rsquo;s Floating Factories will not be destroyed by <i>Wormhole Research</i>.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>
