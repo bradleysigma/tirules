@@ -37,6 +37,7 @@
     <ol><li>For example, consider a series of systems X&ndash;S&ndash;G&ndash;Y. Only systems connected by a &ldquo;&ndash;&rdquo; are adjacent. System &ldquo;G&rdquo; is a gravity rift. Systems &ldquo;X&rdquo;, &ldquo;S&rdquo; and &ldquo;Y&rdquo; are standard systems with no movement restrictions. A ship with a move value of one is in system &ldquo;X&rdquo;. Were it to have +2 to its movement value, it could reach system &ldquo;Y&rdquo;. Currently, that ship may reach only system &ldquo;S&rdquo;. Despite this, if its owner activated system &ldquo;Y&rdquo; and played <i>Crucible</i>, the ship could move to that system.</li></ol>
     <li>If the active player received <i>Crucible</i> on a previous turn, they may play it and immediately perform a transaction with the Vuil&rsquo;raith player to regain it. However, <i>Crucible</i> cannot be played twice in one timing window. The active player cannot play <i>Crucible</i> again until their next turn.</li>
     <li>Any deal between the Vuil&rsquo;raith player and another player regarding when <i>Crucible</i> will be played, if made before <i>Crucible</i> is exchanged, is non&ndash;binding.</li>
+    <li>If a player plays both <i>Crucible</i> and the <i>Nav Suite</i> action card during the same tactical action, they will still apply +1 to the move value of their ships that move through or out of a gravity rift.</li>
     </ol>
 
 <h1>Vortex <sub>(Technology)</sub></h1>

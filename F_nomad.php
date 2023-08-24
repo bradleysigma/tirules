@@ -8,6 +8,9 @@
 <h1>Future Sight</h1>
     <ol class="note">
     <li>The Nomad player may only predict agenda outcomes via game effects that allow them to do so, e.g. rider action cards.</li>
+    <li>If the Nomad player predict multiple different outcomes, and one of those outcomes is resolved, they will gain the trade good.</li>
+    <ol><li>If the Nomad player predicts an outcome and votes for another outcome (via the Xxcha player&rsquo;s <i>Alliance</i> promissory note), and one of those outcomes is resolved, they will gain the trade good.</li></ol>
+	<li>If the <i>Deadly Plot</i> action card is played, the Nomad will not gain a trade good from <sc>Future Sight</sc>.</li>
     </ol>
 
 <h1>The Cavalry <sub>(Promissory Note)</sub></h1>
@@ -61,8 +64,22 @@
 <h1>The Thundarian <sub>(Agent)</sub></h1>
     <ol class="note">
     <li>The dice are rerolled in the same round. Any effects that apply for a single round of combat remain in effect.</li>
-    <li>If The Thundarian is readied, its effect may be applied again at the end of the same round of combat.</li>
-    <li>The <b>Roll Dice</b> step occurs after the start of a round of combat. Any effects that may be played at the start of a round of combat cannot be played until the next round of combat.</li>
+    <ol>
+        <li>This includes the <i>Magen Defense Grid</i> technology, the <i>Fighter Prototype</i> and <i>Morale Boost</i> action cards, the Letnev <i>Munitions Reserves</i> faction ability, the Naaz&ndash;Rokha <i>Supercharge</i> faction technology, the Letnev <i>War Funding</i> promissory note, the Letnev agent, Viscount Unlenn, and the Sol agent, Evelyn DeLouis.</li>
+    </ol>
+    <li>The <b>Roll Dice</b> step occurs after the start of a round of combat. Any effects that may be played at the start or end of a round of combat cannot be played until the next round of combat.</li>
+    <ol>
+        <li>This includes the ability of the <i>Duranium Armor</i> or <i>Magen Defense Grid</i> technologies, the the <i>Fighter Prototype</i> or <i>Morale Boost</i> action cards, the L1Z1X <i>Harrow</i> or the Letnev <i>Munitions Reserves</i> faction abilities, the Naaz&ndash;Rokha <i>Supercharge</i> faction technology, the Letnev <i>War Funding</i> promissory note, the Letnev flaghip, the <i>Arc Secundus</i>, the Letnev mech, a <i>Dunlain Reaper</i>, the N&rsquo;orr <i>Exotrireme II</i> dreadnought ability, the Keleres <i>Overwing Zeta</i> hero ability, the Letnev agent, Viscount Unlenn, the Sol agent, Evelyn DeLouis.</li>
+    </ol>
+    <li>The Thundarian is played at the end of the &ldquo;Roll Dice&rdquo; step, after effects that occur &ldquo;when/after you roll dice&rdquo; or similar.</li>
+    <ol>
+        <li>If The Thundarian is used after the Hacan player has spent trade goods for the ability of their flagship, the <i>Wrath of Kenara</i>, those trade goods remain spent, but the +1 to combat rolls will not be applied for the subsequent dice rolls. The Hacan player may spend trade goods after the subsequent dice roll to use the ability of the <i>Wrath of Kenara</i> for the new results.</li>
+        <li>If The Thundarian is used after a player has used the ability of <i>The Crown of Thalnos</i> relic, any units that did not produce hits and so were destroyed remain destroyed, but the +1 to combat rolls will not be applied for the subsequent dice rolls. That player may use the ability of <i>The Crown of Thalnos</i> on the subsequent dice roll.</li>
+        <li>If The Thundarian is used after a player has played the <i>Fire Team</i> action card, it will be discarded without effect on the subsequent roll.</li>
+        <li>If The Thundarian is used after a player has played the Letnev <i>War Funding Ω</i> promissory note, it will be returned without effect on the subsequent roll.</li>
+        <li>If the N&rsquo;orr player&rsquo;s <i>Valkyrie Particle Weave</i> faction technology would produce a hit, that hit is not assigned if The Thundarian is used.</li>
+    </ol>
+    <li>If a game effect readies The Thundarian when it is used, its effect may be applied again at the end of the same round of combat.</li>
     </ol>
 
 <h1>Navarch Feng <sub>(Commander)</sub></h1>
