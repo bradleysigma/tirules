@@ -26,6 +26,8 @@
     <li><i>Bribery</i> may be played after the speaker has abstained, or would vote if they are unable to.</li>
     <li>A player may spend zero trade goods when they play <i>Bribery</i>.</li>
     <li>A player must have cast votes for an outcome to play <i>Bribery</i>, and the additional votes must be cast for the same outcome.</li>
+    <li>The speaker may play <i>Distinguished Councilor</i> after another player plays <i>Bribery</i>.</li>
+    <li><i>Bribery</i> is played before any effects that change the outcome of an agenda.</li>
     </ol>
 
 <h1>Bunker</h1>
@@ -37,11 +39,17 @@
 <h1>Confounding Legal Text</h1>
     <ol class="note">
     <li>Any predictions made on the outcome of the agenda resolve based on the newly elected player.</li>
+    <li><i>Confounding Legal Text</i> is played after any effects that allow a player to cast additional votes.</li>
+    <li><i>Confounding Legal Text</i> is played before <i>Deadly Plot</i> is played, before revealing hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> agenda may be scored.
+    <li><i>Confounding Legal Text</i> may be played after <i>Confusing Legal Text</i> is played.</li>
     </ol>
 
 <h1>Confusing Legal Text</h1>
     <ol class="note">
     <li>Any predictions made on the outcome of the agenda resolve based on the newly elected player.</li>
+    <li><i>Confusing Legal Text</i> is played after any effects that allow a player to cast additional votes.</li>
+    <li><i>Confusing Legal Text</i> is played before <i>Deadly Plot</i> is played, before revealing hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> agenda may be scored.
+    <li><i>Confusing Legal Text</i> may be played after <i>Confounding Legal Text</i> is played.</li>
     </ol>
 
 <h1>Construction Rider</h1>
@@ -79,6 +87,8 @@
     <ol class="note">
     <li>Any prediction made for a rider or similar ability is incorrect.</li>
     <li>A player cannot make the prediction that <i>Deadly Plot</i> will be played when they predict the outcome of an agenda.</li>
+    <li><i>Deadly Plot</i> is played after any effects that allow a player to cast additional votes, and after any effects that change the outcome of an agenda.</li>
+    <li><i>Deadly Plot</i> is played before revealing hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> agenda may be scored.
     <li>If a player predicts multiple outcomes, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.</li>
     <ol><li>If the Xxcha player uses their commander, Elder Qanoj, to vote for one outcome, when they have predicted another, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.</li></ol>
     </ol>
@@ -123,6 +133,8 @@
     <ol class="note">
     <li>A player must have cast votes for an outcome to play <i>Distinguished Councilor</i>, and the additional votes must be cast for the same outcome.</li>
     <li>A player may only play <i>Distinguished Councilor</i> after their normal vote, not after they cast additional votes at another point.</li>
+    <li>The speaker may play <i>Distinguished Councilor</i> after another player plays <i>Bribery</i>.</li>
+    <li><i>Distinguished Councilor</i> is played before any effects that change the outcome of an agenda.</li>
     </ol>
 
 <h1>Divert Funding</h1>
