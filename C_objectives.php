@@ -425,6 +425,7 @@
     <ol class="note">
     <li>A player that currently outright has the most victory points cannot score <i>Spark a Rebellion</i>.</li>
     <li>If multiple players are tied for the most victory points, <i>Spark a Rebellion</i> may be scored by winning a combat against any of them.</li>
+    <ol><li><i>Spark a Rebellion</i> may be scored by winning a combat against a player with zero victory points if all players have zero victory points.</li></ol>
     </ol>
 
 <h1>Stake Your Claim</h1>
