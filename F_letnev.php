@@ -24,7 +24,7 @@
 
 <h1>War Funding &Omega; <sub>(Promissory Note)</sub></h1>
     <ol class="note">
-    <li>A player may receive <i>War Funding &Omega; </i> in a transaction during a combat. If received at the start of a round, that player may play it immediately.</li>
+    <li>A player may receive <i>War Funding &Omega; </i> in a transaction during a combat. If received after dice are rolled, that player may play it immediately.</li>
     <ol>
         <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding &Omega;</i>.</li>
         <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>War Funding &Omega;</i> more than once per turn.</li>
