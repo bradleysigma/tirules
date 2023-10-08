@@ -19,6 +19,7 @@
         <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>War Funding</i>.</li>
         <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>War Funding</i> more than once per turn.</li>
         <li>If the active player received <i>War Funding</i> on a previous turn, they may play it and immediately perform a transaction with the Letnev player to regain it. However, <i>War Funding</i> cannot be played twice in one timing window. The active player cannot play <i>War Funding</i> again until the next round of combat.</li>
+        <li>If the attacker receives <i>War Funding</i> after the defender has played it, the attacker cannot play it during the same round of combat.</li>
     </ol>
     </ol>
 
