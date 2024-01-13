@@ -15,6 +15,7 @@
     <ol class="note">
     <li>While the agenda phase and the Hacan player&rsquo;s <i>Trade Convoys</i> promissory note allow a player to resolve transactions with all other players, they do not make that player neighbors with the Mentak player.</li>
     <li>Effects that force players to give objects to other players are not transactions.</li>
+    <ol><li>If a Alice plays Bob&rsquo;s <i>Trade Agreement</i> promissory note, then the Mentak player may use <sc>Pillage</sc> on Alice, but not Bob.</li></ol>
     <li>If the Creuss player has units or controls planets in a system with an alpha wormhole, and the Mentak player has units or controls planets in a system with an beta wormhole, or vice versa, then the Creuss player and Mentak player are neighbors. The Mentak player may thus use their <sc>Pillage</sc> ability against the Creuss player.</li>
     <li>If the Winnu player owns <i>Lazax Gate Folding</i>, then the Mentak player may become neighbors with the Winnu player during the Winnu player&rsquo;s tactical action. If so, the Mentak player may use their <sc>Pillage</sc> ability during this time.</li>
     <li>If a player would gain multiple trade goods one at a time, the Mentak player can use their <sc>Pillage</sc> ability for each trade good.</li>

@@ -64,6 +64,8 @@
     <ol class="note">
     <li><i>Committee Formation</i> is resolved after any riders have been played, if the owner so chooses. Riders will resolve if the predicted outcome matches the player elected by the effect of <i>Committee Formation</i>.</li>
     <ol><li>The owner of <i>Committee Formation</i> may play riders before they resolve <i>Committee Formation</i>.</li></ol>
+    <li>The <i>Confusing Legal Text</i> and <i>Confounding Legal Text</i> action cards may be played after <i>Committee Formation</i> has been discarded to change who the elected player is, which will negate the effects of <i>Committee Formation</i>.</li>
+    <ol><li>The <i>Deadly Plot</i> action card may be played after <i>Committee Formation</i> has been discarded to discard the agenda without resolving it, but only if that player predicted a different outcome from some other game effect.</li></ol>
     </ol>
 
 <h1>Compensated Disarmament</h1>
@@ -338,6 +340,7 @@
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.</li>
     <li>If the elected player has three secret objective cards, and they would draw another, the drawn secret objective card is reveal before that player chooses which card to discard. This applies both when the elected player initially draws the secret objective cards from the effect of <i>Search Warrant</i> when they are elected, and if they later draw secret objective cards from another effect.</li>
+	<li>If a player draws the <i>Drive the Debate</i> secret objective while resolving <i>Search Warrant</i>, they cannot score it immediately.</li>
     </ol>
 
 <h1>Seed of an Empire</h1>

@@ -166,8 +166,9 @@
 <h1>Drive the Debate</h1>
     <ol class="note">
     <li>Any &ldquo;For&rdquo;/&ldquo;Against&rdquo; agenda cannot count for <i>Drive the Debate</i>, even if the outcome affects only a single player.</li>
-    <li><i>Drive the Debate</i> is scored after the agenda resolves. As such, the <i>Confounding Legal Text</i> and <i>Confusing Legal Text</i> action cards will allow only the newly elected player to score <i>Drive the Debate</i>, and the <i>Deadly Plot</i> action card will prevent any player from scoring <i>Drive the Debate</i>.</li>
-    <li><i>Drive the Debate</i> is scored before any rider action cards are resolved.</li>
+    <li><i>Drive the Debate</i> is scored immediately before the agenda resolves. The <i>Confounding Legal Text</i> and <i>Confusing Legal Text</i> action cards will allow only the newly elected player to score <i>Drive the Debate</i>, and the <i>Deadly Plot</i> action card will prevent any player from scoring <i>Drive the Debate</i>.</li>
+    <li>Scoring <i>Drive the Debate</i> immediately before the <i>Colonial Redistribution</i> agenda is resolved may change which player(s) can be chosen to place the infantry on the elected planet.</li>
+	<li>If a player draws <i>Drive the Debate</i> while resolving the <i>Archived Secret</i> or <i>Search Warrant</i> agendas, they cannot score it immediately.</li>
     </ol>
 
 <h1>Engineer a Marvel</h1>
