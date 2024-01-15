@@ -49,7 +49,7 @@
         <li>This will happen before the <b>Space Cannon Offense</b> step. The Floating Factory is destroyed, even if all of the other player&rsquo; ships are destroyed during this step.</li>
         <li>If all of the other player&rsquo;s ships are removed due to a gravity rift, they will not arrive in the active system. The Floating Factory will not be destroyed.</li>
     </ol>
-    <li>A Floating Facotry cannot count towards the <i>Improve Infrastructure</i> or <i>Protect the Border</i> objectives.</li>
+    <li>A Floating Factory cannot count towards the <i>Improve Infrastructure</i> or <i>Protect the Border</i> objectives.</li>
     </ol>
 
 <h1>Son of Ragh <sub>(Flagship)</sub></h1>
