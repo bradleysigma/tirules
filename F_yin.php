@@ -114,7 +114,7 @@
     <ol><li>Only the three infantry from the Yin player&rsquo;s reinforcements may be committed during the <b>Commit Ground Forces</b> step. Ground forces in the space area above the planets cannot be committed.</li></ol>
     <li>The Yin player may use their <sc>Indoctrination</sc> ability and their mech&rsquo;s <sc>Deploy</sc> ability.</li>
     <li>The Yin player does not activate the systems containing the planets that they are committing infantry to. As such, any effects that trigger &ldquo;when/after a player activates a system&rdquo; do not trigger.</li>
-    <li>The <i>Parley</i> action card may be used on one planet when the Yin player resolves <i>Quantum Dissemination</i>.
+    <li>The <i>Parley</i> action card may be used on one planet when the Yin player resolves <i>Quantum Dissemination</i></li>.
     <ol>
         <li>If the Yin player has no ships with capacity in the planet&rsquo;s system, then the infantry will be removed from the board.</li>
         <li>If the Yin player does have ships with capacity in the planet&rsquo;s system, then the infantry will be placed in the space area of the system. The Yin player may then need to remove infantry and/or fighters from the system to satisfy the capacity limit.</li>
