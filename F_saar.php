@@ -41,12 +41,18 @@
     <li>Game effects that affect ship movement, such as the <i>Gravity Drive</i> technology, the <i>Flank Speed</i> action card, the <i>Light/Wave Deflector</i> technology, the <i>Antimass Deflectors</i> technology, etc, may affect Floating Factories.</li>
     <li>A Floating Factory moving through or out of a gravity rift must roll for removal. It will receive the +1 to its movement.</li>
     <li>If the Saar player announces a retreat during a space combat, but all their ships are destroyed that round, any Floating Factories in that system are destroyed without retreating.</li>
-    <ol><li>If neither player has ships in the active system after the final round of combat, the Floating Factory is not destroyed, and does not retreat.</li></ol>
+    <ol>
+        <li>If neither player has ships in the active system after the final round of combat, the Floating Factory is not destroyed, and does not retreat.</li>
+    </ol>
+    <li>If the Saar player has their last ship destroyed during combat by a <i>Direct Hit</i> action card, a Floating Factory in the system will be blockaded and destroyed, even if the Saar player produced enough hits to destroy their opponent&rsquo;s remaining ships during that round of combat.</li>
+    <ol>
+        <li>Players alternate using the <sc>Sustain Damage</sc> ability of their units, one at a time, starting with the active player, and continuing until both players decline, in a row, to use the <sc>Sustain Damage</sc> of one of their units. If both the Saar player and their opponent have a <i>Direct Hit</i>, then the first unit to use <sc>Sustain Damage</sc> will be the first unit that may be destroyed by a <i>Direct Hit</i>. If the Saar player&rsquo;s unit is the last to be destroyed, and leaves no other ships in the system, then a Floating Factory in that system will not be blockaded nor destroyed.</li>
+    </ol>
     <li>When resolving an ability of the <i>Construction</i> strategy card, the Saar player must control a planet in the system they place a Floating Factory in.</li>
     <li>If an effect allows a Floating Factory to move through a system that contains another player&rsquo;s ships (such as the <i>Light/Wave Deflectors</i> technology), it will not be blockaded in systems it moves through.</li>
     <li>If a Floating Factory is in a system that contains none of the Saar player&rsquo;s ships, and another player moves ships into that system, the Floating is immediately destroyed.</li>
     <ol>
-        <li>This will happen before the <b>Space Cannon Offense</b> step. The Floating Factory is destroyed, even if all of the other player&rsquo; ships are destroyed during this step.</li>
+        <li>This will happen before the <b>Space Cannon Offense</b> step. The Floating Factory is destroyed, even if all of the other player&rsquo; ships are destroyed during this step. Additionally, the Saar player cannot use that Floating Factory to resolve a space cannon roll enabled by the <i>Experimental Battlestation</i> action card.</li>
         <li>If all of the other player&rsquo;s ships are removed due to a gravity rift, they will not arrive in the active system. The Floating Factory will not be destroyed.</li>
     </ol>
     <li>A Floating Factory cannot count towards the <i>Improve Infrastructure</i> or <i>Protect the Border</i> objectives.</li>

@@ -165,10 +165,11 @@
     <li><i>Experimental Battlestation</i> cannot be played if no ships are moved into the active system, even if the active player already has ships in that system.</li>
     <ol>
         <li>If ships are moved into the active system, ships that were already in that system may be assigned any hits produced.</li>
-        <li>If all ships are lost in a gravity rift, and none arrive in the active system, <i>Experimental Battlestation</i> cannot be played.</li>
+        <li>If a ship is moved out of the active system and then back in, <i>Experimental Battlestation</i> may be played.</li>
+        <li>If all moving ships are lost to a gravity rift, and none arrive in the active system, <i>Experimental Battlestation</i> cannot be played.</li>
     </ol>
-    <li><i>Experimental Battlestation</i> cannot be played if ships are moved outside of the <b>Move Ships</b> step, such as during a retreat.</li>
-    <li>The hits produced by the <i>Experimental Battlestation</i> space cannon rolls can be cancelled with <i>Maneuvering Jets</i>.
+    <li><i>Experimental Battlestation</i> cannot be played if ships are moved outside of the <b>Move Ships</b> step, such as during a retreat, or while resolving the Mahact player&rsquo;s <i>Benediction</i> hero ability.</li>
+    <li>The hits produced by the <i>Experimental Battlestation</i> space cannon rolls may be cancelled with <i>Maneuvering Jets</i>.
     </ol>
 
 <h1>Exploration Probe</h1>
@@ -225,7 +226,10 @@
 
 <h1>Ghost Squad</h1>
     <ol class="note">
-    <li>The Ul player may use <i>Ghost Squad</i> to move a Hel&ndash;Titan. Doing so may allow that Hel&ndash;Titan to use its <sc>Space Cannon</sc> ability during the <b>Space Cannon Defense</b> step.</li>
+    <li><i>Ghost Squad</i> is played after the active player has assigned which planet each of their ground forces are being committed to. They cannot modify this after <i>Ghost Squad</i> has been played.</li>
+    <li><i>Ghost Squad</i> may be played whenever ground forces are committed, such as from the Yin player&rsquo;s <i>Quantum Dissemination Ω</i> hero ability.</li>
+    <ol><li><i>Ghost Squad</i> cannot be played in response to abilities that place ground forces on a planet without committing them, such as the <i>Colonial Redistribution</i> agenda.</li></ol>
+    <li>The Ul player cannot use <i>Ghost Squad</i> to move a Hel&ndash;Titan.</li>
     <li>A player may move zero ground forces with <i>Ghost Squad</i>.</li>
     </ol>
 
