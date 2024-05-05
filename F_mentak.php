@@ -85,6 +85,7 @@
 
 <h1>Moll Terminus <sub>(Mech)</sub></h1>
     <ol class="note">
+    <li>If a player commits a mech to a planet that contains both a Moll Terminus and a PDS belonging to the Mentak player, then the committed mech cannot use its <sc>Sustain Damage</sc> ability to cancel any <sc>Space Cannon</sc> hits during that invasion.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>
