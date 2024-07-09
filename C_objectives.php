@@ -14,20 +14,27 @@
 <h1>Amass Wealth</h1>
     <ol class="note">
     <li>The influence, resources and trade goods must be spent during the status phase. Any that were spent during the action phase will have no effect.</li>
+    <li>A planet may be exhausted to spend either its resource or influence value, but not both.</li>
     <li>Trade goods may be spent as influence or resources when scoring <i>Amass Wealth</i>.</li>
     </ol>
 
 <h1>Become a Legend</h1>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
-    <li>If Mirage is placed in an anomaly, that system will only count as one system towards the requirements of <i>Become a Legend</i>.</li>
+    <li>A ship, ground force, or structure will all qualify for <i>Become a Legend</i>.</li>
+    <ol>
+        <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Become a Legend</i>.</li>
+        <li>A player may have ships in the system containing a legendary planet or Mecatol Rex without controlling the planet for that system to count towards the requirements of <i>Become a Legend</i>.</li>
+    </ol>
+    <li>If Mirage is placed in an anomaly, or the <i>Nano&ndash;Forge</i> relic is attached to a planet in an anomaly, that system will only count as one system towards the requirements of <i>Become a Legend</i>.</li>
     <li>Any system containing a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is a gravity rift, and thus, an anomaly.</li>
+    <ol><li>If a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system towards the requirements of <i>Become a Legend</i>.</li></ol>
     </ol>
 
 <h1>Become a Martyr</h1>
     <ol class="note">
     <li>The lost planet may be in any player&rsquo;s home system. It does not have a planet in the home system of the player scoring <i>Become a Martyr</i>.</li>
-    <ol><li>The lost planent may be in the home system of an eliminated player.</li></ol>
+    <ol><li>The lost planet may be in the home system of an eliminated player.</li></ol>
     <li>If the lost planet is the last planet a player controls, that player will be eliminated before they score <i>Become a Martyr</i>, if they meet the other requirements for elimination.</li>
     <li>If the player with the <i>Shard of the Throne</i> relic loses their home system, they will lose the <i>Shard of the Throne</i> card and the associated victory point before they may score <i>Become a Martyr</i>.</li>
     <li>The attacker will have the opportunity to score a secret objective before the defender has the opportunity to score <i>Become a Martyr</i>.</li>
@@ -36,6 +43,7 @@
 <h1>Become the Gatekeeper</h1>
     <ol class="note">
     <li>A player with a ship in the wormhole nexus, or in any other system with both an alpha and beta wormhole, qualifies for <i>Become the Gatekeeper</i>.</li>
+    <li>Any ground forces or structures are irrelevant.</li>
     </ol>
 
 <h1>Betray a Friend</h1>
@@ -59,6 +67,7 @@
 <h1>Brave the Void</h1>
     <ol class="note">
     <li>Any system containing a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is a gravity rift, and thus, an anomaly.</li>
+    <li>A wormhole is not an anomaly.</li>
     </ol>
 
 <h1>Build Defenses</h1>
@@ -86,6 +95,8 @@
 <h1>Control the Borderlands</h1>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
+    <li>A ship, ground force, or structure will all qualify for <i>Control the Borderlands</i>.</li>
+    <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Control the Borderlands</i>.</li></ol>
     <li>The units may be in another player&rsquo;s home system.</li>
     <li>The Creuss Gate is not a home system.</li>
     <li>The Wormhole Nexus and the Creuss home system are both on the edge of the game board.</li>
@@ -98,6 +109,7 @@
 
 <h1>Control the Region</h1>
     <ol class="note">
+    <li>Any ground forces or structures are irrelevant.</li>
     </ol>
 
 <h1>Corner the Market</h1>
@@ -116,6 +128,8 @@
 <h1>Defy Space and Time</h1>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
+    <li>A ship, ground force, or structure will all qualify for <i>Defy Space and Time</i>.</li>
+    <ol><li>If one player has a ground force or structure on Mallice, and another player has a ship in the wormhole nexus, both players may score <i>Defy Space and Time</i>, if it is elected by the <i>Classified Document Leaks</i> agenda.</li></ol>
     </ol>
 
 <h1>Demonstrate Your Power</h1>
@@ -135,8 +149,9 @@
 
 <h1>Destroy Their Greatest Ship</h1>
     <ol class="note">
-    <li>If a player destroys their own flagship during combat, such as via the effect of <i>The Crown of Thalnos</i> relic, their opponent cannot score <i>Destroy their Greatest Ship</i>.</li>
-    <li>A player does not have to win a combat to score <i>Destroy their Greatest Ship</i>.</li>
+    <li>If a player destroys their own flagship or war sun during combat, such as via the effect of <i>The Crown of Thalnos</i> relic, their opponent cannot score <i>Destroy their Greatest Ship</i>.</li>
+    <li><i>Destroy their Greatest Ship</i> is scored as soon as the war sun or flagship is destroyed; it does not require waiting until the end of the combat.</li>
+    <ol><li>A player does not have to win a combat to score <i>Destroy their Greatest Ship</i>.</li></ol>
     <li>A player may score <i>Destroy their Greatest Ship</i> outside of a combat.</li>
     </ol>
 
@@ -204,12 +219,16 @@
 <h1>Fight with Precision</h1>
     <ol class="note">
     <li>Scoring <i>Fight with Precision</i> will count as that player&rsquo;s single secret objective scoring for that combat.</li>
+    <li><i>Fight with Precision</i> is scored immediately in the <b>Anti&ndash;Fighter Barrage</b> step of combat.</li>
+    <ol><li>A player does not have to win a combat to score <i>Fight with Precision</i>.</li></ol>
     <li>If a player&rsquo;s last fighter in a system is destroyed, but an ability allows that player to then place fighters into that system, <i>Fight with Precision</i> may still be scored.</li>
     </ol>
 
 <h1>Fight with Precision &Omega;</h1>
     <ol class="note">
     <li>Scoring <i>Fight with Precision &Omega;</i> will count as that player&rsquo;s single secret objective scoring for that combat.</li>
+    <li><i>Fight with Precision</i> is scored immediately in the <b>Anti&ndash;Fighter Barrage</b> step of combat.</li>
+    <ol><li>A player does not have to win a combat to score <i>Fight with Precision</i>.</li></ol>
     <li>If a player&rsquo;s last fighter in a system is destroyed, but an ability allows that player to then place fighters into that system, <i>Fight with Precision &Omega;</i> may still be scored.</li>
     <li>Any effect that destroys fighters during the <b>Anti&ndash;Fighter Barrage</b> step may be used to score <i>Fight with Precision &Omega;</i>, not just hits produced by an anti&ndash;fighter barrage roll.</li>
 	<ol><li>For example, say a player plays the <i>Courageous to the End</i> action card when one of their fighters are destroyed during the <b>Anti&ndash;Fighter Barrage</b> step. If the dice roll causes their opponent to destroy their ships, and they choose their last fighter, that would allow the player to score <i>Fight with Precision &Omega;</i>.</li></ol>
@@ -231,6 +250,7 @@
 <h1>Foster Cohesion</h1>
     <ol class="note">
     <li>The Hacan player&rsquo;s <sc>Guild Ships</sc> faction ability and <i>Trade Convoys</i> promissory note does not make a player neighbors with all other players.</li>
+    <li>If a player has units or controls a planet in a system containing an alpha wormhole, and the Creuss player has units or controls a planet in a system containing a beta wormhole, or vice versa, those two players are neighbors.</li>
     </ol>
 
 <h1>Found a Golden Age</h1>
@@ -265,6 +285,7 @@
 <h1>Hold Vast Reserves</h1>
     <ol class="note">
     <li>The influence, resources and trade goods must be spent during the status phase. Any that were spent during the action phase will have no effect.</li>
+    <li>A planet may be exhausted to spend either its resource or influence value, but not both.</li>
     <li>Trade goods may be spent as influence or resources when scoring <i>Hold Vast Reserves</i>.</li>
     </ol>
 
@@ -278,6 +299,7 @@
 <h1>Intimidate Council</h1>
     <ol class="note">
     <li>Any ships in the Mecatol Rex system are irrelevant.</li>
+    <li>Any ground forces or structures are irrelevant.</li>
     </ol>
 
 <h1>Lead From the Front</h1>
@@ -289,6 +311,8 @@
 <h1>Learn the Secrets of the Cosmos</h1>
     <ol class="note">
     <li>The three systems may be mutually adjacent to one system, or separate systems.</li>
+    <li>Having ships in an anomaly is irrelevant, unless that system is also adjacent to another anomaly.</li>
+    <li>Any ground forces or structures are irrelevant.</li>
     <li>Any system containing a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is a gravity rift, and thus, an anomaly.</li>
     </ol>
 
@@ -311,8 +335,14 @@
 <h1>Make History</h1>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
-    <li>If Mirage is placed in an anomaly, that system will only count as one system towards the requirements of <i>Make History</i>.</li>
+    <li>A ship, ground force, or structure will all qualify for <i>Make History</i>.</li>
+    <ol>
+        <li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Make History</i>.</li>
+        <li>A player may have ships in the system containing a legendary planet or Mecatol Rex without controlling the planet for that system to count towards the requirements of <i>Make History</i>.</li>
+    </ol>
+    <li>If Mirage is placed in an anomaly, or the <i>Nano&ndash;Forge</i> relic is attached to a planet in an anomaly, that system will only count as one system towards the requirements of <i>Make History</i>.</li>
     <li>Any system containing a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is a gravity rift, and thus, an anomaly.</li>
+    <ol><li>If a Vuil&rsquo;raith player&rsquo;s Dimensional Tear is in a system containing another anomaly, a legendary planet, or Mecatol Rex, that system will only count as one system towards the requirements of <i>Make History</i>.</li></ol>
     </ol>
 
 <h1>Manipulate Galactic Law</h1>
@@ -365,6 +395,8 @@
 <h1>Populate the Outer Rim</h1>
     <ol class="note">
     <li>The number of units in the system is irrelevant, if there is at least one.</li>
+    <li>A ship, ground force, or structure will all qualify for <i>Populate the Outer Rim</i>.</li>
+    <ol><li>If one player has a ground force or structure on a planet in a qualifying system, and another player has a ship in the same system, both players may count the system towards the requirements of <i>Populate the Outer Rim</i>.</li></ol>
     <li>The units may be in another player&rsquo;s home system.</li>
     <li>The Creuss Gate is not a home system.</li>
     <li>The Wormhole Nexus and the Creuss home system are both on the edge of the game board.</li>
@@ -394,6 +426,7 @@
 
 <h1>Push Boundaries</h1>
     <ol class="note">
+    <li>If a player has units or controls a planet in a system containing an alpha wormhole, and the Creuss player has units or controls a planet in a system containing a beta wormhole, or vice versa, those two players are neighbors.</li>
     </ol>
 
 <h1>Raise a Fleet</h1>
@@ -465,6 +498,7 @@
     <ol class="note">
     <li>Any ships in another players home system are irrelevant.</li>
     <li>The ships may be adjacent to the home system of an eliminated player.</li>
+    <li>Any ground forces or structures are irrelevant.</li>
     </ol>
 
 <h1>Turn Their Fleets to Dust</h1>

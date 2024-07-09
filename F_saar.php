@@ -17,7 +17,7 @@
 
 <h1>Ragh&rsquo;s Call <sub>(Promissory Note)</sub></h1>
     <ol class="note">
-    <li>Playing <i>Ragh&rsquo;s Call</i> will prevent ground combat from occuring on that planet.</li>
+    <li>Playing <i>Ragh&rsquo;s Call</i> will prevent ground combat from occurring on that planet.</li>
     <li>Any PDS on the planet remain. They might produce hits during the <b>Space Cannon Defense</b> step.</li>
     <li>All of the Saar player&rsquo;s ground forces must be placed on the same planet.</li>
     <li>Any damaged mechs remain damaged.</li>
@@ -29,7 +29,7 @@
     <li>The produced unit may move later that same turn, if the Saar player performs a tactical action.</li>
     <li>A unit may be produced on each of the Saar player&rsquo;s turns; <i>Chaos Mapping</i> is not exhausted.</li>
     <ol><li>A unit may be produced on the turn the Saar player passes.</li></ol>
-    <li>A player may still use abilities such as <sc>Deep Space Cannon</sc> that affect the Saar player&rsquo;s units located in asteroid fields.</li>
+    <li>A player may still use abilities such as action cards or <sc>Deep Space Cannon</sc> that affect the Saar player&rsquo;s units located in asteroid fields.</li>
     <li>If an asteroid field contains non&ndash;ship units belonging to the Saar player, it may still be activated by other players.</li>
     </ol>
 

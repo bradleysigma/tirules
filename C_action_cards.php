@@ -3,6 +3,7 @@
 <article>
 <h1>Ancient Burial Sites</h1>
     <ol class="note">
+    <li><i>Ancient Burial Sites</i> is played before the first agenda is revealed.</li>
     <li>A player with zero cultural planets may be chosen.</li>
     </ol>
 
@@ -13,12 +14,12 @@
 
 <h1>Assassinate Representative</h1>
     <ol class="note">
-    <li>That player may still play rider cards.</li>
+    <li>The chosen player may still play rider cards.</li>
     </ol>
 
 <h1>Blitz</h1>
     <ol class="note">
-    <li>If the L1Z1X player plays <i>Blitz</i>, they may use the gained <sc>Bombardment</sc> ability of each of their non&ndash;fighter ships in the system when resolving their <sc>Harrow</sc> faction ability.</li>
+    <li>If the L1Z1X player plays <i>Blitz</i>, they may use the gained <sc>Bombardment</sc> ability of each of their non&ndash;fighter ships in the system when resolving their <sc>Harrow</sc> faction ability during that invasion.</li>
     </ol>
 
 <h1>Bribery</h1>
@@ -33,14 +34,14 @@
 <h1>Bunker</h1>
     <ol class="note">
     <li>The modifier will apply to bombardment rolls for each planet in the active system.</li>
-    <li>The modifier will apply to bombardment rolls made for the L1Z1X player&rsquo;s <sc>Harrow</sc> faction ability.</li>
+    <li>The modifier will apply to bombardment rolls made for the L1Z1X player&rsquo;s <sc>Harrow</sc> faction ability during that invasion.</li>
     </ol>
 
 <h1>Confounding Legal Text</h1>
     <ol class="note">
     <li>Any predictions made on the outcome of the agenda resolve based on the newly elected player.</li>
     <li><i>Confounding Legal Text</i> is played after any effects that allow a player to cast additional votes.</li>
-    <li><i>Confounding Legal Text</i> is played before <i>Deadly Plot</i> is played, before revealing hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> agenda may be scored.
+    <li><i>Confounding Legal Text</i> is played before <i>Deadly Plot</i> is played, before revealing hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> objective may be scored.
     <li><i>Confounding Legal Text</i> may be played after <i>Confusing Legal Text</i> is played.</li>
     </ol>
 
@@ -48,7 +49,7 @@
     <ol class="note">
     <li>Any predictions made on the outcome of the agenda resolve based on the newly elected player.</li>
     <li><i>Confusing Legal Text</i> is played after any effects that allow a player to cast additional votes.</li>
-    <li><i>Confusing Legal Text</i> is played before <i>Deadly Plot</i> is played, before revealing hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> agenda may be scored.
+    <li><i>Confusing Legal Text</i> is played before <i>Deadly Plot</i> is played, before revealing hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> objective may be scored.
     <li><i>Confusing Legal Text</i> may be played after <i>Confounding Legal Text</i> is played.</li>
     </ol>
 
@@ -85,10 +86,10 @@
 
 <h1>Deadly Plot</h1>
     <ol class="note">
-    <li>Any prediction made for a rider or similar ability is incorrect.</li>
+    <li>Any prediction made for a rider or similar ability is incorrect, and will not resolve.</li>
     <li>A player cannot make the prediction that <i>Deadly Plot</i> will be played when they predict the outcome of an agenda.</li>
     <li><i>Deadly Plot</i> is played after any effects that allow a player to cast additional votes, and after any effects that change the outcome of an agenda.</li>
-    <li><i>Deadly Plot</i> is played before revealing hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> agenda may be scored.
+    <li><i>Deadly Plot</i> is played before revealing hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> objective may be scored.
     <li>If a player predicts multiple outcomes, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.</li>
     <ol><li>If the Xxcha player uses their commander, Elder Qanoj, to vote for one outcome, when they have predicted another, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.</li></ol>
     </ol>
@@ -119,7 +120,7 @@
     <li>A <i>Direct Hit</i> may be used whenever hits produced by a player&rsquo;s units or abilities are cancelled by a unit using its <sc>Sustain Damage</sc> ability.</li>
     <li>When a player uses the <sc>Sustain Damage</sc> ability of one of their units, they do not have to decide if another of their units in the same combat will use its <sc>Sustain Damage</sc> ability until after their opponent has used or declined to use a <i>Direct Hit</i>.</li>
     <li>When <i>Direct Hit</i> is used outside of combat, if used on a ship with capacity, then fighters and/or ground forces must immediately be removed from the space area to meet the capacity limit.</li>
-    <ol><li>For example, say a player has a dreadnought, a destroyer and a fighter in a system with no other units during the <b>Space Cannon Defense</b> step. During the <b>Roll Dice</b> step, two hits are produced against that player. They cancel one with the dreadnought&rsquo; <sc>Sustain Damage</sc> ability, but a <i>Direct Hit</i> is played to destroy it. The fighter in that system is immediately removed. The player must then assign the other produced hit to their destroyer.</li></ol>
+    <ol><li>For example, say a player has a dreadnought, a destroyer and a fighter in a system with no other units during the <b>Space Cannon Defense</b> step. During the <b>Roll Dice</b> step, two hits are produced against that player. They cancel one with the dreadnought&rsquo;s <sc>Sustain Damage</sc> ability, but a <i>Direct Hit</i> is played to destroy it. The fighter in that system is immediately removed. The player must then assign the other produced hit to their destroyer.</li></ol>
     <li>A mech cannot be destroyed by <i>Direct Hit</i>, unless a game effect causes the mech to be considered a ship.</li> 
     </ol>
 
@@ -174,7 +175,7 @@
 
 <h1>Exploration Probe</h1>
     <ol class="note">
-    <li>A player must have an exploration token in or adjacent to a system containing ore or more of their ships to play and resolve <i>Exploration Probe</i>.</li>
+    <li>A player must have an exploration token in or adjacent to a system containing one or more of their ships to play and resolve <i>Exploration Probe</i>.</li>
     </ol>
 
 <h1>Fighter Conscription</h1>
@@ -286,7 +287,7 @@
 
 <h1>Intercept</h1>
     <ol class="note">
-    <li>During the next round of combat, that player may declare another retreat.</li>
+    <li>During the next round of combat, the targeted player may declare another retreat.</li>
     <li><i>Intercept</i> cannot be played to prevent <i>Skilled Retreat</i> or the Naalu player&rsquo;s <i>Foresight</i> faction ability.</li>
     </ol>
 
@@ -302,7 +303,7 @@
     <ol class="note">
     <li>If the <i>Enforced Travel Ban</i> law is in play, <i>Lost Star Chart</i> will allow a player to move through wormholes during this action.</li>
     <ol><li>A player may move from a system containing an alpha wormhole to a system containing an alpha wormhole, and similarly for beta wormholes.</li></ol>
-    <li>If the active system contains a beta wormhole, a player that has a unit with the <sc>Deep Space Cannon</sc> ability in an alpha wormhole produce hits against ships in the active system during the <b>Space Cannon Offense</b> step of the tactical action, and vice versa.</li>
+    <li>If the active system contains a beta wormhole, a player that has a unit with the <sc>Deep Space Cannon</sc> ability in an alpha wormhole may produce hits against ships in the active system during the <b>Space Cannon Offense</b> step of the tactical action, and vice versa.</li>
     <li>A player may retreat from a system containing an alpha wormhole into a system containing a beta wormhole, and vice versa, during this action.</li>
     <li>If player has units or controls planets in a system with an alpha wormhole, and another player has units or controls planets in a system with an beta wormhole, then those two players are neighbors during this action.</li>
     <ol><li>The Mentak player may use their <sc>Pillage</sc> ability against a player in this manner.</li></ol>
@@ -324,7 +325,7 @@
         <li>During the <b>Space Cannon Offense</b> step, each player makes their Space Cannon roll independent of each other player, in clockwise order. As such, a player may use one <i>Maneuvering Jets</i> after each other player makes a space cannon roll.</li>
         <li>During the <b>Space Cannon Defense</b> step, the units on each planet make their Space Cannon roll independent of each other planet. The active player chooses the order. As such, a player may use one <i>Maneuvering Jets</i> after each the units on each planet make a space cannon roll.</li>
     </ol>
-    <ol><li><i>Maneuvering Jets</i> may cancel hits produced due to the <i>Experimental Battlestation</i> action card.</li></ol>
+    <li><i>Maneuvering Jets</i> may cancel hits produced due to the <i>Experimental Battlestation</i> action card.</li>
     </ol>
 
 <h1>Manipulate Investments</h1>
@@ -355,10 +356,10 @@
     <ol class="note">
     <li>Wormholes are not anomalies.</li>
     <li>An anomaly will retain its regular effect if a player retreats.</li>
-    <li>A player may move ships though or into an asteroid field without the <i>Antimass Deflectors</i> technology. After moving, those ships may remain there and move during a later action without harm.</li>
+    <li>A player may move ships though or into an asteroid field without the <i>Antimass Deflectors</i> technology. After moving into, those ships may remain there and move out during a later action without harm.</li>
     <li>A player may move ships though or out of a gravity rift without rolling for removal. Those ships will not get +1 to their move value.</li>
     <li>A player may move ships though a nebula. Ships moving out of a nebula retain their normal move value.</li>
-    <li>A player may move ships though or into a supernova. After moving, those ships may remain there and move during a later action without harm.</li>
+    <li>A player may move ships though or into a supernova. After moving into, those ships may remain there and move out during a later action without harm.</li>
     <li>Other players cannot ignore the effect of anomalies during this tactical action.</li>
     <ol><li>The Naalu player will still be affected by anomalies if they use their <sc>Foresight</sc> faction ability.</li></ol>
     </ol>
@@ -388,6 +389,7 @@
     <li>During the upcoming agenda phase, all abilities remain resolved in speaker order, not initiative order.</li>
     <li>The strategy cards are readied when <i>Political Stability</i> is played.</li>
     <li>The &ldquo;Return Strategy Cards&rdquo; step is the last step of the status phase. All other steps must be completed by all players before <i>Political Stability</i> may be played. This includes scoring and revealing objectives, drawing action cards (and discarding down to hand limit, if necessary), and gaining and redistributing command tokens.</li>
+    <ol><li>If a player draws <i>Political Stability</i> during the status phase, they may play it during the same phase.</li></ol> 
     </ol>
 
 <h1>Politics Rider</h1>
@@ -563,6 +565,10 @@
     <li>The effect of a successful <i>Technology Rider</i> will be resolved after the effect of the agenda.</li>
     <li>A player who cannot vote may still play a <i>Technology Rider</i>.</li>
     <li>A player must still meet the prerequisites for the technology they research.</li>
+    <ol>
+        <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.</li>
+        <li>A player may exhaust the <i>AI Development Algorithm</i> technology to ignore a prerequisite on a unit upgrade technology as normal. <i>AI Development Algorithm</i> will not ready at the end of the agenda phase.</li>
+    </ol>
     </ol>
 
 <h1>Trade Rider</h1>

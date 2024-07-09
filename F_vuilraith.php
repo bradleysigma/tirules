@@ -13,7 +13,6 @@
     <li>If the Vuil&rsquo;raith player has captured their own units, they may use their <sc>Amalgamation</sc> ability when producing a unit of that type, even of they have no other units of that type in their reinforcements.</li>
     <li><sc>Amalgamation</sc> does not change the cost of the produced units, only the resources spent.</li>
     <ol><li>If the Vuil&rsquo;raith player uses the ability of the <i>Integrated Economy</i> technology, <sc>Amalgamation</sc> will have no effect on the limit to the units they may build.</li></ol>
-    <li>If the Vuil&rsquo;raith player has captured one of their own units, they may use <sc>Amalgamation</sc> to produce that unit, even if thay have no other units of that type in their reinforcements.</li>
     <li>The Vuil&rsquo;raith player produces one fighter or infantry without spending resources for each captured fighter or infantry they spend.</li>
     <li>If the Vuil&rsquo;raith player has the Naalu or Yin player&rsquo;s <i>Alliance</i> promissory note, they may spend one resource for one fighter or infantry, but spend a captured unit instead of that resource, then get one additional fighter or infantry for no cost, which will not count towards their production limit.</li>
     </ol>
@@ -27,10 +26,10 @@
     <li>Each gravity rift will still provide its usual +1 to each ship&rsquo;s move value.</li>
     <li><i>Crucible</i> will provide an additional +1 to each ship&rsquo;s move value, which will not increase if that ship moves through two or more gravity rifts.</li>
     <ol>
-        <li>A ship that moves through or out of no gravity rifts will get +0 to its move value.</li>
-        <li>A ship that moves through or out of one gravity rifts will get +2 to its move value.</li>
-        <li>A ship that moves through or out of two gravity rifts will get +3 to its move value.</li>
-        <li>A ship that moves through or out of three gravity rifts will get +4 to its move value.</li>
+        <li>A ship that moves through or out of no gravity rifts will apply +0 to its move value.</li>
+        <li>A ship that moves through or out of one gravity rift will apply +2 to its move value.</li>
+        <li>A ship that moves through or out of two gravity rifts will apply +3 to its move value.</li>
+        <li>A ship that moves through or out of three gravity rifts will apply +4 to its move value.</li>
         <li>And so on.</li>
     </ol>
     <li>If a ship could move from its current system to the active system through a gravity rift if its move value were +2, it may do so using <i>Crucible</i>. This is true even if that ship could not reach the gravity rift without <i>Crucible</i>.</li>
@@ -53,7 +52,7 @@
     <li>If a ship moves through or out of multiple gravity rifts, and/or the same gravity rift multiple times, each instance will provide a +1 to movement.</li>
     <ol><li>For example, consider a series of systems A&ndash;B&ndash;C&ndash;M. Only systems connected by a &ldquo;&ndash;&rdquo; are adjacent. Systems &ldquo;A&rdquo;, &ldquo;B&rdquo; and &ldquo;C&rdquo; have dimensional tears, while system &ldquo;M&rdquo; does not. The Vuil&rsquo;raith player has a carrier with move one in system &ldquo;C&rdquo; and a ground force in system &ldquo;A&rdquo;. They could activate system &ldquo;M&rdquo; and move the carrier along the path &ldquo;C&rdquo; &rarr; &ldquo;B&rdquo; &rarr; &ldquo;A&rdquo; &rarr; &ldquo;B&rdquo; &rarr; &ldquo;C&rdquo; &rarr; &ldquo;M&rdquo;, picking up the ground force from system &ldquo;A&rdquo;. This path would make the carriers move value 1+5, which is more than enough for this movement.</li></ol>
     <li>Multiple Dimensional Tears in a single system have no additional effects.</li>
-    <li>If a Dimensional Tear is in a system that is normally a gravity rift (i.e. the Cormund system), the Vuil&rsquo;raith player will not have to roll for removal when moving out of or through that system. There are no additional effects.</li>
+    <li>If a Dimensional Tear is in a system that is normally a gravity rift (e.g. the Cormund system), the Vuil&rsquo;raith player will not have to roll for removal when moving out of or through that system. There are no additional effects.</li>
     <li>If a Dimensional Tear is in a system with a Nebula, then the +1 to move values will be applied after the nebula sets each ship&rsquo;s move value to 1.</li>
     <li>If the Dimensional Tear plastic figure is destroyed or removed, the Dimensional Tear token is also removed.</li>
     </ol>

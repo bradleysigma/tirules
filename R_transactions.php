@@ -22,7 +22,10 @@
     <li>Relic fragments may be traded. Relics themselves cannot be.</li>
     <li>Captured units may be returned to the player that originally owned them as part of a transaction.</li>
     <li>If a player becomes neighbors with another player on their turn, they may then perform a transaction with that player.</li>
-    <ol><li>If a player stops being neighbors with another player that they have performed a transaction with this turn, but then becomes neighbors with that player again later that same turn, they cannot perform a second transaction with that player.</li></ol>
+    <ol>
+        <li>If a player stops being neighbors with another player that they have performed a transaction with this turn, but then becomes neighbors with that player again later that same turn, they cannot perform a second transaction with that player.</li>
+        <li>A player may perform a transaction during combat with their opponent, even if they are neighbors only in the active system.</li>
+    </ol>
     <li>If a player may perform multiple action on their turn, they may still only resolve one transaction with each of their neighbors.</li>
     <li>If an agenda is discarded and replaced with another, players who resolved a transaction during the discarded may resolve another transaction during the replacement agenda.</li>
     </ol>

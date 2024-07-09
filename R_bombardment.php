@@ -21,6 +21,7 @@
 <h1>Notes</h1>
     <ol class="note">
     <li>The <b>Bombardment</b> step happens outside of combat. No combat effects may affect a bombardment roll.</li>
+    <ol><li>A player cannot score a secret objective that requires them to win a combat or similar by destroying units during the <b>Bombardment</b> step.</li></ol>
     <li>Mechs may use their <sc>Sustain Damage</sc> ability to cancel a hit produced by a bombardment roll.</li>
     <li>Only the active player may bombard. Usually, but not always, only the active player will have ships in the system during an invasion.</li>
     <li>For notes about <sc>Harrow</sc>, see the <a href="/F_lizix">L1Z1X faction notes page</a>.</li> 

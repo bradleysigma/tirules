@@ -31,7 +31,7 @@
 
 <h1>Genesis <sub>(Flagship)</sub></h1>
     <ol class="note">
-    <li>Placing the infantry during the status phase is mandatory. After, the Sol player may need to remove an infantry or fighter to meet capacity limits.</li>
+    <li>Placing the infantry during the status phase is mandatory. After, the Sol player might need to remove an infantry or fighter to meet capacity limits.</li>
     </ol>
 
 <h1>Evelyn DeLouis <sub>(Agent)</sub></h1>
@@ -42,6 +42,7 @@
 <h1>Claire Gibson <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>If an invasion involves ground combat on multiple planets, an infantry will be placed on each.</li>
+    <li>If the Sol player has no ground forces on a planet they control, ground combat will not occur, and so they cannot place an infantry on that planet. This includes if they lose the last of their ground forces during the <b>Bombardment</b> step of the invasion.</li>
     <li>The start of ground combat occurs after the <b>Space Cannon Defense</b> step. If all of the ground forces committed to a planet are destroyed in that step, then the ground combat will be skipped on that planet, and this ability will not trigger.</li>
     </ol>
 

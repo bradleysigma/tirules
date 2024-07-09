@@ -18,7 +18,7 @@
 <h1>Notes</h1>
     <ol class="note">
     <li>When resolving the primary ability of the <i>Politics</i> card, the active player cannot show the agenda cards they drew to any other player.</li>
-    <li>If the outcome of an agenda effects multiple players, it will do so in speaker order.</li>
+    <li>If the outcome of an agenda affects multiple players, it will do so in speaker order.</li>
     <li>For notes about specific agenda cards, see the <a href="/C_agendas">agenda card component notes page</a>.</li>
     </ol>
 

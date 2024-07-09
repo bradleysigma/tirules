@@ -75,7 +75,7 @@
 <h1>Conservator Procyon &mdash; Multiverse Shift <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>The Empyrean player chooses the order of exploration.</li>
-    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets.</li>
+    <li>A system that contains a planet destroyed by the <i>Stellar Converter</i> relic, and no other planets, is considered to contain no planets. <i>Multiverse Shift</i> will place a frontier token in such a system.</li>
     </ol>
 
 <h1>Watcher <sub>(Mech)</sub></h1>

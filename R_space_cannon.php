@@ -36,6 +36,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
+    <li>&ldquo;<sc>Deep Space Cannon</sc>&rdquo; is not a term with meaning within the rules. It is, however, used within the notes on this website as a shorthand for <sc>Space Cannon</sc> abilities that can be used against ships in an adjacent system.</li>
     <li>The <b>Space Cannon Offense</b> step happens before combat. Any secret objectives that require winning a combat or similar cannot be scored if all of one player&rsquo;s ships in a system are destroyed during this step.</li>
     <li>If a player chooses to use the <sc>Space Cannon</sc> ability of their units, they must do so for all of their eligible units with the <sc>Space Cannon</sc> ability. This includes units in adjacent systems, if applicable.</li>
     <ol><li>A player that chooses to use the <sc>Space Cannon</sc> ability of their units may choose whether or not they use the ability of the <i>Plasma Scoring</i> technology, if they own it, and any similar abilities, independent of one another.</li></ol>

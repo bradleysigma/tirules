@@ -20,7 +20,7 @@
     <li>If this ability is used, all laws are blanked. The Keleres player cannot choose for some laws to remain in effect.</li>
     <li>If the Keleres player owns the <i>Political Censure</i> law, they will not lose a victory point when it is blanked, and they may use action cards during this turn.</li>
     <ol><li>If the Keleres player then uses the <i>Repeal Law</i> action card, targeting the <i>Political Censure</i> law, then it will be discarded without the Keleres player losing the victory point.</li></ol>
-    <li>The Keleres player and all of the other players players treat all laws as blank for the turn.</li>
+    <li>The Keleres player and all of the other players treat all laws as blank for the turn.</li>
     </ol>
 
 <h1>Keleres Rider <sub>(Promissory Note)</sub></h1>

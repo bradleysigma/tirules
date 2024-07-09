@@ -26,7 +26,7 @@
 
 <h1>Hegemonic Trade Policy <sub>(Technology)</sub></h1>
     <ol class="note">
-    <li>Changing a planet&rsquo;s resource value will affect the <sc>Production</sc> value of any Space Dock on that planet.</li>
+    <li>Changing a planet&rsquo;s resource value will affect the <sc>Production</sc> value of a Space Dock on that planet.</li>
     </ol>
 
 <h1>Lazax Gate Folding <sub>(Technology)</sub></h1>

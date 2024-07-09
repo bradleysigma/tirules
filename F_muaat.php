@@ -22,7 +22,7 @@
 
 <h1>Magmus Reactor &Omega; <sub>(Technology)</sub></h1>
     <ol class="note">
-    <li>If the Muaat player has a unit is a system containing a supernova, they cannot be eliminated.</li>
+    <li>If the Muaat player has a unit in a system containing a supernova, they cannot be eliminated.</li>
     </ol>
 
 <h1>Prototype War Sun <sub>(Unit)</sub></h1>

@@ -46,9 +46,8 @@
     <li>If the space combat ends in a draw, <i>Salvage Operations</i> has no effect.</li>
     <li>If the Mentak player wishes to place a unit using their <i>Salvage Operations</i> ability, but there are none of that type left in their reinforcements, they can remove a unit of that type from any system that does not contain one of their command tokens and place that instead.</li>
     <li>If the opponent has a faction specific ship, including their flagship, destroyed, the Mentak player may use their <i>Salvage Operations</i> to produce a generic ship of the same type, or their <i>Fourth Moon</i>, as appropriate.</li>
-    <li>If a unit is only a ship for the opponent, the Mentak player cannot use their <i>Salvage Operations</i> to produce a unit of that type.</li>
-    <li>The Mentak player cannot produce a war sun unless they have the war sun technology.</li>
     <li>The Mentak player cannot produce ground forces using <i>Salvage Operations</i>, even if their opponent has the ability to treat a ground force as a ship.</li>
+    <li>The Mentak player cannot produce a war sun unless they have their war sun technology.</li>
     </ol>
 
 <h1>Fourth Moon <sub>(Flagship)</sub></h1>
@@ -72,20 +71,20 @@
     <li>Capacity is not checked during combat. As such, the Mentak player may place an unlimited number of fighters into a combat with this ability.</li>
     <li>If all of the Mentak player&rsquo;s ships are destroyed, they may still place ships with this ability. If they do, combat will continue.</li>
     <li>No costs are paid for the placed units.</li>
-    <li>Both players will choose and destroy one of their own ships in the active system for each hit their opponent produced during each round of combat, before the Mentak player places their ships for the <i>Sleeper Cell</i> ability. As such, the Mentak player may place a ship that was destroyed in the same round of combat, if they destroyed one of their opponent&rsquo;s ships of the same type, even if they had none of that ship type in reserve.</li>
+    <li>Both players will choose and destroy one of their own ships in the active system for each hit their opponent produced during each round of combat, before the Mentak player places their ships for the <i>Sleeper Cell</i> ability. As such, the Mentak player may place a ship that was destroyed in the same round of combat, if they destroyed one of their opponent&rsquo;s ships of the same type, even if they had none of that ship type in their reinforcements.</li>
     <ol><li>When players would use their ships&rsquo; <sc>Sustain Damage</sc> abilities, they do so in alternating order, starting with the attacker. If the Mentak player uses a <i>Direct Hit</i> action card to destroy one of their opponent&rsquo;s ships, they must then make the choice immediately if they will replace it using the <i>Sleeper Cell</i> ability, before any other ships may use their <sc>Sustain Damage</sc> ability. Should the Mentak version of the newly placed ship type have a <sc>Sustain Damage</sc> ability, it may then use it during the same combat round.</li></ol>
     <li>If the Mentak player wishes to place a unit with this ability, but there are none of that type left in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that instead. This unit will be placed undamaged.</li>
     <li>If the opponent has a faction specific ship, including their flagship, destroyed, the Mentak player may place a generic ship of the same type, or their <i>Fourth Moon</i>, as appropriate.</li>
     <li>If the <i>Fourth Moon</i> is destroyed during combat, but the Mentak player then destroys their opponent&rsquo;s flagship and places the <i>Fourth Moon</i> back into the combat, they cannot score the <i>Unveil Flagship</i> objective.</li>
     <ol><li>If the Mentak player starts the combat without the <i>Fourth Moon</i>, and places it during the combat, they may score the <i>Unveil Flagship</i> objective if the <i>Fourth Moon</i> is not destroyed.</li></ol>
     <li>If a destroyed unit is a ground force or structure, that the other player is treating as a ship due to some effect, the Mentak player cannot place that unit.</li>
-    <li>The Mentak player cannot place a war sun unless they have the war sun technology.</li>
+    <li>The Mentak player cannot place a war sun unless they have their war sun technology.</li>
     <li>The opponent may still retreat during combat.</li>
     </ol>
 
 <h1>Moll Terminus <sub>(Mech)</sub></h1>
     <ol class="note">
-    <li>If a player commits a mech to a planet that contains both a Moll Terminus and a PDS belonging to the Mentak player, then the committed mech cannot use its <sc>Sustain Damage</sc> ability to cancel any <sc>Space Cannon</sc> hits during that invasion.</li>
+    <li>If a player commits a mech to a planet that contains both a Moll Terminus mech and a PDS belonging to the Mentak player, then the committed mech cannot use its <sc>Sustain Damage</sc> ability to cancel any <sc>Space Cannon</sc> hits during that invasion.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

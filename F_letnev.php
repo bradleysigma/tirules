@@ -64,6 +64,7 @@
 <h1>Rear Admiral Farran <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>This effect may be applied when a Dunlain Reaper uses its <sc>Sustain damage</sc> ability.</li>
+    <ol><li>If the Ul player has the Letnev player&rsquo;s <i>Alliance</i> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <sc>Sustain damage</sc> ability.</li></ol>
     <li>A unit that becomes damaged without using its <sc>Sustain Damage</sc> ability will not trigger this effect.</li>
     <li>If multiple units use their <sc>Sustain Damage</sc> ability within a single step, the trade goods are gained one at a time.</li>
     </ol>
@@ -71,7 +72,7 @@
 <h1>Darktalon Treilla &mdash; Dark Matter Affinity <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>The game round ends after the agenda phase (or the status phase if the custodians token is yet to be removed from Mecatol Rex).</li>
-    <li>At the end of the game round the Letnev player may need to remove ships from the board to satisfy fleet pool limits.</li>
+    <li>At the end of the game round the Letnev player might need to remove ships from the board to satisfy fleet pool limits.</li>
     </ol>
 
 <h1>Dunlain Reaper <sub>(Mech)</sub></h1>
@@ -79,7 +80,7 @@
     <li>A <sc>Deploy</sc> ability may be resolved only once per timing window. As such, the Letnev player may only place one Dunlain Reaper this way per ground combat round.</li>
     <ol><li>Further Dunlain Reapers may be placed in later rounds.</li></ol>
     <li>A <sc>Deploy</sc> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Dunlain Reaper are already on the board, no Dunlain Reaper may be deployed.</li>
-    <ol><li>If a Dunlain Reaper is destroyed during combat, another may be deployed in a later round of the same combat.</li></ol>
+    <ol><li>If a Dunlain Reaper is destroyed during combat, then another may be deployed in a later round of the same combat.</li></ol>
     </ol>
 </article>
 <?php include "suffix.php"?>

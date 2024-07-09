@@ -10,7 +10,9 @@
 
 <h1>Dark Energy Tap</h1>
     <ol class="note">
-    <li>The ships may have been moved into that system during the tactical action.</li>
+    <li>A ship may be moved into the system containing the frontier token during the same action that it is explored.</li>
+    <li>Exploring the frontier token happens at the end of the tactical action. Notably, this is after the <b>Space Cannon Offense</b> and/or <b>Space Combat</b> steps.</li>
+    <li>A player cannot use <i>Dark Energy Tap</i> to retreat into a system that contains another player&rsquo;s units, including ground forces and structures on planets.</li>
     </ol>
 
 <h1>Gravity Drive</h1>
@@ -36,7 +38,7 @@
 <h1>Neural Motivator</h1>
     <ol class="note">
     <li><i>Neural Motivator</i> does not apply when a player draws action cards from either of the abilities of the <i>Politics</i> action card, or any other effect outside of the status phase.</li>
-    <li><i>Neural Motivator</i> does not apply when a player draws action cards due to the effect of the <i>Minister of Policy</i> law.</li>
+    <li><i>Neural Motivator</i> only applies to the <b>Draw Action Card</b> step of the status phase. It does not apply when a player draws action cards due to the effect of the <i>Minister of Policy</i> law or similar effects.</li>
     </ol>
 
 <h1>Psychoarchaeology</h1>
@@ -74,13 +76,14 @@
     <li>Only one additional dice is rolled for each bombardment or space cannon roll, regardless of how many units are using that ability.</li>
     <ol>
         <li>During an invasion in a system with multiple planets, only one unit will add a dice to its bombardment roll.</li>
-        <li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional dice to the space cannon rolls on each planet during the <b>Space Cannon Defense</b> step.</li>
+        <li>During an invasion, if ground forces have been committed to multiple planets, <i>Plasma Scoring</i> will add an additional dice to the space cannon rolls for each planet during the <b>Space Cannon Defense</b> step.</li>
     </ol>
     </ol>
 
 <h1>AI Development Algorithm</h1>
     <ol class="note">
     <li>When exhausted, a prerequisite will be ignored, and <i>AI Development Algorithm</i> will still count towards meeting a warfare technology (red) prerequisite.</li>
+    <ol><li>For example, <i>AI Development Algorithm</i> alone may be used to research the Destroyer II unit upgrade.</li></ol>
     </ol>
 
 <h1>Magen Defense Grid</h1>
@@ -107,6 +110,7 @@
     <li>A player must mandatorily repair a unit with <i>Duranium Armor</i> during each round of combat, if possible.</li>
     <li><i>Duranium Armor</i> is used even if a player&rsquo;s opponent produced no hits during a round of combat.</li>
     <li>If a player starts a combat with a damaged unit, they use <i>Duranium Armor</i> in the first round of combat.</li>
+    <ol><li>A player may use <i>Duranium Armor</i> to repair a unit damaged by <sc>Space Cannon</sc> or <sc>Bombardment</sc> hits that occurred immediately before the combat.</li></ol>
     <li>Only units participating in the combat may be chosen to be repaired.</li>
     </ol>
 
@@ -118,7 +122,7 @@
         <li>This will most commonly happen when both players in a combat have <i>Assault Cannon</i>, and the defender has exactly three non&ndash;fighter ships.</li>
         <li>Examples of other abilities that may remove units at the start of a space combat include the Creuss player&rsquo;s <i>Dimensional Splicer</i> faction technology ability, the Mentak player&rsquo;s <sc>Ambush</sc> faction ability, the Yin player&rsquo;s <i>Impulse Core</i> faction technology ability, as well as abilities such as the <i>Courageous to the End</i> action card or the <i>Reflective Shielding</i> action card that may trigger off of any of the previous abilities.</li>
     </ol>
-    <li>A player may use an ability to ships at the start of combat. If this brings the number of non&ndash;fighter ships to three or more, the player may then use the ability of <i>Assault Cannon</i>.</li>
+    <li>A player may use an ability to add ships at the start of combat. If this brings the number of non&ndash;fighter ships to three or more, the player may then use the ability of <i>Assault Cannon</i>.</li>
     <ol>
         <li>Each other player may use one ability after that player has gained ships, and before that player has the opportunity to use the <i>Assault Cannon</i> ability. This may prevent that player from using the ability, as above.
         <li>Examples of abilities that may add units at the start of space combat include a combination of the Mentak player&rsquo;s <i>Sleeper Cell</i> hero ability and their <sc>Ambush</sc> faction ability, the ability of the Nekro player&rsquo;s flagship, <i>The Alastor</i>, and the Naaz&ndash;Rokha player&rsquo; <i>Eidolon</i> mech ability.</li>
@@ -160,6 +164,7 @@
     <ol class="note">
     <li>The produced units must be paid for.</li>
     <li>There is no limit on the number of units produced, so long as the combined cost does not exceed the planet&rsquo;s resource value.</li>
+    <li>Two fighters or two infantry have a combined cost of one resource.</li>
     <li>A player may produce ships with <i>Integrated Economy</i>, unless another player has ships in the space area of that planet&rsquo;s system.</li> 
     </ol>
 </article>

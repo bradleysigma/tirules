@@ -8,7 +8,7 @@
 <h1>Future Sight</h1>
     <ol class="note">
     <li>The Nomad player may only predict agenda outcomes via game effects that allow them to do so, e.g. rider action cards.</li>
-    <li>If the Nomad player predict multiple different outcomes, and one of those outcomes is resolved, they will gain the trade good.</li>
+    <li>If the Nomad player predicts multiple different outcomes, and one of those outcomes is resolved, they will gain the trade good.</li>
     <ol><li>If the Nomad player predicts an outcome and votes for another outcome (via the Xxcha player&rsquo;s <i>Alliance</i> promissory note), and one of those outcomes is resolved, they will gain the trade good.</li></ol>
 	<li>If the <i>Deadly Plot</i> action card is played, the Nomad will not gain a trade good from <sc>Future Sight</sc>.</li>
     </ol>

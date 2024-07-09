@@ -21,11 +21,11 @@
     </ol>
     <li>The following are further examples of non&ndash;binding deals:</li>
     <ol>
-        <li>Making a deal to use a promissory note in a specific way, before the promissory note has been traded.</li>
+        <li>Making a deal to use a promissory note in a specific way, before the promissory note has been transacted.</li>
         <li>Making a deal not make use of a unit&rsquo;s <sc>Space Cannon</sc> ability during a tactical action, before ships have been moved.</li>
         <li>Making a deal to trade commodities in exchange for the active player to replenish another player&rsquo;s commodities during the resolution of the primary ability of the <i>Trade</i> strategic action.</li>
         <li>Making a deal for a player to vote on an agenda in a certain way, when it is not yet that player&rsquo;s opportunity to vote.</li>
-        <li>Any deal that resolves after dice are rolled .</li>
+        <li>Any deal that will resolve after dice are rolled.</li>
     </ol>
     </ol>
 

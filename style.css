@@ -80,6 +80,10 @@ sub
     font-size: 50%;
     vertical-align: baseline;
 }
+sup
+{
+    line-height: 0;
+}
 sc
 {
     font-variant: small-caps;

@@ -81,7 +81,6 @@
     <li>The Creuss player may use this ability to access the inactive wormhole nexus without a gamma wormhole. Moving ships into the wormhole nexus this way will cause it to flip.</li>
     <li>A delta wormhole in the system (such as from the <i>Hil Colish</i>) does not prevent this ability from being usable.</li>
     <li>If this ability is used, the active system will be adjacent to systems with delta wormholes.</li>
-    <li>This ability does not cause the active system to contain a wormhole. <i>Dimensional Splicer</i> cannot be used in the system unless it already contained a wormhole.</li>
     <li>If a ship moves from the system containing the Ion Storm, it will not flip, unless the active player may move ships through the Ion Storm wormhole and chooses to do so.</li>
     <li>The system must have a non&ndash;delta wormhole in it at the moment of activation. If a wormhole is placed in a system with no other wormholes using the ability of an Icarus Drive, then Emissary Taivra cannot be used during the same activation.</li>
     <ol><li>If a wormhole is placed at the start of a player&rsquo;s turn in the system using the Creuss IFF, then Emissary Taivra may be used for the activation immediately following.</li></ol>
@@ -97,7 +96,7 @@
     </ol>
     <li>This ability may be used whenever the Creuss player&rsquo;s ships move, not just during the movement step of a tactical action.</li>
     <ol>
-        <li>While this ability may be used when the Creuss player retreats, retreating will leave no capacity in the active system.</li>
+        <li>While this ability would trigger after the Creuss player retreats, retreating will leave no capacity in the active system.</li>
         <li>If the Mahact player uses their <i>Benediction</i> hero ability to move the Creuss player&rsquo;s ships, then the Creuss player may use this ability.</li>
     </ol>
     <li>A ship may move out of a system and back into the same system during tactical action movement, if its move value is high enough. If the Creuss player does this with a ship with capacity, and moves in this manner via a wormhole, they may place a fighter, if possible.</li>

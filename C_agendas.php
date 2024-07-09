@@ -139,6 +139,9 @@
     <ol class="note">
     <li>Players resolve the secondary ability of the elected strategy card in speaker order.</li>
     <li>The secondary ability is resolved immediately, during the agenda phase.</li>
+    <li>Players must pay the influence or resource costs to resolve the abilities of the <i>Leadership</i>, <i>Warfare</i> or <i>Technology</i> strategy cards if they are elected. Any planets used to pay these costs will ready at the end of the agenda phase.</li>
+    <li>If the <i>Technology</i> strategy card is elected, a player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.</li>
+    <ol><li>A player may exhaust the <i>AI Development Algorithm</i> technology to ignore a prerequisite on a unit upgrade technology as normal. <i>AI Development Algorithm</i> will not ready at the end of the agenda phase.</li></ol>
     <li>If a player has a strategy card in their play area due to the effect of the <i>Political Stability</i> action card, that strategy card is eligible to be elected.</li>
     </ol>
 
@@ -149,7 +152,7 @@
 
 <h1>Homeland Defense Act</h1>
     <ol class="note">
-    <li>If the <i> Homeland Defense Act</i> law is discarded, players may have to remove PDS so that they have no more than two on each planet.</li>
+    <li>If the <i> Homeland Defense Act</i> law is discarded, players might have to remove PDS so that they have no more than two on each planet.</li>
     </ol>
 
 <h1>Imperial Arbiter</h1>
@@ -165,7 +168,11 @@
 <h1>Ixthian Artifact</h1>
     <ol class="note">
     <li>A player must still meet the prerequisites for the technology they research.</li>
-    <ol><li>A player may use the first technology they research to meet the prerequisites of the second technology they research.</li></ol>
+    <ol>
+        <li>A player may use the first technology they research to meet the prerequisites of the second technology they research.</li>
+        <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.</li>
+        <li>A player may exhaust the <i>AI Development Algorithm</i> technology to ignore a prerequisite on a unit upgrade technology as normal. <i>AI Development Algorithm</i> will not ready at the end of the agenda phase.</li>
+    </ol>
     <li>A player with three or fewer units in a system adjacent to the Mecatol Rex system destroys all of their units in that system. Otherwise, a player chooses which three units are destroyed.</li>
     <li>All units are destroyed simultaneously.</li>
     <li style="color:white;">To cast vote against or to play a rider on <i>Ixthian Artifact</i> is to commit heresy.</li>
@@ -212,7 +219,7 @@
 <h1>Minister of Policy</h1>
     <ol class="note">
     <li>The owner of <i>Minister of Policy</i> will draw action cards during the <b>Draw Action Cards</b> step of the status phase, and again at the end of the status phase.</li>
-    <ol><li>If the Yssaril player owns <i>Minister of Policy</i>, they will use their <sc>Scheming</sc> ability for both the <b>Draw Action Cards</b> step and for <i>Minister of Policy</i>. However, they do not draw all the cards together.</li></ol>
+    <ol><li>If the Yssaril player owns <i>Minister of Policy</i>, they will use their <sc>Scheming</sc> ability for both the <b>Draw Action Cards</b> step and for <i>Minister of Policy</i>. However, they do not draw all the cards together; they must fully resolve <sc>Scheming</sc> by discarding an action card for the <b>Draw Action Cards</b> step before drawing any action cards for <i>Minister of Policy</i>.</li></ol>
     <li><i>Neural Motivator</i> does not apply when the owner of <i>Minister of Policy</i> draws action cards from its effect.</li>
     </ol>
 
@@ -240,14 +247,15 @@
         <li>If <i>Representative Government</i> is elected by <i>Miscount Disclosed</i>, each player will cast only one vote during the revote.</li>
         <li>If the elected law is attached to a planet, and is increasing its influence value, the player that controls that planet may still cast votes using the increased influence.</li>
     </ol>
-    <li>Once the law is elected, any riders on <i>Miscount Disclosed</i> will resolve. Following that, the elected law is &ldquo;revealed&rdquo;.</li>
+    <li>Once the law is elected, any riders on <i>Miscount Disclosed</i> will resolve. Following that, the elected law is then treated as being revealed.</li>
     <ol>
         <li>If <i>Classified Document Leaks</i> is elected by <i>Miscount Disclosed</i>, and there are no other secret objectives eligable to be elected by the <i>Miscount Disclosed</i> revote, <i>Classified Document Leaks</i> will be discarded and replaced.</li>
-        <li>When the elected law is &ldquo;revealed&rdquo;, the <i>Veto</i> action card, the Xxcha <sc>Quash</sc> faction ability, or the Xxcha <i>Political Favor</i> promissory note may be played. If so, the law will be discarded and replaced.</li>
-        <li>The <i>Political Secret</i> promissory note may also be played when the elected law is &ldquo;revealed&rdquo;.</li>
-        <li>After the elected law is &ldquo;revealed&rdquo;, riders may be played to predict the outcome of the elected law.</li>
+        <li>When the elected law is treated as revealed, the <i>Veto</i> action card, the Xxcha <sc>Quash</sc> faction ability, or the Xxcha <i>Political Favor</i> promissory note may be played. If so, the law will be discarded and replaced.</li>
+        <li>The <i>Political Secret</i> promissory note may also be played when the elected law is treated as revealed.</li>
+        <li>After the elected law is treated as revealed, riders may be played to predict the outcome of the elected law.</li>
     </ol>
-    <li>After all players have voted, the <i>Deadly Plot</i> action card may be played. If so, the elected law is discarded.</li>
+    <li>After all players have voted for <i>Miscount Disclosed</i>, the <i>Deadly Plot</i> action card may be played. If so, the elected law is not voted on and remains in play.</li>
+    <li>After all players have voted for the elected law, the <i>Deadly Plot</i> action card may be played. If so, the elected law is discarded.</li>
     <li>Players who resolved a transaction while voting on and resolving <i>Miscount Disclosed</i> may resolve an additional transaction voting on and resolving the elected law.</li>
     <li>If <i>Holy Planet of Ixth</i>, <i>Shard of the Throne</i> or <i>The Crown of Emphidia</i> is elected by <i>Miscount Disclosed</i>, the owner will not lose a victory point.</li>
     </ol>
@@ -272,7 +280,7 @@
 
 <h1>Political Censure</h1>
     <ol class="note">
-    <li>When a player is elected for <i>Political Censure</i>, they may play the <i>Confusing Legal Text</i> or <i>Deadly Plot</i> action cards.</li>
+    <li>When a player is elected for <i>Political Censure</i>, they may play the <i>Confusing Legal Text</i> or <i>Deadly Plot</i> action cards before it resolves.</li>
     </ol>
 
 <h1>Prophecy of Ixth</h1>
@@ -386,6 +394,10 @@
     <ol class="note">
     <li>A player with ships in a delta or gamma wormhole may research a technology from the &ldquo;For&rdquo; effect. Those ships will not be destroyed.</li>
     <li>A player must still meet the prerequisites for the technology they research.</li>
+    <ol>
+        <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.</li>
+        <li>A player may exhaust the <i>AI Development Algorithm</i> technology to ignore a prerequisite on a unit upgrade technology as normal. <i>AI Development Algorithm</i> will not ready at the end of the agenda phase.</li>
+    </ol>
     <li>Ground forces in the space area of a system containing an alpha or beta wormhole will be removed due to lack of capacity after the ships in that system are destroyed; those ground forces will not trigger any &ldquo;destroyed&rdquo; effects.
     <li>If <i>Anti&ndash;Intellectual Revolution</i> is in play as a law, players who research a technology will destroy a ship due to <i>Anti&ndash;Intellectual Revolution</i> before they destroy ships in systems containing alpha or beta wormholes. As such, they may choose a ship in a system containing an alpha or beta wormhole to destroy for <i>Anti&ndash;Intellectual Revolution</i></li>
     <ol>

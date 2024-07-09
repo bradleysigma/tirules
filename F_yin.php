@@ -12,9 +12,12 @@
 
 <h1>Devotion</h1>
     <ol class="note">
-    <li>When resolving <sc>Devotion</sc>, the Yin player chooses which ships are destroyed.</li>
+    <li>When resolving <sc>Devotion</sc>, the Yin player chooses which ship is assigned the hit.</li>
+    <ol>
+        <li>The Yin cannot choose their own ships as targets.</li>
+        <li>The targeted ship may cancel the hit with its <sc>Sustain Damage</sc> ability, if present. Other ships with the <sc>Sustain Damage</sc> ability cannot cancel the hit.</li>
+    </ol>
     <li>The <i>Shields Holding</i> action card may be used to cancel the hit.</li>
-    <ol><li>The Yin cannot choose their own ships as targets.</li></ol>
     <li>If a player retreats, the Yin player will be unable to use <sc>Devotion</sc> to destroy an opponent&rsquo;s ship.</li>
     <li>If the Yin player is in a combat with the N&rsquo;orr player, then the two players will alternate when resolving end of combat round abilities, starting with the attacker.</li>
     </ol>
@@ -37,7 +40,7 @@
 
 <h1>Impulse Core <sub>(Technology)</sub></h1>
     <ol class="note">
-    <li>When resolving <i>Impulse Core</i>, the Yin player&rsquo;s opponent chooses which ships are destroyed.</li>
+    <li>When resolving <i>Impulse Core</i>, the Yin player&rsquo;s opponent chooses which ship is assigned the hit.</li>
     <li>Effects that cancel hits, such as the <sc>Sustain Damage</sc> ability, may be used to cancel a hit produced by <i>Impulse Core</i>.</li>
     <li><i>Impulse Core</i> will resolve before the <b>Anti&ndash;Fighter Barrage</b> step of a space combat. As such, any destroyed destroyers will not make an anti&ndash;fighter barrage roll.</li>
     </ol>
@@ -74,7 +77,7 @@
 
 <h1>Brother Milor &Omega; <sub>(Agent)</sub></h1>
     <ol class="note">
-    <li>Brother Milor may only be used during the action phase.</li>
+    <li>Brother Milor &Omega; may only be used during the action phase.</li>
     <li>If all of a player&rsquo;s units are destroyed during combat, they may still place units with this ability. If they do, combat will continue.</li>
     <ol><li>If that player&rsquo;s opponent has no units remaining, that player will instead win that combat.</li></ol>
     <li>Capacity is not checked during combat. As such a player may use Brother Milor &Omega; to place fighters into a space combat where they have no spare capacity. After that combat ends, that player must remove fighters and/or ground forces to meet their capacity limit in that system.</li>
@@ -83,7 +86,7 @@
     <ol><li>If a ship uses its <sc>Sustain Damage</sc> ability, and is then destroyed by a <i>Direct Hit</i> action card, then any remaining hits may be assigned to any placed fighters.</li></ol>
     <li>If all ships in the system are destroyed by hits produced from a space cannon roll, the player that produced those hits may score the <i>Turn Their Fleets to Dust</i> secret objective before the new fighters are placed.</li>
     <li>If all ground forces on a planet are destroyed by hits produced from a bombardment roll, the player that produced those hits may score the <i>Make an Example of Their World</i> secret objective before the new infantry are placed.</li>
-    <li>If the Yin player uses Brother Milor when a unit is destroyed that is both a ground force and a ship due to some game effect, that unit&rsquo;s owner may place two fighters or two infantry.</li>
+    <li>If the Yin player uses Brother Milor &Omega; when a unit is destroyed that is both a ground force and a ship due to some game effect, that unit&rsquo;s owner may place two fighters or two infantry.</li>
     <ol><li>If placed this way during a space combat, any newly placed infantry cannot participate. If placed this way during a ground combat, any newly placed fighters cannot participate.</li></ol>
     </ol>
 
@@ -117,7 +120,7 @@
     <li>The <i>Parley</i> action card may be used on one planet when the Yin player resolves <i>Quantum Dissemination</i>.</li>
     <ol>
         <li>If the Yin player has no ships with capacity in the planet&rsquo;s system, then the infantry will be removed from the board.</li>
-        <li>If the Yin player does have ships with capacity in the planet&rsquo;s system, then the infantry will be placed in the space area of the system. The Yin player may then need to remove infantry and/or fighters from the system to satisfy the capacity limit.</li>
+        <li>If the Yin player does have ships with capacity in the planet&rsquo;s system, then the infantry will be placed in the space area of the system. The Yin player might then need to remove infantry and/or fighters from the system to satisfy the capacity limit.</li>
     </ol>
     </ol>
 

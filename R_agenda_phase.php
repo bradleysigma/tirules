@@ -51,7 +51,7 @@
     <li>Riders are resolved after the agenda is fully resolved, in speaker order.</li>
     <li>If a player successfully predicts multiple riders, they resolve one at a time, in the order that player chooses, with each other player having the opportunity to resolve an ability between each.</li>
     <li>Each pair of players may resolve one transaction during each agenda.</li>
-    <li>Only planets ready at the end of the phase. Technologies and leaders do not.</li>
+    <li>Only planets ready at the end of the phase. Technologies, leaders, relics, and other cards do not.</li>
     <li>For notes about specific agenda cards, see the <a href="/C_agendas">agenda card component notes page</a>.</li>
     </ol>
 

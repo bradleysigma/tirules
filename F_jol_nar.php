@@ -58,7 +58,7 @@
 <h1>Ta Zern <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability.</li>
-    <li>The Ta Zern may be used to reroll dice for an Infantry II resurrection ability.</li>
+    <li>Ta Zern cannot be used to reroll dice for an Infantry II resurrection ability.</li>
     </ol>
 
 <h1>Rin, The Master&rsquo;s Legacy &mdash; Genetic Memory <sub>(Hero)</sub></h1>

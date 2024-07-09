@@ -34,7 +34,7 @@
     <li><i>JR-XS455-O</i> is an agent. All rules that apply to agents (and leaders) applies to <i>JR-XS455-O</i>.</li>
     <ol>
         <li><i>JR-XS455-O</i> may be refreshed by the Nomad player's <i>Temporal Command Suite</i> technology.</li>
-        <li>The ability of <i>JR-XS455-O</i> may be duplicated by the Yssaril player&rsquo;s agent, Ssruu.</li>
+        <li>The ability of <i>JR-XS455-O</i> may be duplicated by the Yssaril player&rsquo;s agent, Ssruu, if the Yssaril player themselves do not own <i>JR-XS455-O</i>.</li>
     </ol>
     </ol>
 
@@ -55,14 +55,14 @@
 <h1>The Prophet&rsquo;s Tears</h1>
     <ol class="note">
     <li>A player cannot use the ability of <i>The Prophet&rsquo;s Tears</i> when they directly gain a technology.</li>
-    <ol><li>The Nekro player may use the ability of <i>The Prophet&rsquo;s Tears</i> to draw an action card when they would have researched a technology.</li></ol>
+    <li>The Nekro player may use the ability of <i>The Prophet&rsquo;s Tears</i> to draw an action card when they would have researched a technology.</li>
     </ol>
 
 <h1>Scepter of Emelpar</h1>
     <ol class="note">
     <li>If a player has no command tokens in their reinforcements, they cannot resolve the ability of <i>Scepter of Emelpar</i>.</li>
     <li>The <i>Scepter of Emelpar</i> may be used whenever a command token would be spent from a player&rsquo;s strategy pool. This includes when spending to perform the secondary ability of a strategy card, for faction abilities, and when scoring objectives.</li>
-    <li>If the Muaat player uses the ability of the <i>Scepter of Emelpar</i>, they will be unable to use the ability of their commander.</li>
+    <li>If the Muaat player uses the ability of the <i>Scepter of Emelpar</i>, they will be unable to use the ability of their commander, Magmus.</li>
     </ol>
 
 <h1>Shard of the Throne</h1>

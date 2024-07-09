@@ -5,6 +5,8 @@
     <ol class="note">
     <li>Additional votes must be cast for the same outcome as the other votes the Argent player cast.</li>
     <ol><li>If the Argent player abstains or otherwise casts zero votes, they cannot cast additional votes.</li></ol>
+    <li>The Argent player always votes first, even if they are the speaker.</li>
+    <li>Other players vote in their regular order after the Argent player votes; clockwise starting with the player to the left of the speaker (skipping over the Argent player as necessary).</li>
     </ol>
 
 <h1>Raid Formation</h1>
@@ -27,7 +29,7 @@
 <h1>Aerie Hololattice <sub>(Technology)</sub></h1>
     <ol class="note">
     <li>The planet with &ldquo;<sc>Production</sc> 1&rdquo; is considered to be on itself for the purposes of producing ground forces.</li>
-    <li>A player with the <i>Light/Wave Deflector</i> technology cannot move their ships through systems containing the Argent player's structures, if the Argent player owns Aerie Hololattice.</li>
+    <li>A player with the <i>Light/Wave Deflector</i> technology cannot move their ships through systems containing the Argent player's structures, if the Argent player owns <i>Aerie Hololattice</i>.</li>
     </ol>
 
 <h1>Strike Wing Alpha <sub>(Unit)</sub></h1>

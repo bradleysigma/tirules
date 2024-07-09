@@ -53,6 +53,7 @@
     <ol class="note">
     <li>The Naaz&ndash;Rokha player may choose to perform the secondary ability of zero, one or two strategy cards.</li>
     <ol><li>The Naaz&ndash;Rokha player cannot choose the same strategy card twice.</li></ol>
+    <li>The Naaz&ndash;Rokha player must choose which strategy cards they will perform the secondary abilities of before they resolve any of those abilities.</li>
     <li>When resolving the abilities of two strategy cards, they may be resolved in either order. Game objects affected by the first strategy card ability may be affected by the second.</li>
     <ol>
         <li>For example, say the Naaz&ndash;Rokha player chooses to resolve the secondary abilities of the <i>Diplomacy</i> and <i>Warfare</i> strategy cards. They may resolve the <i>Diplomacy</i> ability first to ready some planets, then exhaust those same planets to pay for the units they produce with the <i>Warfare</i> ability. Alternatively, they may resolve the <i>Warfare</i> ability first, exhausting some of their readied planets to pay for the units they produce, then resolve the <i>Diplomacy</i> ability to ready those same planets.</li>

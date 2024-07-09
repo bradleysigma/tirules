@@ -18,7 +18,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>If a player moves more fighters and/or ground forces into a system containing another player&rsquo;s ships, capacity limits must be met before space combat starts.</li>
+    <li>If a player moves more fighters and/or ground forces into a system containing another player&rsquo;s ships, capacity limits must be met before proceeding to the <b>Space Cannon Offense</b> substep or the <b>Space Combat</b> step.</li>
     <li>If a ship with capacity is destroyed during the <b>Space Cannon Offense</b> step, capacity limits must be met before space combat starts.</li>
     <li>Capacity is checked after the winner of a space combat is determined. As such, it is possible to win a space combat with only fighters remaining, before removing those fighters due to lack of capacity.</li>
     <li>A ship cannot pick up more units from a planet than it has capacity. However, a ship may pick up any units (including zero) in a system as it transports, even if doing so would cause units to be removed due to capacity limits.</li>
