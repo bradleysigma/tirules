@@ -15,12 +15,12 @@
 <h1>Acquiescence <sub>(Promissory Note)</sub></h1>
     <ol class="note">
     <li>If either strategy card had trade goods on it at the start of the strategy phase, those trade goods remain with the player that originally chose the strategy card.</li>
-    <li>In a three&ndash; or four&ndash;player game, the player that played <i>Acquiescence</i> chooses which strategy cards are swapped.</li>
+    <li>In a three&ndash; or four&ndash;player game, the player that played <i>Acquiescence</i> chooses which one strategy card from each player are swapped.</li>
     </ol>
 
 <h1>Acquiescence &Omega; <sub>(Promissory Note)</sub></h1>
     <ol class="note">
-    <li>If a player plays <i>Acquiescence &Omega;</i> when the Winnu player is resolving the <i>Construction</i> strategy card, that player will not place a command token in the system they place their structure in.</li>
+    <li>If a player plays <i>Acquiescence &Omega;</i> when the Winnu player is resolving the <i>Construction</i> strategy card, that player will not place a command token in the system they placed their structure in.</li>
     <li>If the Muaat player has their commander, Magmus, unlocked, and they play <i>Acquiescence &Omega;</i>, they will not gain a trade good from their commander ability.</li>
     </ol>
 
@@ -56,7 +56,7 @@
 
 <h1>Rickar Rickani <sub>(Commander)</sub></h1>
     <ol class="note">
-    <li>Rickar Rickani may be applied to the combat that follows its unlocking.</li>
+    <li>If Rickar Rickani is unlocked via a combat in the Mecatol Rex system, then the +2 will apply to combat rolls during that combat.</li>
     <li>If a system meets two (or more) of the conditions listed (such as by attaching the <i>Nano&ndash;Forge</i> relic to Mecatol Rex), Rickar Rickani will only apply +2 to combat rolls, not +4 (or +6).</li>
     </ol>
 
@@ -71,7 +71,7 @@
 <h1>Reclaimer <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>Placing the structure will occur after the <b>Production</b> step. If the Winnu player places a Space Dock, they cannot produce out of it during the same action.</li>
-    <li>If the Winnu player has no PDS or Space Docks left in their reinforcements, they may remove a unit from any system that does not contain one of their command tokens and place that unit on Mecatol Rex.</li>
+    <li>If the Winnu player has no PDS or Space Docks left in their reinforcements, they may remove a unit from any system that does not contain one of their command tokens and place that unit on the newly controlled planet.</li>
     <li>If the Winnu player gains control of a planet with multiple Reclaimers, they may place a structure for each one, if they may do so without exceeding the maximum number of that structure allowed on a planet.</li>
     <li>The Reclaimer need only be on the planet at the end of the tactical action the Winnu player gained it, not when the Winnu player gains control of it. This can occur from effects such as the <i>Infiltrate</i> action card, or some exploration cards.</li>
     </ol>

@@ -12,7 +12,6 @@
 <h1>Notes</h1>
     <ol class="note">
     <li>&ldquo;Combat roll&rdquo; modifiers do not modify anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
-    <ol><li>Modifiers that apply during combat do apply to anti&ndash;fighter barrage rolls.</li></ol>
     <li>When an effect moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.</li>
     </ol>
 

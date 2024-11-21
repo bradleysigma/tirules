@@ -13,7 +13,6 @@
 <h1>Notes</h1>
     <ol class="note">
     <li>Effects that reroll &ldquo;combat rolls&rdquo; do not reroll anti&ndash;fighter barrage, bombardment or space cannon rolls.</li>
-    <ol><li>Reroll effects that apply during combat do apply to anti&ndash;fighter barrage rolls.</li></ol>
     </ol>
 
 <h1>Related Topics</h1>

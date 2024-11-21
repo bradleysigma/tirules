@@ -21,12 +21,12 @@
     <ol class="note">
     <li>Moving into a gravity rift will not provide the +1, nor will the ships have to roll for removal.</li>
     <li>A ship removed by a gravity rift is not destroyed.</li>
-    <li>All ship movement must be declared before any roll for gravity rift removal. A player may not move additional ships after seeing the result of this roll.</li>
+    <li>All ship movement must be declared before any of them roll for gravity rift removal. A player may not choose additional ships to move after seeing the result of this roll.</li>
     <li>A ship that is removed by a gravity rift will not count toward the fleet limit in the destination system.</li>
     <li>Retreating from a gravity rift will result in the following:</li>
     <ol>
         <li>The retreating player must declare which, if any, fighters and ground forces they are moving, and which ships will be transporting them. If they have the Fighter II technology, then for each fighter, they must choose if that fighter is moving itself or being transported.</li>
-        <li>Each non&ndash;fighter ship and each Fighter II moving itself will have to roll for removal. Transported units are also removed if they ship transporting them is removed.</li>
+        <li>Each non&ndash;fighter ship and each Fighter II moving itself will have to roll for removal. Transported units are also removed if the ship transporting them is removed.</li>
         <li>The +1 will have no effect, as retreats are restricted to adjacent systems.</li>
         <li>If all ships are lost to the rift, the retreating player will not place a command token in the destination system.</li>
     </ol>

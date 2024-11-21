@@ -17,7 +17,7 @@
     <li>If a unit rolls multiple dice, it will not be destroyed if it produces at least one hit from its original roll, and that dice is not rerolled, even if it produces no hits from its reroll.</li>
     <li>A reroll caused by any other effect will not cause a unit to be destroyed.</li>
     <li>Units destroyed by <i>The Crown of Thalnos</i> are destroyed at the end of the <b>Roll Dice</b> step, before the <b>Assign Hits</b> step.</li>
-    <li>A unit with the <sc>Sustain Damage</sc> ability cannot use it to avoid being destroyed by <i>The Crown of Thalnos</i>.</li>
+    <li>A unit with the <sc>Sustain Damage</sc> ability cannot use it to avoid being destroyed when it fails to produce a hit with the reroll from <i>The Crown of Thalnos</i>.</li>
     </ol>
 
 <h1>Dominus Orb</h1>
@@ -31,7 +31,7 @@
 
 <h1>JR&ndash;XS455&ndash;O</h1>
     <ol class="note">
-    <li><i>JR-XS455-O</i> is an agent. All rules that apply to agents (and leaders) applies to <i>JR-XS455-O</i>.</li>
+    <li><i>JR-XS455-O</i> is an agent. All rules that apply to agents (and leaders) apply to <i>JR-XS455-O</i>.</li>
     <ol>
         <li><i>JR-XS455-O</i> may be refreshed by the Nomad player's <i>Temporal Command Suite</i> technology.</li>
         <li>The ability of <i>JR-XS455-O</i> may be duplicated by the Yssaril player&rsquo;s agent, Ssruu, if the Yssaril player themselves do not own <i>JR-XS455-O</i>.</li>
@@ -45,7 +45,7 @@
 
 <h1>Nanoforge</h1>
     <ol class="note">
-    <li>The attached planet will not have a corresponding legendary planet ability card. However, it will be legendary for effects such as scoring the <i>Make History</i> and similar objectives, transferring the <i>Shard of the Throne</i> relic, and the Winnu player's commander. The attached planet will also no longer be non&ndash;legendary for effects such as the <i>Stellar Converter</i> relic.</li>
+    <li>The attached planet will not have a corresponding legendary planet ability card. However, it will be legendary for effects such as scoring the <i>Make History</i> and similar objectives, transferring the <i>Shard of the Throne</i> relic, and the Winnu player's commander, Rickar Rickani. The attached planet will also no longer be non&ndash;legendary for effects such as the <i>Stellar Converter</i> relic.</li>
     </ol>
 
 <h1>The Obsidian</h1>
@@ -60,9 +60,9 @@
 
 <h1>Scepter of Emelpar</h1>
     <ol class="note">
-    <li>If a player has no command tokens in their reinforcements, they cannot resolve the ability of <i>Scepter of Emelpar</i>.</li>
+    <li>If a player has no command tokens in their reinforcements, they cannot resolve the ability of the <i>Scepter of Emelpar</i>.</li>
     <li>The <i>Scepter of Emelpar</i> may be used whenever a command token would be spent from a player&rsquo;s strategy pool. This includes when spending to perform the secondary ability of a strategy card, for faction abilities, and when scoring objectives.</li>
-    <li>If the Muaat player uses the ability of the <i>Scepter of Emelpar</i>, they will be unable to use the ability of their commander, Magmus.</li>
+    <li>If the Muaat player uses the ability of the <i>Scepter of Emelpar</i>, they will not gain a trade good from the ability of their commander, Magmus.</li>
     </ol>
 
 <h1>Shard of the Throne</h1>

@@ -17,7 +17,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>A ship that can both move and be transported (i.e. Fighter II) cannot do both by &ldquo;meeting&rdquo; a ship with capacity partway though a tactical action movement, as all movement is simultaneous.</li>
+    <li>A ship that can both move and be transported (i.e. Fighter II) cannot do both by &ldquo;meeting&rdquo; a ship with capacity partway through a tactical action movement, as all movement is simultaneous.</li>
     <li>A ship may transport as it retreats or is otherwise moved out of the active system, as the units it transports will be picked up from the active system.</li>
     <li>A ship may pick up ground forces from a planet in the active system, usually to invade a different planet in the same system.</li>
     <li>A ship cannot pick up more units from a planet than it has capacity. However, a ship may pick up any units (including none) in a system as it transports, even if doing so would cause units to be removed due to capacity limits.</li>

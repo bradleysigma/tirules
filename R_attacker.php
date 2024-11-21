@@ -11,7 +11,7 @@
     <ol class="note">
     <li>The attacker&rsquo;s opponent is the defender.</li>
     <li>The attacker will have the first opportunity to resolve abilities during each timing window.</li>
-    <li>When the Mahact player resolves their <i>Benediction</i> hero ability, the player than had their ships moved will be the attacker.</li>
+    <li>When the Mahact player resolves their <i>Benediction</i> hero ability, the player that had their ships moved will be the attacker.</li>
     <ol><li>Resolving abilities will be by initiative order, starting with the Mahact player. As such, the defender may resolve abilities before the attacker, depending on what order those two players are in.</li></ol>
     </ol>
 

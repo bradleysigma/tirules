@@ -9,7 +9,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>When the Mahact player resolves their <i>Benediction</i> hero ability, the player than had their ships already in the system will be the defender.</li>
+    <li>When the Mahact player resolves their <i>Benediction</i> hero ability, the player that had their ships already in the system will be the defender.</li>
     <ol><li>Resolving abilities will be by initiative order, starting with the Mahact player. As such, the defender may resolve abilities before the attacker, depending on what order those two players are in.</li></ol>
     </ol>
 

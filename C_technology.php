@@ -103,6 +103,7 @@
     <li>If multiple mechs are destroyed, the trade goods are gained one at a time.</li>
     <li>A mech cannot be placed in a space area with <i>Self&ndash;Assembly Routines</i>, and so cannot be placed in a system that does not contain a planet.</li>
     <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.</li>
+    <li>A player will still gain the trade good for a destroyed mech if <i>Self&ndash;Assembly Routines</i> is exhausted.</li>
     </ol>
 
 <h1>Duranium Armor</h1>
@@ -111,6 +112,7 @@
     <li><i>Duranium Armor</i> is used even if a player&rsquo;s opponent produced no hits during a round of combat.</li>
     <li>If a player starts a combat with a damaged unit, they use <i>Duranium Armor</i> in the first round of combat.</li>
     <ol><li>A player may use <i>Duranium Armor</i> to repair a unit damaged by <sc>Space Cannon</sc> or <sc>Bombardment</sc> hits that occurred immediately before the combat.</li></ol>
+    <li>If a unit is damaged during combat without using its <sc>Sustain Damage</sc> ability, it may be repaired by <i>Duranium Armor</i> during the same combat round.</li>
     <li>Only units participating in the combat may be chosen to be repaired.</li>
     </ol>
 
@@ -142,7 +144,7 @@
 
 <h1>Graviton Laser System</h1>
     <ol class="note">
-    <li>If multiple players are resolving the <sc>Space Cannon</sc> ability of their units against the active player, the active player must resolve capacity limits after assigning one player&rsquo;s hits and before the next player make their space cannon roll.</li> 
+    <li>If multiple players are resolving the <sc>Space Cannon</sc> ability of their units against the active player, the active player must resolve capacity limits after assigning one player&rsquo;s hits and before the next player makes their space cannon roll.</li> 
     </ol>
 
 <h1>Predictive Intelligence</h1>

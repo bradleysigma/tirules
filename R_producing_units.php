@@ -35,7 +35,7 @@
     <ol class="note">
     <li>Whenever a unit is produced, its cost must be paid, unless the effect that is producing the unit explicitly says otherwise.</li>
     <li>A player cannot produce one fighter and one infantry for one resource.</li>
-    <li>If an effect allows a player produce a ship of a specific type, then factional variations do not prevent that player from producing that type of ship.</li>
+    <li>If an effect allows a player to produce a unit of a specific type, then factional variations do not prevent that player from producing that type of unit.</li>
     <li>If a player removes a unit in order to place it, because they have none of that unit type in their reinforcements, that unit is placed undamaged.</li>
     </ol>
 

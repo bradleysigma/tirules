@@ -45,7 +45,7 @@
     <li><i>Non&ndash;Euclidean Shielding</i> may be applied when a Dunlain Reaper uses its <sc>Sustain damage</sc> ability.</li>
     <li><i>Non&ndash;Euclidean Shielding</i> applies whenever hits are produced. This includes hits produced by <sc>Bombardment</sc> and <sc>Space Cannon</sc> abilities.</li>
     <li>The Letnev player must cancel two hits whenever one of their units uses its <sc>Sustain damage</sc> ability; they cannot cancel just one.</li>
-    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <sc>Sustain damage</sc> to cancel it. If additional hits are produced against the Letnev player's units, such as with the <i>Reflective Shielding</i> action card, the Letnev cannot retroactively use the previous use of <sc>Sustain damage</sc> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.</li>
+    <li>Say the Letnev player has exactly one hit produced against them remaining, and one of their units uses its <sc>Sustain damage</sc> ability to cancel it. If additional hits are produced against the Letnev player's units, such as with the <i>Reflective Shielding</i> action card, the Letnev player cannot retroactively use the previous use of <sc>Sustain damage</sc> to allow <i>Non&ndash;Euclidean Shielding</i> to cancel a second hit.</li>
     </ol>
 
 <h1>Arc Secundus <sub>(Flagship)</sub></h1>
@@ -79,7 +79,7 @@
     <ol class="note">
     <li>A <sc>Deploy</sc> ability may be resolved only once per timing window. As such, the Letnev player may only place one Dunlain Reaper this way per ground combat round.</li>
     <ol><li>Further Dunlain Reapers may be placed in later rounds.</li></ol>
-    <li>A <sc>Deploy</sc> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Dunlain Reaper are already on the board, no Dunlain Reaper may be deployed.</li>
+    <li>A <sc>Deploy</sc> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Dunlain Reapers are already on the board, no Dunlain Reaper may be deployed.</li>
     <ol><li>If a Dunlain Reaper is destroyed during combat, then another may be deployed in a later round of the same combat.</li></ol>
     </ol>
 </article>

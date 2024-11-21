@@ -21,9 +21,9 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>The &ldquo;start of combat&rdquo; and &ldquo;start of combat round&rdquo; occurs before the <b>Roll Dice</b> step.</li>
-    <li>The &ldquo;end of combat&rdquo; and &ldquo;end of combat round&rdquo; occurs after the <b>Assign Hits</b> step.</li>
-    <li>If ground combat is to happen on multiple planets during a single invasion step, they will be resolved planet by planet, after the <b>Space Cannon Defense</b> step has resolved been resolved on all planets and before the <b>Establish Control</b> step is resolved on any planet. The active player chooses the order combats are fought in.</li>
+    <li>The &ldquo;start of combat&rdquo; and &ldquo;start of combat round&rdquo; windows occur before the <b>Roll Dice</b> step.</li>
+    <li>The &ldquo;end of combat&rdquo; and &ldquo;end of combat round&rdquo; windows occur after the <b>Assign Hits</b> step.</li>
+    <li>If ground combat is to happen on multiple planets during a single invasion step, they will be resolved planet by planet, after the <b>Space Cannon Defense</b> step has been resolved on all planets and before the <b>Establish Control</b> step is resolved on any planet. The active player chooses the order combats are fought in.</li>
     <li>A player may score up to one secret objective per ground combat. If there is combat on multiple planets, a player may score a secret objective in each.</li>
     <li>A player may use the <sc>Sustain Damage</sc> ability of a unit involved in a combat, usually a mech, to cancel a hit produced by their opponent.</li>
     <li>No player may retreat from a ground combat.</li>

@@ -48,11 +48,11 @@
     <li>This ability may be triggered only once for each die rolled. The Hacan player cannot spend two (or more) trade goods to apply +2 (or more) to a single die, but they may spend two (or more) trade goods to apply +1 to each of two (or more) dice.</li>
     </ol>
 
-<h1>Carth of the Golden Sands <sub>(Agent)</sub></h1>
+<h1>Carth of Golden Sands <sub>(Agent)</sub></h1>
     <ol class="note">
     <li>A player that has their maximum number of commodities may have their commodities replenished. If this happens, they will take no commodities. However, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <i>Trade Agreement</i> promissory note.</li>
     <li>The Hacan player cannot have more than six commodities.</li>
-    <li>The ability of Carth of the Golden Sands cannot be resolved while another ability is resolving. For example, if the Hacan player is exploring an industrial planet and has revealed the card, they cannot use the ability of Carth of the Golden Sands until after they resolve the card&rsquo;s effect.</li>
+    <li>The ability of Carth of Golden Sands cannot be resolved while another ability is resolving. For example, if the Hacan player is exploring an industrial planet and has revealed the card, they cannot use the ability of Carth of Golden Sands until after they resolve the card&rsquo;s effect.</li>
     </ol>
 
 <h1>Gila the Silvertongue <sub>(Commander)</sub></h1>

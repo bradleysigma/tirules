@@ -17,7 +17,7 @@
     <li>A player may receive <i>Military Support</i> in a transaction during the Sol player&rsquo;s turn. If received at the start of the Sol player&rsquo;s turn, that player may play it immediately.</li>
     <ol>
         <li>The active player may perform a transaction with each other player at most once per turn. As such, a player cannot receive <i>Military Support</i> more than once per turn.</li>
-        <li>If a player received <i>Military Support</i> on a previous turn, they may play it at the start of the Sol player&rsquo;s turn, and immediately perform a transaction with the Sol player to regain it. However, <i>Military Support</i> cannot be played twice in one timing window. The active player cannot play <i>Military Support</i> again until the next Sol player&rsquo;s turn.</li>
+        <li>If a player received <i>Military Support</i> on a previous turn, they may play it at the start of the Sol player&rsquo;s turn, and immediately perform a transaction with the Sol player to regain it. However, <i>Military Support</i> cannot be played twice in one timing window. The active player cannot play <i>Military Support</i> again until the Sol player&rsquo;s next turn.</li>
     </ol>
     </ol>
 

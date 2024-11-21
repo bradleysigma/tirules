@@ -4,9 +4,9 @@
 <h1>Quantum Entanglement</h1>
     <ol class="note">
     <li>The effect of the <i>Enforced Travel Ban</i> law does not affect the Creuss player.</li>
-    <li>If the Creuss player has units or controls planets in a system with an alpha wormhole, and another player has units or controls planets in a system with an beta wormhole, or vice versa, then the Creuss player and that player are neighbors.</li>
+    <li>If the Creuss player has units or controls planets in a system with an alpha wormhole, and another player has units or controls planets in a system with a beta wormhole, or vice versa, then the Creuss player and that player are neighbors.</li>
     <ol><li>The Mentak player may use their <sc>Pillage</sc> ability against the Creuss player in this manner.</li></ol>
-    <li>If Mecatol Rex contains an alpha wormhole, then the for effect of the <i>Ixthian Artifact</i> agenda will not affect the Creuss player&rsquo;s units in a system with a beta wormhole (and no alpha wormhole), and vice versa.</li>
+    <li>If Mecatol Rex contains an alpha wormhole, then the &ldquo;For&rdquo; effect of the <i>Ixthian Artifact</i> agenda will not affect the Creuss player&rsquo;s units in a system with a beta wormhole (and no alpha wormhole), and vice versa.</li>
     <li>The Creuss player&rsquo;s <sc>Quantum Entanglement</sc> ability applies to their units with the <sc>Deep Space Cannon</sc> ability. Other players cannot use <sc>Quantum Entanglement</sc> to produce hits from a unit with the <sc>Deep Space Cannon</sc> ability against the Creuss player&rsquo;s units.</li>
     </ol>
 
@@ -61,9 +61,9 @@
 <h1>Hil Colish <sub>(Flagship)</sub></h1>
     <ol class="note">
     <li>If the <i>Hil Colish</i> moves first, then the Creuss player uses the new position of the <i>Hil Colish</i> when determining if the active system may be reached by their other ships.</li>
-    <li>If the <i>Hil Colish</i> moves last, then it may move itself into (or though, if its move value is increased) the Creuss Gate or Creuss home system. Before it does so, the Creuss player&rsquo;s other ships may move through the wormhole created by the <i>Hil Colish</i>.</li>
+    <li>If the <i>Hil Colish</i> moves last, then it may move itself into (or through, if its move value is increased) the Creuss Gate or Creuss home system. Before it does so, the Creuss player&rsquo;s other ships may move through the wormhole created by the <i>Hil Colish</i>.</li>
     <ol><li>The delta wormhole moves with the <i>Hil Colish</i>; it cannot move back to its origin system using its own delta wormhole.</li></ol>
-	<li>The Creuss player must declare all ships that will moving before they move the <i>Hil Colish</i> or their other ships. They then declare the path that the first ship(s) to move will travel along, and move those ship(s). Then then declare the path that the other ship(s) to move will travel along, and move those ships. Any ships that were declared to move must, if it is possible to do so.</li>
+	<li>The Creuss player must declare all ships that will moving before they move the <i>Hil Colish</i> or their other ships. They then declare the path that the first ship(s) to move will travel along, and move those ship(s). They then declare the path that the other ship(s) to move will travel along, and move those ships. Any ships that were declared to move must, if it is possible to do so.</li>
 	<ol>
 	    <li>If the <i>Hil Colish</i> is moved first, and is removed due to the effect of a gravity rift, other ships that were declared to move that can reach the destination system must do so, even if the path is through the gravity rift. Ships that cannot reach the active system do not move.</li>
 		<li>The Creuss player cannot wait to see the result of their other ships&rsquo; gravity rift rolls before deciding to move the <i>Hil Colish</i>; they must declare if the <i>Hil Colish</i> is moving at the same time they declare which other ships are moving.</li>

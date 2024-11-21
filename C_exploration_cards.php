@@ -31,7 +31,7 @@
 
 <h1>Demilitarized Zone</h1>
     <ol class="note">
-    <li>After the active player has returned ground forces on the planet to the space area, if they does not have enough capacity in the space area for the returned ground forces, including zero capacity, they will have to remove fighters and/or ground forces to meet capacity limits.</li>
+    <li>After the active player has returned ground forces on the planet to the space area, if they do not have enough capacity in the space area for the returned ground forces, including zero capacity, they will have to remove fighters and/or ground forces to meet capacity limits.</li>
     </ol>
 
 <h1>Derelict Vessel</h1>
@@ -94,7 +94,7 @@
     <li>All ship movement is simultaneous. If the Ion Storm token system is the active system, and the token is currently on the alpha side, a player cannot move a ship from a system with an alpha wormhole, flip the token, then move a ship from a system with the beta wormhole (then flip the token again).</li>
     <ol><li>The Creuss player may do this by moving their <i>Hil Colish</i> flagship before or after their other ships.</li></ol>
     <li>If the Ion Storm token is in a system containing a wormhole of the same type, a player chooses which wormhole they use when moving through a wormhole of that type. The Ion Storm token only flips if it was the chosen wormhole.</li>
-    <ol><li>As the system is not adjacent to itself, a ship cannot move out through one wormhole and in through the other while remaining in the system. The ship must pass through another system with a wormhole to use both wormholes.</li></ol>
+    <ol><li>As a system is never adjacent to itself, a ship cannot move out through one wormhole and in through the other while remaining in the system. The ship must pass through another system with a wormhole to use both wormholes.</li></ol>
     <li>If ships are moved through the Ion Storm token wormhole outside of the <b>Move Ship</b> or <b>Retreat</b> substeps of a tactical action, such as by the effect of the <i>Skilled Retreat</i> action card, the Ion Storm token is not flipped.</li>
     </ol>
 

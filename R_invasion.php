@@ -30,7 +30,7 @@
     <ol class="note">
     <li>Units are considered to be on the planet for game effects from the <b>Commit Ground Forces</b> step onward.</li>
     <li>If a player gains control of an uncontrolled planet during the <b>Establish Control</b> step, they explore it.</li>
-    <li>If a player gains control of a legendary planet, they gain the legendary planet ability card in addition to the planet card. The card will not be exhausted if it was readied.</li>
+    <li>If a player gains control of a legendary planet, they gain the legendary planet ability card in addition to the planet card. The ability card will not be exhausted if it was readied.</li>
     <li>If Mecatol Rex has the custodians token on it, a player must remove it before they may commit ground forces to it.</li>
     </ol>
 

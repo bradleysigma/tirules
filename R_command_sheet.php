@@ -12,7 +12,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>When a command token is gained, it may be placed in any of the three pools.</li>
+    <li>When a command token is gained, it may be placed in any of the three pools if no specific pool is specified by the gaining effect.</li>
     </ol>
 
 <h1>Related Topics</h1>

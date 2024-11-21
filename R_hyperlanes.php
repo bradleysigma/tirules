@@ -11,7 +11,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>If the edge of a system time is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
+    <li>If the edge of a system tile is touching a hyperlane tile, that edge does not cause that system tile to be on the edge of the game board.</li>
     <ol>
         <li>When using the five&ndash; and seven&ndash;player hyperlane setups, the system tile in the center of the ring of hyperlanes is not on the edge of the game board.</li>
         <li>When using the seven&ndash; and eight&ndash;player alternate setups, only the system tiles designated as &ldquo;Ring 3&rdquo; and home systems are on the edge of the game board, along with the Creuss home system and the wormhole nexus.</li>

@@ -16,13 +16,13 @@
     <ol class="note">
     <li>In general, only the terms of the deal that a player can immediately perform, even without the deal taking place, are binding. For example:</li>
     <ol>
-        <li>If a player has four resources available during the <b>Production</b> step of a tactical action, another player may give them four trade goods to on the condition that they produce a dreadnought during this <b>Production</b> step. As the active player could produce a dreadnought with the resources, this deal is binding.</li>
+        <li>If a player has four resources available during the <b>Production</b> step of a tactical action, another player may give them four trade goods on the condition that they produce a dreadnought during this <b>Production</b> step. As the active player could produce a dreadnought with the resources, this deal is binding.</li>
         <li>If instead the active player has zero resources available, the same deal would be non&ndash;binding.</li>
     </ol>
     <li>The following are further examples of non&ndash;binding deals:</li>
     <ol>
         <li>Making a deal to use a promissory note in a specific way, before the promissory note has been transacted.</li>
-        <li>Making a deal not make use of a unit&rsquo;s <sc>Space Cannon</sc> ability during a tactical action, before ships have been moved.</li>
+        <li>Making a deal to not make use of a unit&rsquo;s <sc>Space Cannon</sc> ability during a tactical action, before ships have been moved.</li>
         <li>Making a deal to trade commodities in exchange for the active player to replenish another player&rsquo;s commodities during the resolution of the primary ability of the <i>Trade</i> strategic action.</li>
         <li>Making a deal for a player to vote on an agenda in a certain way, when it is not yet that player&rsquo;s opportunity to vote.</li>
         <li>Any deal that will resolve after dice are rolled.</li>

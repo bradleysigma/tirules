@@ -17,7 +17,6 @@
 
 <h1>Research Agreement <sub>(Promissory Note)</sub></h1>
     <ol class="note">
-    <li><i>Research Agreement</i> is only triggered by the Jol&ndash;Nar player researching a technology. It will not be triggered if the Jol&ndash;Nar directly gains a technology.</li>
     <li>If the Jol&ndash;Nar player will research several technologies in a row, then after each, the player holding <i>Research Agreement</i> may play it. The Jol&ndash;Nar player does not decide the next technology they will research until after the player holding the <i>Research Agreement</i> plays it or declines to.</li>
     <li>If a player receives <i>Research Agreement</i> in a transaction immediately after the Jol&ndash;Nar player researched a technology, that player may play it immediately to gain that technology.</li>
     <ol>
@@ -26,7 +25,7 @@
         <li>If the active player received the <i>Research Agreement</i> on a previous turn, they may play it and immediately perform a transaction with the Jol&ndash;Nar player to regain it. They may then play it when the Jol&ndash;Nar player researches their next technology.</li>
     </ol>
     <li>Any deal between the Jol&ndash;Nar player and another player regarding when <i>Research Agreement</i> will be played, if made before <i>Research Agreement</i> is exchanged, is non&ndash;binding.</li>
-    <li>If a faction has a faction&ndash;specific unit upgrade as one of their faction technologies, they cannot gain tht unit upgrade from <i>Research Agreement</i> when the Jol&ndash;Nar player researches the generic version of that unit upgrade.</li>
+    <li>If a faction has a faction&ndash;specific unit upgrade as one of their faction technologies, they cannot gain that unit upgrade from <i>Research Agreement</i> when the Jol&ndash;Nar player researches the generic version of that unit upgrade.</li>
     <li><i>Research Agreement</i> may be triggered when the Jol&ndash;Nar player reseaches a technology outside of the <i>Technology</i> strategy card. For example, it may be triggered by the <i>Divert Funding</i> action card, the <i>Focused Research</i> action card, the <i>Reveal Prototype</i> action card, the <i>Technology Rider</i> action card, the <i>Ixthian Artifact</i> agenda, the <i>Wormhole Research</i> agenda, or the <i>Enigmatic Device</i> exploration card.</li>
     <ol>
         <li><i>Research Agreement</i> cannot be triggered by a game effect that instructs the Jol&ndash;Nar player to directly gain a technology, without researching. For example, it cannot be triggered by the <i>Fire of the Gashlai</i> Muaat faction promissory note, the <i>Plagiarize</i> action card, the <i>Research Grant Reallocation</i> agenda, or the <i>Maw of Worlds</i> relic.</li>
@@ -57,7 +56,7 @@
 
 <h1>Ta Zern <sub>(Commander)</sub></h1>
     <ol class="note">
-    <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability.</li>
+    <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability; Ta Zern cannot reroll combat dice.</li>
     <li>Ta Zern cannot be used to reroll dice for an Infantry II resurrection ability.</li>
     </ol>
 

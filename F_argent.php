@@ -15,10 +15,10 @@
     <li><sc>Raid Formation</sc> occurs when hits are produced, not after hits are assigned. As such, cancelling any hits will not prevent an opponent&rsquo;s ships from becoming damaged.</li>
     <ol><li>If any of the anti&ndash;fighter barrage dice are rerolled, the number of ships that become damaged will depend only on the rerolled values.</li></ol>
     <li>The Argent player may choose a damaged ship. This will have no effect.</li>
-    <li>The chosen ship becomes damaged, it does not use its <sc>Sustain Damage</sc> ability. As such, effects that trigger when a ship uses its <sc>Sustains Damage</sc> ability, such as the <i>Direct Hit</i> or <i>Reflective Shielding</i> action cards, cannot be played.</li>
+    <li>The chosen ship becomes damaged, it does not use its <sc>Sustain Damage</sc> ability. As such, effects that trigger when a ship uses its <sc>Sustain Damage</sc> ability, such as the <i>Direct Hit</i> or <i>Reflective Shielding</i> action cards, cannot be played.</li>
     <ol><li>The chosen ship may be repaired by the <i>Duranium Armor</i> technology later in the same round of combat.</li></ol>
-    <li>If the Argent player plays the <i>Waylay</i> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be be assigned.</li>
-    <ol><li>For example, say the opponent has three fighters and three dreadnoughts, undamaged. The Argent player plays <a>Waylay</a>, and rolls five hits. This allows them to cause two of the dreadnoughts to become damaged. The opponent then has to assign all five hits. The final dreadnought may use its <sc>Sustain Damage</sc> ability to cancel one of those hits.</li></ol>
+    <li>If the Argent player plays the <i>Waylay</i> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be assigned.</li>
+    <ol><li>For example, say the opponent has three fighters and three dreadnoughts, undamaged. The Argent player plays <i>Waylay</i>, and rolls five hits. This allows them to cause two of the dreadnoughts to become damaged. The opponent then has to assign all five hits. The final dreadnought may use its <sc>Sustain Damage</sc> ability to cancel one of those hits.</li></ol>
     <li>If the Argent player is in combat with the Nekro player, and the Nekro player has their mechs participating in the space combat via the effects of <i>The Alastor</i>, those mechs may become damaged by the effect of <sc>Raid Formation</sc>.</li>
     </ol>
 
@@ -35,7 +35,7 @@
 <h1>Strike Wing Alpha <sub>(Unit)</sub></h1>
     <ol class="note">
     <li>When a Strike Wing Alpha II rolls a 9 or 10 for their <sc>anti&ndash;fighter barrage</sc> ability, infantry are destroyed at the end of the <b>Roll Dice</b> step. This occurs before any ship may use its <sc>Sustain Damage</sc> ability at the start of the <b>Assign Hits</b> step.</li>
-    <li>Effects that cancel hits, such as the <i>Shields Holding</i> action card, cannot prevent the infantry from being destroyed. If an effects rerolls any anti&ndash;fighter barrage dice, the new result will determine how many infantry are destroyed.</li>
+    <li>Effects that cancel hits, such as the <i>Shields Holding</i> action card, cannot prevent the infantry from being destroyed. If an effect rerolls any anti&ndash;fighter barrage dice, the new result will determine how many infantry are destroyed.</li>
     <li>If the last of a player&rsquo;s ground forces are destroyed by the ability of a Strike Wing Alpha II, and that player meets the other conditions for elimination, that player is immediately eliminated. All of their units are removed from the board, and the Argent player wins the combat.</li>
     </ol>
 

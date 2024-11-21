@@ -1,5 +1,5 @@
 <?php include "prefix.php"?>
-<header>The L1X1Z Mindnet</header>
+<header>The L1Z1X Mindnet</header>
 <article>
 <h1>Assimilate</h1>
     <ol class="note">
@@ -30,6 +30,7 @@
 
 <h1>Inheritance Systems <sub>(Technology)</sub></h1>
     <ol class="note">
+    <li>The two resources for <i>Inheritance Systems must be paid in addition to and separately from any other costs paid to research the technology. For example, if the L1Z1X player is performing the secondary of the <i>Technology</i> strategy card, they cannot spend the five resources of [0.0.0] plus one trade good to pay for the costs of both <i>Technology</i> and <i>Inheritance Systems</i>. Instead, they would have to spend [0.0.0] to pay for the cost of <i>Technology</i>, wasting the fifth resource, then spend two trade goods to pay for the cost of <i>Inheritance Systems</i>.</li>
     </ol>
 
 <h1>Super Dreadnought <sub>(Unit)</sub></h1>
@@ -42,7 +43,7 @@
 
 <h1>I48S <sub>(Agent)</sub></h1>
     <ol class="note">
-    <li>The infantry must be in the system when it is activated for it to be eligible to be replaced. It cannot be replaced if it is moved into the active system later in the turn.</li>
+    <li>The infantry must be in the system when it is activated for it to be eligible to be replaced. It cannot be replaced if it is moved into or produced in the active system later in the turn.</li>
     <li>If a player wishes to place a mech, but there are none left in their reinforcements, they may remove a mech from any system that does not contain one of their command tokens and place that instead. The mech will be placed undamaged.</li>
     </ol>
 

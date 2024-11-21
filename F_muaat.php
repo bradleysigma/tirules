@@ -63,6 +63,7 @@
     <li>If the Muaat player owns <i>Magmus Reactor &Omega;</i>, and resolves this ability during a tactical action, they will be able to produce units during the <b>Production</b> step, if the Muaat player still has units in the system.</li>
     <li><i>Nova Seed</i> cannot target the home system of an eliminated player.</li>
     <li><i>Nova Seed</i> may target the Creuss Gate (tile 17) or the Wormhole Nexus (tile 82).</li>
+    <li>The Empyrean player cannot use the ability of their agent, Acamar, on the Muaat player after they use <i>Nova Seed</i> if the original system tile contained planets.</li>
     </ol>
 
 <h1>Ember Colossus <sub>(Mech)</sub></h1>

@@ -12,6 +12,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
+    <li>During the strategy, status and agenda phases, no player is the active player.</li>
     <li>During combat, the active player is the attacker.</li>
     <li>The active player will have the first opportunity to resolve abilities during each timing window.</li>
     <li>All transactions during the action phase must involve the active player.</li>

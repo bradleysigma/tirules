@@ -14,7 +14,7 @@
 <h1>Notes</h1>
     <ol class="note">
     <li>Whenever a unit is produced, its cost must be paid, unless the effect that is producing the unit explicitly says otherwise.</li>
-    <li>A player does not have to pay a unit&rsquo;s cost to resolve that unit&rsquo;s deploy ability. However, the deploy ability itself may have a cost that must be paid.</li>
+    <li>A player does not have to pay a unit&rsquo;s cost to resolve that unit&rsquo;s <sc>Deploy</sc> ability. However, the <sc>Deploy</sc> ability itself may have a cost that must be paid.</li>
     </ol>
 
 <h1>Related Topics</h1>

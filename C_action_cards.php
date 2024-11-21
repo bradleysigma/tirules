@@ -14,7 +14,7 @@
 
 <h1>Assassinate Representative</h1>
     <ol class="note">
-    <li>The chosen player may still play rider cards.</li>
+    <li>The chosen player may still play rider cards or use other abilities.</li>
     </ol>
 
 <h1>Blitz</h1>
@@ -41,7 +41,7 @@
     <ol class="note">
     <li>Any predictions made on the outcome of the agenda resolve based on the newly elected player.</li>
     <li><i>Confounding Legal Text</i> is played after any effects that allow a player to cast additional votes.</li>
-    <li><i>Confounding Legal Text</i> is played before <i>Deadly Plot</i> is played, before revealing hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> objective may be scored.
+    <li><i>Confounding Legal Text</i> is played before <i>Deadly Plot</i> is played, before revealing the hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> objective may be scored.
     <li><i>Confounding Legal Text</i> may be played after <i>Confusing Legal Text</i> is played.</li>
     </ol>
 
@@ -49,7 +49,7 @@
     <ol class="note">
     <li>Any predictions made on the outcome of the agenda resolve based on the newly elected player.</li>
     <li><i>Confusing Legal Text</i> is played after any effects that allow a player to cast additional votes.</li>
-    <li><i>Confusing Legal Text</i> is played before <i>Deadly Plot</i> is played, before revealing hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> objective may be scored.
+    <li><i>Confusing Legal Text</i> is played before <i>Deadly Plot</i> is played, before revealing the hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> objective may be scored.
     <li><i>Confusing Legal Text</i> may be played after <i>Confounding Legal Text</i> is played.</li>
     </ol>
 
@@ -89,7 +89,7 @@
     <li>Any prediction made for a rider or similar ability is incorrect, and will not resolve.</li>
     <li>A player cannot make the prediction that <i>Deadly Plot</i> will be played when they predict the outcome of an agenda.</li>
     <li><i>Deadly Plot</i> is played after any effects that allow a player to cast additional votes, and after any effects that change the outcome of an agenda.</li>
-    <li><i>Deadly Plot</i> is played before revealing hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> objective may be scored.
+    <li><i>Deadly Plot</i> is played before revealing the hidden agenda for the <i>Covert Legislation</i> agenda, and before the <i>Drive the Debate</i> objective may be scored.
     <li>If a player predicts multiple outcomes, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.</li>
     <ol><li>If the Xxcha player uses their commander, Elder Qanoj, to vote for one outcome, when they have predicted another, they may play <i>Deadly Plot</i> regardless of which outcome would be resolved.</li></ol>
     </ol>
@@ -112,6 +112,11 @@
     <ol class="note">
     <li>The target player chooses which promissory note they give.</li>
     <li>A player cannot play a second <i>Diplomatic Pressure</i> targeting the same player during the same agenda.</li>
+    <ol>
+        <li>A player may play a second <i>Diplomatic Pressure</i> targeting a different player during the same agenda.</li>
+        <li>Another player may play a second <i>Diplomatic Pressure</i> targeting the same player during the same agenda.</li>
+        <li>A player may play a second <i>Diplomatic Pressure</i> targeting the same player during a later agenda.</li>
+    </ol>
     </ol>
 
 <h1>Direct Hit</h1>
@@ -262,6 +267,7 @@
 
 <h1>In The Silence Of Space</h1>
     <ol class="note">
+    <li>Only the ships in the chosen system may move through systems that contain other players&rsquo; ships. Ships in other systems may still move to the active system if they are able to do so without moving through systems that contain other players&rsquo; ships.</li>
     </ol>
 
 <h1>Industrial Initiative</h1>
@@ -305,7 +311,7 @@
     <ol><li>A player may move from a system containing an alpha wormhole to a system containing an alpha wormhole, and similarly for beta wormholes.</li></ol>
     <li>If the active system contains a beta wormhole, a player that has a unit with the <sc>Deep Space Cannon</sc> ability in an alpha wormhole may produce hits against ships in the active system during the <b>Space Cannon Offense</b> step of the tactical action, and vice versa.</li>
     <li>A player may retreat from a system containing an alpha wormhole into a system containing a beta wormhole, and vice versa, during this action.</li>
-    <li>If player has units or controls planets in a system with an alpha wormhole, and another player has units or controls planets in a system with an beta wormhole, then those two players are neighbors during this action.</li>
+    <li>If a player has units or controls planets in a system with an alpha wormhole, and another player has units or controls planets in a system with a beta wormhole, then those two players are neighbors during this action.</li>
     <ol><li>The Mentak player may use their <sc>Pillage</sc> ability against a player in this manner.</li></ol>
     <li>A player moving a ship between two systems, both with alpha wormholes or both with beta wormholes, does not have to move through the wormhole, as the systems are adjacent. In particular, if one of those systems has the Ion Storm token, that player chooses if the Ion Storm token will flip.</li>
     </ol>
@@ -323,7 +329,7 @@
     <li>A player cannot play a second <i>Maneuvering Jets</i> to cancel a second hit produced by the same Space Cannon roll.</li>
     <ol>
         <li>During the <b>Space Cannon Offense</b> step, each player makes their Space Cannon roll independent of each other player, in clockwise order. As such, a player may use one <i>Maneuvering Jets</i> after each other player makes a space cannon roll.</li>
-        <li>During the <b>Space Cannon Defense</b> step, the units on each planet make their Space Cannon roll independent of each other planet. The active player chooses the order. As such, a player may use one <i>Maneuvering Jets</i> after each the units on each planet make a space cannon roll.</li>
+        <li>During the <b>Space Cannon Defense</b> step, the units on each planet make their Space Cannon roll independent of the units on each other planet. The active player chooses the order. As such, a player may use one <i>Maneuvering Jets</i> for each planet they are committing ground forces to.</li>
     </ol>
     <li><i>Maneuvering Jets</i> may cancel hits produced due to the <i>Experimental Battlestation</i> action card.</li>
     </ol>
@@ -336,7 +342,7 @@
 
 <h1>Master Plan</h1>
     <ol class="note">
-    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s action.</li>
+    <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.</li>
     </ol>
 
 <h1>Mining Initiative</h1>
@@ -356,18 +362,18 @@
     <ol class="note">
     <li>Wormholes are not anomalies.</li>
     <li>An anomaly will retain its regular effect if a player retreats.</li>
-    <li>A player may move ships though or into an asteroid field without the <i>Antimass Deflectors</i> technology. After moving into, those ships may remain there and move out during a later action without harm.</li>
-    <li>A player may move ships though or out of a gravity rift without rolling for removal. Those ships will not get +1 to their move value.</li>
-    <li>A player may move ships though a nebula. Ships moving out of a nebula retain their normal move value.</li>
-    <li>A player may move ships though or into a supernova. After moving into, those ships may remain there and move out during a later action without harm.</li>
+    <li>A player may move ships through or into an asteroid field without the <i>Antimass Deflectors</i> technology. After moving into, those ships may remain there and move out during a later action without harm.</li>
+    <li>A player may move ships through or out of a gravity rift without rolling for removal. Those ships will not get +1 to their move value.</li>
+    <li>A player may move ships through a nebula. Ships moving out of a nebula retain their normal move value.</li>
+    <li>A player may move ships through or into a supernova. After moving into, those ships may remain there and move out during a later action without harm.</li>
     <li>Other players cannot ignore the effect of anomalies during this tactical action.</li>
     <ol><li>The Naalu player will still be affected by anomalies if they use their <sc>Foresight</sc> faction ability.</li></ol>
     </ol>
 
 <h1>Parley</h1>
     <ol class="note">
-    <li>If a player commits ground forces to multiple planets, <i>Parley</i> will affect those ground forces on only one.</li>
-    <li>The returned ground forces cannot be committed to another planet.</li>
+    <li>If a player commits ground forces to multiple planets, <i>Parley</i> will affect ground forces on only one planet.</li>
+    <li>The returned ground forces cannot be committed to another planet during the same tactical action.</li>
     </ol>
 
 <h1>Plagiarize</h1>
@@ -376,7 +382,7 @@
     <li>A player does not need to meet the prerequisites of the technology they gain from <i>Plagiarize</i>.</li>
     <li>The active player must announce which technology they are gaining before other players decide whether to play a <i>Sabotage</i>.</li>
     <li>If a faction has a faction&ndash;specific unit upgrade as one of their faction technologies, they cannot use <i>Plagiarize</i> to gain that unit upgrade.</li>
-    <ol><li>If a player&rsquo;s neighbor owns a faction&ndash;specific unit upgrade, that cannot be used to gain the generic version of that unit upgrade by using <i>Plagiarize</i>.</li></ol>
+    <ol><li>If a player&rsquo;s neighbor owns a faction&ndash;specific unit upgrade, it cannot be chosen in order to gain the generic version of that unit upgrade by using <i>Plagiarize</i>.</li></ol>
     </ol>
 
 <h1>Plague</h1>
@@ -386,7 +392,7 @@
 
 <h1>Political Stability</h1>
     <ol class="note">
-    <li>During the upcoming agenda phase, all abilities remain resolved in speaker order, not initiative order.</li>
+    <li>During the upcoming agenda phase, all abilities stay resolved in speaker order, not initiative order.</li>
     <li>The strategy cards are readied when <i>Political Stability</i> is played.</li>
     <li>The &ldquo;Return Strategy Cards&rdquo; step is the last step of the status phase. All other steps must be completed by all players before <i>Political Stability</i> may be played. This includes scoring and revealing objectives, drawing action cards (and discarding down to hand limit, if necessary), and gaining and redistributing command tokens.</li>
     <ol><li>If a player draws <i>Political Stability</i> during the status phase, they may play it during the same phase.</li></ol> 
@@ -403,7 +409,7 @@
 <h1>Public Disgrace</h1>
     <ol class="note">
     <li>If the originally chosen strategy card has trade goods on it, those will not be taken if <i>Public Disgrace</i> is played.</li>
-    <li><i>Public Disgrace</i> may only be played during the regular choosing of a strategy card during the strategy phase. It cannot be played when other effects cause a player to take a strategy card, such as the <i>Imperial Arbiter</i> strategy card.</li>
+    <li><i>Public Disgrace</i> may only be played during the regular choosing of a strategy card during the strategy phase. It cannot be played when other effects cause a player to take a strategy card, such as the <i>Imperial Arbiter</i> agenda.</li>
     </ol>
 
 <h1>Rally</h1>
@@ -427,14 +433,14 @@
 <h1>Reflective Shielding</h1>
     <ol class="note">
     <li>If <i>Reflective Shielding</i> is played after a ship uses its <sc>Sustain Damage</sc> ability during an <b>Assign Hits</b> step, then the hits produced by <i>Reflective Shielding</i> are added to any other hits produced in the immediately proceeding <b>Roll Dice</b> step.</li>
-    <ol><li>A unit that used its <sc>Sustain Damage</sc> ability to cancel some of those other hits, and been repaired, cannot use is <sc>Sustain Damage</sc> ability again to cancel the hits produced by <i>Reflective Shielding</i>.</li></ol>
+    <ol><li>A unit that used its <sc>Sustain Damage</sc> ability to cancel some of those other hits, and been repaired, cannot use its <sc>Sustain Damage</sc> ability again to cancel the hits produced by <i>Reflective Shielding</i>.</li></ol>
     <li>If <i>Reflective Shielding</i> is played after a ship uses its <sc>Sustain Damage</sc> ability at any other time during combat (for example, when the Creuss player uses their <i>Dimensional Splicer</i> faction technology ability), the hits are assigned immediately.</li>
     </ol>
 
 <h1>Reparations</h1>
     <ol class="note">
-    <li><i>Reparations</i> may be played by a player with no exhausted planets, or when when they lose control to a player with no readied planets.</li>
-    <ol><li><i>Reparations</i> cannot be played by a player with no exhausted planets when they lost control to a player with no readied planets.</li></ol>
+    <li><i>Reparations</i> may be played by a player with no exhausted planets, or when they lose control of a planet to a player with no readied planets.</li>
+    <ol><li><i>Reparations</i> cannot be played by a player with no exhausted planets when they lose control of a planet to a player with no readied planets.</li></ol>
     </ol>
 
 <h1>Repeal Law</h1>
@@ -476,10 +482,10 @@
         <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.</li>
         <li>The value of any variable cost to be paid.</li>
     </ol>
-    <li>Any dice are rolled and any cards are drawn after each other player has declined to play <i>Sabotage</i>.</li>
+    <li>Any dice are rolled and any cards are drawn only after all other players has declined to play <i>Sabotage</i>.</li>
     <li>If an action card is played that will have an effect later, such as a rider, that card may only be cancelled by <i>Sabotage</i> when it is originally played.</li>
     <li>If the action card that was cancelled by <i>Sabotage</i> was to be used to perform a component action, the active player must perform a different action, or pass.</li>
-    <ol><li>If the component action was to be second action the active player was to perform on their turn, though an effect such as the <i>Fleet Logistics</i> technology, the active player may end their turn without performing a second action and without passing.</li></ol>
+    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <i>Fleet Logistics</i> technology, the active player may end their turn without performing a second action and without passing.</li></ol>
     </ol>
 
 <h1>Salvage</h1>
@@ -514,7 +520,7 @@
     <li><i>Shields Holding</i> cannot be used to cancel hits produced by <sc>Space Cannon</sc> abilities.</li>
     <li><i>Shields Holding</i> cannot be used to prevent an effect that directly destroys a unit.</li>
     <li><i>Shields Holding</i> cannot be used during ground combat.</li>
-    <li><i>Shields Holding</i> may be used to cancel hits produced by any ability during combat.</li>
+    <li><i>Shields Holding</i> may be used to cancel hits produced by any ability during space combat.</li>
     <ol><li><i>Shields Holding</i> may be used to cancel hits produced by an anti&ndash;fighter barrage roll.</li></ol>
     <li>A player cannot play a second <i>Shields Holding</i> to cancel a second pair of hits produced by the same dice roll or other source.</li>
     </ol>

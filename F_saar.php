@@ -30,7 +30,7 @@
     <li>A unit may be produced on each of the Saar player&rsquo;s turns; <i>Chaos Mapping</i> is not exhausted.</li>
     <ol><li>A unit may be produced on the turn the Saar player passes.</li></ol>
     <li>A player may still use abilities such as action cards or <sc>Deep Space Cannon</sc> that affect the Saar player&rsquo;s units located in asteroid fields.</li>
-    <li>If an asteroid field contains non&ndash;ship units belonging to the Saar player, it may still be activated by other players.</li>
+    <li>If an asteroid field contains only non&ndash;ship units belonging to the Saar player, it may still be activated by other players.</li>
     </ol>
 
 <h1>Floating Factory <sub>(Unit)</sub></h1>
@@ -50,7 +50,7 @@
     </ol>
     <li>When resolving an ability of the <i>Construction</i> strategy card, the Saar player must control a planet in the system they place a Floating Factory in.</li>
     <li>If an effect allows a Floating Factory to move through a system that contains another player&rsquo;s ships (such as the <i>Light/Wave Deflectors</i> technology), it will not be blockaded in systems it moves through.</li>
-    <li>If a Floating Factory is in a system that contains none of the Saar player&rsquo;s ships, and another player moves ships into that system, the Floating is immediately destroyed.</li>
+    <li>If a Floating Factory is in a system that contains none of the Saar player&rsquo;s ships, and another player moves ships into that system, the Floating Factory is immediately destroyed.</li>
     <ol>
         <li>This will happen before the <b>Space Cannon Offense</b> step. The Floating Factory is destroyed, even if all of the other player&rsquo; ships are destroyed during this step. Additionally, the Saar player cannot use that Floating Factory to resolve a space cannon roll enabled by the <i>Experimental Battlestation</i> action card.</li>
         <li>If all of the other player&rsquo;s ships are removed due to a gravity rift, they will not arrive in the active system. The Floating Factory will not be destroyed.</li>

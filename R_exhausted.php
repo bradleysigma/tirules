@@ -15,7 +15,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>Planets will also ready at the end of each agenda phase. Leaders, relics and technology will not.</li>
+    <li>Planets will also ready at the end of each agenda phase. Leaders, relics and technologies will not.</li>
     <li>If a game effect instructs a player to exhaust a planet, the exhausted planet must be controlled by that player, unless the game effect specifies otherwise.</li>
     </ol>
 

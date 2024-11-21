@@ -31,7 +31,7 @@
     <ol class="note">
     <li>A player may receive <i>Greyfire Mutagen &Omega;</i> in a transaction during a ground combat. If received at the start of ground combat, that player may play it immediately.</li>
     <ol>
-        <li>A transaction must involve the active player. As such, the defender will be unable to received <i>Greyfire Mutagen &Omega;</i>.</li>
+        <li>A transaction must involve the active player. As such, the defender will be unable to receive <i>Greyfire Mutagen &Omega;</i>.</li>
         <li>The active player may perform a transaction with each other player at most once per turn. As such, the active player cannot receive <i>Greyfire Mutagen &Omega;</i> more than once per turn.</li>
         <li>If the active player received <i>Greyfire Mutagen &Omega;</i> on a previous turn, they may play it and immediately perform a transaction with the Yin player to regain it. However, <i>Greyfire Mutagen &Omega;</i> cannot be played twice in one timing window. The active player cannot play <i>Greyfire Mutagen &Omega;</i> again during the same ground combat.</li>
         <li>If an invasion involves ground combat on multiple planets, <i>Greyfire Mutagen &Omega;</i> may be played at the start of each of them.</li>
@@ -100,7 +100,7 @@
 <h1>Brother Omar &Omega; <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>The faction abilities to unlock Brother Omar are <sc>Indoctrination</sc> or <sc>Devotion</sc>.</li>
-    <li>If another player owns a faction specific unit upgrade, Brother Omar cannot be used to research the generic version of the upgrade for that unit type.</li>
+    <li>If another player owns a faction specific unit upgrade, it cannot be chosen in order to gain the generic version of that unit upgrade by using Brother Omar.</li>
     <ol><li>If another player has the Yin player&rsquo;s <i>Alliance</i> promissory note, they cannot use it to research a faction specific unit upgrade.</li></ol>
     </ol>
 

@@ -69,7 +69,7 @@
     </ol>
     <li>The <b>Roll Dice</b> step occurs after the start of a round of combat. Any effects that may be played at the start or end of a round of combat cannot be played until the next round of combat.</li>
     <ol>
-        <li>This includes the ability of the <i>Duranium Armor</i> or <i>Magen Defense Grid</i> technologies, the the <i>Fighter Prototype</i> or <i>Morale Boost</i> action cards, the L1Z1X <i>Harrow</i> or the Letnev <i>Munitions Reserves</i> faction abilities, the Naaz&ndash;Rokha <i>Supercharge</i> faction technology, the Letnev <i>War Funding</i> promissory note, the Letnev flaghip, the <i>Arc Secundus</i>, the Letnev mech, a <i>Dunlain Reaper</i>, the N&rsquo;orr <i>Exotrireme II</i> dreadnought ability, the Keleres <i>Overwing Zeta</i> hero ability, the Letnev agent, Viscount Unlenn, the Sol agent, Evelyn DeLouis.</li>
+        <li>This includes the ability of the <i>Duranium Armor</i> or <i>Magen Defense Grid</i> technologies, the <i>Fighter Prototype</i> or <i>Morale Boost</i> action cards, the L1Z1X <i>Harrow</i> or the Letnev <i>Munitions Reserves</i> faction abilities, the Naaz&ndash;Rokha <i>Supercharge</i> faction technology, the Letnev <i>War Funding</i> promissory note, the Letnev flagship, the <i>Arc Secundus</i>, the Letnev mech, a <i>Dunlain Reaper</i>, the N&rsquo;orr <i>Exotrireme II</i> dreadnought ability, the Keleres <i>Overwing Zeta</i> hero ability, the Letnev agent, Viscount Unlenn, or the Sol agent, Evelyn DeLouis.</li>
     </ol>
     <li>The Thundarian is played at the end of the &ldquo;Roll Dice&rdquo; step, after effects that occur &ldquo;when/after you roll dice&rdquo; or similar.</li>
     <ol>
@@ -87,7 +87,7 @@
     <li>Producing the flagship still counts towards <sc>Production</sc> limits.</li>
     <li>The flagship still has a cost of 8.</li>
     <ol>
-        <li>The flagship cannot be produced with abilities that are limited by the cost of units, such as the <i>Integrated Economy</i> technology or the Muaat player&rsquo;s agent.</li>
+        <li>The flagship cannot be produced with abilities that are limited by the cost of units, such as the <i>Integrated Economy</i> technology or the Muaat player&rsquo;s agent, Umbat.</li>
         <li>If the flagship is chosen for the <i>Scuttle</i> action card, the player gains 8 trade goods.</li>
     </ol>
     <li>The objective elected by the <i>Classified Document Leaks</i> agenda is a public objective, not a secret objective. Navarch Feng cannot be unlocked by scoring it.</li>
@@ -109,7 +109,7 @@
     <li>When a Quantum Manipulator uses its <sc>Sustain Damage</sc> ability to cancel a hit produced against a ship, the <i>Direct Hit</i> and <i>Reflective Shielding</i> action cards cannot be played, as the Quantum Manipulator is not a ship.</li>
     <li>A Quantum Manipulator may use its <sc>Sustain Damage</sc> ability to cancel any hit produced during combat against the Nomad player&rsquo;s ships, not just hits produced by combat rolls. For example, hits produced by anti&ndash;fighter barrage rolls may be cancelled.</li>
     <ol>
-        <li>Effects that directly destroys a ship cannot be prevented with the ability of a Quantum Manipulator.</li>
+        <li>Effects which directly destroys a ship cannot be prevented with the ability of a Quantum Manipulator.</li>
         <li>Hits that are produced outside of combat cannot be cancelled with the ability of a Quantum Manipulator. For example, hits produced by space cannon rolls cannot be canceled.</li>
     </ol>
     <li>During a space combat, A Quantum Manipulator cannot be repaired by the <i>Duranium Armor</i> technology, as it is not participating in the combat.</li>

@@ -42,7 +42,7 @@
 <h1>Classified Document Leaks</h1>
     <ol class="note">
     <li>If <i>Classified Document Leaks</i> is revealed when only one secret objective is in play, players may only vote for that secret objective or abstain. If no votes are cast, the speaker must decide for that secret objective to be elected.</li>
-    <ol><li>Players may still play riders if only one secret objective is in play.</li></ol>
+    <ol><li>Players may still play riders if only one secret objective has been scored.</li></ol>
     <li>The player that originally owned the secret objective elected by <i>Classified Document Leaks</i> cannot score it again after it becomes a public objective.</li>
     <li>The elected secret objective no longer counts towards the original player&rsquo;s limit of three secret objectives.</li>
     <li>If <i>Classified Document Leaks</i> is discarded, the elected secret objective is not returned to the original player, and it is no longer scorable as a public objective. It remains in play, not discarded.</li>
@@ -71,6 +71,7 @@
 <h1>Compensated Disarmament</h1>
     <ol class="note">
     <li>All trade goods are gained together.</li>
+    <li>Each destroyed infantry will provide one trade good and each destroyed mech will provide one trade good.</li>
     <li>A planet with zero units on it is eligible to be elected.</li>
     <li>Structures are unaffected by <i>Compensated Disarmament</i>.</li>
     <ol><li>The Titans of Ul&rsquo;s Hel&ndash;Titans are also ground forces and are thus affected by <i>Compensated Disarmament</i>.</li></ol>
@@ -78,7 +79,7 @@
 
 <h1>Conventions of War</h1>
     <ol class="note">
-    <li>When <i>Conventions of War</i> is a law in play a player may still use the <i>Tactical Bombardment</i> action card or the <i>X&ndash;89 Baterial Weapon</i> technology on a cultural planet.</li>
+    <li>When <i>Conventions of War</i> is a law in play a player may still use the <i>Tactical Bombardment</i> action card, the <i>X&ndash;89 Bacterial Weapon</i> technology or the <i>Stellar Converter</i> relic on a cultural planet.</li>
     </ol>
 
 <h1>Core Mining</h1>
@@ -117,7 +118,7 @@
 <h1>Enforced Travel Ban</h1>
     <ol class="note">
     <li>The effect of the <i>Enforced Travel Ban</i> law does not affect the Creuss player.</li>
-    <li><i>Enforced Travel Ban</i> only prevents movement using the normal adjacency provided by wormholes. Other effects that creates adjacency, such as <i>Wormhole Reconstruction</i> agenda or the <i>Lost Star Chart</i> action card, may be used to allow movement between systems containing wormholes.</li>
+    <li><i>Enforced Travel Ban</i> only prevents movement using the normal adjacency provided by wormholes. Other effects that create adjacency, such as the <i>Wormhole Reconstruction</i> agenda or the <i>Lost Star Chart</i> action card, may be used to allow movement between systems containing wormholes.</li>
     <li>When the <i>Enforced Travel Ban</i> law is in play, units cannot move through wormholes, even by effects that move ships outside of the <b>Movement</b> step of a tactical action, such as while retreating.</li>
     <li>When the <i>Enforced Travel Ban</i> law is in play, hits may still be produced against ships in the active system by units with the <sc>Deep Space Cannon</sc> ability in systems that are adjacent via a wormhole during the <b>Space Cannon Offense</b> step of a tactical action.</li>
     <li>Players may still be neighbors via systems that are adjacent via wormholes.</li>
@@ -175,7 +176,7 @@
     </ol>
     <li>A player with three or fewer units in a system adjacent to the Mecatol Rex system destroys all of their units in that system. Otherwise, a player chooses which three units are destroyed.</li>
     <li>All units are destroyed simultaneously.</li>
-    <li style="color:white;">To cast vote against or to play a rider on <i>Ixthian Artifact</i> is to commit heresy.</li>
+    <li style="color:white;">To cast votes against or to play a rider on <i>Ixthian Artifact</i> is to commit heresy.</li>
     </ol>
 
 <h1>Judicial Abolishment</h1>
@@ -243,7 +244,7 @@
         <li>If <i>Committee Formation</i> is elected by <i>Miscount Disclosed</i>, the owner may use its ability. The elected player will receive <i>Committee Formation</i> from the discard pile.</li>
         <li>If <i>Homeland Defense Act</i> is elected by <i>Miscount Disclosed</i>, and the &ldquo;For&rdquo; effect is resolved again, players will not have to remove any PDS from the board.</li>
         <li>If <i>Political Censure</i> is elected by <i>Miscount Disclosed</i>, the current owner cannot play action cards, including <i>Confounding Legal Text</i>, if another player is elected. If another player is elected, that player may play the <i>Confusing Legal Text</i> action card.</li>
-        <li>If <i>Wormhole Reconstruction</i> is elected by <i>Miscount Disclosed</i>, the Mentak player will remain neighbors with players through wormholes, allowing them to use their <sc>Pillage</sc> faction ability on those players. The Empyrean player&rsquo;s Watcher mechs will remaing adjacent to other players&rsquo; units through wormholes, allowing them to cancel action cards played with the mech&rsquo;s ability.</li>
+        <li>If <i>Wormhole Reconstruction</i> is elected by <i>Miscount Disclosed</i>, the Mentak player will remain neighbors with players through wormholes, allowing them to use their <sc>Pillage</sc> faction ability on those players. The Empyrean player&rsquo;s Watcher mechs will remain adjacent to other players&rsquo; units through wormholes, allowing them to cancel action cards played with the mech&rsquo;s ability.</li>
         <li>If <i>Representative Government</i> is elected by <i>Miscount Disclosed</i>, each player will cast only one vote during the revote.</li>
         <li>If the elected law is attached to a planet, and is increasing its influence value, the player that controls that planet may still cast votes using the increased influence.</li>
     </ol>
@@ -347,7 +348,7 @@
 <h1>Search Warrant</h1>
     <ol class="note">
     <li>A player with three scored secret objectives may draw a fourth. However, they must immediately shuffle it into the secret objective deck.</li>
-    <li>If the elected player has three secret objective cards, and they would draw another, the drawn secret objective card is reveal before that player chooses which card to discard. This applies both when the elected player initially draws the secret objective cards from the effect of <i>Search Warrant</i> when they are elected, and if they later draw secret objective cards from another effect.</li>
+    <li>If the elected player has three secret objective cards, and they would draw another, the drawn secret objective card is revealed before that player chooses which card to discard. This applies both when the elected player initially draws the secret objective cards from the effect of <i>Search Warrant</i> when they are elected, and if they later draw secret objective cards from another effect.</li>
 	<li>If a player draws the <i>Drive the Debate</i> secret objective while resolving <i>Search Warrant</i>, they cannot score it immediately.</li>
     </ol>
 

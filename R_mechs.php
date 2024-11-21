@@ -13,7 +13,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>Effects that refer to &ldquo;ground forces&rdquo; apply to Mechs. Effects that refer to &ldquo;infantry&rdquo; do not.</li>
+    <li>Effects that refer to &ldquo;ground forces&rdquo; apply to mechs. Effects that refer to &ldquo;infantry&rdquo; do not.</li>
     <li>For notes about a mech of a specific faction, see that faction&rsquo;s page.</li>
     </ol>
 

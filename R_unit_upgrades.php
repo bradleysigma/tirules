@@ -15,9 +15,9 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>If a player is playing a faction with a faction&ndash;specific unit upgrade, they cannot research the generic upgrade for that unit type.</li>
+    <li>If a player is playing a faction with a faction&ndash;specific unit upgrade, they cannot research or otherwise gain the generic upgrade for that unit type.</li>
     <li>For notes about specific generic unit upgrades, see the <a href="/C_units">unit component notes page</a>.</li>
-    <li>For notes about a technologies of a specific faction, see that faction&rsquo;s notes.</li>
+    <li>For notes about a unit upgrade technology of a specific faction, see that faction&rsquo;s notes.</li>
     </ol>
 
 <h1>Related Topics</h1>

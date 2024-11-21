@@ -58,14 +58,14 @@
 <h1>Xxekir Grom &mdash; Political Data Nexus <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>If the Xxcha player draws one of the <i>Classified Document Leaks</i>, <i>Judicial Abolishment</i>, <i>Miscount Disclosed</i> or <i>New Constitution</i> agendas, they will only discard it (if required) and reveal a new one if they choose to reveal that agenda.</li>
-    <li>If the Xxcha player draws the <i>Covert Legislation</i> agenda, they will only draw a hidden agenda if they choose to reveal it. If the Xxcha player is not the speaker, the speaker will view the hidden agenda, but the Xxcha player will not see the it until it is either discarded from <sc>Quash</sc>, or resolved.</li>
+    <li>If the Xxcha player draws the <i>Covert Legislation</i> agenda, they will only draw a hidden agenda if they choose to reveal it. If the Xxcha player is not the speaker, the speaker will view the hidden agenda, but the Xxcha player will not see it until it is either discarded from <sc>Quash</sc>, or resolved.</li>
     <li>If the Xxcha player draws, reveals and resolves the <i>Miscount Disclosed</i> agenda, they cast one vote for an outcome of the elected law, and resolve it.</li>
     <li>If the Xxcha player draws, reveals and resolves the <i>Public Execution</i> agenda, the elected player may still vote in the agenda phase following the current action phase.</li>
     <li>When the Xxcha player chooses and reveals an agenda, they may then use their <sc>Quash</sc> ability.</li>
     <li>After the Xxcha player chooses and reveals an agenda, they may play any rider action cards on the revealed agenda.</li>
     <li>The Xxcha player chooses the order the two agendas are resolved.</li>
     <li>The two agendas are revealed before either is resolved.</li>
-    <ol><li>The Xxcha player will resovle all abilities that trigger when or after an agenda is revealed for the first agenda before revealing the second agenda.</li></ol>
+    <ol><li>The Xxcha player will resolve all abilities that trigger when or after an agenda is revealed for the first agenda before revealing the second agenda.</li></ol>
     <li>When an agenda outcome with an immediate effect resolves, all players resolve the effect.</li>
     <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, regardless of the Xxcha player&rsquo;s initiative.</li>
     <li>Other players may still perform one transaction total with the Xxcha player during this turn, if they are neighbors.</li>
@@ -95,7 +95,7 @@
 <h1>Indomitus <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <sc>Space Cannon</sc> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <sc>Space Cannon</sc> abilities of any of their removed mechs.</li>
-    <li>During the <b>Space Cannon Defense</b> substep of a a tactical action, only non&ndash;active players can use the <sc>Space Cannon</sc> ability of their units. The Xxcha player cannot use the <sc>Space Cannon</sc> ability of their mechs immediately after committing them to a planet against units owned by that planet&rsquo;s controller.</li>
+    <li>During the <b>Space Cannon Defense</b> substep of a tactical action, only non&ndash;active players can use the <sc>Space Cannon</sc> ability of their units. The Xxcha player cannot use the <sc>Space Cannon</sc> ability of their mechs immediately after committing them to a planet against units owned by that planet&rsquo;s controller.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

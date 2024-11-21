@@ -18,8 +18,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>Game effects that reroll, modify, or otherwise affect dice rolls during combat may affect anti&ndash;fighter barrage rolls. This is distinct from, and a superset of, both anti&ndash;fighter barrage rolls and combat rolls.</li>
-    <li>A non&ndash;fighter ship cannot its <sc>Sustain Damage</sc> ability to cancel a hit produced by an anti&ndash;fighter barrage roll.</li>
+    <li>A non&ndash;fighter ship cannot use its <sc>Sustain Damage</sc> ability to cancel a hit produced by an anti&ndash;fighter barrage roll.</li>
     <li>Effects such as the <i>Shields Holding</i> action card, which trigger on hits produced during space combat, may be used to cancel a hit produced by an anti&ndash;fighter barrage roll.</li>
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.</li>
     </ol>

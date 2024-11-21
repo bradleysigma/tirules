@@ -22,7 +22,7 @@
 
 <h1>Gift of Prescience <sub>(Promissory Note)</sub></h1>
     <ol class="note">
-    <li>The player with <i>Gift of the Prescience</i> retains the Naalu 0 token, even if an effect such as the <i>Imperial Arbiter</i> law causes them to lose the strategy card it was on. That player will place the Naalu 0 token on another strategy card in this scenario.</li>
+    <li>The player with <i>Gift of Prescience</i> retains the Naalu 0 token, even if an effect such as the <i>Imperial Arbiter</i> law causes them to lose the strategy card it was on. That player will place the Naalu 0 token on another strategy card in this scenario.</li>
     </ol>
 
 <h1>Neuroglaive <sub>(Technology)</sub></h1>
@@ -53,7 +53,7 @@
     <li>All other rules applying to tactical actions apply, other than placing a command token.</li>
     <ol>
         <li>The system cannot already contain a command token for the player performing the tactical action.</li>
-        <li>A player may play a <i>Ceasefire</i> promissory note or discard the <i>Minister of Peace</i> law.</li>
+        <li>A player may play a <i>Ceasefire</i> promissory note or discard the <i>Minister of Peace</i> law for their effects.</li>
         <li>If a player uses Z&rsquo;eu &Omega; to activate a system containing another player&rsquo;s units, that will count for the purposes of returning promissory notes, and other similar effects.</li>
     </ol>
     <li>The chosen player is considered to be the active player.</li>
@@ -65,7 +65,7 @@
 
 <h1>M&rsquo;aban <sub>(Commander)</sub></h1>
     <ol class="note">
-    <li>When producing units, the Naalu player must produce all the units they intend to produce before they may unlock their M&rsquo;aban. M&rsquo;aban cannot be applied to the instance of producing the units that unlocks it.</li>
+    <li>When producing units, the Naalu player must produce all the units they intend to produce before they may unlock M&rsquo;aban. M&rsquo;aban cannot be applied to the instance of producing the units that unlocks it.</li>
     <ol><li>For example, before production, the Naalu player has ten fighters on the game board. They pay two resources during production. They cannot produce two fighters, unlock M&rsquo;aban, then produce three more fighters. Instead, they would produce all four fighters, and then unlock M&rsquo;aban.</li></ol>
     <li>If the <i>Regulated Conscription</i> law is in play, the Naalu player may produce two fighters for one resource. This will count one towards their <sc>Production</sc> limit.</li>
     <li>If a game effect instructs the Naalu player to produce ships without using the <sc>Production</sc> ability, they may only produce additional fighters if that game effect allows them to produce fighters.</li>
@@ -88,7 +88,7 @@
     <li>The +1 will not apply to an opponent who has a relic but zero relic fragments.</li>
     </ol>
 
-<h1>Iconoclast &Omega;<sub>(Mech)</sub></h1>
+<h1>Iconoclast &Omega; <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>The ability will apply regardless of if the Iconoclast is in the space area or on a planet in the system.</li>
     </ol>

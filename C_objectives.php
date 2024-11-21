@@ -33,7 +33,7 @@
 
 <h1>Become a Martyr</h1>
     <ol class="note">
-    <li>The lost planet may be in any player&rsquo;s home system. It does not have a planet in the home system of the player scoring <i>Become a Martyr</i>.</li>
+    <li>The lost planet may be in any player&rsquo;s home system. It does not have to be a planet in the home system of the player scoring <i>Become a Martyr</i>.</li>
     <ol><li>The lost planet may be in the home system of an eliminated player.</li></ol>
     <li>If the lost planet is the last planet a player controls, that player will be eliminated before they score <i>Become a Martyr</i>, if they meet the other requirements for elimination.</li>
     <li>If the player with the <i>Shard of the Throne</i> relic loses their home system, they will lose the <i>Shard of the Throne</i> card and the associated victory point before they may score <i>Become a Martyr</i>.</li>
@@ -144,7 +144,7 @@
 <h1>Destroy Heretical Works</h1>
     <ol class="note">
     <li>A player will not gain a relic when scoring <i>Destroy Heretical Works</i>.</li>
-    <li>The relic fragments may the the same or different types.</li>
+    <li>The relic fragments may be the same or different types.</li>
     </ol>
 
 <h1>Destroy Their Greatest Ship</h1>
@@ -166,7 +166,7 @@
     <li><i>Dictate Policy</i> is scored after the third law resolves. As such, the <i>Deadly Plot</i> action card will prevent any player from scoring <i>Dictate Policy</i>.</li>
     <li><i>Dictate Policy</i> is scored before any rider action cards are resolved.</li>
     <li>If there are three laws in play at the start of the agenda phase, a player may score <i>Dictate Policy</i> immediately.</li>
-    <li>If the <i>Political Data Nexus</i> Xxcha hero ability puts a third law in play, <i>Dictate Policy</i> cannot be scored until the agenda phase.</li>
+    <li>If the <i>Political Data Nexus</i> Xxcha hero ability puts a third law in play during the action phase, <i>Dictate Policy</i> cannot be scored until the agenda phase.</li>
     </ol>
 
 <h1>Discover Lost Outposts</h1>
@@ -207,7 +207,7 @@
 
 <h1>Expand Borders</h1>
     <ol class="note">
-    <li>The planets cannot be in any player&rsquo;s home system, including those of eliminiated players.</li>
+    <li>The planets cannot be in any player&rsquo;s home system, including those of eliminated players.</li>
     </ol>
 
 <h1>Explore Deep Space</h1>
@@ -347,7 +347,7 @@
 
 <h1>Manipulate Galactic Law</h1>
     <ol class="note">
-    <li>The influence must be spent during the status phase. Any influence that were spent during the action phase will have no effect.</li>
+    <li>The influence must be spent during the status phase. Any influence that was spent during the action phase will have no effect.</li>
     <li>Trade goods may be spent as influence when scoring <i>Manipulate Galactic Law</i>.</li>
     </ol>
 
@@ -485,13 +485,13 @@
 
 <h1>Subdue the Galaxy</h1>
     <ol class="note">
-    <li>The planets cannot be in any player&rsquo;s home system, including those of eliminiated players.</li>
+    <li>The planets cannot be in any player&rsquo;s home system, including those of eliminated players.</li>
     </ol>
 
 <h1>Sway the Council</h1>
     <ol class="note">
-    <li>The influence must be spent during the status phase. Any influence that were spent during the action phase will have no effect.</li>
-    <li>Trade goods may be spent as influence when scoring <i>Manipulate Galactic Law</i>.</li>
+    <li>The influence must be spent during the status phase. Any influence that was spent during the action phase will have no effect.</li>
+    <li>Trade goods may be spent as influence when scoring <i>Sway the Council</i>.</li>
     </ol>
 
 <h1>Threaten Enemies</h1>
@@ -504,7 +504,7 @@
 <h1>Turn Their Fleets to Dust</h1>
     <ol class="note">
     <li>If the last ship is destroyed using a <i>Direct Hit</i> action card, <i>Turn Their Fleets to Dust</i> cannot be scored.</li>
-    <li>If a player still has fighters in a system after assigning all hits produced during <b>Space Cannon Offense</b> step, but is forced to remove all of them to meet capacity limits, <i>Turn Their Fleets to Dust</i> cannot be scored.</li>
+    <li>If a player still has fighters in a system after assigning all hits produced during the <b>Space Cannon Offense</b> step, but is forced to remove all of them to meet capacity limits, <i>Turn Their Fleets to Dust</i> cannot be scored.</li>
     <li>If a player&rsquo;s last ship in a system is destroyed, but an ability allows that player to then place ships into that system, <i>Turn Their Fleets to Dust</i> may still be scored.</li>
     <li>Scoring <i>Turn Their Fleets to Dust</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.</li>
     </ol>
@@ -512,7 +512,7 @@
 <h1>Turn Their Fleets to Dust &Omega;</h1>
     <ol class="note">
     <li>If the last ship is destroyed using a <i>Direct Hit</i> action card, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.</li>
-    <li>If a player still has fighters in a system after assigning all hits produced during <b>Space Cannon Offense</b> step, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.</li>
+    <li>If a player still has fighters in a system after assigning all hits produced during the <b>Space Cannon Offense</b> step, <i>Turn Their Fleets to Dust &Omega;</i> may be scored.</li>
     <li>If a player&rsquo;s last ship in a system is destroyed, but an ability allows that player to then place ships into that system, <i>Turn Their Fleets to Dust &Omega;</i> may still be scored.</li>
     <li>Scoring <i>Turn Their Fleets to Dust &Omega;</i> will not prevent that player from scoring a secret objective in the <b>Space Combat</b> step during this tactical action.</li>
     <li>If a system contains only fighters, then <i>Turn Their Fleets to Dust &Omega;</i> cannot be scored by destroying them.</li>
