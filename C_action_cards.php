@@ -483,6 +483,7 @@
         <li>The value of any variable cost to be paid.</li>
     </ol>
     <li>Any dice are rolled and any cards are drawn only after all other players has declined to play <i>Sabotage</i>.</li>
+    <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until all other players has declined to play <i>Sabotage</i>.</li>
     <li>If an action card is played that will have an effect later, such as a rider, that card may only be cancelled by <i>Sabotage</i> when it is originally played.</li>
     <li>If the action card that was cancelled by <i>Sabotage</i> was to be used to perform a component action, the active player must perform a different action, or pass.</li>
     <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <i>Fleet Logistics</i> technology, the active player may end their turn without performing a second action and without passing.</li></ol>

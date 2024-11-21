@@ -30,7 +30,7 @@
 
 <h1>Inheritance Systems <sub>(Technology)</sub></h1>
     <ol class="note">
-    <li>The two resources for <i>Inheritance Systems must be paid in addition to and separately from any other costs paid to research the technology. For example, if the L1Z1X player is performing the secondary of the <i>Technology</i> strategy card, they cannot spend the five resources of [0.0.0] plus one trade good to pay for the costs of both <i>Technology</i> and <i>Inheritance Systems</i>. Instead, they would have to spend [0.0.0] to pay for the cost of <i>Technology</i>, wasting the fifth resource, then spend two trade goods to pay for the cost of <i>Inheritance Systems</i>.</li>
+    <li>The two resources for <i>Inheritance</i> Systems must be paid in addition to and separately from any other costs paid to research the technology. For example, if the L1Z1X player is performing the secondary of the <i>Technology</i> strategy card, they cannot spend the five resources of [0.0.0] plus one trade good to pay for the costs of both <i>Technology</i> and <i>Inheritance Systems</i>. Instead, they would have to spend [0.0.0] to pay for the cost of <i>Technology</i>, wasting the fifth resource, then spend two trade goods to pay for the cost of <i>Inheritance Systems</i>.</li>
     </ol>
 
 <h1>Super Dreadnought <sub>(Unit)</sub></h1>
