@@ -14,7 +14,8 @@
 <h1>The Crown of Thalnos</h1>
     <ol class="note">
     <li>A player may only reroll combat rolls with <i>The Crown of Thalnos</i>. They cannot reroll anti&ndash;fighter barrage rolls and similar.</li>
-    <li>If a unit rolls multiple dice, it will not be destroyed if it produces at least one hit from its original roll, and that dice is not rerolled, even if it produces no hits from its reroll.</li>
+    <li>If a unit rolls multiple combat dice, it will not be destroyed if it produces at least one hit from its original roll, and that dice is not rerolled, even if it produces no hits from its reroll.</li>
+    <ol><li>For each unit that rolls multiple combat dice, the player with <i>The Crown of Thalnos</i> should roll those unit&rsquo;s dice separately from any other combat dice.</li></ol>
     <li>A reroll caused by any other effect will not cause a unit to be destroyed.</li>
     <li>Units destroyed by <i>The Crown of Thalnos</i> are destroyed at the end of the <b>Roll Dice</b> step, before the <b>Assign Hits</b> step.</li>
     <li>A unit with the <sc>Sustain Damage</sc> ability cannot use it to avoid being destroyed when it fails to produce a hit with the reroll from <i>The Crown of Thalnos</i>.</li>
@@ -60,7 +61,7 @@
 
 <h1>Scepter of Emelpar</h1>
     <ol class="note">
-    <li>If a player has no command tokens in their reinforcements, they cannot resolve the ability of the <i>Scepter of Emelpar</i>.</li>
+    <li>If a player has no command tokens in their reinforcements, they must use a command token from their command sheet instead when they use the ability of the <i>Scepter of Emelpar</i>.</li>
     <li>The <i>Scepter of Emelpar</i> may be used whenever a command token would be spent from a player&rsquo;s strategy pool. This includes when spending to perform the secondary ability of a strategy card, for faction abilities, and when scoring objectives.</li>
     <li>If the Muaat player uses the ability of the <i>Scepter of Emelpar</i>, they will not gain a trade good from the ability of their commander, Magmus.</li>
     </ol>

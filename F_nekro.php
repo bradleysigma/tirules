@@ -112,6 +112,8 @@
     <li>A mech in the space combat may be targeted with the <i>Direct Hit</i> action card if it uses its <sc>Sustain Damage</sc> ability.</li>
     <li>If the Nekro player has one of their <i>Valefar Assimilator</i> tokens on the Ul player&rsquo;s Hel Titan II faction unit upgrade technology, they may use <i>The Alastor</i> to have their PDS in the active system participate in the space combat.</li>
     <li>A ground force participating in a space combat may count towards scoring the <i>Demonstrate Your Power</i> secret objective.</li>
+    <li>If the Nekro player loses their last ground force during a space combat and consequently meets the requirements for elimination, they are immediately eliminated. They will not be given the opportunity to score any objectives from winning the combat or destroying certain units at the same time their last ground force was destroyed.</li>
+    <ol><li>If the Nekro player uses a <i>Direct Hit</i> action card to destroy an opponent&rsquo;s flagship, they may score the <i>Destroy their Greatest Ship</i> secret objective, even if there are some hits remaining that will cause the Nekro player to be eliminated once they are assigned. If this would bring the Nekro player to ten victory points, they will instead win the game before they are eliminated.</li></ol>
     </ol>
 
 <h1>Nekro Malleon <sub>(Agent)</sub></h1>

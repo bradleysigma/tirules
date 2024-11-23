@@ -96,7 +96,7 @@
     </ol>
     <li>This ability may be used whenever the Creuss player&rsquo;s ships move, not just during the movement step of a tactical action.</li>
     <ol>
-        <li>While this ability would trigger after the Creuss player retreats, retreating will leave no capacity in the active system.</li>
+        <li>If the Creuss player retreats from a combat, then they will have no capacity in the active system, and so cannot place any fighters there.</li>
         <li>If the Mahact player uses their <i>Benediction</i> hero ability to move the Creuss player&rsquo;s ships, then the Creuss player may use this ability.</li>
     </ol>
     <li>A ship may move out of a system and back into the same system during tactical action movement, if its move value is high enough. If the Creuss player does this with a ship with capacity, and moves in this manner via a wormhole, they may place a fighter, if possible.</li>

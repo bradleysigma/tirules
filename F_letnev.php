@@ -57,12 +57,13 @@
 
 <h1>Viscount Unlenn <sub>(Agent)</sub></h1>
     <ol class="note">
-    <li>This ability does not apply to dice rolls for a unit&rsquo;s <sc>Anti&ndash;Fighter Barrage</sc> ability.</li>
+    <li>This ability only applies to combat rolls. It does not apply to dice rolls for a unit&rsquo;s <sc>Anti&ndash;Fighter Barrage</sc> ability.</li>
     <li>The extra dice is mandatory for the chosen unit.</li>
     </ol>
 
 <h1>Rear Admiral Farran <sub>(Commander)</sub></h1>
     <ol class="note">
+    <li>If the Letnev player has more ships in a system than allowed for by their fleet pool plus <sc>Armada</sc>, they must first remove ships to meet this limit before they can unlock Rear Admiral Farran.</li>
     <li>This effect may be applied when a Dunlain Reaper uses its <sc>Sustain damage</sc> ability.</li>
     <ol><li>If the Ul player has the Letnev player&rsquo;s <i>Alliance</i> promissory note, then this effect may be applied when a Hel&ndash;Titan PDS uses its <sc>Sustain damage</sc> ability.</li></ol>
     <li>A unit that becomes damaged without using its <sc>Sustain Damage</sc> ability will not trigger this effect.</li>

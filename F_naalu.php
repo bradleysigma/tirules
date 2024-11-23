@@ -16,7 +16,7 @@
     <li>If the Naalu player uses <sc>Foresight</sc> to move out of a gravity rift, they will have to roll for removal.</li>
     <ol><li>If all ships are removed, the strategy token will still be placed in the destination system.</li></ol>
     <li>After moving, capacity and fleet pool limits apply in the destination system.</li>
-    <li>If the destination system already contains a Naalu command token, the command token from the Naalu player&rsquo;s strategy pool is instead placed in their reinforcements.</li>
+    <li>If the destination system already contains one of the Naalu player&rsquo;s command tokens, the command token from the Naalu player&rsquo;s strategy pool is instead placed in their reinforcements.</li>
     <li>After resolving <sc>Foresight</sc>, play continues to the <b>Space Cannon Offense</b> step. Only the active player&rsquo;s ships in the active system may be assigned hits.</li>
     </ol>
 

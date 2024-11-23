@@ -206,6 +206,7 @@
     <li>All units in that system may use their <sc>Production</sc> ability, not just the placed space dock.</li>
     <li>The produced units must be paid for.</li>
     <li>A space dock cannot be placed on a planet already containing a space dock.</li>
+    <ol><li>If a player has no space docks in their reinforcements when they may place a space dock on they game board, they may first remove a space dock from a system that does not contain their command token. However, they cannot then place the space dock on the same planet that they removed it from.</li></ol>
     <li>An ability that puts a space dock on the game board by &ldquo;replacing&rdquo;, rather than &ldquo;placing&rdquo;, such as the <i>Infiltrate</i> action card, will trigger <i>Minister of Industry</i>.</li>
     </ol>
 
@@ -323,6 +324,8 @@
     <ol class="note">
     <li>A player may gain any technology, regardless of the number of command tokens in their fleet pool.</li>
     <ol><li>If a player must remove more command tokens than they have in their fleet pool, they remove all their command tokens from their fleet pool instead.</li></ol>
+    <li>The number and colors of technologies a player owns will have no effect on the number of command tokens they remove.</li>
+    <ol><li>A player cannot exhaust a planet with a technology specialty to reduce the number of commend tokens they remove.</li></ol>
     </ol>
 
 <h1>Research Team: Biotic</h1>

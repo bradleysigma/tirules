@@ -52,6 +52,7 @@
 
 <h1>Doctor Sucaban <sub>(Agent)</sub></h1>
     <ol class="note">
+    <li>If the Jol&ndash;Nar player has the Infantry II unit upgrade, any of their infantry removed with Doctor Sucaban will not roll for resurrection.</li>
     </ol>
 
 <h1>Ta Zern <sub>(Commander)</sub></h1>

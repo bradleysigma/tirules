@@ -19,7 +19,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>Moving into a gravity rift will not provide the +1, nor will the ships have to roll for removal.</li>
+    <li>Moving into a gravity rift, usually when it is the active system, will not provide the +1, nor will the ships have to roll for removal.</li>
     <li>A ship removed by a gravity rift is not destroyed.</li>
     <li>All ship movement must be declared before any of them roll for gravity rift removal. A player may not choose additional ships to move after seeing the result of this roll.</li>
     <li>A ship that is removed by a gravity rift will not count toward the fleet limit in the destination system.</li>

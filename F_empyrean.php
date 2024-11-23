@@ -81,6 +81,8 @@
 <h1>Watcher <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>This effect may cancel a <i>Sabotage</i> action card.</li>
+    <li>The Watcher must be adjacent to the other player&rsquo;s units during the timing window when the action card is played in order to cancel it.</li>
+    <ol><li>In particular, if an action card is played &ldquo;when/after you activate a system&rdquo; or similar, then the Watcher must be adjacent before any ships move during that tactical action.</li></ol>
     </ol>
 </article>
 <?php include "suffix.php"?>

@@ -22,9 +22,14 @@
 <h1>Notes</h1>
     <ol class="note">
     <li>Players start the game with zero action cards.</li>
+    <li>The number of action cards in a player&rsquo;s hand is public information.</li>
     <li>A player may choose to reveal any or all of the action cards in their hand, if they so choose.</li>
     <li>If the action card deck is depleted, immediately shuffle the discard pile to form a new action card deck.</li>
     <li>During the action phase, action cards are dealt out in initiative order.</li>
+    <ol>
+        <li>If a player has the <i>Neural Motivator</i> technology, they will draw both their action cards before the next player in order draws an action card.</li>
+        <li>The Yssaril player will draw all of their action cards, and discard for their <sc>Scheming</sc> ability, before the next player in order draws an action card.</li>
+    </ol>
     <li>If a player&rsquo;s action card is cancelled, usually via a <i>Sabotage</i> action card, then if that player has a second copy of that action card, they may play it.</li>
     <li>A player cannot target themselves with offensive action cards, such as <i>Lucky Shot</i>.</li>
     <li>If an action card targets &ldquo;any number&rdquo;, &ldquo;up to&rdquo;, or &ldquo;each&rdquo; of a particular type of object, that action card may target zero of those objects. As such, these cards may be played even if they would cause no effect.</li>

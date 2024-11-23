@@ -33,6 +33,7 @@
 <h1>Mageon Implants <sub>(Technology)</sub></h1>
     <ol class="note">
     <li>When resolving <i>Mageon Implants</i>, the Yssaril player is not drawing a card. As such, <sc>Scheming</sc> will not trigger.</li>
+    <li>The Yssaril player must target a player with at least one action card in their hand when they resolve <i>Mageon Implants</i>.</li>
     </ol>
 
 <h1>Transparasteel Plating <sub>(Technology)</sub></h1>

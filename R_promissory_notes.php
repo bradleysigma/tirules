@@ -20,6 +20,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
+    <li>The number of promissory notes in a player&rsquo;s hand is public information.</li>
     <li>When two players make a trade for a promissory note, the specific promissory note that was traded may be hidden from other players.</li>
     <ol>
         <li>However, it is public information that a promissory note was traded.</li>

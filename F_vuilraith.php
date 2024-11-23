@@ -42,7 +42,9 @@
 <h1>Vortex <sub>(Technology)</sub></h1>
     <ol class="note">
     <li>A unit is not adjacent to the system it is in; the <i>Vortex</i> ability cannot target a ground force on another planet in the same systems as one of the Vuil&rsquo;raith player&rsquo;s Dimensional Tears, unless there is a second space dock in an adjacent system.</li>
-    <li>If a player has all their units of a particular type on the board, other than fighters or infantry, that type of unit belonging to that player cannot be targeted. <i>Vortex</i> cannot be used if there are no units that can be targeted.</li>
+    <li><i>Vortex</i> cannot be used if there are no units that can be targeted.</li>
+    <li>If a player has all their units of a particular type on the board, other than fighters or infantry, that type of unit belonging to that player cannot be targeted.</li>
+    <li>If another player is blockading a Dimensional Tear, their units cannot be targeted with <i>Vortex</i>.</li>
     </ol>
 
 <h1>Dimensional Tear <sub>(Unit)</sub></h1>

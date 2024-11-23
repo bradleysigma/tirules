@@ -16,6 +16,8 @@
 
 <h1>Notes</h1>
     <ol class="note">
+    <li>If the player with <i>Diplomacy</i> controls no planets, or controls only Mecatol Rex, they may still perform a strategic action. However, other players will no place a command token in any system.</li>
+    <li>If the player with <i>Diplomacy</i> controls fewer than two exhausted planets, they may still perform a strategic action. They will ready as many planets as possible.</li>
     </ol>
 
 <h1>Related Topics</h1>

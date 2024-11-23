@@ -30,7 +30,7 @@
     <li>A captured unit may only be returned to the player that originally owned it, and not to another player.</li>
     <li>The Nekro player and the Yssaril player are able to capture units by copying the Vuil&rsquo;raith player&rsquo;s abilities, but they will be unable to spend the captured units.</li>
     <li>If a player is eliminated, any of their units that are captured remain with the player that captured them. When the capturing player would return them, the units are instead returned to the game box.</li>
-	<li>If a player captures their own units, they cannot be returned to that player&rsquo;s reinforcements.</li>
+	<li>If a player captures their own units, they cannot be returned to that player&rsquo;s reinforcements, unless instructed to do so by a game effect.</li>
 	<ol>
         <li>That player cannot produce or place those units, except by effects that allow that player to use captured units.</li>
     </ol>

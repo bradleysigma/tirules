@@ -58,12 +58,12 @@
 <h1>Mirik Aun Sissiri &mdash; Helix Protocol <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>Fighters may be moved without being transported.</li>
-    <li>Ships in systems with an Argent command token may move.</li>
-    <li>Ships may transport units only if their origin system does not contain an Argent command token.</li>
+    <li>Ships in systems with one of the Argent player&rsquo;s command tokens may move.</li>
+    <li>Ships may transport units only if their origin system does not contain one of the Argent player&rsquo;s command tokens.</li>
     <ol><li>A future rule change will allow a player&rsquo;s ships to transport units from systems that contain that player&rsquo;s command token when those ships move outside of a tactical action.</li></ol>
     <li>Ships move directly to their destination system. They may only transport units from their origin system.</li>
     <li>Ships moving out of a gravity rift must roll for removal.</li>
-    <li>Ships cannot move into a nebula or supernova, even if it contains an Argent command token.</li>
+    <li>Ships cannot move into a nebula or supernova, even if it contains one of the Argent player&rsquo;s command tokens.</li>
     <ol><li>Ships may travel into an asteroid field only if the Argent player has the <i>Antimass Deflectors</i> technology.</li></ol>
     <li><i>Helix Protocol</i> may be used to move ships into the wormhole nexus. If the nexus is inactive, this will cause it to activate.</li>
     </ol>
