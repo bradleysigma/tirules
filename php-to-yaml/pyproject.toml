@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "php-to-yaml"
+version = "0.1.0"
+description = "Converts the rules contained within the PHP files into YAML"
+authors = ["Your Name <you@example.com>"]
+license = "GNU"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
