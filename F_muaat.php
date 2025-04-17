@@ -51,6 +51,7 @@
         <li>If the Muaat player wishes to score <i>Lead From the Front</i> and <i>Form a Spy Network</i> during the one status phase, they must do so simultaneously, and both happen before the Mentak player may use their <sc>Pillage</sc> faction ability. If the Mentak player subsequently uses their agent, Suffi An, when they use their <sc>Pillage</sc> faction ability on the trade goods the Muaat player gained from Magmus when spending the tokens for <i>Lead From the Front</i>, then the Muaat player cannot discard the drawn action card for <i>Form a Spy Network</i>.</li>
     </ol>
     <li>If the Muaat player uses the ability of the <i>Scepter of Emelpar</i> relic, they will be unable to benefit from the ability of Magmus.</li>
+    <li>The Muaat player must have their commander unlocked before spending the strategy token in order to gain the trade good. For example, if the Muaat player spends a strategy token to follow the secondary of Warfare and produces a war sun to unlock the commander, they do not gain the trade good from Magmus</li>
     </ol>
 
 <h1>Adjudicator Ba&rsquo;al &mdash; Nova Seed <sub>(Hero)</sub></h1>
