@@ -1,14 +1,18 @@
-from typing import List, Union
+from typing import List, Optional, Union
 from bs4 import BeautifulSoup
 from dataclasses import dataclass
 from pydantic import BaseModel, RootModel
 
-class Rule(RootModel):
-    root: Union[str, List['Rule']]
+class Rule(BaseModel):
+    rule: str
+
+class RuleWithChildren(BaseModel):
+    rule: str
+    subrules: Optional[List[Union[Rule, 'RuleWithChildren']]]
 
 class Card(BaseModel):
     name: str
-    rules: List[Rule]
+    rules: Optional[List[Union[Rule, 'RuleWithChildren']]]
 
 class Cards(BaseModel):
     cards: List[Card]
@@ -18,18 +22,17 @@ def parse_card_page(soup: BeautifulSoup) -> List[Card]:
     for card in soup.find("article").find_all("h1"):
         name = card.text
         list_parent = card.find_next_sibling("ol")
-        rules = [] if not list_parent else [parse_rule(list_parent)]
+        rules = [parse_rule(rule) for rule in list_parent.find_all("li", recursive=False)]
         
         cards.append(Card(name=name, rules=rules))
     
     return Cards(cards=cards)
 
-def parse_rule(rule: BeautifulSoup) -> Rule:      
-    if rule.name == "li":
-        return Rule(rule.text)
-    elif rule.name == "ol":
-        child_rules = rule.find_all(recursive=False)
-        rules = [parse_rule(child_rule) for child_rule in (child_rules if child_rules else [])]
-        return Rule(rules)
+def parse_rule(rule: BeautifulSoup) -> Union[Rule, RuleWithChildren]:
+    text=rule.text   
+    next_element = rule.find_next_sibling()
+
+    if next_element and next_element.name == "ol":
+        return RuleWithChildren(rule=text, subrules=[parse_rule(element) for element in next_element.find_all("li", recursive=False)])
     else:
-        raise Exception(f"Unsupported tag {rule.name} in rules")
+        return Rule(rule=text)
