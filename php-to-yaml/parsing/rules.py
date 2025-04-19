@@ -2,6 +2,7 @@ from typing import Dict, List, Optional, Union
 from bs4 import BeautifulSoup
 from dataclasses import dataclass
 from pydantic import BaseModel, RootModel
+import re
 
 class Rules(RootModel):
     root: Dict[str, Union['Rule', 'RuleWithChildren']]
@@ -21,22 +22,40 @@ class CardWithRules(Card):
 class Cards(BaseModel):
     cards: List[Union[Card, CardWithRules]]
 
-def parse_card_page(soup: BeautifulSoup) -> List[Card]:
-    cards = []
-    for card in soup.find("article").find_all("h1"):
-        name = card.text
+CONTENT_ORDER_REGEX = r"content:\s*['\"](.*?)['\"]"
+
+def parse_rules_page(soup: BeautifulSoup) -> List[Card]:
+    rules = []
+
+    article = soup.find("article")
+    
+    for category in article.find_all("h1"):
+        name = category.text
+
+        # For rules references, preserve the order
+        start_order = None
+        if category.text == "Rules Reference":
+            style = category.find_next_sibling("style")
+            if not style:
+                raise ValueError("Expected a style in rules reference")
+
+            match = re.search(CONTENT_ORDER_REGEX, style.text)
+            if not match:
+                raise ValueError("Expected a starting order in the style")
+
+            start_order = match.group(1)[:-1]
 
         # Expect an ordered list next
-        list_parent = card.find_next_sibling("ol")
+        list_parent = category.find_next_sibling("ol")
 
         if list_parent and len(list(list_parent.find_all("li"))) > 0:
             # Add the card with parsed rules
-            cards.append(CardWithRules(name=name, rules=parse_sub_rules(list_parent)))
+            rules.append(CardWithRules(name=name, rules=parse_sub_rules(list_parent, start_order)))
         else:
             # Add the card
-            cards.append(Card(name=name))
+            rules.append(Card(name=name))
     
-    return Cards(cards=cards)
+    return Cards(cards=rules)
 
 def parse_rule(rule: BeautifulSoup, order: str) -> Union[Rule, RuleWithChildren]:
     # The definition of the rule

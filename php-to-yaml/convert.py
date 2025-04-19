@@ -1,7 +1,7 @@
 from typing import Dict
 from bs4 import BeautifulSoup
 from parsing.index import parse_index_page
-from parsing.cards import parse_card_page
+from parsing.rules import parse_rules_page
 import yaml
 import os
 from pydantic_yaml import to_yaml_str
@@ -11,6 +11,9 @@ def format_name(name: str) -> str:
     return name.lower().replace(" ", "_")
 
 def generate_notes(notes: Dict[str, str], output_folder: str):
+    if not os.path.exists(f"output/{output_folder}"):
+        os.makedirs(f"output/{output_folder}")
+
     for name, path in notes.items():
         # Open a component page and parse it
         with open(path) as f:
@@ -20,18 +23,12 @@ def generate_notes(notes: Dict[str, str], output_folder: str):
 
             # For debugging purposes, output the pages
             with open(f"output/{output_folder}/{format_name(name)}.yaml", "w", encoding="utf-8") as c:
-                c.write(to_yaml_str(parse_card_page(notes_page)))
+                c.write(to_yaml_str(parse_rules_page(notes_page)))
 
 if __name__ == '__main__':
     # Create the "output" directory (and other directories) if they don't exist
     if not os.path.exists("output"):
         os.makedirs("output")
-    
-    if not os.path.exists("output/components"):
-        os.makedirs("output/components")
-    
-    if not os.path.exists("output/factions"):
-        os.makedirs("output/factions")
 
     # Open the index page and parse it
     with open("index.php") as f:
@@ -48,3 +45,6 @@ if __name__ == '__main__':
     
     # Generate the YAML files for the faction notes
     generate_notes(root["Faction Notes"], "factions")
+
+    # Generate the YAML files for the rules
+    generate_notes(root["Rule Topics"], "rules")
