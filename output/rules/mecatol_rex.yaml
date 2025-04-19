@@ -1,0 +1,12 @@
+cards:
+- name: Rules Reference
+  rules:
+    '54.1':
+      rule: During setup, the custodians token is placed on Mecatol Rex. This token
+        prevents a player from committing ground forces to land on the planet unless
+        they spend six influence to remove the token.
+- name: Notes
+  rules:
+    '1':
+      rule: Mecatol Rex is not a legendary planet.
+- name: Related Topics

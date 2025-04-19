@@ -1,0 +1,63 @@
+cards:
+- name: Rules Reference
+  rules:
+    '69.1':
+      rule: Each promissory note contains timing text and ability text. A player can
+        resolve any of their promissory note cards by following the text on the card.
+      subrules:
+        69.1.1:
+          rule: Promissory notes are not mandatory unless otherwise specified.
+    '69.2':
+      rule: A player cannot play their color’s or faction’s promissory notes. Since
+        the cards are only valuable to other players, promissory notes can be traded
+        as powerful negotiation tools.
+    '69.3':
+      rule: Promissory notes that are returned to a player are returned after their
+        abilities have been completely resolved.
+    '69.4':
+      rule: If a promissory note is returned to a player, that player may give it
+        to other players again as part of a future transaction.
+      subrules:
+        69.4.1:
+          rule: An unrevealed promissory note is not subject to effects in its ability
+            text that return the card if certain conditions are met.
+    '69.5':
+      rule: When resolving a transaction, a player can trade a maximum of one promissory
+        note from their hand to another player, even if that card originally belonged
+        to another player.
+      subrules:
+        69.5.1:
+          rule: Promissory notes in the play area cannot be traded.
+    '69.6':
+      rule: Players should keep their hands of promissory notes hidden.
+    '69.7':
+      rule: If a player is eliminated, all of the promissory notes that match their
+        color or faction are returned to the game box, including those that are in
+        play or owned by other players.
+      subrules:
+        69.7.1:
+          rule: Other players’ promissory notes are returned to those players.
+- name: Notes
+  rules:
+    '1':
+      rule: The number of promissory notes in a player’s hand is public information.
+    '2':
+      rule: When two players make a trade for a promissory note, the specific promissory
+        note that was traded may be hidden from other players.
+      subrules:
+        '2.1':
+          rule: However, it is public information that a promissory note was traded.
+        '2.2':
+          rule: The Alliance and Support for the Throne promissory notes must be played
+            immediately when received. As such, trading either of these notes cannot
+            be kept hidden.
+    '3':
+      rule: A player may choose to reveal any or all of the promissory notes in their
+        hand, if they so choose.
+    '4':
+      rule: For notes about specific generic promissory notes, see the promissory
+        notes notes page.
+    '5':
+      rule: For notes about a promissory note of a specific faction, see that faction’s
+        notes page.
+- name: Related Topics

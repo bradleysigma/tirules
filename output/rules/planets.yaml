@@ -1,0 +1,42 @@
+cards:
+- name: Rules Reference
+  rules:
+    '64.1':
+      rule: A planet’s resources are indicated by the value on its planet card and
+        system tile that is surrounded by a yellow triangular border.
+    '64.2':
+      rule: A planet’s influence is indicated by the value on its planet card and
+        system tile that is surrounded by a blue hexagonal border.
+    '64.3':
+      rule: 'A planet’s trait has no inherent effects, but some game effects refer
+        to a planet’s trait. There are three traits: cultural, hazardous, and industrial.'
+    '64.4':
+      rule: Some planets have a technology specialty, which allows those planets to
+        be exhausted to satisfy a prerequisite when researching technology.
+    '64.5':
+      rule: Some planets are legendary planets, as indicated by the legendary planet
+        icon. When a player gains control of a legendary planet, they also gain control
+        of its legendary planet ability card.
+    '64.6':
+      rule: A planet card has both a readied and exhausted state. When a planet is
+        readied, it is placed faceup. When a planet is exhausted, it is placed facedown.
+    '64.7':
+      rule: A player can spend a readied planet’s resources or influence.
+    '64.8':
+      rule: A player cannot spend an exhausted planet’s resources or influence.
+- name: Notes
+  rules:
+    '1':
+      rule: Mecatol Rex and planets in home systems do not have traits.
+    '2':
+      rule: Planets with traits can be explored.
+    '3':
+      rule: A planet cannot be spent for both its influence and resources during a
+        single exhaustion.
+    '4':
+      rule: If a planet is exhausted for its technology specialty, it does not provide
+        influence or resources.
+    '5':
+      rule: A player may only exhaust their own planets, unless a game effect specifies
+        otherwise.
+- name: Related Topics

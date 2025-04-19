@@ -1,0 +1,21 @@
+cards:
+- name: Rules Reference
+  rules:
+    '60.1':
+      rule: Players can resolve transactions with their neighbors.
+    '60.2':
+      rule: Players are neighbors if the adjacency of systems is granted by a wormhole.
+    '60.3':
+      rule: Players are neighbors with the Ghosts of Creuss if the Ghosts of Creuss’
+        “Quantum Entanglement” faction ability is causing adjacency from the perspective
+        of the Ghosts of Creuss player.
+- name: Notes
+  rules:
+    '1':
+      rule: A player may make a deal with any player, however, these deals may only
+        include a transaction if the two players are neighbors.
+    '2':
+      rule: A player may resolve one transaction with each other player per each agenda
+        during the agenda phase, however, the agenda phase does not make all players
+        neighbors.
+- name: Related Topics

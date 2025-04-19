@@ -1,0 +1,35 @@
+cards:
+- name: Rules Reference
+  rules:
+    '32.1':
+      rule: During the action phase, if the active player has the Diplomacy strategy
+        card, they can perform a strategic action to resolve that card’s primary ability.
+    '32.2':
+      rule: To resolve the primary ability on the Diplomacy strategy card, the active
+        player chooses a system that contains a planet they control other than the
+        Mecatol Rex system; each other player places one command token from their
+        reinforcements in that system. Then, the active player readies any two of
+        their exhausted planets.
+      subrules:
+        32.2.1:
+          rule: If a player has no command tokens in their reinforcements, that player
+            places one command token of their choice from their command sheet.
+        32.2.2:
+          rule: If a player already has a command token in the chosen system, they
+            do not place a command token there.
+    '32.3':
+      rule: After the active player resolves the primary ability of the Diplomacy
+        strategy card, each other player, beginning with the player to the left of
+        the active player and proceeding clockwise, may spend one command token from
+        their strategy pool to ready up to two exhausted planets they control.
+- name: Notes
+  rules:
+    '1':
+      rule: If the player with Diplomacy controls no planets, or controls only Mecatol
+        Rex, they may still perform a strategic action. However, other players will
+        no place a command token in any system.
+    '2':
+      rule: If the player with Diplomacy controls fewer than two exhausted planets,
+        they may still perform a strategic action. They will ready as many planets
+        as possible.
+- name: Related Topics
