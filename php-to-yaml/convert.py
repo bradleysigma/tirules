@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from parsing.index import parse_index_page
-from parsing.card import parse_card_page
+from parsing.cards import parse_card_page
 import yaml
 from pydantic_yaml import to_yaml_str
 
