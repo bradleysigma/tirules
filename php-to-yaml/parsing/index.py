@@ -1,8 +1,11 @@
 from bs4 import BeautifulSoup
 from typing import Dict
+import unicodedata
 
-# TODO: Move this into a separate module to start organising these functions
-def parse_index_page(soup: BeautifulSoup) -> Dict:
+def path_to_file_name(path: str) -> str:
+    return f"{path[1:]}.php"
+
+def parse_index_page(soup: BeautifulSoup) -> Dict[str, Dict[str, str]]:
     """
     Iterate through the index, collecting all the links (with titles).
 
@@ -27,7 +30,7 @@ def parse_index_page(soup: BeautifulSoup) -> Dict:
                 page_name = page_link.text
                 page_link = page_link['href']
 
-                category[page_name] = page_link
+                category[page_name] = path_to_file_name(page_link)
         
         pages[category_name] = category
     
