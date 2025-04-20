@@ -20,6 +20,6 @@ flutter:
   uses-material-design: true
   assets:
     - assets/rules/
-    - assets/rules/components/
-    - assets/rules/factions/
-    - assets/rules/rules/
+    - assets/rules/component_notes/
+    - assets/rules/faction_notes/
+    - assets/rules/rule_topics/

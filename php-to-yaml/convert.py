@@ -43,10 +43,10 @@ if __name__ == '__main__':
             yaml.dump(root, f)
     
     # Generate the YAML files for the component notes
-    generate_notes(root["Component Notes"], "components")
+    generate_notes(root["Component Notes"], "component_notes")
     
     # Generate the YAML files for the faction notes
-    generate_notes(root["Faction Notes"], "factions")
+    generate_notes(root["Faction Notes"], "faction_notes")
 
     # Generate the YAML files for the rules
-    generate_notes(root["Rule Topics"], "rules")
+    generate_notes(root["Rule Topics"], "rule_topics")

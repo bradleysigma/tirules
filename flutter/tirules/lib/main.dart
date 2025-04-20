@@ -36,32 +36,10 @@ class OrderedList extends StatelessWidget {
   }
 }
 
-class RulesWidget extends StatefulWidget {
-  final String configPath;
+class RulesWidget extends StatelessWidget {
+  final Map rules;
 
-  const RulesWidget({super.key, required this.configPath});
-
-  @override
-  State<RulesWidget> createState() => _RulesWidgetState();
-}
-
-class _RulesWidgetState extends State<RulesWidget> {
-  Map rules = {};
-  
-  @override
-  void initState() {
-    super.initState();
-    loadContent();
-  }
-
-  Future<void> loadContent() async {
-    final yamlString = await rootBundle.loadString(widget.configPath);
-    final yamlMap = loadYaml(yamlString) as Map;
-
-    setState(() {
-      rules = yamlMap;
-    });
-  }
+  const RulesWidget({super.key, required this.rules});
 
   @override
   Widget build(BuildContext context) {
@@ -101,8 +79,9 @@ class _RulesWidgetState extends State<RulesWidget> {
 
 class MenuWidget extends StatefulWidget {
   final String rootPath;
+  final MenuItemSelectedCallback onItemSelected;
 
-  const MenuWidget({super.key, required this.rootPath});
+  const MenuWidget({super.key, required this.rootPath, required this.onItemSelected});
 
   @override
   State<MenuWidget> createState() => _MenuWidgetState();
@@ -147,23 +126,56 @@ class _MenuWidgetState extends State<MenuWidget> {
       title: Text(category),
       children: [
         for (var childCategory in contents[category].keys) ListTile(
-          title: Text(childCategory)
+          title: Text(childCategory),
+          onTap: () {
+            setState(() {
+              widget.onItemSelected(category, childCategory);
+            });
+          },
         )
       ]
     )];
   }
 }
 
-class MainApp extends StatelessWidget {
+typedef MenuItemSelectedCallback = void Function(String category, String childCategory);
+
+class MainApp extends StatefulWidget {
   const MainApp({super.key});
 
+  @override
+  State<MainApp> createState() => _MainAppState();
+}
+
+class _MainAppState extends State<MainApp> {
+  Map rules = {};
+
+  @override
+  void initState() {
+    super.initState();
+    loadContent("assets/rules/component_notes/action_cards.yaml");
+  }
+
+  Future<void> loadContent(String path) async {
+    final yamlString = await rootBundle.loadString(path);
+    final yamlMap = loadYaml(yamlString) as Map;
+
+    setState(() {
+      rules = yamlMap;
+    });
+  }
+  
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(title: Text('TI Rules')),
-        drawer: MenuWidget(rootPath: "assets/rules/root.yaml"),
-        body: RulesWidget(configPath: "assets/rules/components/exploration_cards.yaml"),
+        drawer: MenuWidget(rootPath: "assets/rules/root.yaml", onItemSelected: (category, childCategory) => {
+          setState(() {
+            loadContent("assets/rules/${category.toLowerCase().replaceAll(" ", "_")}/${childCategory.toLowerCase().replaceAll(" ", "_")}.yaml");
+          })
+        },),
+        body: RulesWidget(rules: rules),
       ),
     );
   }
