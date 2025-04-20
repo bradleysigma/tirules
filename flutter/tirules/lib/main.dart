@@ -97,7 +97,61 @@ class _RulesWidgetState extends State<RulesWidget> {
       if (rule.containsKey("subrules")) ...[for (var subRuleOrder in rule["subrules"].keys) ...generateRuleListItems(subRuleOrder, rule["subrules"][subRuleOrder], level + 1)]
     ];
   }
+}
 
+class MenuWidget extends StatefulWidget {
+  final String rootPath;
+
+  const MenuWidget({super.key, required this.rootPath});
+
+  @override
+  State<MenuWidget> createState() => _MenuWidgetState();
+}
+
+class _MenuWidgetState extends State<MenuWidget> {
+  Map contents = {};
+  
+  @override
+  void initState() {
+    super.initState();
+    loadContent();
+  }
+  
+  @override
+  Widget build(BuildContext context) {
+    return Drawer(
+      child: ListView(
+        padding: EdgeInsets.zero,
+        children: <Widget>[
+          const DrawerHeader(
+            decoration: BoxDecoration(color: Colors.blue),
+            child: Text('Contents', style: TextStyle(color: Colors.white, fontSize: 24)),
+          ),
+          ...generateContents()  
+        ]
+      )
+    );
+  }
+
+  Future<void> loadContent() async {
+    final yamlString = await rootBundle.loadString(widget.rootPath);
+    final yamlMap = loadYaml(yamlString) as Map;
+
+    setState(() {
+      contents = yamlMap;
+    });
+  }
+
+  List<Widget> generateContents() {
+    return [for (var category in contents.keys) ExpansionTile(
+      title: Text(category),
+      children: [
+        for (var childCategory in contents[category].keys) ListTile(
+          title: Text(childCategory)
+        )
+      ]
+    )];
+  }
 }
 
 class MainApp extends StatelessWidget {
@@ -105,8 +159,10 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       home: Scaffold(
+        appBar: AppBar(title: Text('TI Rules')),
+        drawer: MenuWidget(rootPath: "assets/rules/root.yaml"),
         body: RulesWidget(configPath: "assets/rules/components/exploration_cards.yaml"),
       ),
     );
