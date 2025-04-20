@@ -6,6 +6,36 @@ void main() {
   runApp(const MainApp());
 }
 
+class OrderedListItem {
+   final int level;
+   final String text;
+   const OrderedListItem(this.level, this.text);
+ }
+
+class OrderedList extends StatelessWidget {
+  const OrderedList({super.key, required this.items});
+
+  final List<OrderedListItem> items;
+
+  @override
+  Widget build(BuildContext context) {
+    return ListView.builder(
+      scrollDirection: Axis.vertical,
+      shrinkWrap: true,
+      itemCount: items.length,
+      itemBuilder: (context, index) {
+        final item = items[index];
+        return Padding(
+          padding: EdgeInsets.only(left: item.level * 20.0),
+          child: ListTile(
+            title: Text(item.text),
+          ),
+        );
+      }
+    );
+  }
+}
+
 class RulesWidget extends StatefulWidget {
   final String configPath;
 
@@ -37,7 +67,7 @@ class _RulesWidgetState extends State<RulesWidget> {
   Widget build(BuildContext context) {
     List<Widget> cards = rules.containsKey("cards") ? [for (var card in rules["cards"]) generateCard(card)] : [];
 
-    return Column(
+    return ListView(
       children: cards,
     );
   }
@@ -53,13 +83,19 @@ class _RulesWidgetState extends State<RulesWidget> {
   }
 
   Widget generateRules(Map rules) {
-    var rulesWidgets = [for (var order in rules.keys) generateRule(order, rules[order])];
-
-    return Column(children: rulesWidgets);
+    // Convert rules to an ordered list
+    var hierarchicalRules = [for (var order in rules.keys) ...generateRuleListItems(order, rules[order])];
+    
+    return OrderedList(items: hierarchicalRules);
   }
 
-  Widget generateRule(String order, Map rule) {
-    return Text("$order: ${rule['rule']}");
+  List<OrderedListItem> generateRuleListItems(String order, Map rule, [int level = 0]) {
+    return [
+      // Add an item for this rule
+      OrderedListItem(level, "$order. ${rule['rule']}"),
+      // Add items recursively for any sub rules
+      if (rule.containsKey("subrules")) ...[for (var subRuleOrder in rule["subrules"].keys) ...generateRuleListItems(subRuleOrder, rule["subrules"][subRuleOrder], level + 1)]
+    ];
   }
 
 }
@@ -71,7 +107,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       home: Scaffold(
-        body: RulesWidget(configPath: "assets/rules/components/agendas.yaml"),
+        body: RulesWidget(configPath: "assets/rules/components/exploration_cards.yaml"),
       ),
     );
   }
