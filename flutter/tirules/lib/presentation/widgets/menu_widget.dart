@@ -45,6 +45,7 @@ class _MenuWidgetState extends State<MenuWidget> {
           title: Text(childCategory.displayName),
           onTap: () {
             setState(() {
+              Navigator.pop(context);
               widget.onItemSelected(category.name, childCategory.name);
             });
           },
