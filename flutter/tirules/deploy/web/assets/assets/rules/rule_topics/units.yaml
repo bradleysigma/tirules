@@ -1,0 +1,20 @@
+cards:
+- name: Rules Reference
+  rules:
+    '96.1':
+      rule: 'There are three types of units: ships, ground forces, and structures.'
+    '96.2':
+      rule: 'Each color of plastic comes with the following units:'
+    '96.3':
+      rule: Units exist either on the game board or in a player’s reinforcements.
+- name: Notes
+  rules:
+    '1':
+      rule: If an effect allows a player produce a ship of a specific type, then factional
+        variations do not prevent that player from producing that type of ship.
+    '2':
+      rule: Units are component limited.
+      subrules:
+        '2.1':
+          rule: Fighters and infantry are semi–limited, via the use of tokens.
+- name: Related Topics

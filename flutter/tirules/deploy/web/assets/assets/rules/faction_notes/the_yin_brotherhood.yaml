@@ -1,0 +1,261 @@
+cards:
+- name: Indoctrination
+  rules:
+    '1':
+      rule: Indoctrination is limited to once per ground combat.
+    '2':
+      rule: If an invasion involves ground combats on multiple planets, Indoctrination
+        may be used at the start of each of them.
+    '3':
+      rule: If the Yin player’s opponent only has mechs in the ground combat, Indoctrination
+        cannot be used.
+      subrules:
+        '3.1':
+          rule: If the Yin player is in a combat with the Naalu player, and the Naalu
+            player is using the ability of their flagship, the Matriarch, to commit
+            only fighters to the ground combat, Indoctrination cannot be used.
+    '4':
+      rule: If the last of a player’s ground forces in a ground combat are removed
+        by Indoctrination, that player loses the combat immediately. They will be
+        unable to use any “start of combat” abilities.
+- name: Devotion
+  rules:
+    '1':
+      rule: When resolving Devotion, the Yin player chooses which ship is assigned
+        the hit.
+      subrules:
+        '1.1':
+          rule: The Yin cannot choose their own ships as targets.
+        '1.2':
+          rule: The targeted ship may cancel the hit with its Sustain Damage ability,
+            if present. Other ships with the Sustain Damage ability cannot cancel
+            the hit.
+    '2':
+      rule: The Shields Holding action card may be used to cancel the hit.
+    '3':
+      rule: If a player retreats, the Yin player will be unable to use Devotion to
+        destroy an opponent’s ship.
+    '4':
+      rule: If the Yin player is in a combat with the N’orr player, then the two players
+        will alternate when resolving end of combat round abilities, starting with
+        the attacker.
+- name: Greyfire Mutagen (Promissory Note)
+  rules:
+    '1':
+      rule: Leader abilities, mech abilities and flagship abilities are not faction
+        abilities.
+- name: Greyfire Mutagen Ω (Promissory Note)
+  rules:
+    '1':
+      rule: A player may receive Greyfire Mutagen Ω in a transaction during a ground
+        combat. If received at the start of ground combat, that player may play it
+        immediately.
+      subrules:
+        '1.1':
+          rule: A transaction must involve the active player. As such, the defender
+            will be unable to receive Greyfire Mutagen Ω.
+        '1.2':
+          rule: The active player may perform a transaction with each other player
+            at most once per turn. As such, the active player cannot receive Greyfire
+            Mutagen Ω more than once per turn.
+        '1.3':
+          rule: If the active player received Greyfire Mutagen Ω on a previous turn,
+            they may play it and immediately perform a transaction with the Yin player
+            to regain it. However, Greyfire Mutagen Ω cannot be played twice in one
+            timing window. The active player cannot play Greyfire Mutagen Ω again
+            during the same ground combat.
+        '1.4':
+          rule: If an invasion involves ground combat on multiple planets, Greyfire
+            Mutagen Ω may be played at the start of each of them.
+- name: Impulse Core (Technology)
+  rules:
+    '1':
+      rule: When resolving Impulse Core, the Yin player’s opponent chooses which ship
+        is assigned the hit.
+    '2':
+      rule: Effects that cancel hits, such as the Sustain Damage ability, may be used
+        to cancel a hit produced by Impulse Core.
+    '3':
+      rule: Impulse Core will resolve before the Anti–Fighter Barrage step of a space
+        combat. As such, any destroyed destroyers will not make an anti–fighter barrage
+        roll.
+- name: Yin Spinner (Technology)
+  rules:
+    '1':
+      rule: The infantry may be placed on a planet that does not contain a unit with
+        Production.
+    '2':
+      rule: Other effects that produce units without a unit using its Production ability
+        will not trigger Yin Spinner.
+- name: Yin Spinner Ω (Technology)
+  rules:
+    '1':
+      rule: The two infantry must be placed together.
+    '2':
+      rule: Other effects that produce units without a unit using its Production ability
+        will trigger Yin Spinner Ω.
+- name: Van Hauge (Flagship)
+  rules:
+    '1':
+      rule: When the Van Hauge is destroyed, it will not destroy any of the Saar player’s
+        Floating Factories present in the system.
+    '2':
+      rule: The Van Hauge will not destroy ground forces in the system. However, each
+        player must then remove ground forces, if necessary, from the space area of
+        that system to meet capacity limits.
+    '3':
+      rule: As both players will have zero ships in the active system after the Van
+        Hauge is destroyed, the combat will end in a draw.
+- name: Brother Milor (Agent)
+  rules:
+    '1':
+      rule: If all of a player’s ships are destroyed during combat, they may still
+        place ships with this ability. If they do, combat will continue.
+      subrules:
+        '1.1':
+          rule: If that player’s opponent has no ships remaining, that player will
+            instead win that combat.
+    '2':
+      rule: Capacity is not checked during combat. As such a player may use Brother
+        Milor to place fighters into a space combat where they have no spare capacity.
+        After that combat ends, that player must remove fighters and/or ground forces
+        to meet their capacity limit in that system.
+    '3':
+      rule: If the Yin player uses Brother Milor after the Van Hauge is destroyed
+        during a space combat, they will win that combat.
+    '4':
+      rule: If all ships in the system are destroyed, and there are excess hits that
+        have not been assigned to a ship, those hits will lapse, and cannot be assigned
+        to the newly placed fighters.
+      subrules:
+        '4.1':
+          rule: If a ship uses its Sustain Damage ability, and is then destroyed by
+            a Direct Hit action card, then any remaining hits may be assigned to any
+            placed fighters.
+    '5':
+      rule: If all ships in the system are destroyed by hits produced from a space
+        cannon roll, the player that produced those hits may score the Turn Their
+        Fleets to Dust secret objective before the new fighters are placed.
+- name: Brother Milor Ω (Agent)
+  rules:
+    '1':
+      rule: Brother Milor Ω may only be used during the action phase.
+    '2':
+      rule: If all of a player’s units are destroyed during combat, they may still
+        place units with this ability. If they do, combat will continue.
+      subrules:
+        '2.1':
+          rule: If that player’s opponent has no units remaining, that player will
+            instead win that combat.
+    '3':
+      rule: Capacity is not checked during combat. As such a player may use Brother
+        Milor Ω to place fighters into a space combat where they have no spare capacity.
+        After that combat ends, that player must remove fighters and/or ground forces
+        to meet their capacity limit in that system.
+    '4':
+      rule: If the Yin player uses Brother Milor Ω after the Van Hauge is destroyed
+        during a space combat, they will win that combat.
+    '5':
+      rule: If all units in the combat are destroyed, and there are excess hits that
+        have not been assigned to a unit, those hits will lapse, and cannot be assigned
+        to the newly placed units.
+      subrules:
+        '5.1':
+          rule: If a ship uses its Sustain Damage ability, and is then destroyed by
+            a Direct Hit action card, then any remaining hits may be assigned to any
+            placed fighters.
+    '6':
+      rule: If all ships in the system are destroyed by hits produced from a space
+        cannon roll, the player that produced those hits may score the Turn Their
+        Fleets to Dust secret objective before the new fighters are placed.
+    '7':
+      rule: If all ground forces on a planet are destroyed by hits produced from a
+        bombardment roll, the player that produced those hits may score the Make an
+        Example of Their World secret objective before the new infantry are placed.
+    '8':
+      rule: If the Yin player uses Brother Milor Ω when a unit is destroyed that is
+        both a ground force and a ship due to some game effect, that unit’s owner
+        may place two fighters or two infantry.
+      subrules:
+        '8.1':
+          rule: If placed this way during a space combat, any newly placed infantry
+            cannot participate. If placed this way during a ground combat, any newly
+            placed fighters cannot participate.
+- name: Brother Omar (Commander)
+  rules:
+    '1':
+      rule: If the Regulated Conscription law is in play, the Yin player may produce
+        two infantry for one resource. This will count one towards their Production
+        limit.
+    '2':
+      rule: If a game effect instructs the Yin player to produce units without using
+        the Production ability, they may only produce infantry if that game effect
+        allows them to produce infantry.
+    '3':
+      rule: The Yin player may choose to produce one infantry for one resource. If
+        they do, they may produce one additional infantry.
+- name: Brother Omar Ω (Commander)
+  rules:
+    '1':
+      rule: The faction abilities to unlock Brother Omar are Indoctrination or Devotion.
+    '2':
+      rule: If another player owns a faction specific unit upgrade, it cannot be chosen
+        in order to gain the generic version of that unit upgrade by using Brother
+        Omar.
+      subrules:
+        '2.1':
+          rule: If another player has the Yin player’s Alliance promissory note, they
+            cannot use it to research a faction specific unit upgrade.
+- name: Dannel of the Tenth — Spinner Overdrive (Hero)
+  rules:
+    '1':
+      rule: The Yin player may ready a planet they control containing zero infantry.
+- name: Dannel of the Tenth Ω — Quantum Dissemination Ω (Hero)
+  rules:
+    '1':
+      rule: A total of three infantry may be placed. These may all be placed on one
+        planet, or placed one each on three planets, or split two/one between two
+        planets.
+    '2':
+      rule: Only the Commit Ground Forces, Ground Combat and Establish Control steps
+        of an invasion are resolved.
+    '3':
+      rule: The Yin player commits all infantry before resolving any combats.
+      subrules:
+        '3.1':
+          rule: Only the three infantry from the Yin player’s reinforcements may be
+            committed during the Commit Ground Forces step. Ground forces in the space
+            area above the planets cannot be committed.
+    '4':
+      rule: The Yin player may use their Indoctrination ability and their mech’s Deploy
+        ability.
+    '5':
+      rule: The Yin player does not activate the systems containing the planets that
+        they are committing infantry to. As such, any effects that trigger “when/after
+        a player activates a system” do not trigger.
+    '6':
+      rule: The Parley action card may be used on one planet when the Yin player resolves
+        Quantum Dissemination.
+      subrules:
+        '6.1':
+          rule: If the Yin player has no ships with capacity in the planet’s system,
+            then the infantry will be removed from the board.
+        '6.2':
+          rule: If the Yin player does have ships with capacity in the planet’s system,
+            then the infantry will be placed in the space area of the system. The
+            Yin player might then need to remove infantry and/or fighters from the
+            system to satisfy the capacity limit.
+- name: Moyin’s Ashes (Mech)
+  rules:
+    '1':
+      rule: A Deploy ability may only be resolved for units in a player’s reinforcements.
+        If all four Moyin’s Ashes are already on the board, no more may be deployed.
+      subrules:
+        '1.1':
+          rule: If a Moyin’s Ashes is destroyed during combat, another may be deployed
+            in a later combat during the same invasion.
+    '2':
+      rule: The removed unit must still be an infantry.
+    '3':
+      rule: The Deploy ability has a total cost of three influence. The Yin player
+        may exhaust a single planet with three or more influence to pay this cost.

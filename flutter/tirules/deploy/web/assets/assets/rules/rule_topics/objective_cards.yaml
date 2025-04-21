@@ -1,0 +1,140 @@
+cards:
+- name: Rules Reference
+  rules:
+    '61.1':
+      rule: 'There are two types of objective cards: public objectives and secret
+        objectives.'
+      subrules:
+        61.1.1:
+          rule: Each public objective has a “I” or “II” on the back of its card; all
+            other objectives are secret objectives.
+    '61.10':
+      rule: Players can score some objectives by spending resources, influence, or
+        tokens, as described by the objective card. To score such an objective, a
+        player must pay the specified cost at the time indicated on the card.
+    '61.11':
+      rule: When scoring a public objective, the player places one of their control
+        tokens on that objective’s card. Then, that player advances their control
+        token on the victory point track a number of spaces equal to the number of
+        victory points gained.
+    '61.12':
+      rule: Each game contains five stage I and five stage II public objective cards
+        that the speaker places facedown near the victory point track during setup.
+      subrules:
+        61.12.1:
+          rule: The speaker reveals two of the stage I objective cards during setup.
+            All other objective cards remain facedown.
+    '61.13':
+      rule: During each status phase, the speaker reveals a facedown public objective
+        card.
+      subrules:
+        61.13.1:
+          rule: The speaker does not reveal stage II objective cards until all stage
+            I objective cards are revealed.
+    '61.14':
+      rule: If the speaker must reveal a facedown public objective card but all public
+        objective cards are already revealed, the game ends immediately.
+      subrules:
+        61.14.1:
+          rule: The player with the most victory points is the winner. If one or more
+            players are tied for having the most victory points, the tied player who
+            is first in initiative order is the winner.
+    '61.15':
+      rule: A player cannot score public objectives if that player does not control
+        each planet in their home system.
+    '61.16':
+      rule: When scoring a secret objective, a player reveals the objective by placing
+        it faceup in their play area. Then, they place one of their control tokens
+        on that objective’s card and advances their control token on the victory point
+        track a number of spaces equal to the number of victory points gained.
+    '61.17':
+      rule: A player can only score their own secret objectives; a player cannot score
+        secret objectives revealed by other players.
+    '61.18':
+      rule: Each player begins the game with one secret objective.
+    '61.19':
+      rule: Each player can have up to three total scored and unscored secret objectives.
+      subrules:
+        61.19.1:
+          rule: If a player draws a secret objective and has more than three, that
+            player must choose one of their unscored secret objectives and return
+            it to the deck. Then, that player shuffles the secret objective deck.
+    '61.2':
+      rule: Each objective card indicates a number of victory points that a player
+        gains by scoring that objective.
+    '61.20':
+      rule: A player can gain secret objectives by resolving either the primary or
+        secondary ability of the Imperial strategy card.
+    '61.3':
+      rule: Each objective card indicates the phase during which a player can score
+        that objective – the status, action, or agenda phases.
+    '61.4':
+      rule: Each objective card describes the requirement a player must fulfill to
+        score that objective.
+    '61.5':
+      rule: If a player fulfills the requirement described on an objective card, they
+        can score that objective following the timing indicated on the card, either
+        during the action phase or the status phase.
+      subrules:
+        61.5.1:
+          rule: When a player scores an objective during the status phase, they must
+            fulfill the requirement on the card during the Score Objectives step of
+            the status phase to score that objective.
+        61.5.2:
+          rule: When a player scores an objective during the action phase, they can
+            do so at any time during that phase.
+        61.5.3:
+          rule: When a player scores an objective during the agenda phase, they can
+            do so at any time during that phase.
+    '61.6':
+      rule: A player can score a maximum of one public objective and one secret objective
+        during each status phase.
+    '61.7':
+      rule: A player can score any number of objectives during the agenda phase or
+        during a turn of the action phase; however, they can only score one objective
+        during or after each combat.
+      subrules:
+        61.7.1:
+          rule: A player can score an objective during both the space combat and the
+            ground combat during the same tactical action.
+    '61.8':
+      rule: A player can score each objective only once during the game.
+    '61.9':
+      rule: If an objective requires a player to destroy one or more units, those
+        units can be destroyed by producing hits against them, playing action cards,
+        using technology, or any number of other abilities that use the “destroy”
+        terminology.
+      subrules:
+        61.9.1:
+          rule: Forcing a player to remove a unit from the board by reducing the number
+            of command tokens in their fleet pool is not treated as destroying a unit.
+- name: Notes
+  rules:
+    '1':
+      rule: A status phase objective must have its condition met during the status
+        phase; any activity during the action phase is irrelevant.
+    '2':
+      rule: The number of secret objective cards in a player’s hand is public information.
+    '3':
+      rule: A player may choose to reveal any or all of the secret objective cards
+        in their hand, if they so choose.
+    '4':
+      rule: If multiple ground combats happen on separate planets as part of a single
+        invasion during one action, one secret objective may be scored during each.
+    '5':
+      rule: The Bombardment and Space Cannon steps happen outside of combat; any number
+        of secret objectives may be scored during those steps, and do not prevent
+        another secret objective being scored during combat that turn.
+      subrules:
+        '5.1':
+          rule: The Anti–Fighter Barrage step, however, is a step during combat.
+    '6':
+      rule: A player may score an action phase secret objective when they are not
+        the active player.
+    '7':
+      rule: A player with three scored secret objectives may draw a fourth. However,
+        they must immediately shuffle it into the secret objective deck.
+    '8':
+      rule: For notes about specific objective cards, see the objective card component
+        notes page.
+- name: Related Topics

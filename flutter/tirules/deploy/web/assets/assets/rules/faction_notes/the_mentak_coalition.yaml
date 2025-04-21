@@ -1,0 +1,187 @@
+cards:
+- name: Ambush
+  rules:
+    '1':
+      rule: Game effects that reroll, modify, or otherwise affect combat rolls do
+        not affect dice rolls made when resolving the Ambush ability.
+    '2':
+      rule: If a cruiser or destroyer is removed before the Mentak player can resolve
+        their Ambush ability, that ship cannot be one of the ships used when they
+        do resolve their Ambush ability.
+    '3':
+      rule: The Shields Holding action card may be used to cancel the hit.
+    '4':
+      rule: A ship may cancel the hit by using its Sustain Damage ability, if present.
+      subrules:
+        '4.1':
+          rule: If the chosen ship does so, the Direct Hit and/or Reflective Shielding
+            action cards may be played.
+- name: Pillage
+  rules:
+    '1':
+      rule: While the agenda phase and the Hacan player’s Trade Convoys promissory
+        note allow a player to resolve transactions with all other players, they do
+        not make that player neighbors with the Mentak player.
+    '2':
+      rule: Effects that force players to give objects to other players are not transactions.
+      subrules:
+        '2.1':
+          rule: If Alice plays Bob’s Trade Agreement promissory note, then the Mentak
+            player may use Pillage on Alice, but not Bob.
+    '3':
+      rule: If the Creuss player has units or controls planets in a system with an
+        alpha wormhole, and the Mentak player has units or controls planets in a system
+        with a beta wormhole, or vice versa, then the Creuss player and Mentak player
+        are neighbors. The Mentak player may thus use their Pillage ability against
+        the Creuss player.
+    '4':
+      rule: If the Winnu player owns Lazax Gate Folding, then the Mentak player may
+        become neighbors with the Winnu player during the Winnu player’s tactical
+        action. If so, the Mentak player may use their Pillage ability during this
+        time.
+    '5':
+      rule: If a player would gain multiple trade goods one at a time, the Mentak
+        player can use their Pillage ability for each trade good.
+    '6':
+      rule: If a game effect instructs a player to convert their commodities to trade
+        goods, that player does not gain any trade goods from that effect. The Mentak
+        player cannot use their Pillage ability for those trade goods.
+    '7':
+      rule: The Mentak player may use their Pillage ability even if the transaction
+        does not involve trade goods.
+    '8':
+      rule: The Mentak player may use their Pillage ability against both players involved
+        in a transaction.
+    '9':
+      rule: If the Mentak player resolves a transaction with another player, they
+        may then use their Pillage ability against that player.
+      subrules:
+        '9.1':
+          rule: The Mentak player does not decide to use their Pillage ability until
+            after the transaction has been resolved. Any deal made to not use their
+            Pillage ability before the transaction has been resolved is non–binding.
+- name: Promise of Protection (Promissory Note)
+  rules:
+    '1':
+      rule: If the player with Promise of Protection in their play area resolves a
+        transaction with another player, the Mentak player may still use their Pillage
+        ability on that other player.
+    '2':
+      rule: Promise of Protection has no effect while it is in a player’s hand.
+    '3':
+      rule: Promise of Protection is returned when the system is activated, even if
+        the active player will perform no hostile acts towards the Mentak player this
+        turn.
+    '4':
+      rule: Activating a system containing only the Mentak player’s structures will
+        still cause Promise of Protection to be returned.
+    '5':
+      rule: If an effect other than activating a system during a tactical action places
+        a command counter in a system with the Mentak player’s units (for example,
+        the primary ability of the Diplomacy strategy card), this will not cause Promise
+        of Protection to be returned.
+- name: Mirror Computing (Technology)
+  rules:
+    '1':
+      rule: If an effect specifically requires that trade goods are spent (for example,
+        the Negotiate Trade Routes objective), Mirror Computing does not increase
+        the value of those trade goods.
+- name: Salvage Operations (Technology)
+  rules:
+    '1':
+      rule: The produced unit must be paid for.
+    '2':
+      rule: If the space combat ends in a draw, Salvage Operations has no effect.
+    '3':
+      rule: If the Mentak player wishes to place a unit using their Salvage Operations
+        ability, but there are none of that type left in their reinforcements, they
+        can remove a unit of that type from any system that does not contain one of
+        their command tokens and place that instead.
+    '4':
+      rule: If the opponent has a faction specific ship, including their flagship,
+        destroyed, the Mentak player may use their Salvage Operations to produce a
+        generic ship of the same type, or their Fourth Moon, as appropriate.
+    '5':
+      rule: The Mentak player cannot produce ground forces using Salvage Operations,
+        even if their opponent has the ability to treat a ground force as a ship.
+    '6':
+      rule: The Mentak player cannot produce a war sun unless they have their war
+        sun technology.
+- name: Fourth Moon (Flagship)
+- name: Suffi An (Agent)
+- name: S’ula Mentarion (Commander)
+  rules:
+    '1':
+      rule: The Mentak player’s opponent chooses which promissory note they give to
+        the Mentak player.
+- name: Ipswitch, Loose Cannon — Sleeper Cell (Hero)
+  rules:
+    '1':
+      rule: The Mentak player can trigger the Sleeper Cell ability, their Ambush ability,
+        or any other “at the start of a space combat” abilities they have in any order.
+    '10':
+      rule: If the Fourth Moon is destroyed during combat, but the Mentak player then
+        destroys their opponent’s flagship and places the Fourth Moon back into the
+        combat, they cannot score the Unveil Flagship objective.
+      subrules:
+        '10.1':
+          rule: If the Mentak player starts the combat without the Fourth Moon, and
+            places it during the combat, they may score the Unveil Flagship objective
+            if the Fourth Moon is not destroyed.
+    '11':
+      rule: If a destroyed unit is a ground force or structure, that the other player
+        is treating as a ship due to some effect, the Mentak player cannot place that
+        unit.
+    '12':
+      rule: The Mentak player cannot place a war sun unless they have their war sun
+        technology.
+    '13':
+      rule: The opponent may still retreat during combat.
+    '2':
+      rule: If ships are destroyed before the Sleeper Cell ability is triggered, the
+        Mentak player cannot place those units.
+    '3':
+      rule: Fleet pool limits still apply during combat. However, if the Mentak player
+        is at their fleet pool limit, they may still place a unit using this ability,
+        but must then immediately remove a unit.
+    '4':
+      rule: Capacity is not checked during combat. As such, the Mentak player may
+        place an unlimited number of fighters into a combat with this ability.
+    '5':
+      rule: If all of the Mentak player’s ships are destroyed, they may still place
+        ships with this ability. If they do, combat will continue.
+    '6':
+      rule: No costs are paid for the placed units.
+    '7':
+      rule: Both players will choose and destroy one of their own ships in the active
+        system for each hit their opponent produced during each round of combat, before
+        the Mentak player places their ships for the Sleeper Cell ability. As such,
+        the Mentak player may place a ship that was destroyed in the same round of
+        combat, if they destroyed one of their opponent’s ships of the same type,
+        even if they had none of that ship type in their reinforcements.
+      subrules:
+        '7.1':
+          rule: When players would use their ships’ Sustain Damage abilities, they
+            do so in alternating order, starting with the attacker. If the Mentak
+            player uses a Direct Hit action card to destroy one of their opponent’s
+            ships, they must then make the choice immediately if they will replace
+            it using the Sleeper Cell ability, before any other ships may use their
+            Sustain Damage ability. Should the Mentak version of the newly placed
+            ship type have a Sustain Damage ability, it may then use it during the
+            same combat round.
+    '8':
+      rule: If the Mentak player wishes to place a unit with this ability, but there
+        are none of that type left in their reinforcements, they may remove a unit
+        of that type from any system that does not contain one of their command tokens
+        and place that instead. This unit will be placed undamaged.
+    '9':
+      rule: If the opponent has a faction specific ship, including their flagship,
+        destroyed, the Mentak player may place a generic ship of the same type, or
+        their Fourth Moon, as appropriate.
+- name: Moll Terminus (Mech)
+  rules:
+    '1':
+      rule: If a player commits a mech to a planet that contains both a Moll Terminus
+        mech and a PDS belonging to the Mentak player, then the committed mech cannot
+        use its Sustain Damage ability to cancel any Space Cannon hits during that
+        invasion.

@@ -1,0 +1,15 @@
+cards:
+- name: Rules Reference
+  rules:
+    '18.1':
+      rule: During combat, if a unit’s combat roll produces a result equal to or greater
+        than its combat value, it produces a hit.
+    '18.2':
+      rule: If a unit’s combat value contains two or more burst icons, instead of
+        rolling a single die, the player rolls one die for each burst icon when making
+        that unit’s combat rolls.
+- name: Notes
+  rules:
+    '1':
+      rule: The “0” side of the d10 represents a result of 10.
+- name: Related Topics

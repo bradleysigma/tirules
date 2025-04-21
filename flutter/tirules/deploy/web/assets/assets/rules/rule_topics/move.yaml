@@ -1,0 +1,12 @@
+cards:
+- name: Rules Reference
+  rules:
+    '57.1':
+      rule: A unit’s move value indicates the distance from its current system that
+        it can move during the Movement step of a tactical action.
+- name: Notes
+  rules:
+    '1':
+      rule: When an effect moves a unit to an adjacent system, modifying that unit’s
+        move value will have no effect.
+- name: Related Topics

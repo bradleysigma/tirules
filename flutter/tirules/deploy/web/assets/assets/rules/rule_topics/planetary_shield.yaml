@@ -1,0 +1,37 @@
+cards:
+- name: Rules Reference
+  rules:
+    '65.1':
+      rule: The Planetary Shield ability does not prevent a planet from being affected
+        by the X–89 Bacterial Weapon technology.
+    '65.2':
+      rule: The Planetary Shield ability prevents an L1Z1X player from using their
+        Harrow faction ability.
+    '65.3':
+      rule: If a war sun is in a system with any number of other players’ units that
+        have the Planetary Shield ability, those units are treated as if they do not
+        have that ability.
+      subrules:
+        65.3.1:
+          rule: Units treated as if they do not have a Planetary Shield ability cannot
+            use the Magen Defense Grid technology.
+        65.3.2:
+          rule: A war sun can use its Bombardment ability against planets that contain
+            units that have the Planetary Shield ability.
+- name: Notes
+  rules:
+    '1':
+      rule: A unit with the Planetary Shield ability on a planet does not stop of
+        the use of a unit’s Bombardment ability on other planets in the same system.
+    '2':
+      rule: The Planetary Shield ability prevents the use of the X–89 Bacterial Weapon
+        Ω technology.
+    '3':
+      rule: If a war sun causes a unit to be treated as if it does not have a Planetary
+        Shield ability, that unit may still use the ability of the Magen Defense Grid
+        Ω technology.
+    '4':
+      rule: If a war sun causes a unit to be treated as if it does not have a Planetary
+        Shield ability, all units in that system with a Bombardment ability may use
+        it against the planet that unit is on.
+- name: Related Topics
