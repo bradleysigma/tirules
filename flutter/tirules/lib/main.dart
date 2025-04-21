@@ -188,31 +188,9 @@ final GoRouter router = GoRouter(
   ],
 );
 
-class MainApp extends StatefulWidget {
+class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
-  @override
-  State<MainApp> createState() => _MainAppState();
-}
-
-class _MainAppState extends State<MainApp> {
-  Map rules = {};
-
-  @override
-  void initState() {
-    super.initState();
-    loadContent("assets/rules/component_notes/action_cards.yaml");
-  }
-
-  Future<void> loadContent(String path) async {
-    final yamlString = await rootBundle.loadString(path);
-    final yamlMap = loadYaml(yamlString) as Map;
-
-    setState(() {
-      rules = yamlMap;
-    });
-  }
-  
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
