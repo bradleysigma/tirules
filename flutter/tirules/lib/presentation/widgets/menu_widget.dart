@@ -41,7 +41,7 @@ class _MenuWidgetState extends State<MenuWidget> {
     return [for (RuleCategory category in GetIt.I<RulesRepository>().getParentCategories()) ExpansionTile(
       title: Text(category.displayName),
       children: [
-        for (RuleCategory childCategory in GetIt.I<RulesRepository>().getChildCategories(category: category)) ListTile(
+        for (RuleCategory childCategory in GetIt.I<RulesRepository>().getChildCategories(category)) ListTile(
           title: Text(childCategory.displayName),
           onTap: () {
             setState(() {

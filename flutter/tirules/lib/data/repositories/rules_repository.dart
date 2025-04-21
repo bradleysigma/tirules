@@ -5,9 +5,10 @@ import 'package:yaml/yaml.dart';
 
 abstract class RulesRepository {
   RuleCategory? getCategory(String name);
+  RuleCategory? getCategoryByDisplayName(String displayName);
   List<RuleCategory> getParentCategories();
-  List<RuleCategory> getChildCategories({required RuleCategory category});
-  Future<Rules?> getRules({required RuleCategory category});
+  List<RuleCategory> getChildCategories(RuleCategory category);
+  Future<Rules?> getRules(RuleCategory category);
 }
 
 class YamlRulesRepository implements RulesRepository {
@@ -16,10 +17,11 @@ class YamlRulesRepository implements RulesRepository {
   final Map<RuleCategory, List<RuleCategory>> _childCategories;
   final Map<RuleCategory, RuleCategory> _childToParentCategory;
   final List<RuleCategory> _categories;
+  final Map<String, RuleCategory> _nameToCategory;
   final Map<String, RuleCategory> _displayNameToCategory;
   final Map<RuleCategory, Rules> _rules = {};
   
-  YamlRulesRepository(this._configPath, this._parentCategories, this._childCategories, this._childToParentCategory, this._categories, this._displayNameToCategory);
+  YamlRulesRepository(this._configPath, this._parentCategories, this._childCategories, this._childToParentCategory, this._categories, this._nameToCategory, this._displayNameToCategory);
   factory YamlRulesRepository._create(
     String configPath,
     Map<dynamic, dynamic> rootConfig
@@ -51,12 +53,17 @@ class YamlRulesRepository implements RulesRepository {
       ]
     ];
 
+    Map<String, RuleCategory> nameToCategory = {
+      for (var ruleCategory in categories)
+      ruleCategory.name: ruleCategory
+    };
+
     Map<String, RuleCategory> displayNameToCategory = {
       for (var ruleCategory in categories)
       ruleCategory.displayName: ruleCategory
     };
 
-    return YamlRulesRepository(configPath, parentCategories, childCategories, childToParentCategory, categories, displayNameToCategory);
+    return YamlRulesRepository(configPath, parentCategories, childCategories, childToParentCategory, categories, nameToCategory, displayNameToCategory);
   }
 
   static Future<YamlRulesRepository> create(String configPath) async {
@@ -72,7 +79,12 @@ class YamlRulesRepository implements RulesRepository {
   
   @override
   RuleCategory? getCategory(String name) {
-    return _displayNameToCategory[name];
+    return _nameToCategory[name];
+  }
+
+  @override
+  RuleCategory? getCategoryByDisplayName(String displayName) {
+    return _displayNameToCategory[displayName];
   }
 
   @override
@@ -81,12 +93,12 @@ class YamlRulesRepository implements RulesRepository {
   }
 
   @override
-  List<RuleCategory> getChildCategories({required RuleCategory category}) {
+  List<RuleCategory> getChildCategories(RuleCategory category) {
     return _childCategories[category] ?? [];
   }
 
   @override
-  Future<Rules?> getRules({required RuleCategory category}) async {
+  Future<Rules?> getRules(RuleCategory category) async {
     // Make sure the category is valid
     if (!_categories.contains(category)) {
       throw Exception("The category '$category' is invalid");
@@ -103,8 +115,8 @@ class YamlRulesRepository implements RulesRepository {
       if (parentCategory == null) {
         throw Exception("The category '$category' does not have a parent");
       }
-
-      Map<dynamic, dynamic> config = await _loadConfigFile("$_configPath/${parentCategory.name}/${category.name}");
+      
+      Map<dynamic, dynamic> config = await _loadConfigFile("$_configPath/${parentCategory.name}/${category.name}.yaml");
       _rules[category] = Rules.fromMap(config);
     }
     
