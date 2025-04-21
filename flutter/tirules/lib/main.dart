@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
+import 'package:go_router/go_router.dart';
 import 'package:yaml/yaml.dart';
 
 void main() {
@@ -77,6 +78,7 @@ class RulesWidget extends StatelessWidget {
   }
 }
 
+typedef MenuItemSelectedCallback = void Function(String category, String childCategory);
 class MenuWidget extends StatefulWidget {
   final String rootPath;
   final MenuItemSelectedCallback onItemSelected;
@@ -129,7 +131,7 @@ class _MenuWidgetState extends State<MenuWidget> {
           title: Text(childCategory),
           onTap: () {
             setState(() {
-              widget.onItemSelected(category, childCategory);
+              widget.onItemSelected(category.toLowerCase().replaceAll(" ", "_"), childCategory.toLowerCase().replaceAll(" ", "_"));
             });
           },
         )
@@ -138,7 +140,53 @@ class _MenuWidgetState extends State<MenuWidget> {
   }
 }
 
-typedef MenuItemSelectedCallback = void Function(String category, String childCategory);
+Future<Map> loadContent(String path) async {
+  final yamlString = await rootBundle.loadString(path, cache: true);
+  return loadYaml(yamlString) as Map;
+}
+
+final GoRouter router = GoRouter(
+  routes: [
+    ShellRoute(
+      builder: (BuildContext context, GoRouterState state, Widget child) {
+        return Scaffold(
+          appBar: AppBar(title: Text('TI Rules')),
+          drawer: MenuWidget(rootPath: "assets/rules/root.yaml", onItemSelected: (category, childCategory) => {
+            GoRouter.of(context).go('/rules/$category/$childCategory')
+          },),
+          body: child,
+        );
+      },
+      routes: [
+        GoRoute(
+          path: '/',
+          builder: (context, state) => const Text('Home screen'),
+        ),
+        GoRoute(
+          path: '/rules/:category/:childCategory',
+          builder: (context, state) {
+            final category = state.pathParameters['category']!;
+            final childCategory = state.pathParameters['childCategory']!;
+
+            Future<Map> data = loadContent("assets/rules/$category/$childCategory.yaml");
+            return FutureBuilder<Map>(
+              future: data,
+              builder: (BuildContext context, AsyncSnapshot<Map> snapshot) {
+                if (snapshot.hasData) {
+                  return RulesWidget(rules: snapshot.data ?? {});
+                } else if (snapshot.hasError) {
+                  return Text('An unexpected error has occurred');
+                } else {
+                  return Text('Loading...');
+                }
+              }
+            );
+          }
+        )
+      ]
+    ),
+  ],
+);
 
 class MainApp extends StatefulWidget {
   const MainApp({super.key});
@@ -167,16 +215,9 @@ class _MainAppState extends State<MainApp> {
   
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(
-        appBar: AppBar(title: Text('TI Rules')),
-        drawer: MenuWidget(rootPath: "assets/rules/root.yaml", onItemSelected: (category, childCategory) => {
-          setState(() {
-            loadContent("assets/rules/${category.toLowerCase().replaceAll(" ", "_")}/${childCategory.toLowerCase().replaceAll(" ", "_")}.yaml");
-          })
-        },),
-        body: RulesWidget(rules: rules),
-      ),
+    return MaterialApp.router(
+      title: 'TI Rules',
+      routerConfig: router
     );
   }
 }
