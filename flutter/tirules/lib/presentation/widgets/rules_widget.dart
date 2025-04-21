@@ -11,15 +11,17 @@ class RulesWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     List<Widget> sections = [for (RuleSection section in rules.sections) generateSection(section)];
 
-    return ListView(
-      key: Key(rules.name),
-      children: [
-        Center(child: Text(
-          rules.name,
-          textScaler: TextScaler.linear(3)
-        )),
-        ...sections
-      ]
+    return SelectionArea(
+      child: ListView(
+        key: Key(rules.name),
+        children: [
+          Center(child: Text(
+            rules.name,
+            textScaler: TextScaler.linear(3)
+          )),
+          ...sections
+        ]
+      )
     );
   }
 
