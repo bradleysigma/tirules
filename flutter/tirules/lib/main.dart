@@ -33,7 +33,21 @@ final GoRouter router = GoRouter(
           builder:(context, snapshot) {
             if(snapshot.hasData) {
               return Scaffold(
-                appBar: AppBar(title: Text('TI Rules')),
+                appBar: AppBar(
+                  title: Row(children: [
+                    Text("TI Rules"),
+                    SearchAnchor(
+                      builder: (context, controller) {
+                        return SearchBar(
+                          controller: controller
+                        );
+                      },
+                      suggestionsBuilder: (context, controller) {
+                        return [Text("hello world")];
+                      },
+                    )
+                  ])
+                ),
                 drawer: MenuWidget(rootPath: "assets/rules/root.yaml", onItemSelected: (category, childCategory) => {
                   GoRouter.of(context).go('/rules/$category/$childCategory')
                 },),
