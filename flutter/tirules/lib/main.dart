@@ -1,12 +1,19 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:go_router/go_router.dart';
+import 'package:tirules/data/repositories/rules_repository.dart';
 import 'package:yaml/yaml.dart';
+import 'package:get_it/get_it.dart';
 
 import 'package:tirules/presentation/widgets/menu_widget.dart';
 import 'package:tirules/presentation/widgets/rules_widget.dart';
 
+void setup() {
+  // Makes the rules repository accessible everywhere as a singleton
+  GetIt.I.registerSingleton<RulesRepository>(YamlRulesRepository(configPath: "assets/rules"));
+}
 void main() {
+  setup();
   runApp(const MainApp());
 }
 
