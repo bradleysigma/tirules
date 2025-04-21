@@ -8,12 +8,16 @@ import 'package:get_it/get_it.dart';
 import 'package:tirules/presentation/widgets/menu_widget.dart';
 import 'package:tirules/presentation/widgets/rules_widget.dart';
 
-void setup() {
+void setup() async {
   // Makes the rules repository accessible everywhere as a singleton
-  GetIt.I.registerSingleton<RulesRepository>(YamlRulesRepository(configPath: "assets/rules"));
+  GetIt.I.registerSingletonAsync<RulesRepository>(() async => YamlRulesRepository.create("assets/rules"));
+  
+  // Wait for all to become ready
+  await GetIt.I.allReady();
 }
-void main() {
+void main() async {
   setup();
+
   runApp(const MainApp());
 }
 

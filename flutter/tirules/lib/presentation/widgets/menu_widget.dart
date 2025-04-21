@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:get_it/get_it.dart';
+import 'package:tirules/data/models/rule_category.dart';
+import 'package:tirules/data/repositories/rules_repository.dart';
 import 'package:tirules/main.dart';
 
 typedef MenuItemSelectedCallback = void Function(String category, String childCategory);
@@ -13,20 +16,9 @@ class MenuWidget extends StatefulWidget {
 }
 
 class _MenuWidgetState extends State<MenuWidget> {
-  Map contents = {};
-  
   @override
   void initState() {
     super.initState();
-    loadContent();
-  }
-
-  Future<void> loadContent() async {
-    final yamlMap = await loadConfigFile(widget.rootPath);
-
-    setState(() {
-      contents = yamlMap;
-    });
   }
   
   @override
@@ -46,15 +38,14 @@ class _MenuWidgetState extends State<MenuWidget> {
   }
 
   List<Widget> generateContents() {
-    return [for (var category in contents.keys) ExpansionTile(
-      title: Text(category),
+    return [for (RuleCategory category in GetIt.I<RulesRepository>().getParentCategories()) ExpansionTile(
+      title: Text(category.displayName),
       children: [
-        for (var childCategory in contents[category].keys) ListTile(
-          title: Text(childCategory),
+        for (RuleCategory childCategory in GetIt.I<RulesRepository>().getChildCategories(category: category)) ListTile(
+          title: Text(childCategory.displayName),
           onTap: () {
             setState(() {
-              // TODO: Make this more robust
-              widget.onItemSelected(category.toLowerCase().replaceAll(" ", "_"), childCategory.toLowerCase().replaceAll(" ", "_"));
+              widget.onItemSelected(category.name, childCategory.name);
             });
           },
         )
