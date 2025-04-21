@@ -30,6 +30,24 @@ class Rules {
   static RuleSection _parseSection(Map section) {
     final String name = section.containsKey("name") ? section["name"] : "???";
     final List<Rule> rules = section.containsKey("rules") ? _parseRules(section["rules"]) : [];
+
+    // Sort the rules in numeric ascending order based on their order
+    rules.sort((a, b) {
+      List<int> parseOrder(String order) =>
+        order.split('.').map(int.parse).toList();
+
+      final List<int> orderA = parseOrder(a.order);
+      final List<int> orderB = parseOrder(b.order);
+
+      for (int i = 0; i < orderA.length && i < orderB.length; i++) {
+        if (orderA[i] != orderB[i]) {
+          return orderA[i].compareTo(orderB[i]);
+        }
+      }
+
+      return orderA.length.compareTo(orderB.length);
+    });
+
     return RuleSection(name, rules);
   }
 
