@@ -15,14 +15,15 @@ class RuleSection {
 }
 
 class Rules {
+  final String name;
   final List<RuleSection> sections;
 
-  Rules(this.sections);
-  factory Rules.fromMap(Map<dynamic, dynamic> map) {
+  Rules(this.name, this.sections);
+  factory Rules.fromMap(String name, Map<dynamic, dynamic> map) {
     if (map.containsKey("cards")) {
-      return Rules([for (Map section in map["cards"]) _parseSection(section)]);
+      return Rules(name, [for (Map section in map["cards"]) _parseSection(section)]);
     } else {
-      return Rules([]);
+      return Rules(name, []);
     }
   }
 

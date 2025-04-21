@@ -9,10 +9,17 @@ class RulesWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    List<Widget> cards = [for (RuleSection section in rules.sections) generateSection(section)];
+    List<Widget> sections = [for (RuleSection section in rules.sections) generateSection(section)];
 
     return ListView(
-      children: cards,
+      key: Key(rules.name),
+      children: [
+        Center(child: Text(
+          rules.name,
+          textScaler: TextScaler.linear(3)
+        )),
+        ...sections
+      ]
     );
   }
 

@@ -117,7 +117,7 @@ class YamlRulesRepository implements RulesRepository {
       }
       
       Map<dynamic, dynamic> config = await _loadConfigFile("$_configPath/${parentCategory.name}/${category.name}.yaml");
-      _rules[category] = Rules.fromMap(config);
+      _rules[category] = Rules.fromMap(category.displayName, config);
     }
     
     return _rules[category];
