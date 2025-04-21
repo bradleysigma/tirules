@@ -7,6 +7,11 @@ void main() {
   runApp(const MainApp());
 }
 
+Future<Map> loadConfigFile(String path) async {
+  final yamlString = await rootBundle.loadString(path, cache: true);
+  return loadYaml(yamlString) as Map;
+}
+
 class OrderedListItem {
    final int level;
    final String text;
@@ -97,6 +102,14 @@ class _MenuWidgetState extends State<MenuWidget> {
     super.initState();
     loadContent();
   }
+
+  Future<void> loadContent() async {
+    final yamlMap = await loadConfigFile(widget.rootPath);
+
+    setState(() {
+      contents = yamlMap;
+    });
+  }
   
   @override
   Widget build(BuildContext context) {
@@ -114,15 +127,6 @@ class _MenuWidgetState extends State<MenuWidget> {
     );
   }
 
-  Future<void> loadContent() async {
-    final yamlString = await rootBundle.loadString(widget.rootPath);
-    final yamlMap = loadYaml(yamlString) as Map;
-
-    setState(() {
-      contents = yamlMap;
-    });
-  }
-
   List<Widget> generateContents() {
     return [for (var category in contents.keys) ExpansionTile(
       title: Text(category),
@@ -131,6 +135,7 @@ class _MenuWidgetState extends State<MenuWidget> {
           title: Text(childCategory),
           onTap: () {
             setState(() {
+              // TODO: Make this more robust
               widget.onItemSelected(category.toLowerCase().replaceAll(" ", "_"), childCategory.toLowerCase().replaceAll(" ", "_"));
             });
           },
@@ -138,11 +143,6 @@ class _MenuWidgetState extends State<MenuWidget> {
       ]
     )];
   }
-}
-
-Future<Map> loadContent(String path) async {
-  final yamlString = await rootBundle.loadString(path, cache: true);
-  return loadYaml(yamlString) as Map;
 }
 
 final GoRouter router = GoRouter(
@@ -168,7 +168,7 @@ final GoRouter router = GoRouter(
             final category = state.pathParameters['category']!;
             final childCategory = state.pathParameters['childCategory']!;
 
-            Future<Map> data = loadContent("assets/rules/$category/$childCategory.yaml");
+            Future<Map> data = loadConfigFile("assets/rules/$category/$childCategory.yaml");
             return FutureBuilder<Map>(
               future: data,
               builder: (BuildContext context, AsyncSnapshot<Map> snapshot) {
