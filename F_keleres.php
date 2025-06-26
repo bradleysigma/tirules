@@ -85,6 +85,7 @@
     <ol class="note">
     <li>The trade good to unlock Suffi An is spent after, and independent of, any trade goods spent while resolving the action card.</li>
     <li>If the Keleres player uses their additional action to perform another component action, they may perform another additional action. They may do this any number of times.</li>
+    <li>Suffi An does not trigger from the action card used to unlock her. This means that the action that unlocks Suffi An does not provide an additional action.</li>
     </ol>
 
 <h1>Harka Leeds &mdash; Erwan&rsquo;s Covenant <sub>(Hero)</sub></h1>
