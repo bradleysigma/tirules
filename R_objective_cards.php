@@ -46,6 +46,7 @@
 <h1>Notes</h1>
     <ol class="note">
     <li>A status phase objective must have its condition met during the status phase; any activity during the action phase is irrelevant.</li>
+    <li>Any number of players may score a given public objective during the status phase. Players are not blocked from scoring an objective if another player earlier in initiative order scores it first, unless the earlier player achieved victory and ended the game by doing so.</li>
     <li>The number of secret objective cards in a player&rsquo;s hand is public information.</li>
     <li>A player may choose to reveal any or all of the secret objective cards in their hand, if they so choose.</li>
     <li>If multiple ground combats happen on separate planets as part of a single invasion during one action, one secret objective may be scored during each.</li>

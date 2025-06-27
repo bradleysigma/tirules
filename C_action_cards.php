@@ -553,6 +553,7 @@
 <h1>Spy</h1>
     <ol class="note">
     <li><i>Spy</i> cannot target a player with zero action cards in their hand.</li>
+    <li>If the targeted player has <i>Reverse Engineer</i> in their hand, they must first give a random action card to the player who played <i>Spy</i>. Only if the card they gave was not <i>Reverse Engineer</i> may then then play it to take <i>Spy</i> into their hand from the discard pile.</li>
     </ol>
 
 <h1>Summit</h1>

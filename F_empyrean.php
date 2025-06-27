@@ -70,6 +70,7 @@
     <li>While the agenda phase and the Hacan player&rsquo;s <i>Trade Convoys</i> promissory note allow a player to resolve transactions with all other players, they do not make that player neighbors with all other players.</li>
     <li>Any movement of ships can trigger this ability, not just movement during the <b>Move Ships</b> step of a tactical action.</li>
     <li>If the Empyrean player becomes neighbors with all players when the final player moves ships into a system containing one of the Empyrean player&rsquo;s command tokens, Xuange will unlock, but the Empyrean player will not be able to resolve its ability from that movement.</li>
+    <li>If the Empyrean player moves a ship into a system containing one of the Saar player&rsquo;s Floating Factories, and no other ships, that Floating Factory will by blockaded and destroyed before the Empyrean player can unlock Xuange. If the Empyrean and Saar players are not neighbors in any other way, then Xuange will not unlock.</li>
     </ol>
 
 <h1>Conservator Procyon &mdash; Multiverse Shift <sub>(Hero)</sub></h1>

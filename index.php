@@ -164,6 +164,7 @@
     <ol class="note">
         <li><a href="/C_action_cards">Action Cards</a></li>
         <li><a href="/C_agendas">Agendas</a></li>
+        <li><a href="/C_events">Events</a></li>
         <li><a href="/C_exploration_cards">Exploration Cards</a></li>
         <li><a href="/C_objectives">Objectives</a></li>
         <li><a href="/C_promissory_notes">Promissory Notes</a></li>

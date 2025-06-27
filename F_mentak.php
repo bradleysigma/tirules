@@ -60,9 +60,9 @@
 <h1>S&rsquo;ula Mentarion <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>The Mentak player&rsquo;s opponent chooses which promissory note they give to the Mentak player.</li>
-    <li>If the Mentak player resolves their <i>Salvage Operations</i> faction technology after winning a space combat to place their fourth cruiser, their commander does not trigger for that combat.</li>
-    <li>If the Mentak player unlocks their commander during combat, for example by placing their fourth cruiser due to the effect of <i>Sleeper Cell</i>, they can use the commander at the end of that combat if they win.</li>
-    <ol><li>The four cruisers do not need to survive until the end of combat, the commander at the moment that the fourth cruiser is placed.</li></ol>
+    <li>If the Mentak player resolves their <i>Salvage Operations</i> to place their fourth cruiser faction technology after winning a space combat, they cannot use the ability of S&rsquo;ula Mentarion from winning that combat.</li>
+    <li>If the Mentak player places their fourth cruiser during combat, such as by the effect of <i>Sleeper Cell</i>, they may unlock and use the ability of S&rsquo;ula Mentarion at the end of that combat, should they win.</li>
+    <ol><li>The four cruisers need not survive until the end of combat; S&rsquo;ula Mentarion is unlocked from the placement of the fourth cruiser on the game board.</li></ol>
     </ol>
 
 <h1>Ipswitch, Loose Cannon &mdash; Sleeper Cell <sub>(Hero)</sub></h1>

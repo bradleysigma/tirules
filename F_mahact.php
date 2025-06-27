@@ -9,6 +9,7 @@
     <ol><li>If a player has no command tokens in their reinforcements or on their command sheet, the Mahact player cannot place one of that player&rsquo;s command tokens on their command sheet if they win a combat against that player.</li></ol>
     <li>If the Mahact player is required to place a command token from their reinforcements on the board, such as when they retreat from a space combat, or the primary ability of the <i>Diplomacy</i> strategy card, if they have no tokens in their reinforcements, they must use a Mahact token from any pool of their command sheet, and not another player&rsquo;s token in their fleet pool.</li>
     <li>When the Mahact player wins a space combat, they add the command token to their fleet pool before they resolve fleet pool requirements.</li>
+    <li>If the Mahact player wins a combat against the Mentak player and gains one of their command tokens, they cannot resolve the ability of S&rsquo;ula Mentarion, the Mentak commander, from winning that same combat to take a promissory note from the Mentak player.</li>
     </ol>
 
 <h1>Imperia</h1>
@@ -92,6 +93,11 @@
     <ol>
         <li>Any abilities that occur &ldquo;when/after you/another player activate a system&rdquo; will not trigger.</li>
         <li>The <b>Space Cannon Offense</b> substep is not resolved.</li>
+    </ol>
+    <li>Either player in the combat may score the <i>Brave the Void</i>, <i>Darken the Skies</i>, <i>Demonstrate Your Power</i>, <i>Destroy their Greatest Ship</i>, <i>Fight with Precision</i>, <i>Spark a Rebellion</i>, or <i>Unveil Flagship</i> secret objectives.</li>
+    <ol>
+        <li>The Mahact player cannot score these secret objectives unless they are participating in the combat.</li>
+        <li>No player may score the <i>Betray a Friend</i> secret objective.</li>
     </ol>
     </ol>
 

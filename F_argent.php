@@ -16,7 +16,11 @@
     <ol><li>If any of the anti&ndash;fighter barrage dice are rerolled, the number of ships that become damaged will depend only on the rerolled values.</li></ol>
     <li>The Argent player may choose a damaged ship. This will have no effect.</li>
     <li>The chosen ship becomes damaged, it does not use its <sc>Sustain Damage</sc> ability. As such, effects that trigger when a ship uses its <sc>Sustain Damage</sc> ability, such as the <i>Direct Hit</i> or <i>Reflective Shielding</i> action cards, cannot be played.</li>
-    <ol><li>The chosen ship may be repaired by the <i>Duranium Armor</i> technology later in the same round of combat.</li></ol>
+    <ol>
+        <li>The chosen ship may be repaired by the <i>Duranium Armor</i> technology later in the same round of combat.</li>
+        <li>If the Letnev player owns their <i>Non&ndash;Euclidean Shielding</i> faction technology, this will not reduce the number of ships that the Argent player chooses.</li>
+        <li>The ships cannot be repaired by the effect of the Empyrean player&rsquo;s flagship, the Dynamo.</li>
+    </ol>
     <li>If the Argent player plays the <i>Waylay</i> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be assigned.</li>
     <ol><li>For example, say the opponent has three fighters and three dreadnoughts, undamaged. The Argent player plays <i>Waylay</i>, and rolls five hits. This allows them to cause two of the dreadnoughts to become damaged. The opponent then has to assign all five hits. The final dreadnought may use its <sc>Sustain Damage</sc> ability to cancel one of those hits.</li></ol>
     <li>If the Argent player is in combat with the Nekro player, and the Nekro player has their mechs participating in the space combat via the effects of <i>The Alastor</i>, those mechs may become damaged by the effect of <sc>Raid Formation</sc>.</li>

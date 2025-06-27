@@ -72,8 +72,11 @@
     <li>The Nekro player cannot copy faction&ndash;specific units that have not been upgraded.</li>
     <li>A faction&rsquo;s mech is not a technology. The Nekro player cannot use a <i>Valefar Assimilator</i> to copy a mech.</li>
     <li>If the Nekro player has a generic unit upgrade, and gains a faction&ndash;specific unit upgrade, then the faction&ndash;specific version will be in effect. If the faction&ndash;specific unit upgrade is later lost, they revert to the generic unit upgrade.</li>
-    <ol><li>Owning two unit upgrades for the same type of unit in this manner only counts as one unit upgrade towards the <i>Develop Weaponry</i> and <i>Revolutionize Warfare</i> objectives.</li></ol>
-    <li>If another player returns a technology which is currently being copied by a <i>Valefar Assimilator</i>, it will remain copied with a <i>Valefar Assimilator</i> token on it while in that player&rsquo;s technology deck.</li>
+    <ol>
+        <li>Owning two unit upgrades for the same type of unit in this manner only counts as one unit upgrade towards the <i>Develop Weaponry</i> and <i>Revolutionize Warfare</i> objectives.</li>
+        <li>If the Nekro player gains a faction&ndash;specific infantry unit upgrade technology while they own the generic Infantry II unit upgrade technology and they have infantry on that unit upgrade card that would be placed in their home system at the start of their next turn, then those infantry are transferred to the <i>Valefar Assimilator</i> card that they are using to copy the faction&ndash;specific infantry unit upgrade.
+    </ol>
+    <li>If another player returns a technology which is currently being copied by a <i>Valefar Assimilator</i>, it will remain copied with a Valefar Assimilator token on it while in that player&rsquo;s technology deck.</li>
     <li>For the <i>Adapt New Strategies</i> objective, a <i>Valefar Assimilator</i> technology will count if and only if it is currently copying another technology.</li>
     <li>For notes about technologies of a specific faction, see that faction&rsquo;s notes.</li>
     <li>If the Nekro player has copied certain technology (possibly two or more at different points in time), the following apply:</li>
@@ -91,6 +94,7 @@
         <li>If the Muaat player&rsquo;s <i>Magmus Reactor</i> is lost, the Nekro player&rsquo;s units may remain in and move out of any supernovae they are currently in, but cannot move additional units into or through.</li>
         <li>If the Vuil&rsquo;raith player&rsquo;s Dimensional Tear II is lost, the dimensional tear tokens are removed from under the Nekro player&rsquo;s space docks; the systems are no longer gravity rifts (unless the system tile is a printed gravity rift).</li>
         <li>If a unit upgrade that provides that unit with the <sc>Sustain Damage</sc> ability is lost, any damaged units will remain damaged, until either the status phase or another effect repairs them.</li>
+        <li>The Nekro player may lose a faction&ndash;specific infantry unit upgrade technology, while they have infantry on the unit upgrade card that would be placed in their home system at the start of their next turn. If they are moving the Valefar Assimilator token to a different faction&ndash;specific infantry unit upgrade technology, the infantry remain on the <i>Valefar Assimilator</i> card. Else, if they own the generic Infantry II unit upgrade technology, the infantry are transferred to that unit upgrade card. Otherwise, the infantry are returned to the Nekro player&rsquo;s reinforcements.</li>
     </ol>
     </ol>
 

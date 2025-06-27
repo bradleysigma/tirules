@@ -48,7 +48,10 @@
     <ol>
         <li>Players alternate using the <sc>Sustain Damage</sc> ability of their units, one at a time, starting with the active player, and continuing until both players decline, in a row, to use the <sc>Sustain Damage</sc> of one of their units. If both the Saar player and their opponent have a <i>Direct Hit</i>, then the first unit to use <sc>Sustain Damage</sc> will be the first unit that may be destroyed by a <i>Direct Hit</i>. If the Saar player&rsquo;s unit is the last to be destroyed, and leaves no other ships in the system, then a Floating Factory in that system will not be blockaded nor destroyed.</li>
     </ol>
+    <li>If, at the end of the combat, the Saar player has no ships, an their opponent has only fighters, then any Floating Factories in the system will be blockaded, and thus destroyed, before the fighters are removed due to lack of capacity.</li>
+    <ol><li>If the Nekro player has only ground forces participating in the combat as ships due to the effect of their flagship, the Alastor, those ground forces will blockade and destroy any Floating Factories, even if those ground forces are on planets instead of in the space area.</li></ol>
     <li>When resolving an ability of the <i>Construction</i> strategy card, the Saar player must control a planet in the system they place a Floating Factory in.</li>
+    <ol><li>The Saar player cannot place a Floating Factory in a system if the only planet they control in that system has the <i>Demilitarized Zone</i> cultural exploration card attached.</li></ol>
     <li>If an effect allows a Floating Factory to move through a system that contains another player&rsquo;s ships (such as the <i>Light/Wave Deflectors</i> technology), it will not be blockaded in systems it moves through.</li>
     <li>If a Floating Factory is in a system that contains none of the Saar player&rsquo;s ships, and another player moves ships into that system, the Floating Factory is immediately destroyed.</li>
     <ol>

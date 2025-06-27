@@ -112,6 +112,7 @@
 <h1>Dannel of the Tenth &Omega; &mdash; Quantum Dissemination &Omega; <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>A total of three infantry may be placed. These may all be placed on one planet, or placed one each on three planets, or split two/one between two planets.</li>
+    <li>The Yin player may commit infantry to Mallice even if the wormhole nexus has not been flipped to its active side. Doing so will cause the wormhole nexus to flip.</li>
     <li>Only the <b>Commit Ground Forces</b>, <b>Ground Combat</b> and <b>Establish Control</b> steps of an invasion are resolved.</li>
     <li>The Yin player commits all infantry before resolving any combats.</li>
     <ol><li>Only the three infantry from the Yin player&rsquo;s reinforcements may be committed during the <b>Commit Ground Forces</b> step. Ground forces in the space area above the planets cannot be committed.</li></ol>

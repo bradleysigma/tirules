@@ -26,7 +26,7 @@
         <li>If the two systems are adjacent because of two types of wormholes, the player chooses which type of wormhole the ship moves through.</li>
         <li>A player may move a ship back and forth through a wormhole between two systems any number of times, if its movement value is high enough.</li>
     </ol>
-    <li>For more information on how the Creuss interact with wormholes, see <a href="/F_creuss">their faction notes page</a>.</li>
+    <li>For additional information on how the Creuss interact with wormholes, see <a href="/F_creuss">their faction notes page</a>.</li>
     </ol>
 
 <h1>Related Topics</h1>

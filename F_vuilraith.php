@@ -5,6 +5,7 @@
     <ol class="note">
     <li>When an opponent&rsquo;s Infantry II is destroyed during combat, the Vuil&rsquo;raith player captures an infantry token, and the opponent rolls for resurrection, placing the destroyed infantry on the Infantry II unit upgrade card if successful.</li>
     <li>The Vuil&rsquo;raith player cannot capture the Ul player&rsquo;s Hel Titan PDS.</li>
+    <li>For additional information, see the <a href="/R_capture">Capture rules reference page</a>.</li>
     </ol>
 
 <h1>Amalgamation</h1>
