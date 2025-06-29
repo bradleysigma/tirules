@@ -46,7 +46,7 @@
 <h1>Infantry</h1>
     <ol class="note">
     <li>If a player controls no planets in their home system, at the start of their turn, any Infantry II that have been placed on that player&rsquo;s Infantry II unit upgrade technology card are returned to that player&rsquo;s reinforcements.</li>
-    <li>A player need not use one of their twelve plastic infantry units to represent the infantry on their Infantry II unit upgrade card that will be placed in their home system at the start of their next turn, and may use cardboard infantry tokens to represent any and all of these infantry.</li>
+    <li>A player need not use one of their twelve plastic infantry units to represent the infantry on their Infantry II unit upgrade card that will be placed in their home system at the start of their next turn, and may use cardboard infantry tokens to represent any and all of these infantry.</li>
     </ol>
 
 <h1>PDS</h1>

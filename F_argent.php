@@ -18,7 +18,7 @@
     <li>The chosen ship becomes damaged, it does not use its <sc>Sustain Damage</sc> ability. As such, effects that trigger when a ship uses its <sc>Sustain Damage</sc> ability, such as the <i>Direct Hit</i> or <i>Reflective Shielding</i> action cards, cannot be played.</li>
     <ol>
         <li>The chosen ship may be repaired by the <i>Duranium Armor</i> technology later in the same round of combat.</li>
-        <li>If the Letnev player owns their <i>Non&ndash;Euclidean Shielding</i> faction technology, this will not reduce the number of ships that the Argent player chooses.</li>
+        <li>If the Letnev player owns their <i>Non&ndash;Euclidean Shielding</i> faction technology, this will not reduce the number of ships that the Argent player chooses.</li>
         <li>The ships cannot be repaired by the effect of the Empyrean player&rsquo;s flagship, the Dynamo.</li>
     </ol>
     <li>If the Argent player plays the <i>Waylay</i> action card, hits in excess of their opponent&rsquo;s fighters will first cause chosen ships to become damaged, then those same hits must still be assigned.</li>

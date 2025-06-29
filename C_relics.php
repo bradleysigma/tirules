@@ -16,6 +16,7 @@
     <li>The player that owns <i>Circlet of the Void</i> may move through or into supernovae and/or asteroid fields.</li>
     <li>The player that owns <i>Circlet of the Void</i> may move through nebulae, and their ships in nebulae do not have their movement values reduced.</li>
     <li>The player that owns <i>Circlet of the Void</i> still applies the movement bonus to their ships that will move through gravity rifts.</li>
+    <li>The player that owns <i>Circlet of the Void</i> will still ignore anomaly movement effects and not roll for gravity rifts if <i>Circlet of the Void</i> is exhausted.</li>
     </ol>
 
 <h1>The Codex</h1>

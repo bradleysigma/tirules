@@ -15,6 +15,7 @@
 <h1>Age of Exploration</h1>
     <ol class="note">
     <li>If there are no more blue&ndash;backed or red&ndash;backed tiles available, a player does not place any tile if they roll the corresponding dice result.</li>
+    <li>The <i>Dark Energy Tap</i> technology retains all its printed abilities when it is exhausted.</li>
     </ol>
 
 <h1>Minor Factions</h1>
