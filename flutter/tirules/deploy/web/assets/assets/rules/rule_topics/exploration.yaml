@@ -1,0 +1,81 @@
+cards:
+- name: Rules Reference
+  rules:
+    '35.1':
+      rule: When a player takes control of a planet that is not already controlled
+        by another player, they explore that planet.
+    '35.2':
+      rule: When a player explores a planet, they draw and resolve a card from the
+        exploration deck that corresponds to that planet’s trait.
+      subrules:
+        35.2.1:
+          rule: 'There are three planetary exploration decks, each of which corresponds
+            to a planet trait: cultural, hazardous, and industrial.'
+        35.2.2:
+          rule: Planets that do not have traits, such as Mecatol Rex and planets in
+            home systems, cannot be explored.
+        35.2.3:
+          rule: If a planet has multiple traits, the player exploring the planet chooses
+            which of the corresponding exploration decks to draw from.
+        35.2.4:
+          rule: If a player gains control of multiple planets or resolves multiple
+            explore effects at the same time, they choose the order in which they
+            resolve those explorations, completely resolving each exploration card
+            before resolving the next.
+    '35.3':
+      rule: Certain abilities may allow a planet to be explored multiple times.
+    '35.4':
+      rule: Players can explore space areas that contain frontier tokens if they own
+        the Dark Energy Tap technology or if another game effect allows them to.
+      subrules:
+        35.4.1:
+          rule: Frontier tokens are placed in systems during setup and by specific
+            abilities.
+    '35.5':
+      rule: When a player explores a frontier token, they draw and resolve a card
+        from the frontier exploration deck.
+    '35.6':
+      rule: After a frontier token is explored, it is discarded and returned to the
+        supply.
+    '35.7':
+      rule: To resolve an exploration card, a player reads the card, makes any necessary
+        decisions, and resolves its ability. If the card was not a relic fragment
+        or an attachment, it is discarded into its respective discard pile.
+      subrules:
+        35.7.1:
+          rule: If there are no cards in an exploration deck, its discard pile is
+            shuffled to form a new exploration deck.
+    '35.8':
+      rule: If a player resolves an exploration card that has an “attach” header,
+        they attach that card to the planet card of the planet being explored.
+    '35.9':
+      rule: If a player resolves an exploration card that has “relic fragment” in
+        the title, they place that card faceup in their play area.
+      subrules:
+        35.9.1:
+          rule: Players can resolve the ability of relic fragments that are in their
+            play area. Resolving these abilities allows players to draw cards from
+            the relic deck.
+        35.9.2:
+          rule: Relic fragments can be exchanged as part of transactions.
+- name: Notes
+  rules:
+    '1':
+      rule: An exploration cards that purges itself is not discarded into its respective
+        discard pile.
+    '2':
+      rule: Enigmatic Device and Ion Storm are placed into play, not into the frontier
+        discard pile.
+    '3':
+      rule: If a player is to gain multiple planets in a system, they choose the order
+        in which they gain them, and explore each planet as they gain it before gaining
+        the next.
+    '4':
+      rule: A player may perform transactions after revealing an exploration card
+        and before resolving it.
+    '5':
+      rule: Before resolving an exploration card, it is revealed to all players.
+    '6':
+      rule: For notes about specific exploration cards, see the exploration cards
+        notes page.
+- name: Related Topics

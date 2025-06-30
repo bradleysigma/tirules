@@ -1,0 +1,26 @@
+cards:
+- name: Rules Reference
+  rules:
+    '6.1':
+      rule: A system that has a wormhole is treated as being adjacent to a system
+        that has a matching wormhole.
+    '6.2':
+      rule: A unit or planet is adjacent to all system tiles that are adjacent to
+        the system tile that contains that unit or planet.
+      subrules:
+        6.2.1:
+          rule: A system is not adjacent to itself.
+    '6.3':
+      rule: A planet is treated as being adjacent to the system that contains that
+        planet.
+    '6.4':
+      rule: Systems that are connected by lines drawn across one or more hyperlane
+        tiles are adjacent for all purposes.
+- name: Notes
+  rules:
+    '1':
+      rule: A unit is not adjacent to the system it is in.
+    '2':
+      rule: The Wormhole Nexus and the Creuss home system are only adjacent to tiles
+        via wormholes.
+- name: Related Topics

@@ -1,0 +1,40 @@
+cards:
+- name: Rules Reference
+  rules:
+    '71.1':
+      rule: A card that is readied is placed faceup in a player’s play area; a card
+        that is exhausted is placed facedown in a player’s area.
+    '71.2':
+      rule: A player can exhaust a readied planet card to spend resources or influence
+        from that card’s planet.
+    '71.3':
+      rule: A player can exhaust certain readied technology cards to resolve those
+        cards’ abilities.
+      subrules:
+        71.3.1:
+          rule: Such a technology will specifically instruct a player to exhaust the
+            card as part of the ability’s cost.
+    '71.4':
+      rule: If a card is exhausted, a player cannot resolve that card’s abilities
+        or spend resources or influence on that card until it is readied.
+    '71.5':
+      rule: During a Ready Cards step, each player readies all of their exhausted
+        cards by flipping them faceup.
+    '71.6':
+      rule: When a player performs a strategic action, they exhaust their chosen strategy
+        card.
+      subrules:
+        71.6.1:
+          rule: That card is later readied during the status phase.
+- name: Notes
+  rules:
+    '1':
+      rule: Passive abilities on an exhausted card are still in effect while that
+        card is exhausted.
+    '2':
+      rule: Planets will also ready at the end of each agenda phase. Leaders, relics
+        and technologies will not.
+    '3':
+      rule: If a game effect instructs a player to ready a planet, the readied planet
+        must be controlled by that player, unless the game effect specifies otherwise.
+- name: Related Topics

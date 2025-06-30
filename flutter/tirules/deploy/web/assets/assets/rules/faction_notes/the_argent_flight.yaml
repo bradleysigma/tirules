@@ -1,0 +1,130 @@
+cards:
+- name: Zeal
+  rules:
+    '1':
+      rule: Additional votes must be cast for the same outcome as the other votes
+        the Argent player cast.
+      subrules:
+        '1.1':
+          rule: If the Argent player abstains or otherwise casts zero votes, they
+            cannot cast additional votes.
+    '2':
+      rule: The Argent player always votes first, even if they are the speaker.
+    '3':
+      rule: Other players vote in their regular order after the Argent player votes;
+        clockwise starting with the player to the left of the speaker (skipping over
+        the Argent player as necessary).
+- name: Raid Formation
+  rules:
+    '1':
+      rule: The Anti–Fighter Barrage step happens during each space combat, even if
+        no fighters are present in the system.
+    '2':
+      rule: Raid Formation occurs when hits are produced, not after hits are assigned.
+        As such, cancelling any hits will not prevent an opponent’s ships from becoming
+        damaged.
+      subrules:
+        '2.1':
+          rule: If any of the anti–fighter barrage dice are rerolled, the number of
+            ships that become damaged will depend only on the rerolled values.
+    '3':
+      rule: The Argent player may choose a damaged ship. This will have no effect.
+    '4':
+      rule: The chosen ship becomes damaged, it does not use its Sustain Damage ability.
+        As such, effects that trigger when a ship uses its Sustain Damage ability,
+        such as the Direct Hit or Reflective Shielding action cards, cannot be played.
+      subrules:
+        '4.1':
+          rule: The chosen ship may be repaired by the Duranium Armor technology later
+            in the same round of combat.
+    '5':
+      rule: If the Argent player plays the Waylay action card, hits in excess of their
+        opponent’s fighters will first cause chosen ships to become damaged, then
+        those same hits must still be assigned.
+      subrules:
+        '5.1':
+          rule: For example, say the opponent has three fighters and three dreadnoughts,
+            undamaged. The Argent player plays Waylay, and rolls five hits. This allows
+            them to cause two of the dreadnoughts to become damaged. The opponent
+            then has to assign all five hits. The final dreadnought may use its Sustain
+            Damage ability to cancel one of those hits.
+    '6':
+      rule: If the Argent player is in combat with the Nekro player, and the Nekro
+        player has their mechs participating in the space combat via the effects of
+        The Alastor, those mechs may become damaged by the effect of Raid Formation.
+- name: Strike Wing Ambuscade (Promissory Note)
+- name: Aerie Hololattice (Technology)
+  rules:
+    '1':
+      rule: The planet with “Production 1” is considered to be on itself for the purposes
+        of producing ground forces.
+    '2':
+      rule: A player with the Light/Wave Deflector technology cannot move their ships
+        through systems containing the Argent player's structures, if the Argent player
+        owns Aerie Hololattice.
+- name: Strike Wing Alpha (Unit)
+  rules:
+    '1':
+      rule: When a Strike Wing Alpha II rolls a 9 or 10 for their anti–fighter barrage
+        ability, infantry are destroyed at the end of the Roll Dice step. This occurs
+        before any ship may use its Sustain Damage ability at the start of the Assign
+        Hits step.
+    '2':
+      rule: Effects that cancel hits, such as the Shields Holding action card, cannot
+        prevent the infantry from being destroyed. If an effect rerolls any anti–fighter
+        barrage dice, the new result will determine how many infantry are destroyed.
+    '3':
+      rule: If the last of a player’s ground forces are destroyed by the ability of
+        a Strike Wing Alpha II, and that player meets the other conditions for elimination,
+        that player is immediately eliminated. All of their units are removed from
+        the board, and the Argent player wins the combat.
+- name: Quetzecoatl (Flagship)
+  rules:
+    '1':
+      rule: A player may still use the Space Cannon ability of their units against
+        the Argent player’s ground forces during the Space Cannon Defense step of
+        an invasion in this system.
+- name: Trilossa Aun Mirik (Agent)
+- name: Trrakan Aun Zulok (Commander)
+  rules:
+    '1':
+      rule: Ships that gain Bombardment due to the Blitz action card will contribute
+        to the unlock condition.
+      subrules:
+        '1.1':
+          rule: The Experimental Battlestation action card will not contribute.
+    '2':
+      rule: “Combat” is a unit attribute, not a unit ability.
+- name: Mirik Aun Sissiri — Helix Protocol (Hero)
+  rules:
+    '1':
+      rule: Fighters may be moved without being transported.
+    '2':
+      rule: Ships in systems with one of the Argent player’s command tokens may move.
+    '3':
+      rule: Ships may transport units only if their origin system does not contain
+        one of the Argent player’s command tokens.
+      subrules:
+        '3.1':
+          rule: A future rule change will allow a player’s ships to transport units
+            from systems that contain that player’s command token when those ships
+            move outside of a tactical action.
+    '4':
+      rule: Ships move directly to their destination system. They may only transport
+        units from their origin system.
+    '5':
+      rule: Ships moving out of a gravity rift must roll for removal.
+    '6':
+      rule: Ships cannot move into a nebula or supernova, even if it contains one
+        of the Argent player’s command tokens.
+      subrules:
+        '6.1':
+          rule: Ships may travel into an asteroid field only if the Argent player
+            has the Antimass Deflectors technology.
+    '7':
+      rule: Helix Protocol may be used to move ships into the wormhole nexus. If the
+        nexus is inactive, this will cause it to activate.
+- name: Aerie Sentinel (Mech)
+  rules:
+    '1':
+      rule: An Aerie Sentinel cannot be transported by a ship without a capacity value.

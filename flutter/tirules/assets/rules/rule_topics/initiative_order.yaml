@@ -1,0 +1,46 @@
+cards:
+- name: Rules Reference
+  rules:
+    '48.1':
+      rule: Initiative order is determined by the initiative numbers on strategy cards.
+      subrules:
+        48.1.1:
+          rule: A player who has the Naalu “0” token has the initiative number “0”.
+    '48.2':
+      rule: Initiative order begins with the player who has the lowest–numbered strategy
+        card and proceeds to the player who has the strategy card that is next in
+        numerical order.
+      subrules:
+        48.2.1:
+          rule: Only strategy cards that were chosen during the strategy phase are
+            used when determining initiative order; strategy cards not chosen during
+            the strategy phase are ignored.
+    '48.3':
+      rule: When playing with three or four players, a player’s initiative is determined
+        only by their lowest–numbered strategy card.
+- name: Notes
+  rules:
+    '1':
+      rule: If there are multiple abilities that players wish to resolve at the same
+        time during the action phase, initiative order will determine the order they
+        are resolved in. See the abilities page for more details.
+    '2':
+      rule: 'The initiative order of all strategy cards is:'
+      subrules:
+        '2.1':
+          rule: Leadership
+        '2.2':
+          rule: Diplomacy
+        '2.3':
+          rule: Politics
+        '2.4':
+          rule: Construction
+        '2.5':
+          rule: Trade
+        '2.6':
+          rule: Warfare
+        '2.7':
+          rule: Technology (S.C.)
+        '2.8':
+          rule: Imperial
+- name: Related Topics

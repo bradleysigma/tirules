@@ -1,0 +1,14 @@
+cards:
+- name: Rules Reference
+  rules:
+    '86.1':
+      rule: A ship cannot move through or into a supernova.
+- name: Notes
+  rules:
+    '1':
+      rule: If a ship finds itself in a supernova by some uncommon game effect, it
+        may remain there and move out without harm.
+    '2':
+      rule: A future rule change will place the ship movement restrictions of anomalies
+        upon all units.
+- name: Related Topics

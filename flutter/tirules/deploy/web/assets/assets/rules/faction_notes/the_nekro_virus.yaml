@@ -1,0 +1,405 @@
+cards:
+- name: Galactic Threat
+  rules:
+    '1':
+      rule: The Nekro player may still play rider action cards.
+    '2':
+      rule: If the Nekro player has the Xxcha player’s Alliance promissory note, the
+        Nekro player may vote, without losing their ability to predict outcomes for
+        their Galactic Threat ability.
+    '3':
+      rule: If the speaker breaks a tie without casting any votes, then the speaker’s
+        technology are ineligible to be gained.
+      subrules:
+        '3.1':
+          rule: If no player casts votes, then no technology can be gained.
+- name: Technology Singularity
+  rules:
+    '1':
+      rule: If the Nekro player gains a technology during a space combat, this does
+        not prevent them from gaining technology during ground combats in the Invasion
+        step of the same tactical action.
+    '2':
+      rule: If multiple ground combats happen on separate planets as part of a single
+        Invasion step during one action, the Nekro player may gain a technology during
+        each combat.
+    '3':
+      rule: Any method that destroys a unit during combat will trigger Technology
+        Singularity, including an anti–fighter barrage roll, the Direct Hit action
+        card, the Creuss player’s Dimensional Splicer faction technology, etc.
+      subrules:
+        '3.1':
+          rule: This includes any method used by the Nekro player’s opponent that
+            destroys their own units, usually as an ability cost.
+        '3.2':
+          rule: If a unit is removed, but not destroyed, that unit will not trigger
+            the Technology Singularity ability.
+        '3.3':
+          rule: Space cannon and bombardment rolls happen outside of combat. Any hits
+            produced cannot be used to trigger the Technology Singularity ability.
+    '4':
+      rule: If the Nekro player chooses to gain a unit upgrade technology, that upgrade
+        will be in effect from that point in the combat onwards.
+      subrules:
+        '4.1':
+          rule: The combat value of a combat dice is fixed as it is rolled, and all
+            combat dice are rolled before any hits are assigned. Gaining a unit upgrade
+            technology will not cause any already rolled combat dice to produce any
+            additional hits due to an improved combat value. The same applies to unit
+            ability dice.
+        '4.2':
+          rule: Destroying an opponent’s unit during the Anti–Fighter Barrage step,
+            and gaining a unit upgrade technology will allow units of that type to
+            use the abilities and attributes of the upgrade for the combat rolls of
+            the same round.
+        '4.3':
+          rule: Destroying an opponent’s unit at the start of a combat, such as with
+            the ability of the Assault Cannon technology, and gaining a unit upgrade
+            technology with an Anti–Fighter Barrage ability will allow units of that
+            type to use that ability during the Anti–Fighter Barrage step of the first
+            round of combat.
+        '4.4':
+          rule: If the Nekro player uses the Direct Hit action card to destroy a unit
+            when it uses its Sustain Damage ability, this will occur before any units
+            are destroyed from being assigned hits. If the Nekro player then gains
+            a technology that gives their units the Sustain Damage ability, they may
+            then use that ability for their units participating in the combat to cancel
+            hits produced by their opponent during that round of combat.
+        '4.5':
+          rule: Players resolve abilities in initiative order, starting from the active
+            player, until all players decline to resolve an ability consecutively;
+            players who declined to resolve an ability previously may choose to resolve
+            an ability if another player does so. While every player has the opportunity
+            to resolve an ability, it is most common for only the two players involved
+            in the combat to do so. Say the Nekro player does not have the Dreadnought
+            II unit upgrade. If they use the Sustain Damage ability of one of their
+            dreadnoughts, then their opponent may destroy it with a Direct Hit action
+            card. If the Nekro player does not use the Sustain Damage ability (or
+            any other ability within the same timing window), then their opponent
+            may choose to use the Sustain Damage ability of one of their units (or
+            any other ability within the same timing window). If they do not, then
+            the timing window advances, and no more units may use their Sustain Damage
+            abilities to cancel any of the remaining hits. If the opponent does, however,
+            use the Sustain Damage ability of one of their units, the Nekro player
+            may then destroy it with a Direct Hit action card, if it is an eligible
+            target. After that, the Nekro player may choose to use the Sustain Damage
+            ability of one of their units, even if they had previously declined to
+            do so; if they gained the Dreadnought II unit upgrade when they destroyed
+            their opponent’s non-dreadnought unit with the Direct Hit action card,
+            then their opponent can no longer destroy the Nekro player’s with their
+            own Direct Hit action card.
+    '5':
+      rule: If the Nekro player destroys a unit, and gains a technology with an ability
+        that is used during the same timing window, they may use that ability immediately.
+      subrules:
+        '5.1':
+          rule: For example, if the Nekro player uses the ability of the Assault Cannon
+            technology at the start of a space combat to destroy a unit belonging
+            to the Creuss player, and thus place a Valefar token on that player’s
+            Dimensional Splicer faction technology, the Nekro player may immediately
+            use the ability of their Valefar Dimensional Splicer to produce a hit
+            against one of the Creuss player’s ships.
+    '6':
+      rule: If the Nekro player gains the Infantry II unit upgrade from their Technology
+        Singularity ability during a combat, any of the Nekro player’s infantry destroyed
+        at the same time as the unit used to trigger the Technology Singularity ability
+        will be returned to their reinforcements.
+      subrules:
+        '6.1':
+          rule: If the Nekro player uses a Direct Hit action card to destroy an opponent’s
+            unit, and gain the Infantry II unit upgrade, then any infantry destroyed
+            in that Assign Hits step will roll to be placed on the Infantry II card.
+            This will most commonly occur if the Nekro player has infantry participating
+            in space combat via the ability of their flagship, The Alastor.
+        '6.2':
+          rule: Any infantry destroyed by the Argent player’s Strike Wing Alpha II
+            faction unit ability are destroyed during the Roll Dice substep of the
+            Anti–Fighter Barrage step. The Nekro player will not have the opportunity
+            to gain the Infantry II unit upgrade until the Assign Hits substep immediately
+            following, and so the destroyed infantry will be returned to their reinforcements.
+- name: Propagation
+  rules:
+    '1':
+      rule: If the Nekro player resolves an ability that instructs them to “gain”
+        a technology, instead of “research” that technology, they will get that technology
+        instead of the command tokens.
+    '2':
+      rule: The Nekro player may still resolve the primary or secondary abilities
+        of the Technology strategy card, which will instead gain them command tokens.
+      subrules:
+        '2.1':
+          rule: The Nekro player may still benefit from owning the Minister of Sciences
+            agenda card.
+    '3':
+      rule: If an ability triggers “when” a player researches a technology, that ability
+        will still be triggered by the Nekro player.
+      subrules:
+        '3.1':
+          rule: If the Nekro player owns The Prophet’s Tears relic, they may draw
+            an action card whenever they would research a technology.
+    '4':
+      rule: If an ability triggers “after” a player researches a technology, that
+        ability will never be triggered by the Nekro player.
+      subrules:
+        '4.1':
+          rule: If the Anti–Intellectual Revolution law is in play, the Nekro player
+            will not destroy a ship when they would research a technology.
+    '5':
+      rule: The Nekro player may play any action card that would allow them to research
+        a technology, even if there is no viable technology that the Nekro player
+        could have researched.
+      subrules:
+        '5.1':
+          rule: For example, the Nekro player may always play the Reveal Prototype
+            action card at the start of combat, even if they would not meet the prerequisites
+            of any of the unit upgrades for the units they have participating in the
+            combat, and/or they already have the unit upgrades for each unit they
+            have participating in the combat, and/or the units they have participating
+            in the combat have no unit upgrade.
+- name: Antivirus (Promissory Note)
+  rules:
+    '1':
+      rule: The effect of Antivirus does not prevent the Nekro player gaining a technology
+        from a player via their Galactic Threat ability.
+    '2':
+      rule: The player holding Antivirus may only play it at the start of a combat
+        they are participating in.
+      subrules:
+        '2.1':
+          rule: Antivirus may be played at the start of a combat that the Nekro player
+            is not participating in.
+    '3':
+      rule: Antivirus has no effect while it is in a player’s hand.
+    '4':
+      rule: Antivirus is returned when the system is activated, even if the active
+        player will perform no hostile acts towards the Nekro player this turn.
+    '5':
+      rule: Activating a system containing only the Nekro player’s structures will
+        still cause Antivirus to be returned.
+    '6':
+      rule: If an effect other than activating a system during a tactical action places
+        a command counter in a system with the Nekro player’s units (for example,
+        the primary ability of the Diplomacy strategy card), this will not cause Antivirus
+        to be returned.
+- name: Valefar Assimilator (Technology)
+  rules:
+    '1':
+      rule: When copying another technology, each Valefar Assimilator retains its
+        original text; it may later be used to copy a different faction technology.
+    '10':
+      rule: 'If the Nekro player has copied certain technology (possibly two or more
+        at different points in time), the following apply:'
+      subrules:
+        '10.1':
+          rule: If both the Saar player’s Floating Factory II and the Vuil’raith player’s
+            Vortex are copied, and another player blockades a Nekro space dock, the
+            Nekro player returns any captured units, then destroys the blockaded space
+            dock.
+        '10.2':
+          rule: If both the Letnev player’s Non–Euclidean Shielding and the generic
+            Duranium Armor technologies are copied, then a space combat between the
+            Nekro player and the Letnev player in certain circumstances may result
+            in neither player being able to win. If this happens, the attacker must
+            declare a retreat. If the attacker cannot do so, they destroy all their
+            units in that combat.
+        '10.3':
+          rule: If both the Muaat player’s Magmus Reactor and the Saar player’s Floating
+            Factory II are copied, the Nekro player may move their space docks into
+            supernovae.
+        '10.4':
+          rule: If the Saar player’s Floating Factory II is copied, both the Nekro
+            player and the Saar player may have their space docks in the same system,
+            if there are no ships in that system.
+        '10.5':
+          rule: 'If the N’orr player’s Exotrireme II is copied, and the Nekro player
+            is in a combat with the N’orr player, then the players will alternate
+            when resolving end of combat round abilities, starting with the active
+            player (all players may resolve abilities in initiative order, but it
+            is most common for only the two players involved in the combat to want
+            to resolve abilities). For example, if the attacking player has two Exotriremes
+            II in the system and the defender has four, assuming both players are
+            hostile towards each other, the most likely sequence is as follows: The
+            attacker activates one of their Exotriremes II, leaving them with one
+            and the defender with two; The defender activates one of their Exotriremes
+            II leaving them with one and the attacker with none.'
+    '11':
+      rule: 'The Nekro player may lose a technology if they copy a new one. If they
+        lose certain technologies, the following apply:'
+      subrules:
+        '11.1':
+          rule: If the Saar player’s Floating Factory II is lost, each space dock
+            the Nekro player controls must be placed on a planet they control in the
+            same system, or the space dock is removed.
+        '11.2':
+          rule: If the Muaat player’s Prototype War Sun II is lost, and the Nekro
+            player does not have the generic war sun technology, each of their war
+            suns are removed from the game board.
+        '11.3':
+          rule: If the Muaat player’s Magmus Reactor is lost, the Nekro player’s units
+            may remain in and move out of any supernovae they are currently in, but
+            cannot move additional units into or through.
+        '11.4':
+          rule: If the Vuil’raith player’s Dimensional Tear II is lost, the dimensional
+            tear tokens are removed from under the Nekro player’s space docks; the
+            systems are no longer gravity rifts (unless the system tile is a printed
+            gravity rift).
+        '11.5':
+          rule: If a unit upgrade that provides that unit with the Sustain Damage
+            ability is lost, any damaged units will remain damaged, until either the
+            status phase or another effect repairs them.
+    '2':
+      rule: When copying another technology, Valefar Assimilator will retain its exhausted/readied
+        state. It will not copy the target technology’s exhausted/readied state.
+      subrules:
+        '2.1':
+          rule: The Nekro player may use any ability of the copied technology that
+            does not require exhausting as a cost, even if the Valefar Assimilator
+            card is exhausted.
+        '2.2':
+          rule: An exhausted Valefar Assimilator will always ready during the Status
+            Phase, even if it is not currently copying a technology with an exhaust
+            ability.
+    '3':
+      rule: If the Nekro player would copy a faction–specific unit upgrade, and they
+        are already copying a faction–specific unit upgrade of the same type, they
+        must use the same Valefar Assimilator token; they lose the previous faction
+        unit upgrade.
+    '4':
+      rule: The Nekro player cannot copy faction–specific units that have not been
+        upgraded.
+    '5':
+      rule: A faction’s mech is not a technology. The Nekro player cannot use a Valefar
+        Assimilator to copy a mech.
+    '6':
+      rule: If the Nekro player has a generic unit upgrade, and gains a faction–specific
+        unit upgrade, then the faction–specific version will be in effect. If the
+        faction–specific unit upgrade is later lost, they revert to the generic unit
+        upgrade.
+      subrules:
+        '6.1':
+          rule: Owning two unit upgrades for the same type of unit in this manner
+            only counts as one unit upgrade towards the Develop Weaponry and Revolutionize
+            Warfare objectives.
+    '7':
+      rule: If another player returns a technology which is currently being copied
+        by a Valefar Assimilator, it will remain copied with a Valefar Assimilator
+        token on it while in that player’s technology deck.
+    '8':
+      rule: For the Adapt New Strategies objective, a Valefar Assimilator technology
+        will count if and only if it is currently copying another technology.
+    '9':
+      rule: For notes about technologies of a specific faction, see that faction’s
+        notes.
+- name: The Alastor (Flagship)
+  rules:
+    '1':
+      rule: Any effect that may target ships or non–fighter ships may target a ground
+        force that is participating in space combat due to the effect of The Alastor.
+      subrules:
+        '1.1':
+          rule: This includes counting towards the three non–fighter ships necessary
+            to trigger the effect of the Assault Cannon technology.
+        '1.2':
+          rule: The Winnu player’s flagship, the Salai Sai Corian, will roll one dice
+            for each ground force the Nekro player has participating in a space combat
+            via the effect of The Alastor.
+    '10':
+      rule: A ground force participating in a space combat may count towards scoring
+        the Demonstrate Your Power secret objective.
+    '11':
+      rule: If the Nekro player loses their last ground force during a space combat
+        and consequently meets the requirements for elimination, they are immediately
+        eliminated. They will not be given the opportunity to score any objectives
+        from winning the combat or destroying certain units at the same time their
+        last ground force was destroyed.
+      subrules:
+        '11.1':
+          rule: If the Nekro player uses a Direct Hit action card to destroy an opponent’s
+            flagship, they may score the Destroy their Greatest Ship secret objective,
+            even if there are some hits remaining that will cause the Nekro player
+            to be eliminated once they are assigned. If this would bring the Nekro
+            player to ten victory points, they will instead win the game before they
+            are eliminated.
+    '2':
+      rule: After the Nekro player uses the ability of The Alastor, all other players
+        will have the opportunity to resolve an “at the start of combat” or an “at
+        the start of a round of combat” ability before the Nekro player may resolve
+        another ability.
+      subrules:
+        '2.1':
+          rule: For example, say the Nekro player owns the Assault Cannon technology,
+            and uses the ability of The Alastor to bring the total number of non–fighter
+            ships in the combat to three (or more). Other players may then resolve
+            one ability each. If their opponent uses an ability that destroys ships,
+            such as from their own Assault Cannon, to reduce the number of non–fighter
+            ships the Nekro player has in the combat to two (or fewer), then the Nekro
+            player will be unable to resolve the ability of their Assault Cannon
+    '3':
+      rule: Some abilities may destroy The Alastor at the start of a combat before
+        the Nekro player has used its ability, such as the Assault Cannon technology.
+    '4':
+      rule: Ground forces on planets remain there while participating in combat. Effects
+        that target units in a space area cannot target these ground forces.
+      subrules:
+        '4.1':
+          rule: When the Nekro player is in a space combat against the Argent player,
+            their infantry on planets participating in the combat cannot be targeted
+            by the ability of the Argent player’s Strike Wing Alpha II destroyers.
+    '5':
+      rule: If The Alastor is destroyed during space combat, any ground forces in
+        that combat remain in that combat.
+    '6':
+      rule: If the Nekro player copies another player’s flagship unit upgrade technology
+        with one of their Valefar Assimilator technologies during a space combat,
+        any ground forces in that combat remain in that combat. If the Nekro player
+        starts the space combat copying another player’s flagship unit upgrade technology,
+        ground forces cannot participate in that combat, unless the Nekro player stops
+        copying that flagship unit upgrade technology during the “start of combat”
+        window.
+    '7':
+      rule: The ground forces in the space area during the combat still retain their
+        ability to be transported. Since transported units do not count against capacity
+        during combat, these ground forces will not count toward the Nekro player’s
+        fleet pool limit.
+    '8':
+      rule: A mech in the space combat may be targeted with the Direct Hit action
+        card if it uses its Sustain Damage ability.
+    '9':
+      rule: If the Nekro player has one of their Valefar Assimilator tokens on the
+        Ul player’s Hel Titan II faction unit upgrade technology, they may use The
+        Alastor to have their PDS in the active system participate in the space combat.
+- name: Nekro Malleon (Agent)
+  rules:
+    '1':
+      rule: If the chosen player is the Muaat player with their commander, Magmus,
+        unlocked, they will gain a trade good from it if they spend a token from their
+        strategy pool when resolving this ability.
+      subrules:
+        '1.1':
+          rule: That trade good will be gained separately from the other two.
+    '2':
+      rule: The ability of Nekro Malleon cannot be resolved while another ability
+        is resolving. For example, if the Nekro player is targeted by the Spy action
+        card, they cannot use the ability of Nekro Malleon to discard one of their
+        action cards before Spy resolves.
+- name: Nekro Acidos (Commander)
+  rules:
+    '1':
+      rule: When the Nekro player gains their third technology and unlocks Nekro Acidos,
+        they cannot apply Nekro Acidos to that instance of gaining a technology.
+    '2':
+      rule: When the Nekro places a Valefar Assimilator token on a technology, they
+        are not gaining a technology.
+- name: UNIT.DSGN.FLAYESH — Polymorphic Algorithm (Hero)
+  rules:
+    '1':
+      rule: When the other player’s units are destroyed, this does not trigger the
+        Nekro player’s Technology Singularity ability.
+    '2':
+      rule: Unit upgrades do not have a color. The Nekro player cannot gain a unit
+        upgrade with Polymorphic Algorithm.
+- name: Mordred (Mech)
+  rules:
+    '1':
+      rule: A Mordred will apply +2 against a player with both Valefar Assimilator
+        tokens, and not +4.

@@ -1,0 +1,104 @@
+cards:
+- name: Star Forge
+- name: Gashlai Physiology
+- name: Fires of the Gashlai (Promissory Note)
+  rules:
+    '1':
+      rule: If a player already owns their war sun unit upgrade technology, they cannot
+        play Fires of the Gashlai.
+- name: Magmus Reactor (Technology)
+  rules:
+    '1':
+      rule: The war sun must be in the system prior to the use of Production to gain
+        the trade good.
+    '2':
+      rule: The trade good is gained after the use of Production; it cannot be used
+        to pay for the produced units.
+- name: Magmus Reactor Ω (Technology)
+  rules:
+    '1':
+      rule: If the Muaat player has a unit in a system containing a supernova, they
+        cannot be eliminated.
+- name: Prototype War Sun (Unit)
+- name: The Inferno (Flagship)
+- name: Umbat (Agent)
+  rules:
+    '1':
+      rule: The produced units must be paid for.
+    '2':
+      rule: No unit is using its Production ability. The Sarween Tools technology
+        and similar effects will not allow a more expensive ship to be produced.
+    '3':
+      rule: If ground forces are produced, they may be placed in the space area or
+        on a planet the player controls in the system with their war sun or flagship.
+    '4':
+      rule: If the Naalu or Yin players are chosen, and choose to produce fighters
+        or infantry, they will only be able to produce two of those units; their commander
+        will have no effect.
+      subrules:
+        '4.1':
+          rule: If the Regulated Conscription law is in play, then that player may
+            use their commander to produce two units for one resource when resolving
+            Umbat.
+- name: Magmus (Commander)
+  rules:
+    '1':
+      rule: When a command token is spent to resolve the secondary ability of a strategy
+        card, the trade good is gained after resolving the secondary ability. As such,
+        it cannot be spent to pay for costs of the secondary ability.
+    '2':
+      rule: If the Muaat player spends multiple tokens from their strategy pool (e.g.
+        for the Lead From the Front objective), they gain that many trade goods, one
+        at a time.
+      subrules:
+        '2.1':
+          rule: Each trade good gained may trigger the Mentak player’s Pillage faction
+            ability.
+        '2.2':
+          rule: If the Muaat player wishes to score Lead From the Front and Form a
+            Spy Network during the one status phase, they must do so simultaneously,
+            and both happen before the Mentak player may use their Pillage faction
+            ability. If the Mentak player subsequently uses their agent, Suffi An,
+            when they use their Pillage faction ability on the trade goods the Muaat
+            player gained from Magmus when spending the tokens for Lead From the Front,
+            then the Muaat player cannot discard the drawn action card for Form a
+            Spy Network.
+    '3':
+      rule: If the Muaat player uses the ability of the Scepter of Emelpar relic,
+        they will be unable to benefit from the ability of Magmus.
+- name: Adjudicator Ba’al — Nova Seed (Hero)
+  rules:
+    '1':
+      rule: Any method of movement is sufficient to trigger this ability, not only
+        tactical action movement. For example, the Muaat player may trigger Nova Seed
+        when they retreat.
+      subrules:
+        '1.1':
+          rule: If the Mahact player moves the Muaat player’s war sun via the use
+            of their Benediction hero ability, the Muaat player cannot trigger Nova
+            Seed.
+    '2':
+      rule: If the war sun is in the target system when it is activated, it must move
+        out of the system, and back in, for Nova Seed to be able to be triggered.
+    '3':
+      rule: Any command tokens, frontier tokens and the Muaat player’s units on the
+        replaced system tile are transferred to the new supernova tile. Any Creuss
+        wormhole tokens are returned to the Creuss player and any Ul sleeper tokens
+        are returned to the Ul player. All other tokens are purged.
+    '4':
+      rule: The Muaat player’s units may exist in and move out of the supernova system,
+        even if the Muaat player does not own Magmus Reactor.
+    '5':
+      rule: If the Muaat player owns Magmus Reactor Ω, and resolves this ability during
+        a tactical action, they will be able to produce units during the Production
+        step, if the Muaat player still has units in the system.
+    '6':
+      rule: Nova Seed cannot target the home system of an eliminated player.
+    '7':
+      rule: Nova Seed may target the Creuss Gate (tile 17) or the Wormhole Nexus (tile
+        82).
+    '8':
+      rule: "The Empyrean player cannot use the ability of their agent, Acamar, on
+        the Muaat player after they use Nova Seed if the original system tile contained
+        planets.\x16"
+- name: Ember Colossus (Mech)

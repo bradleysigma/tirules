@@ -1,0 +1,14 @@
+cards:
+- name: Rules Reference
+  rules:
+    '43.1':
+      rule: Ground forces are always on planets, in a space area with ships that have
+        capacity values, or being transported by those ships.
+    '43.2':
+      rule: Ground forces being transported by a ship are placed in a system’s space
+        area along with the ship that is transporting them.
+    '43.3':
+      rule: There is no limit to the number of ground forces a player can have on
+        a planet.
+- name: Notes
+- name: Related Topics

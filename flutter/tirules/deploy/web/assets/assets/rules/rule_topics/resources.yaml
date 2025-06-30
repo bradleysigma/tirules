@@ -1,0 +1,12 @@
+cards:
+- name: Rules Reference
+  rules:
+    '75.1':
+      rule: A planet’s resources are the leftmost value that is surrounded by a yellow
+        border on the planet’s system tile and planet card.
+    '75.2':
+      rule: A player spends a planet’s resources by exhausting its card.
+    '75.3':
+      rule: A player can spend a trade good as if it were one resource.
+- name: Notes
+- name: Related Topics

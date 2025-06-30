@@ -1,0 +1,35 @@
+cards:
+- name: Rules Reference
+  rules:
+    '59.1':
+      rule: A ship can only move into a nebula if it is the active system.
+      subrules:
+        59.1.1:
+          rule: A ship cannot move through a nebula. That is, a ship cannot move into
+            and out of a nebula during the same movement.
+    '59.2':
+      rule: A ship that begins the Movement step of a tactical action in a nebula
+        treats its move value as “1” for the duration of that step.
+      subrules:
+        59.2.1:
+          rule: Other abilities and effects can increase this number.
+    '59.3':
+      rule: If a space combat occurs in a nebula, the defender applies +1 to each
+        combat roll of their ships during that combat.
+- name: Notes
+  rules:
+    '1':
+      rule: A player cannot retreat (or similar) into a nebula, since it would not
+        be the active system.
+    '2':
+      rule: The +1 modifier for the defender does not modify anti–fighter barrage,
+        bombardment or space cannon rolls.
+    '3':
+      rule: The +1 modifier for the defender has no effect during ground combat.
+    '4':
+      rule: A future rule change will place the ship movement restrictions of anomalies
+        upon all units.
+    '5':
+      rule: A future rule change will allow ships to move into a nebula when it is
+        not the active system.
+- name: Related Topics

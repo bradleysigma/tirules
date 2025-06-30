@@ -1,0 +1,70 @@
+cards:
+- name: Rules Reference
+  rules:
+    '92.1':
+      rule: 'During the action phase, if the active player has the Trade strategy
+        card, they can perform a strategic action to resolve that card’s primary ability.
+        To resolve the primary ability on the Trade strategy card, the active player
+        resolves the following effects in order:'
+    '92.2':
+      rule: 'Step 1: The active player gains 3 trade goods.'
+    '92.3':
+      rule: 'Step 2: The active player replenishes their commodities by taking the
+        number of commodity tokens necessary to have an amount equal to the commodity
+        value on their faction sheet. Then, they place those tokens in the commodity
+        area of their faction sheet.'
+      subrules:
+        92.3.1:
+          rule: A player cannot have more commodities than the commodity value printed
+            on their faction sheet.
+    '92.4':
+      rule: 'Step 3: The active player chooses any number of other players. Those
+        players use the secondary ability of this card without spending a command
+        token.'
+      subrules:
+        92.4.1:
+          rule: The chosen players must resolve the secondary ability of this card
+            without spending a command token after the active player finishes resolving
+            the primary ability.
+        92.4.2:
+          rule: The chosen players can only use the secondary ability once, and they
+            cannot use it by spending command tokens.
+    '92.5':
+      rule: After the active player resolves the primary ability of the Trade strategy
+        card, each other player, beginning with the player to the left of the active
+        player and proceeding clockwise, may spend one command token from their strategy
+        pool to replenish their commodities.
+- name: Notes
+  rules:
+    '1':
+      rule: 'Say, for example, Alice is the active player, and is performing a strategic
+        action with the Trade strategy card. To her left is Bob. To his left is Cheng,
+        then Diego, then Esther, then Fahd. The full order of steps is:'
+      subrules:
+        '1.1':
+          rule: Alice gains three trade goods.
+        '1.2':
+          rule: Alice replenishes her commodities.
+        '1.3':
+          rule: Alice chooses players for the secondary.
+        '1.4':
+          rule: Bob may/must replenish his commodities by performing the secondary
+            ability.
+        '1.5':
+          rule: Cheng may/must replenish her commodities by performing the secondary
+            ability.
+        '1.6':
+          rule: Diego may/must replenish his commodities by performing the secondary
+            ability.
+        '1.7':
+          rule: Esther may/must replenish her commodities by performing the secondary
+            ability.
+        '1.8':
+          rule: Fahd may/must replenish his commodities by performing the secondary
+            ability.
+    '2':
+      rule: If a player has their maximum number of commodities, and is instructed
+        to replenish their commodities, they will take no commodities. However, they
+        will still trigger any “when [this] player replenishes commodities” effects,
+        most notably the Trade Agreement promissory note.
+- name: Related Topics

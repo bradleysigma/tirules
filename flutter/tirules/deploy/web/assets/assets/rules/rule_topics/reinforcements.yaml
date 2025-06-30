@@ -1,0 +1,16 @@
+cards:
+- name: Rules Reference
+  rules:
+    '72.1':
+      rule: The components in a player’s reinforcements are limited.
+- name: Notes
+  rules:
+    '1':
+      rule: If a player wishes to place a unit, but there are none of that type left
+        in their reinforcements, they may remove a unit of that type from any system
+        that does not contain one of their command tokens and place that instead.
+    '2':
+      rule: Command tokens on a player’s command sheet are not in that player’s reinforcements.
+    '3':
+      rule: Captured units are not in any player’s reinforcements.
+- name: Related Topics
