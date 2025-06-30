@@ -6,7 +6,8 @@
     <ol class="note">
     <li>A player without the war sun unit upgrade technology cannot produce, place or have a war sun on the board for any reason.</li>
     <ol><li>The Muaat player may do so without owning their Prototype War Sun II faction unit upgrade technology.</li></ol>
-    <li>A war sun has no effect on the <i>Magen Defense Grid &Omega;</i> technology.</li>
+    <li>If a war sun&rsquo;s ability results in no units on a planet having the <sc>Planetary Shield</sc> ability, then the ability of the <i>Magen Defense Grid</i> technology cannot be used during ground combat on that planet.</li>
+    <ol><li>A war sun has no effect on the <i>Magen Defense Grid &Omega;</i> or <i>Magen Defense Grid &Omega;&Omega;</i> technologies.</li></ol>
     </ol>
 
 <h1>Flagship</h1>

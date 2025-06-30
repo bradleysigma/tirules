@@ -52,7 +52,8 @@
     <ol class="note">
     <li>The <i>Arc Secundus</i> is not repaired at the end of combat.</li>
     <li>The <i>Arc Secundus</i> only uses its repair ability during combats it is participating in.</li>
-    <li>The <i>Arc Secundus</i> has no effect on the <i>Magen Defense Grid &Omega;</i> technology.</li>
+    <li>If the ability of the <i>Arc Secundus</i> results in no units on a planet having the <sc>Planetary Shield</sc> ability, then the ability of the <i>Magen Defense Grid</i> technology cannot be used during ground combat on that planet.</li>
+    <ol><li>The <i>Arc Secundus</i> has no effect on the <i>Magen Defense Grid &Omega;</i> or <i>Magen Defense Grid &Omega;&Omega;</i> technologies.</li></ol>
     </ol>
 
 <h1>Viscount Unlenn <sub>(Agent)</sub></h1>

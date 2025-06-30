@@ -132,7 +132,9 @@
 <h1>Disable</h1>
     <ol class="note">
     <li>If the Ul player is targeted, their Hel&ndash;Titans will still participate in the ground combat during the current invasion.</li>
-    <li><i>Disable</i> has no effect on the <i>Magen Defense Grid &Omega;</i> technology.</li>
+    <li>If <i>Disable</i> results in no units on a planet having the <sc>Planetary Shield</sc> ability, then the ability of the <i>Magen Defense Grid</i> technology cannot be used during ground combat on that planet during that invasion.</li>
+    <ol><li><i>Disable</i> has no effect on the <i>Magen Defense Grid &Omega;</i> or <i>Magen Defense Grid &Omega;&Omega;</i> technologies.</li></ol>
+    <li><i>Disable</i> does not affect the <b>Space Cannon Offense</b> step, and is not played until the start of the <b>Invasion</b> step.</li>
     </ol>
 
 <h1>Distinguished Councilor</h1>

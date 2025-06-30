@@ -16,7 +16,7 @@
     <li>The L1Z1X player may use their <sc>Harrow</sc> ability at the end of the round in which their last ground force was destroyed. This may cause the combat to end in a draw.</li>
     <li>During the <b>Bombardment</b> step, each of the L1Z1X player&rsquo;s units with the <sc>Bombardment</sc> ability is assigned only one planet to bombard. However, during ground combat, every unit in the system with the <sc>Bombardment</sc> ability may use it against the planet the ground combat is taking place on.</li>
     <ol><li>An Annihilator may bombard when using <sc>Harrow</sc> if that mech is not currently participating in ground combat, even if it has been committed to a different planet, and has been or will be involved in another ground combat during the current invasion.</li></ol>
-    <li>The L1Z1X player may use the ability of the X&ndash;89 Bacterial Weapon &Omega; technology card whenever they bombard.</li>
+    <li>The L1Z1X player may use the ability of the <i>X&ndash;89 Bacterial Weapon &Omega;</i> or <i>X&ndash;89 Bacterial Weapon &Omega;&Omega;</i> technologies whenever they bombard.</li>
     </ol>
 
 <h1>Cybernetic Enhancements <sub>(Promissory Note)</sub></h1>
@@ -49,7 +49,7 @@
 
 <h1>2RAM <sub>(Commander)</sub></h1>
     <ol class="note">
-    <li>Those units still have <sc>Planetary Shield</sc>. The player that owns those units may still activate the <i>Magen Defense Grid</i> technology.</li>
+    <li>Those units still have <sc>Planetary Shield</sc>. The player that owns those units may still use the ability of the <i>Magen Defense Grid</i> technology.</li>
     </ol>
 
 <h1>The Helmsman &mdash; Dark Space Navigation <sub>(Hero)</sub></h1>
