@@ -1,0 +1,23 @@
+cards:
+- name: Rules Reference
+  rules:
+    '85.1':
+      rule: Structures are always placed on planets.
+      subrules:
+        85.1.1:
+          rule: The Clan of Saar’s “Floating Factory” faction–specific space dock
+            is placed in a system’s space area.
+    '85.2':
+      rule: Structures are primarily placed on planets using the Construction strategy
+        card.
+    '85.3':
+      rule: Structures cannot move or be transported.
+    '85.4':
+      rule: A player can have a maximum of one space dock on each planet.
+    '85.5':
+      rule: A player can have a maximum of two PDS units on each planet.
+    '85.6':
+      rule: A player cannot place a structure on a planet if it would exceed the maximum
+        number of allowed structures of that type on that planet.
+- name: Notes
+- name: Related Topics

@@ -1,0 +1,24 @@
+cards:
+- name: Rules Reference
+  rules:
+    '88.1':
+      rule: The back of each system tile is colored green, blue, or red.
+    '88.2':
+      rule: System tiles with a green–colored back are home systems and faction–specific
+        tiles. Each home system is unique to one of the game’s factions.
+    '88.3':
+      rule: System tiles with a blue–colored back each contain one or more planets.
+    '88.4':
+      rule: System tiles with a red–colored back are anomalies or are systems that
+        do not contain planets.
+    '88.5':
+      rule: Planets are located in systems. Ground forces and structures are usually
+        placed on planets.
+    '88.6':
+      rule: Any area on a system tile that is not a planet is space. Ships are usually
+        placed in the space area.
+    '88.7':
+      rule: Double–sided tiles that have lines crossing from one edge to another are
+        hyperlane tiles. Hyperlane tiles are not systems.
+- name: Notes
+- name: Related Topics

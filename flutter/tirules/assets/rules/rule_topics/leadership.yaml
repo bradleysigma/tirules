@@ -1,0 +1,28 @@
+cards:
+- name: Rules Reference
+  rules:
+    '52.1':
+      rule: During the action phase, if the active player has the Leadership strategy
+        card, they can perform a strategic action to resolve that card’s primary ability.
+    '52.2':
+      rule: To resolve the primary ability on the Leadership strategy card, the active
+        player gains three command tokens. Then, that player can spend any amount
+        of their influence to gain one command token for every three influence they
+        spend.
+    '52.3':
+      rule: After the active player resolves the primary ability of the Leadership
+        strategy card, each other player, beginning with the player to the left of
+        the active player and proceeding clockwise, may spend any amount of influence
+        to gain one command token for every three influence they spend.
+    '52.4':
+      rule: When a player gains command tokens, that player places each token on their
+        command sheet in the pool of their choice.
+- name: Notes
+  rules:
+    '1':
+      rule: The secondary ability of Leadership does not require a player to spend
+        a strategy token.
+    '2':
+      rule: A player may spend one or two more influence than the amount necessary
+        for the tokens they gain; however, this influence is wasted.
+- name: Related Topics

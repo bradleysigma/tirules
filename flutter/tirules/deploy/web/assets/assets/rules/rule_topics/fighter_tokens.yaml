@@ -1,0 +1,31 @@
+cards:
+- name: Rules Reference
+  rules:
+    '36.1':
+      rule: When producing a fighter unit, a player can use a fighter token from the
+        supply instead of a plastic piece.
+    '36.2':
+      rule: Players can replace their plastic fighters with tokens at any time.
+    '36.3':
+      rule: If a player ever has a fighter token in a system that does not contain
+        one of their plastic fighters, that player must replace it with a plastic
+        fighter from their reinforcements.
+      subrules:
+        36.3.1:
+          rule: If the player cannot replace the token, the unit is destroyed.
+    '36.4':
+      rule: Fighter tokens come in values of one and three. A player can swap between
+        these tokens as necessary.
+- name: Notes
+  rules:
+    '1':
+      rule: As each player only has ten plastic fighter figures, a player cannot have
+        fighters in more than ten systems.
+    '2':
+      rule: Players may also swap fighter tokens for plastic pieces at any time.
+    '3':
+      rule: Fighter tokens are not component limited.
+    '4':
+      rule: A future rule change will have any unaccompanied fighter tokens removed,
+        instead of destroyed.
+- name: Related Topics

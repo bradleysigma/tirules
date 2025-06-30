@@ -1,0 +1,113 @@
+cards:
+- name: Fragile
+  rules:
+    '1':
+      rule: The Fragile ability does not affect anti–fighter barrage, bombardment
+        or space cannon rolls.
+    '2':
+      rule: The effect of the Fragile ability is mandatory.
+- name: Brilliant
+- name: Analytical
+- name: Research Agreement (Promissory Note)
+  rules:
+    '1':
+      rule: If the Jol–Nar player will research several technologies in a row, then
+        after each, the player holding Research Agreement may play it. The Jol–Nar
+        player does not decide the next technology they will research until after
+        the player holding the Research Agreement plays it or declines to.
+    '2':
+      rule: If a player receives Research Agreement in a transaction immediately after
+        the Jol–Nar player researched a technology, that player may play it immediately
+        to gain that technology.
+      subrules:
+        '2.1':
+          rule: The active player may perform a transaction with each other player
+            at most once per turn. As such, the active player cannot receive Research
+            Agreement more than once per turn.
+        '2.2':
+          rule: Once a player has used Research Agreement after the Jol–Nar player
+            researches a technology, no other player may use Research Agreement for
+            that same Jol–Nar research instance to gain the same technology.
+        '2.3':
+          rule: If the active player received the Research Agreement on a previous
+            turn, they may play it and immediately perform a transaction with the
+            Jol–Nar player to regain it. They may then play it when the Jol–Nar player
+            researches their next technology.
+    '3':
+      rule: Any deal between the Jol–Nar player and another player regarding when
+        Research Agreement will be played, if made before Research Agreement is exchanged,
+        is non–binding.
+    '4':
+      rule: If a faction has a faction–specific unit upgrade as one of their faction
+        technologies, they cannot gain that unit upgrade from Research Agreement when
+        the Jol–Nar player researches the generic version of that unit upgrade.
+    '5':
+      rule: Research Agreement may be triggered when the Jol–Nar player reseaches
+        a technology outside of the Technology strategy card. For example, it may
+        be triggered by the Divert Funding action card, the Focused Research action
+        card, the Reveal Prototype action card, the Technology Rider action card,
+        the Ixthian Artifact agenda, the Wormhole Research agenda, or the Enigmatic
+        Device exploration card.
+      subrules:
+        '5.1':
+          rule: Research Agreement cannot be triggered by a game effect that instructs
+            the Jol–Nar player to directly gain a technology, without researching.
+            For example, it cannot be triggered by the Fire of the Gashlai Muaat faction
+            promissory note, the Plagiarize action card, the Research Grant Reallocation
+            agenda, or the Maw of Worlds relic.
+        '5.2':
+          rule: Research Agreement cannot be triggered when the Jol–Nar player resolves
+            Genetic Memory.
+- name: E–Res Siphons (Technology)
+  rules:
+    '1':
+      rule: E–Res Siphons ability is triggered when the system is activated, even
+        if the active player will perform no hostile acts towards the Jol–Nar player
+        this turn.
+    '2':
+      rule: If an effect other than activating a system during a tactical action places
+        a command counter in a system with the Jol–Nar player’s ships (for example,
+        the primary ability of the Diplomacy strategy card), this will not cause E–Res
+        Siphons ability to trigger.
+- name: Spatial Conduit Cylinder (Technology)
+  rules:
+    '1':
+      rule: Other players may use the Deep Space Cannon ability of units in the same
+        system as a Jol–Nar player’s unit to produce hits during the Space Cannon
+        Offense step.
+    '2':
+      rule: If the Jol–Nar player moves ships out of a gravity rift, they must still
+        roll for removal.
+    '3':
+      rule: If its move value is high enough, a ship may still travel through other
+        systems as it moves to the active system. This will allow a ship with capacity
+        to transport units as normal from a system it did not start its movement in.
+- name: J.N.S. Hylarim (Flagship)
+- name: Doctor Sucaban (Agent)
+  rules:
+    '1':
+      rule: If the Jol–Nar player has the Infantry II unit upgrade, any of their infantry
+        removed with Doctor Sucaban will not roll for resurrection.
+- name: Ta Zern (Commander)
+  rules:
+    '1':
+      rule: “Combat” is a unit attribute, not a unit ability; Ta Zern cannot reroll
+        combat dice.
+    '2':
+      rule: Ta Zern cannot be used to reroll dice for an Infantry II resurrection
+        ability.
+- name: Rin, The Master’s Legacy — Genetic Memory (Hero)
+  rules:
+    '1':
+      rule: The Jol–Nar player does not have to meet the prerequisites of the technologies
+        they acquire.
+    '2':
+      rule: All replacements happen simultaneously. If this ability returns a specific
+        technology, it cannot then be regained via this ability.
+    '3':
+      rule: If the Jol–Nar player later gains a technology they returned, they gain
+        it readied.
+- name: Shield Paling (Mech)
+  rules:
+    '1':
+      rule: The Shield Paling itself is still affected by the Fragile ability.

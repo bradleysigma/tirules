@@ -1,0 +1,22 @@
+cards:
+- name: Rules Reference
+  rules:
+    '76.1':
+      rule: Ships are always placed in space.
+    '76.2':
+      rule: A player can have a number of ships in a system equal to or less than
+        the number of command tokens in that player’s fleet pool.
+      subrules:
+        76.2.1:
+          rule: Fighters do not count toward the fleet pool limit, and instead count
+            against a player’s capacity.
+    '76.3':
+      rule: 'Ships can have any number of the following attributes: cost, combat,
+        move, and capacity. These attributes are shown on faction sheets and unit
+        upgrade technology cards.'
+- name: Notes
+  rules:
+    '1':
+      rule: A Fighter II may count towards either the fleet pool limit or a player’s
+        capacity.
+- name: Related Topics

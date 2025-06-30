@@ -1,0 +1,41 @@
+cards:
+- name: Rules Reference
+  rules:
+    '44.1':
+      rule: Systems that are connected by lines drawn across one or more hyperlane
+        tiles are adjacent for all purposes.
+    '44.2':
+      rule: Hyperlane tiles are not systems. They cannot have units on them and they
+        cannot be targets for effects or abilities.
+- name: Notes
+  rules:
+    '1':
+      rule: If the edge of a system tile is touching a hyperlane tile, that edge does
+        not cause that system tile to be on the edge of the game board.
+      subrules:
+        '1.1':
+          rule: When using the five– and seven–player hyperlane setups, the system
+            tile in the center of the ring of hyperlanes is not on the edge of the
+            game board.
+        '1.2':
+          rule: When using the seven– and eight–player alternate setups, only the
+            system tiles designated as “Ring 3” and home systems are on the edge of
+            the game board, along with the Creuss home system and the wormhole nexus.
+    '2':
+      rule: '“Adjacent for all purposes” includes:'
+      subrules:
+        '2.1':
+          rule: Deep Space Cannon.
+        '2.2':
+          rule: Movement.
+        '2.3':
+          rule: Neighbors.
+        '2.4':
+          rule: Any other game effect that specifies adjacent systems.
+    '3':
+      rule: Hyperlanes on the same tile that converge at a point on the tile edge
+        are not connected. For example, with the “Five–Player Galaxy Setup (With Hyperlanes)”
+        in the Prophecy of Kings Map Appendix, the hyperlanes on tile 87A do not connect
+        tiles 39 and 63, and the hyperlanes on tile 88A do not connect tiles 41 and
+        80.
+- name: Related Topics
