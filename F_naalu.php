@@ -57,7 +57,11 @@
         <li>If a player uses Z&rsquo;eu &Omega; to activate a system containing another player&rsquo;s units, that will count for the purposes of returning promissory notes, and other similar effects.</li>
     </ol>
     <li>The chosen player is considered to be the active player.</li>
-    <li>If the chosen player is not the Naalu player, they cannot use any &ldquo;at the start/end of your turn&rdquo; abilities.</li>
+    <li>If the chosen player is not the Naalu player, it is not considered their turn for game effects.</li>
+    <ol>
+        <li>They cannot use any &ldquo;at the start/end of your turn&rdquo; abilities.</li>
+        <li>If the Yssaril player is chosen, and owns their <i>Transparasteel Plating</i> faction technology, other players may still play action cards during the action.</li>
+    </ol>
     <li>If the chosen player is not the Naalu player, they may use any &ldquo;before/after you perform an action&rdquo; abilities.</li>
     <li>If the chosen player is not the Naalu player, abilities that would end their turn instead end their tactical action.</li>
     <li>If the chosen player is not the Naalu player, they cannot use the <i>Fleet Logistics</i> technology to perform an additional action.</li>
@@ -65,7 +69,7 @@
         <li>The chosen player may use the <i>Master Plan</i> action card or the <i>Minister of War</i> agenda to perform an additional action.</li>
         <li>If the chosen player is able to perform a component action, they may then use the ability of Suffi An, the Keleres commander, to perform additional actions.</li>
     </ol>
-    <li>If the chosen player is not the Naalu player, and they had previously passed, they remain passed, and do not pass at the end of the action.</li>
+    <li>If the chosen player is not the Naalu player, and they had previously passed, they are still considered passed during their action. They do not pass at the end of the action.</li>
     <ol>
         <li>The chosen player cannot score the <i>Prove Endurance</i> secret objective at the end of their action.</li>
         <li>If the Yssail player owns their <i>Transparasteel Plating</i> faction technology, and uses the ability of Ssruu, their agent, to duplicate the ability of Z&rsquo;eu &Omega;, choosing a player that has passed, the chosen player cannot play action cards during their action.</li>
