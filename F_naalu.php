@@ -65,7 +65,7 @@
         <li>The chosen player may use the <i>Master Plan</i> action card or the <i>Minister of War</i> agenda to perform an additional action.</li>
         <li>If the chosen player is able to perform a component action, they may then use the ability of Suffi An, the Keleres commander, to perform additional actions.</li>
     </ol>
-    <li>If the chosen player is not the Naalu player, and they had previously passed, they do not pass at the end of the action.</li>
+    <li>If the chosen player is not the Naalu player, and they had previously passed, they remain passed, and do not pass at the end of the action.</li>
     <ol>
         <li>The chosen player cannot score the <i>Prove Endurance</i> secret objective at the end of their action.</li>
         <li>If the Yssail player owns their <i>Transparasteel Plating</i> faction technology, and uses the ability of Ssruu, their agent, to duplicate the ability of Z&rsquo;eu &Omega;, choosing a player that has passed, the chosen player cannot play action cards during their action.</li>
