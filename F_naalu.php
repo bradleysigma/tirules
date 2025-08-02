@@ -48,7 +48,7 @@
     <li>When the <i>Covert Legislation</i> agenda is revealed during the agenda phase, the Naalu player cannot look at the hidden agenda. Once the speaker has read the hidden agenda, the Naalu player may look at the next card of the agenda deck.</li>
     </ol>
 
-<h1>Z&rsquo;eu &Omega;<sub>(Agent)</sub></h1>
+<h1>Z&rsquo;eu &Omega; <sub>(Agent)</sub></h1>
     <ol class="note">
     <li>All other rules applying to tactical actions apply, other than placing a command token.</li>
     <ol>
@@ -60,6 +60,11 @@
     <li>If the chosen player is not the Naalu player, they cannot use any &ldquo;at the start/end of your turn&rdquo; abilities.</li>
     <li>If the chosen player is not the Naalu player, they may use any &ldquo;before/after you perform an action&rdquo; abilities.</li>
     <li>If the chosen player is not the Naalu player, abilities that would end their turn instead end their tactical action.</li>
+    <li>If the chosen player is not the Naalu player, they cannot use the <i>Fleet Logistics</i> technology to perform an additional action.</li>
+    <ol>
+        <li>The chosen player may use the <i>Master Plan</i> action card or the <i>Minister of War</i> agenda to perform an additional action.</li>
+        <li>If the chosen player is able to perform a component action, they may then use the ability of Suffi An, the Keleres commander, to perform additional actions.</li>
+    </ol>
     <li>Any deal between the Naalu player and another player regarding which system will be activated, if made before Z&rsquo;eu &Omega; is exhausted, is non&ndash;binding.</li>
     </ol>
 
