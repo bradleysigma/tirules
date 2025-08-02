@@ -17,6 +17,10 @@
     <li>The chosen player may still play rider cards or use other abilities.</li>
     </ol>
 
+<h1>Black Market Dealings</h1>
+    <ol class="note">
+    </ol>
+
 <h1>Blitz</h1>
     <ol class="note">
     <li>If the L1Z1X player plays <i>Blitz</i>, they may use the gained <sc>Bombardment</sc> ability of each of their non&ndash;fighter ships in the system when resolving their <sc>Harrow</sc> faction ability during that invasion.</li>
@@ -27,8 +31,14 @@
     <li><i>Bribery</i> may be played after the speaker has abstained, or would vote if they are unable to.</li>
     <li>A player may spend zero trade goods when they play <i>Bribery</i>.</li>
     <li>A player must have cast votes for an outcome to play <i>Bribery</i>, and the additional votes must be cast for the same outcome.</li>
+        <ol><li>If the Argent player is speaker, only they can play <i>Bribery</i>, and must do so immediately after they cast votes</li></ol>
     <li>The speaker may play <i>Distinguished Councilor</i> after another player plays <i>Bribery</i>.</li>
     <li><i>Bribery</i> is played before any effects that change the outcome of an agenda.</li>
+    </ol>
+
+<h1>Brilliance</h1>
+    <ol class="note">
+    <li>A player may choose themself as the player who gains their breakthrough.</li>
     </ol>
 
 <h1>Bunker</h1>
@@ -68,6 +78,10 @@
     <ol class="note">
     </ol>
 
+<h1>Counterstroke &Omega;</h1>
+    <ol class="note">
+    </ol>
+
 <h1>Coup D&rsquo;etat</h1>
     <ol class="note">
     <li>The active player may still use any &ldquo;at the end of your turn&rdquo; abilities.</li>
@@ -79,9 +93,18 @@
     <li>Effects that cancel hits, such as <sc>Sustain Damage</sc>, cannot be used to prevent ships from being destroyed.</li>
     </ol>
 
+<h1>Crash Landing</h1>
+    <ol class="note">
+    </ol>
+
 <h1>Cripple Defenses</h1>
     <ol class="note">
     <li>The chosen planet may have zero PDS on it.</li>
+    </ol>
+
+<h1>Crisis</h1>
+    <ol class="note">
+    <li><i>Crisis</i> will skip the next unpassed player.</li>
     </ol>
 
 <h1>Deadly Plot</h1>
@@ -166,6 +189,11 @@
     <li>A player may play <i>Emergency Repairs</i> at the start of the first round of combat to repair ships damaged in a previous combat, or during the <b>Space Cannon Offense</b> step of the current action.</li>
     </ol>
 
+<h1>Exchange Program</h1>
+    <ol class="note">
+    <li>The player who played <i>Exchange Program</i> does not have to agree to place the infantry.</li>
+    </ol>
+
 <h1>Experimental Battlestation</h1>
     <ol class="note">
     <li>The selected space dock will use the <sc>Space Cannon</sc> ability during the <b>Space Cannon Offense</b> step of the current tactical action.</li>
@@ -183,6 +211,13 @@
 <h1>Exploration Probe</h1>
     <ol class="note">
     <li>A player must have an exploration token in or adjacent to a system containing one or more of their ships to play and resolve <i>Exploration Probe</i>.</li>
+    </ol>
+
+<h1>Extreme Duress</h1>
+    <ol class="note">
+    <li>If that player has the ability to perform multiple actions in a turn, their first action must be a strategic action to avoid the penalty.</li>
+    <li>If a player has multiple strategy cards, at least one of them needs to be readied to target them with <i>Extreme Duress</i></li>
+    <ol><li>If they have multiple readied, they may perform a strategic action with any to avoid the penalty.</li></ol>
     </ol>
 
 <h1>Fighter Conscription</h1>
@@ -247,6 +282,13 @@
     <li>The Argent player will still vote before all other players.</li>
     </ol>
 
+<h1>Hack Election &Omega;</h1>
+    <ol class="note">
+    <li>The speaker vote before the player that played <i>Hack Election</i>.</li>
+    <ol><li>Players will play <i>Bribery</i> after the speaker votes. The player that played <i>Hack Election</i> cannot play <i>Bribery</i>.</li></ol>
+    <li>If the Argent player plays <i>Hack Election</i>, they will vote last.</li>
+    </ol>
+
 <h1>Harness Energy</h1>
     <ol class="note">
     <li>If a player has their maximum number of commodities, they may still play <i>Harness Energy</i>. If they do, they will still trigger any &ldquo;when [this] player replenishes commodities&rdquo; effects, most notably the <i>Trade Agreement</i> promissory note.</li>
@@ -288,6 +330,10 @@
     <ol class="note">
     </ol>
 
+<h1>Insider Information &Omega;</h1>
+    <ol class="note">
+    </ol>
+
 <h1>Insubordination</h1>
     <ol class="note">
     <li><i>Insubordination</i> cannot target a player with zero command tokens in their tactic pool.</li>
@@ -305,6 +351,10 @@
     <ol><li>Any other riders may be played to predict the same or a different outcome.</li></ol>
     <li>The effect of a successful <i>Leadership Rider</i> will be resolved after the effect of the agenda.</li>
     <li>A player who cannot vote may still play a <i>Leadership Rider</i>.</li>
+    </ol>
+
+<h1>Lie In Wait</h1>
+    <ol class="note">
     </ol>
 
 <h1>Lost Star Chart</h1>
@@ -350,6 +400,14 @@
     <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate second action on that turn.</li>
     </ol>
 
+<h1>Mercenary Contract</h1>
+    <ol class="note">
+    <li>When a planet card is returned to the planet card deck, the player that controlled it no longer does. They removed their control token from the planet.</li>
+    <li>If the planet card is returned to the planet card deck, then when a player later gains control of that planet, they will explore it.</li>
+    <li>If the Mecatol Rex planet card is returned to the planet card deck, the custodians token is not replaced. A player will be able to later commit ground forces without paying influence, and without gaining a victory point.<li>
+    <li>If a legendary planet card is returned to the planet card deck, the player that controlled it also loses the associated legendary planet ability card.</li>
+    </ol>
+
 <h1>Mining Initiative</h1>
     <ol class="note">
     <li>A player must control at least one planet to play and resolve <i>Mining Initiative</i>.</li>
@@ -375,17 +433,30 @@
     <ol><li>The Naalu player will still be affected by anomalies if they use their <sc>Foresight</sc> faction ability.</li></ol>
     </ol>
 
+<h1>Overrule</h1>
+    <ol class="note">
+    <li>If a player is eliminated, the strategy cards that they had are considered &ldquo;unchosen&rdquo;.</li>
+    </ol>
+
 <h1>Parley</h1>
     <ol class="note">
     <li>If a player commits ground forces to multiple planets, <i>Parley</i> will affect ground forces on only one planet.</li>
     <li>The returned ground forces cannot be committed to another planet during the same tactical action.</li>
     </ol>
 
+<h1>Pirate Contract</h1>
+    <ol class="note">
+    </ol>
+
+<h1>Pirate Fleet</h1>
+    <ol class="note">
+    </ol>
+
 <h1>Plagiarize</h1>
     <ol class="note">
     <li>A player cannot play <i>Plagiarize</i> if they have less than five influence available.</li>
     <li>A player does not need to meet the prerequisites of the technology they gain from <i>Plagiarize</i>.</li>
-    <li>The active player must announce which technology they are gaining before other players decide whether to play a <i>Sabotage</i>, or otherwise cancel the action card,.</li>
+    <li>The active player must announce which technology they are gaining before other players decide whether to play a <i>Sabotage</i>, or otherwise cancel the action card.</li>
     <li>If a faction has a faction&ndash;specific unit upgrade as one of their faction technologies, they cannot use <i>Plagiarize</i> to gain that unit upgrade.</li>
     <ol><li>If a player&rsquo;s neighbor owns a faction&ndash;specific unit upgrade, it cannot be chosen in order to gain the generic version of that unit upgrade by using <i>Plagiarize</i>.</li></ol>
     </ol>
@@ -415,6 +486,27 @@
     <ol class="note">
     <li>If the originally chosen strategy card has trade goods on it, those will not be taken if <i>Public Disgrace</i> is played.</li>
     <li><i>Public Disgrace</i> may only be played during the regular choosing of a strategy card during the strategy phase. It cannot be played when other effects cause a player to take a strategy card, such as the <i>Imperial Arbiter</i> agenda.</li>
+    </ol>
+
+<h1>Puppets On A String</h1>
+    <ol class="note">
+    <li>The player who played <i>Puppets On A String</i> is considered the active player during their action.</li>
+    <li>If the chosen player is not the Naalu player, it is not considered their turn for game effects.</li>
+    <ol>
+        <li>They cannot use any &ldquo;at the start/end of your turn&rdquo; abilities.</li>
+        <li>If the Yssaril player plays <i>Puppets On A String</i>, and owns their Transparasteel Plating faction technology, passed players may still play action cards during the action.</li>
+    </ol>
+    <li>The active player may use any &ldquo;before/after you perform an action&rdquo; abilities.</li>
+    <li>Abilities that would end the active player&rsquo;s turn instead end their action.</li>
+    <li>The active player cannot use the Fleet Logistics technology to perform an additional action.</li>
+    <ol>
+        <li>The active player may use the <i>Master Plan</i> action card or the <i>Minister of War</i> agenda to perform an additional action.</li>
+        <li>If the active player performs a component action, they may then use the ability of Suffi An, the Keleres commander, to perform additional actions.</li>
+    </ol>
+    <li>The active player is still considered passed during their action. They do not pass at the end of the action.</li>
+    <ol>
+        <li>The active player cannot score the <i>Prove Endurance</i> secret objective at the end of their action.</li>
+    </ol>
     </ol>
 
 <h1>Rally</h1>
@@ -451,6 +543,11 @@
 <h1>Repeal Law</h1>
     <ol class="note">
     <li>There must be at least one law in play for a player to play and resolve <i>Repeal Law</i>.</li>
+    </ol>
+
+<h1>Rescue</h1>
+    <ol class="note">
+    <li>If the chosen ship is in a gravity rift, it must roll for removal.</li>
     </ol>
 
 <h1>Reveal Prototype</h1>
@@ -559,6 +656,12 @@
     <ol class="note">
     <li><i>Spy</i> cannot target a player with zero action cards in their hand.</li>
     <li>If the targeted player has <i>Reverse Engineer</i> in their hand, they must first give a random action card to the player who played <i>Spy</i>. Only if the card they gave was not <i>Reverse Engineer</i> may then then play it to take <i>Spy</i> into their hand from the discard pile.</li>
+    </ol>
+
+<h1>Strategize</h1>
+    <ol class="note">
+    <li>If a player is eliminated, the strategy cards that they had are considered &ldquo;unchosen&rdquo;.</li>
+    <li>The active player must still spend a command token to perform the secondary ability, other than for Leadership.</li>
     </ol>
 
 <h1>Summit</h1>
