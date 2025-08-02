@@ -55,7 +55,7 @@
     <li>If the Jol&ndash;Nar player has the Infantry II unit upgrade, any of their infantry removed with Doctor Sucaban will not roll for resurrection.</li>
     </ol>
 
-<h1>Ta Zern <sub>(Commander)</sub></h1>
+<h1>Ta Zern /<br/>Agnlan Oln <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>&ldquo;Combat&rdquo; is a unit attribute, not a unit ability; Ta Zern cannot reroll combat dice.</li>
     <li>Ta Zern cannot be used to reroll dice for an Infantry II resurrection ability.</li>
@@ -71,6 +71,14 @@
 <h1>Shield Paling <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>The Shield Paling itself is still affected by the <sc>Fragile</sc> ability.</li>
+    </ol>
+
+<h1>Specialized Compounds <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>The Jol&ndash;Nar player cannot use <i>Specialized Compounds</i> when researching a unit upgrade.</li>
+    <li>A technology with zero or completely ignored prerequisites must still match the colour of the planet&rsquo;s technology specialty to use <i>Specialized Compounds</i>.</li>
+    <li>The Jol&ndash;Nar cannot use a technology specialty planet to both pay for the research with <i>Specialized Compounds</i> and to ignore a prerequisite of the researched technology simultaneously.</li>
+    <li>The Jol&ndash;Nar cannot use the synergy ability of <i>Specialized Compounds</i> to research a yellow technology with a green technology specialty planet or vice versa.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

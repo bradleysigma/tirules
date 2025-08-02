@@ -3,7 +3,7 @@
 <article>
 <h1>The Tribunii</h1>
     <ol class="note">
-    <li>The Keleres player chooses their starting technology after all other players, including the Argent and Winnu players, have gained their starting technologies.</li>
+    <li>The Keleres player chooses their starting technology after all other players, including the Argent, Bastion, Deepwrought, Firmament, Ral Nel, Rebellion, and Winnu players, have gained their starting technologies.</li>
     <li>If there are not two unique starting technologies amongst those owned by other players, the Keleres player will start the game with fewer technologies. This will most commonly happen in a three player game, where one of the other players is playing as N&rsquo;orr or Winnu.</li>
     </ol>
 
@@ -45,7 +45,21 @@
     <ol><li>The Keleres player cannot pay one resource for two fighters or infantry, then place one with a unit using the original <sc>Production</sc> ability and one with the unit using the additional <sc>Production</sc> ability.</li></ol>
     </ol>
 
-<h1>I.I.H.Q. Modernization <sub>(Technology)</sub></h1>
+<h1>Executive Order <sub>(Technology)</sub></h1>
+    <ol class="note">
+    <li>If the Keleres player draws one of the <i>Classified Document Leaks</i>, <i>Judicial Abolishment</i>, <i>Miscount Disclosed</i> or <i>New Constitution</i> agendas, they will discard it if required and reveal a new agenda from the deck.</li>
+    <li>If the <i>Miscount Disclosed</i> agenda is resolved, the players will vote on the elected agenda too.</li>
+    <li>If the <i>Public Execution</i> agenda is resolved, the elected player may still vote in the agenda phase following the current action phase.</li>
+    <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, regardless of the Keleres player&rsquo;s initiative.</li>
+    <li>Other players may still perform one transaction total with the Keleres player during this turn, if they are neighbors.</li>
+    <li>Players exhaust planets to cast votes when resolving <i>Executive Order</i>, even if the <i>Representative Government</i> law is in play.</li>
+    <li>If a third law is put into play, the <i>Dictate Policy</i> objective cannot be scored until the agenda phase.</li>
+    <li>The <i>Drive the Debate</i> objective cannot be scored while resolving <i>Executive Order</i>.</li>
+    <li>Effects from agenda outcomes that occur &ldquo;at the end of this agenda phase&rdquo; are ignored.</li>
+    <li>Effects from agenda outcomes that occur &ldquo;at the start of the next strategy phase&rdquo; will still occur.</li>
+    </ol>
+
+<h1>I.I.H.Q. Modernization <sub>(Technology/Breakthrough)</sub></h1>
     <ol class="note">
     <li>If the Keleres player is neighbors with another player, that player is neighbors with the Keleres player.</li>
     </ol>

@@ -132,5 +132,10 @@
     <li>The removed unit must still be an infantry.</li>
     <li>The <sc>Deploy</sc> ability has a total cost of three influence. The Yin player may exhaust a single planet with three or more influence to pay this cost.</li>
     </ol>
+
+<h1>Yin Ascendant <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>The Yin player may use the alliance ability as though that faction&rsquo;s commander were unlocked.</li>
+    </ol>
 </article>
 <?php include "suffix.php"?>
