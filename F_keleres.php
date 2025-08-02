@@ -87,6 +87,9 @@
     <li>If the Keleres player uses their additional action to perform another component action, they may perform another additional action. They may do this any number of times.</li>
     <li>Suffi An does not trigger from the component action of the action card used that was to unlock her.</li>
     <ol><li>If the Keleres player can perform a second action through some other game effect (such as the <i>Fleet Logistics</i> technology), they may unlock Suffi An by playing an action card with a component action for their first action, then perform a second component action, which will then allow them to perform a third action because of Suffi An.</li></ol>
+    <li>If a player&rsquo;s turn is ended by a game effect, they cannot use Suffi An to perform an additional action.</li>
+    <li>A player cannot use Suffi An to pass on the same turn they performed an action.</li>
+    <li>If a player&rsquo;s additional action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate additional action on that turn.</li>
     </ol>
 
 <h1>Harka Leeds &mdash; Erwan&rsquo;s Covenant <sub>(Hero)</sub></h1>

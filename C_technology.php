@@ -33,6 +33,9 @@
     <ol class="note">
     <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.</li>
     <li>A player may use the ability of <i>Fleet Logistics</i> the same turn they gain it.</li>
+    <li>If a player&rsquo;s turn is ended by a game effect, they cannot use <i>Fleet Logistics</i> to perform an additional action.</li>
+    <li>A player cannot use <i>Fleet Logistics</i> to pass on the same turn they performed an action.</li>
+    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate second action on that turn.</li>
     </ol>
 
 <h1>Light/Wave Deflector</h1>

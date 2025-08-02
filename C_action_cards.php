@@ -152,7 +152,7 @@
     <ol><li>The returned technology does not count towards meeting the prerequisites.</li></ol>
     <li>The researched technology may be a unit upgrade technology, and it may be a faction technology.</li>
     <li>The researched technology cannot be the returned technology.</li>
-    <li>Other players must decide whether to play <i>Sabotage</i> before the player playing <i>Divert Funding</i> announces which technology they are researching.</li>
+    <li>Other players must decide whether to play <i>Sabotage</i>, or otherwise cancel the action card, before the player playing <i>Divert Funding</i> announces which technology they are researching.</li>
     <li>If a player later gains the technology they returned, they gain it readied.</li>
     </ol>
 
@@ -210,7 +210,7 @@
     <ol class="note">
     <li>A player cannot play <i>Focused Research</i> if they have less than four trade goods.</li>
     <li>A player must still meet the prerequisites for the technology they research.</li>
-    <li>Other players must decide whether to play <i>Sabotage</i> before the player playing <i>Focused Research</i> announces which technology they are researching.</li>
+    <li>Other players must decide whether to play <i>Sabotage</i>, or otherwise cancel the action card, before the player playing <i>Focused Research</i> announces which technology they are researching.</li>
     </ol>
 
 <h1>Forward Supply Base</h1>
@@ -345,6 +345,9 @@
 <h1>Master Plan</h1>
     <ol class="note">
     <li>Effects that trigger at the start or end of a player&rsquo;s turn will not trigger between each of those player&rsquo;s actions.</li>
+    <li>If a player&rsquo;s turn is ended by a game effect, they cannot use <i>Master Plan</i> to perform an additional action.</li>
+    <li>A player cannot use <i>Master Plan</i> to pass on the same turn they performed an action.</li>
+    <li>If a player&rsquo;s second action would be to use a component action to play an action card, and that card is cancelled, they are not required to perform an alternate second action on that turn.</li>
     </ol>
 
 <h1>Mining Initiative</h1>
@@ -382,7 +385,7 @@
     <ol class="note">
     <li>A player cannot play <i>Plagiarize</i> if they have less than five influence available.</li>
     <li>A player does not need to meet the prerequisites of the technology they gain from <i>Plagiarize</i>.</li>
-    <li>The active player must announce which technology they are gaining before other players decide whether to play a <i>Sabotage</i>.</li>
+    <li>The active player must announce which technology they are gaining before other players decide whether to play a <i>Sabotage</i>, or otherwise cancel the action card,.</li>
     <li>If a faction has a faction&ndash;specific unit upgrade as one of their faction technologies, they cannot use <i>Plagiarize</i> to gain that unit upgrade.</li>
     <ol><li>If a player&rsquo;s neighbor owns a faction&ndash;specific unit upgrade, it cannot be chosen in order to gain the generic version of that unit upgrade by using <i>Plagiarize</i>.</li></ol>
     </ol>
@@ -455,7 +458,7 @@
     <li>A player must still meet the prerequisites for the technology they research.</li>
     <li>A player cannot play <i>Reveal Prototype</i> if they have less than four resources available.</li>
     <li>A player cannot play <i>Reveal Prototype</i> if they already own the unit upgrade technology for each unit they have in the combat.</li>
-    <li>Other players must decide whether to play <i>Sabotage</i> before the player playing <i>Reveal Prototype</i> announces which technology they are researching.</li>
+    <li>Other players must decide whether to play <i>Sabotage</i>, or otherwise cancel the action card, before the player playing <i>Reveal Prototype</i> announces which technology they are researching.</li>
     </ol>
 
 <h1>Reverse Engineer</h1>

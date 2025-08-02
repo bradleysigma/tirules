@@ -84,6 +84,18 @@
     <li>This effect may cancel a <i>Sabotage</i> action card.</li>
     <li>The Watcher must be adjacent to the other player&rsquo;s units during the timing window when the action card is played in order to cancel it.</li>
     <ol><li>In particular, if an action card is played &ldquo;when/after you activate a system&rdquo; or similar, then the Watcher must be adjacent before any ships move during that tactical action.</li></ol>
+    <li>If a player has a second copy of an action card, they may play it if the first was cancelled by a Watcher.</li>
+    <li>If an action card is cancelled by a Watcher, no costs are paid.</li>
+    <li>A player playing an action card announces the following before a Watcher may be triggered:</li>
+    <ol>
+        <li>Any targeted planets, system, units, players, cards, outcomes, and/or other such objects.</li>
+        <li>The value of any variable cost to be paid.</li>
+    </ol>
+    <li>Any dice are rolled and any cards are drawn only after the Empyrean player has declined to remove a Watcher.</li>
+    <li>If an action card instructs a player to research a technology, that player need not announce what technology they are researching until the Empyrean player has declined to remove a Watcher.</li>
+    <li>If an action card is played that will have an effect later, such as a rider, that card may only be cancelled by a Watcher when it is originally played.</li>
+    <li>If the action card that was cancelled by a Watcher was to be used to perform a component action, the active player must perform a different action, or pass.</li>
+    <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <i>Fleet Logistics</i> technology, the active player may end their turn without performing a second action and without passing.</li></ol>
     </ol>
 </article>
 <?php include "suffix.php"?>
