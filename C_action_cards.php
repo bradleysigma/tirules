@@ -177,6 +177,7 @@
     <li>The researched technology cannot be the returned technology.</li>
     <li>Other players must decide whether to play <i>Sabotage</i>, or otherwise cancel the action card, before the player playing <i>Divert Funding</i> announces which technology they are researching.</li>
     <li>If a player later gains the technology they returned, they gain it readied.</li>
+    <li>If the player returns the <i>Antimass Deflectors</i> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.</li>
     </ol>
 
 <h1>Economic Initiative</h1>

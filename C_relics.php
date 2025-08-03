@@ -50,10 +50,10 @@
 
 <h1>JR&ndash;XS455&ndash;O</h1>
     <ol class="note">
-    <li><i>JR-XS455-O</i> is an agent. All rules that apply to agents (and leaders) apply to <i>JR-XS455-O</i>.</li>
+    <li><i>JR&ndash;XS455&ndash;O</i> is an agent. All rules that apply to agents (and leaders) apply to <i>JR&ndash;XS455&ndash;O</i>.</li>
     <ol>
-        <li><i>JR-XS455-O</i> may be refreshed by the Nomad player's <i>Temporal Command Suite</i> technology.</li>
-        <li>The ability of <i>JR-XS455-O</i> may be duplicated by the Yssaril player&rsquo;s agent, Ssruu, if the Yssaril player themselves do not own <i>JR-XS455-O</i>.</li>
+        <li><i>JR&ndash;XS455&ndash;O</i> may be refreshed by the Nomad player's <i>Temporal Command Suite</i> technology.</li>
+        <li>The ability of <i>JR&ndash;XS455&ndash;O</i> may be duplicated by the Yssaril player&rsquo;s agent, Ssruu, if the Yssaril player themselves do not own <i>JR&ndash;XS455&ndash;O</i>.</li>
     </ol>
     </ol>
 
