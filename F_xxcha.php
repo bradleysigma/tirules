@@ -120,7 +120,7 @@
 <h1>Archon&rsquo;s Gift <sub>(Breakthrough)</sub></h1>
     <ol class="note">
     <li>A source of both influence and resources, such as a planet, may be spent for one or the other, but not both.</li>
-    <ol><li>For example, Archon Tau will provide one resource or one influence, not two.</li></ol>
+    <ol><li>For example, Archon Tau will provide one resource or one influence, not two.</li></ol>
     <li>A source of both influence or resources, such as a planet, may be spent as one or the other, but cannot be split to be spent as both.</li>
     <ol><li>For example, if the Xxcha player wishes to score the <i>Amass Wealth</i> objective, each planet they exhaust will contribute to either the resource requirement or the influence requirement, but cannot partially contribute to both.</li></ol>
     <li><i>Archon&rsquo;s Gift</i> only changes how a planet&rsquo;s influence and resources may be spent. It does not change the value for any other game effect.</li>

@@ -76,5 +76,24 @@
     <li>A Z&ndash;Grav Eidolon participating in a space combat may count towards scoring the <i>Demonstrate Your Power</i> secret objective.</li>
     <li>When a Z&ndash;Grav Eidolon reverts back to an Eidolon at the end of combat, it will count towards capacity in the active system. Capacity limits must be met before proceeding to the <b>Invasion</b> step.</li>
     </ol>
+
+<h1>Absolute Synergy <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>The four mechs can be anywhere in the same system; they need not be all on the same planet.</li>
+    <li>The mechs may be removed and the card flipped as soon as the four mechs are in the same system. For example, this may be done before space combat starts.</li>
+    </ol>
+
+<h1>Eidolon Maximum <sub>(Mech)</sub></h1>
+    <ol class="note">
+    <li>When in the space area of a system, the Eidolon Maximums counts towards either of the Naaz&ndash;Rokha player&rsquo;s capacity or fleet pool in that system.</li>
+    <li>Hits produced by unit abilities against the Naaz&ndash;Rokha player&rsquo;s must be assigned to other eligible units, if possible.</li>
+    <li>The Eidolon Maximum only repairs during combats that it is participating in.</li>
+    <li>The Naaz&ndash;Rokha player can never have two or more Eidolon Maximums on the game board.</li>
+    <li>The Eidolon Maximum is considered a mech for all relevant game effects, such as rolling an additional dice from the effect of the <i>Visz El Vir</i></li>
+    <li>The Eidolon Maximum is considered a ship for all relevant game effects.</li>
+    <ol>
+        <li>The Eidolon Maximum may be destroyed by a <i>Direct Hit</i> action card whenever it uses its <sc>Sustain Damage</sc> ability, including if it does so during a ground combat.</li>
+    </ol>
+    </ol>
 </article>
 <?php include "suffix.php"?>

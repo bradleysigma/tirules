@@ -114,5 +114,10 @@
     </ol>
     <li>During a space combat, A Quantum Manipulator cannot be repaired by the <i>Duranium Armor</i> technology, as it is not participating in the combat.</li>
     </ol>
+
+<h1>Thunder&rsquo;s Paradox <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>The readied agent can belong to any player. It need not belong to the Nomad player nor the active player.</li>
+    </ol>
 </article>
 <?php include "suffix.php"?>

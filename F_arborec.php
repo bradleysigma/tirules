@@ -79,5 +79,9 @@
     <li>The Arborec player may produce Letani Behemoth with their space docks.</li>
     <li>The Arborec player cannot use the secondary ability of the Warfare strategy card to use the <sc>Production</sc> ability of a Letani Behemoth.</li>
     </ol>
+
+<h1>Psychospore <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    </ol>
 </article>
 <?php include "suffix.php"?>

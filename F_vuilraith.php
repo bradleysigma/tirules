@@ -95,5 +95,10 @@
     <li>If the Vuil&rsquo;raith player owns the Infantry II unit upgrade technology, and one is destroyed during ground combat on a planet with a Reanimator, the Vuil&rsquo;raith player captures an infantry token, and they roll for resurrection, placing the destroyed infantry on the Infantry II unit upgrade card if successful.</li>
     <li>If the Vuil&rsquo;raith player&rsquo;s infantry on a planet with a Reanimator are destroyed outside of combat, such as with the <i>Plague</i> action card, those infantry will be captured.</li>
     </ol>
+
+<h1>Al&rsquo;raith Ix Ianovar <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>The Vuil&rsquo;raith player may move the ingress tokens into systems that contain their Dimensional Tears.</li>
+    </ol>
 </article>
 <?php include "suffix.php"?>

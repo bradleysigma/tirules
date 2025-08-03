@@ -74,5 +74,9 @@
     <li>Structures are also moved.</li>
     <li>The planet cannot be traded during combat.</li>
     </ol>
+
+<h1>Auto&ndash;Factories <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    </ol>
 </article>
 <?php include "suffix.php"?>

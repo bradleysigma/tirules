@@ -84,5 +84,12 @@
     <li>A <sc>Deploy</sc> ability may only be resolved for units in a player&rsquo;s reinforcements. If all four Dunlain Reapers are already on the board, no Dunlain Reaper may be deployed.</li>
     <ol><li>If a Dunlain Reaper is destroyed during combat, then another may be deployed in a later round of the same combat.</li></ol>
     </ol>
+
+<h1>Gravleash Maneuvers <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>If a ship has its movement value increased by an ability such as the <i>Gravity Drive</i> technology, then other ships will have their movement values increased to match the modified value.</li>
+    <li>The ship with the highest move may increase the move value of other ships that move even if that ship itself does not move during that action.</li>
+    <li>If the Letnev player owns the Fighter II unit upgrade, another ship may have its move value increased to match that of a Fighter II in that system.</li>
+    </ol>
 </article>
 <?php include "suffix.php"?>

@@ -88,5 +88,16 @@
     <ol class="note">
     <li>If a player commits a mech to a planet that contains both a Moll Terminus mech and a PDS belonging to the Mentak player, then the committed mech cannot use its <sc>Sustain Damage</sc> ability to cancel any <sc>Space Cannon</sc> hits during that invasion.</li>
     </ol>
+
+<h1>The Table&rsquo;s Grace <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    </ol>
+
+<h1>Corsair <sub>(Unit)</sub></h1>
+    <ol class="note">
+    <li>If the active system contains a non&ndash;Mentak player&rsquo;s units, the Mentak player may move a Corsair through systems containing any other player&rsquo;s ships, not just those of the player in the active system.</li>
+    <li>The ability of the Corsair may be triggered even if the Mentak player has some of their own units in the active system.</li>
+    <li>The Nekro player cannot place a Valefar token on the Corsair card.</li>
+    </ol>
 </article>
 <?php include "suffix.php"?>

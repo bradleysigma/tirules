@@ -71,5 +71,12 @@
 <h1>Blackshade Infiltrator <sub>(Mech)</sub></h1>
     <ol class="note">
     </ol>
+
+<h1>Deepgloom Executable <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>The Yssaril player may perform a transaction with another player without being neighbors with that player.</li>
+    <li>The Yssaril player may perform a transaction with another player even if neither player is the active player.</li>
+    <ol><li><i>Deepgloom Executable</i> may allow the Yssaril player to perform a transaction at a time they usually could not. For example, if the Mentak player exhausts their agent, Suffi An, during the strategy phase when another player gains the trade goods on the strategy card they chose, the Yssaril player may allow either of those players to use their <sc>Scheming</sc> ability, and then perform a transaction with that player.</li></ol>
+    </ol>
 </article>
 <?php include "suffix.php"?>

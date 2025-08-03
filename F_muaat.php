@@ -3,6 +3,7 @@
 <article>
 <h1>Star Forge</h1>
     <ol class="note">
+    <li>The Muaat player cannot use <sc>Star Forge</sc> if the do not have a war sun on the game board.</li>
     </ol>
 
 <h1>Gashlai Physiology</h1>
@@ -65,11 +66,31 @@
     <li>If the Muaat player owns <i>Magmus Reactor &Omega;</i>, and resolves this ability during a tactical action, they will be able to produce units during the <b>Production</b> step, if the Muaat player still has units in the system.</li>
     <li><i>Nova Seed</i> cannot target the home system of an eliminated player.</li>
     <li><i>Nova Seed</i> may target the Creuss Gate (tile 17) or the Wormhole Nexus (tile 82).</li>
-    <li>The Empyrean player cannot use the ability of their agent, Acamar, on the Muaat player after they use <i>Nova Seed</i> if the original system tile contained planets.</li>
+    <li>The Empyrean player cannot use the ability of their agent, Acamar, on the Muaat player after they use <i>Nova Seed</i> if the original system tile contained planets.</li>
     </ol>
 
 <h1>Ember Colossus <sub>(Mech)</sub></h1>
     <ol class="note">
     </ol>
+
+<h1>Stellar Genesis <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>The Muaat player explores Avernus when they gain it.</li>
+    <li>The Muaat player may move Avernus even if another player controls it.</li>
+    <li>Avernus may be moved into a system containing another player&rsquo;s units.</li>
+    <li>Structures may be placed on Avernus.</li>
+    <ol>
+        <li>Any PDS (or other relevant unit) on Avernus may use its <sc>Space Cannon</sc> ability during the movement step of the same tactical action the planet is moved.</li>
+        <li>Any of the Muaat player&rsquo;s space docks (or other relevant units) on Avernus may use its <sc>Production</sc> ability during the production step of the same tactical action the planet is moved.</li>
+    </ol>
+    </ol>
+
+<h1>Avernus <sub>(Legendary Planet)</sub></h1>
+    <ol class="note">
+     <li>If the Muaat player uses the ability of Avernus, they will not gain a trade good from the ability of their commander, Magmus.</li>
+     <li>If the Muaat player uses the ability of Avernus, they will still place infantry with their adjacent mechs.</li>
+     <li>If another player controls Avernus, they may use the legendary ability only if they have a war sun on the game board.</li>
+    </ol>
+
 </article>
 <?php include "suffix.php"?>

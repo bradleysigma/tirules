@@ -143,5 +143,14 @@
     <ol class="note">
     <li>A Mordred will apply +2 against a player with both Valefar Assimilator tokens, and not +4.</li>
     </ol>
+
+<h1>Valefar Assimilator Z <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>If the Nekro player places a Valefar Assimilator token on the Nomad player&rsquo;s <i>Memoria II</i> unit upgrade card, they would still gain each ability granted to them by <i>Valefar Assimilator Z</i>.</li>
+    <li>The Nekro player cannot place multiple Valefar Assimilator Z tokens on the same player&rsquo;s faction sheet.</li>
+    <li>If the Nekro player has a Valefar Assimilator Z token on the Mahact player&rsquo;s faction sheet, they will always apply the +2 to the combat rolls for <i>The Alastor</i>.</li>
+    <li>If the Nekro player has a Valefar Assimilator Z token on the Vuil&rsquo;raith player&rsquo;s faction sheet, they will capture destroyed units.</li>
+    <li>If the Nekro player has a Valefar Assimilator Z token on the Firmament player&rsquo;s faction sheet, <i>The Alastor</i> will lose the ability of <i>Heaven&rsquo;s Eye</i> when that player converts to the Obsidian components.</li>
+    </ol>
 </article>
 <?php include "suffix.php"?>

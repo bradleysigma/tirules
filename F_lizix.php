@@ -69,5 +69,11 @@
     <li>An Annihilator may bombard when using the L1Z1X player&rsquo;s <sc>Harrow</sc> ability if that mech is not currently participating in ground combat, even if it has been committed to a different planet, and has been or will be involved in another ground combat during the current invasion.</li>
     <li>An Annihilator may bombard any one planet during the <b>Bombardment</b> step of an invasion.</li>
     </ol>
+
+<h1>Fealty Uplink <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>If the L1Z1X player gains control of an uncontrolled planet, they may choose if they place the infantry before or after they explore the planet.</li>
+    <li>The L1Z1X player must mandatorily place the infantry.</li>
+    </ol>
 </article>
 <?php include "suffix.php"?>

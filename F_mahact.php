@@ -109,5 +109,13 @@
     <li>The Mahact player may use the ability to end their own turn and gain their own spent command token from their fleet pool.</li>
     <li>The Starlancer must be in the system before activation to be able to use its ability.</li>
     </ol>
+
+<h1>Vaults of the Heir <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>The purged technology must be one that the Mahact player has in their play area, and not from their technology deck.</li>
+    <ol><li>The technology may be exhausted when it is purged.</li></ol>
+    <li>Once a technology has been purged, the Mahact player cannot regain it for the remainder of the game.</li>
+    <li>If the Mahact player purges the <i>Antimass Deflectors</i> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.</li>
+    </ol>
 </article>
 <?php include "suffix.php"?>

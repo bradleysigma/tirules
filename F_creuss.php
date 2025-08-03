@@ -114,5 +114,11 @@
     <li>The Icarus Drive does not have to be in the activated system.</li>
     <li>The wormhole token is placed in the system the Icarus Drive was in.</li>
     </ol>
+
+<h1>Particle Synthesis <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>Each wormhole in the system provides the <sc>Production</sc> value and discount, even those of the same type.</li>
+    <li>If the Creuss player moves the <i>Hil Colish</i> into a system, the Creuss player may use the <sc>Production</sc> ability of the associated delta wormhole during the production step of the same tactical action.
+    </ol>
 </article>
 <?php include "suffix.php"?>
