@@ -27,7 +27,7 @@
     <li><i>Bribery</i> may be played after the speaker has abstained, or would vote if they are unable to.</li>
     <li>A player may spend zero trade goods when they play <i>Bribery</i>.</li>
     <li>A player must have cast votes for an outcome to play <i>Bribery</i>, and the additional votes must be cast for the same outcome.</li>
-        <ol><li>If the Argent player is speaker, only they can play <i>Bribery</i>, and must do so immediately after they cast votes</li></ol>
+        <ol><li>If the Argent player is speaker, only they can play <i>Bribery</i>, and must do so immediately after they cast votes.</li></ol>
     <li>The speaker may play <i>Distinguished Councilor</i> after another player plays <i>Bribery</i>.</li>
     <li><i>Bribery</i> is played before any effects that change the outcome of an agenda.</li>
     </ol>
