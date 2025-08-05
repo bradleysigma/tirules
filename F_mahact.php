@@ -116,6 +116,7 @@
     <ol><li>The technology may be exhausted when it is purged.</li></ol>
     <li>Once a technology has been purged, the Mahact player cannot regain it for the remainder of the game.</li>
     <li>If the Mahact player purges the <i>Antimass Deflectors</i> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.</li>
+    <li>If the Mahact player purges their War Sun unit upgrade technology, they must remove each of their war suns from the game board.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

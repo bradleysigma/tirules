@@ -285,9 +285,10 @@
 
 <h1>Hack Election &Omega;</h1>
     <ol class="note">
-    <li>The speaker vote before the player that played <i>Hack Election</i>.</li>
-    <ol><li>Players will play <i>Bribery</i> after the speaker votes. The player that played <i>Hack Election</i> cannot play <i>Bribery</i>.</li></ol>
-    <li>If the Argent player plays <i>Hack Election</i>, they will vote last.</li>
+    <li><i>Hack Election &Omega;</i> will not allow a player to vote if another game effect would prevent them from doing so.</li>
+    <li>The speaker vote before the player that played <i>Hack Election &Omega;</i>.</li>
+    <ol><li>Players will play <i>Bribery</i> after the speaker votes. The player that played <i>Hack Election &Omega;</i> cannot play <i>Bribery</i>.</li></ol>
+    <li>If the Argent player plays <i>Hack Election &Omega;</i>, they will vote last.</li>
     </ol>
 
 <h1>Harness Energy</h1>
@@ -436,7 +437,7 @@
 
 <h1>Overrule</h1>
     <ol class="note">
-    <li>If a player is eliminated, the strategy cards that they had are considered &ldquo;unchosen&rdquo;.</li>
+    <li>If a player is eliminated, the strategy cards that they had are considered &ldquo;unchosen&rdquo;.</li>
     </ol>
 
 <h1>Parley</h1>
@@ -661,7 +662,7 @@
 
 <h1>Strategize</h1>
     <ol class="note">
-    <li>If a player is eliminated, the strategy cards that they had are considered &ldquo;unchosen&rdquo;.</li>
+    <li>If a player is eliminated, the strategy cards that they had are considered &ldquo;unchosen&rdquo;.</li>
     <li>The active player must still spend a command token to perform the secondary ability, other than for Leadership.</li>
     </ol>
 

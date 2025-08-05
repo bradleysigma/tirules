@@ -85,11 +85,11 @@
     </ol>
     </ol>
 
-<h1>Avernus <sub>(Legendary Planet)</sub></h1>
+<h1>Avernus &mdash; The Nucleus <sub>(Legendary Planet)</sub></h1>
     <ol class="note">
-     <li>If the Muaat player uses the ability of Avernus, they will not gain a trade good from the ability of their commander, Magmus.</li>
-     <li>If the Muaat player uses the ability of Avernus, they will still place infantry with their adjacent mechs.</li>
-     <li>If another player controls Avernus, they may use the legendary ability only if they have a war sun on the game board.</li>
+     <li>If the Muaat player uses <i>The Nucleus</i>, they will not gain a trade good from the ability of their commander, Magmus.</li>
+     <li>If the Muaat player uses <i>The Nucleus</i>, they will still place infantry with their adjacent mechs.</li>
+     <li>If another player controls Avernus, they may use <i>The Nucleus</i> only if they have a war sun on the game board.</li>
     </ol>
 
 </article>
