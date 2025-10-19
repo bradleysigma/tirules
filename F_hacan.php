@@ -73,6 +73,7 @@
     <ol class="note">
     <li>Structures are also moved.</li>
     <li>The planet cannot be traded during combat.</li>
+    <li>If the Pride of Kenara is on a planet in a gravity rift, any units moved must roll for removal if the planet is transacted.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

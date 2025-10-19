@@ -67,6 +67,9 @@
     <li>The <i>Nav Suite</i> action card will not allow a player to ignore an anomaly while retreating.</li>
     <li>The <i>Dark Energy Tap</i> technology allows a player to retreat into a system that does not contain their ships or a planet they control.</li>
     <li>Modifying the move value of a ship will have no effect when retreating. Retreats are limited to adjacent systems.</li>
+    <li>While retreating, a player may transport zero or more ground forces from planets they control in the active system. The player need not decide which fighters and ground forces they transport until they execute the retreat.</li>
+    <li>A player cannot leave fighters and ground forces in the space area behind in the active system if they would have unused capacity during the retreat. However, if they have fighters and ground forces in both the space area and on one or more planets in the active system, they may choose which units they transport. If this choice results in all their available capacity being used, they may leave units behind in the space area.</li>
+    <ol><li>A player is not required to use all of their available capacity to transport ground forces on planets in the active system.</li></ol>
     <li>While retreating, a player cannot transport more fighters and/or ground forces than they have capacity in the retreating ships.</li>
     <li>Capacity is checked after the winner of a space combat is determined. As such, it is possible to win a space combat with only fighters remaining, before removing those fighters due to lack of capacity.</li>
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.</li>

@@ -123,10 +123,10 @@
 <h1>Direct Hit</h1>
     <ol class="note">
     <li>If multiple ships use their <sc>Sustain Damage</sc> ability, a <i>Direct Hit</i> may be played for each.</li>
-    <li>A <i>Direct Hit</i> may be used whenever hits produced by a player&rsquo;s units or abilities are cancelled by a unit using its <sc>Sustain Damage</sc> ability.</li>
-    <li>When a player uses the <sc>Sustain Damage</sc> ability of one of their units, they do not have to decide if another of their units in the same combat will use its <sc>Sustain Damage</sc> ability until after their opponent has used or declined to use a <i>Direct Hit</i>.</li>
+    <li>A <i>Direct Hit</i> may be used whenever hits produced by a player&rsquo;s units or abilities are cancelled by a ship using its <sc>Sustain Damage</sc> ability.</li>
+    <li>When a player uses the <sc>Sustain Damage</sc> ability of one of their ships, they do not have to decide if another of their ships in the same combat will use its <sc>Sustain Damage</sc> ability until after their opponent has used or declined to use a <i>Direct Hit</i>.</li>
     <li>When <i>Direct Hit</i> is used outside of combat, if used on a ship with capacity, then fighters and/or ground forces must immediately be removed from the space area to meet the capacity limit.</li>
-    <ol><li>For example, say a player has a dreadnought, a destroyer and a fighter in a system with no other units during the <b>Space Cannon Defense</b> step. During the <b>Roll Dice</b> step, two hits are produced against that player. They cancel one with the dreadnought&rsquo;s <sc>Sustain Damage</sc> ability, but a <i>Direct Hit</i> is played to destroy it. The fighter in that system is immediately removed. The player must then assign the other produced hit to their destroyer.</li></ol>
+    <ol><li>For example, say a player has a dreadnought, a destroyer and a fighter in a system with no other ships during the <b>Space Cannon Defense</b> step. During the <b>Roll Dice</b> step, two hits are produced against that player. They cancel one with the dreadnought&rsquo;s <sc>Sustain Damage</sc> ability, but a <i>Direct Hit</i> is played to destroy it. The fighter in that system is immediately removed. The player must then assign the other produced hit to their destroyer.</li></ol>
     <li>A mech cannot be destroyed by <i>Direct Hit</i>, unless a game effect causes the mech to be considered a ship.</li> 
     </ol>
 
