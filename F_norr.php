@@ -74,5 +74,10 @@
     <li>The hit produced by the Valkyrie Exoskeleton is added to any other hits produced in the immediately preceding <b>Roll Dice</b> step.</li>
     <li>If a Valkyrie Exoskeleton uses its <sc>Sustain Damage</sc> ability during a ground combat, it mandatorily produces a hit.</li>
     </ol>
+
+<h1>N&rsquo; Supremacy <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>The N&rsquo;orr player must meet the prerequisites of the unit upgrade they research.</li>
+    </ol>
 </article>
 <?php include "suffix.php"?>

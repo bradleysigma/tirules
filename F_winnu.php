@@ -75,5 +75,11 @@
     <li>If the Winnu player gains control of a planet with multiple Reclaimers, they may place a structure for each one, if they may do so without exceeding the maximum number of that structure allowed on a planet.</li>
     <li>The Reclaimer need only be on the planet at the end of the tactical action the Winnu player gained it, not when the Winnu player gains control of it. This can occur from effects such as the <i>Infiltrate</i> action card, or some exploration cards.</li>
     </ol>
+
+<h1>Imperator <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>The Winnu player applies the +1 to their combat rolls even if it is their <i>Support for the Throne</i> in their opponent&rsquo;s play area.</li>
+    <li>If their opponent receives a <i>Support for the Throne</i> during a combat, the Winnu player will apply +1 to the remaining combat rolls during that combat.</li>
+    </ol>
 </article>
 <?php include "suffix.php"?>

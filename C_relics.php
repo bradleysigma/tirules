@@ -48,6 +48,10 @@
     <li>If a player uses the purge ability of <i>Dynamis Core</i>, they will need to return commodities if they now exceed their original commodity value.</li>
     </ol>
 
+<h1>Heart of Ixth</h1>
+    <ol class="note">
+    </ol>
+
 <h1>JR&ndash;XS455&ndash;O</h1>
     <ol class="note">
     <li><i>JR&ndash;XS455&ndash;O</i> is an agent. All rules that apply to agents (and leaders) apply to <i>JR&ndash;XS455&ndash;O</i>.</li>
@@ -57,9 +61,25 @@
     </ol>
     </ol>
 
+<h1>Lightrail Ordnance</h1>
+    <ol class="note">
+    </ol>
+
 <h1>Maw of Worlds</h1>
     <ol class="note">
     <li>The player does not have to meet the prerequisites of the technologies they acquire using <i>Maw of Worlds</i>.</li>
+    </ol>
+
+<h1>Metali Void Armaments</h1>
+    <ol class="note">
+    </ol>
+
+<h1>Metali Void Armaments</h1>
+    <ol class="note">
+    <li>The affected ship may be destroyed by the <i>Direct Hit</i> action card after it uses the <sc>Sustain Damage</sc> ability.</li>
+    <li>A player may play the <i>Reflective Shielding</i> action card after it uses the <sc>Sustain Damage</sc> ability via <i>Metali Void Shielding</i>.</li>
+    <li>If a player owns <i>Metali Void Shielding</i>, and their opponent plays the <i>Waylay</i> action card, they may use <i>Metali Void Shielding</i> for both the <sc>Anti&ndash;Fighter Barrage</sc> and combat rolls in that round of space combat.</li> 
+    <li><i>Metali Void Shielding</i> has no effect when the Argent player resolves their <sc>Raid Formation</i> faction ability.</li>
     </ol>
 
 <h1>Nano&ndash;Forge</h1>
@@ -94,6 +114,10 @@
     <li>The Nekro player may use the ability of <i>The Prophet&rsquo;s Tears</i> to draw an action card when they would have researched a technology.</li>
     </ol>
 
+<h1>The Quantumcore</h1>
+    <ol class="note">
+    </ol>
+
 <h1>Scepter of Emelpar</h1>
     <ol class="note">
     <li>If a player has no command tokens in their reinforcements, they must use a command token from their command sheet instead when they use the ability of the <i>Scepter of Emelpar</i>.</li>
@@ -107,11 +131,30 @@
     <li>If the player that gains <i>Shard of the Throne</i> controls no legendary planets or planets in their home system, they cannot lose it.</li>
     </ol>
 
+<h1>The Silver Flame</h1>
+    <ol class="note">
+    </ol>
+
 <h1>Stellar Converter</h1>
     <ol class="note">
     <li>The chosen planet must be in a system adjacent to the unit with <sc>bombardment</sc>; the planet and unit cannot both be in the same system.</li>
     <li>A system that contains a planet destroyed by <i>Stellar Converter</i>, and no other planets, is considered to contain no planets.</li>
     <li>A player cannot target a planet they control with <i>Stellar Converter</i>.</li> 
+    </ol>
+
+<h1>The Triad</h1>
+    <ol class="note">
+    <li><i>The Triad</i> may be readied by effects that ready planets, such as the <i>Diplomacy</i> strategy card.</li>
+    <li><i>The Triad</i> is not considered a planet for other game effects.</li>
+    <ol>
+        <li>Units cannot be placed on <i>The Triad</i>.</li>
+        <li><i>The Triad</i> cannot be exhausted by the <i>Reparations</i> or <i>Uprising</i> action cards.</li>
+        <li><i>The Triad</i> cannot be elected by an &ldquo;elect planet&rdquo; agenda, nor can it be exhausted by agenda effects such as the &ldquo;For&rdquo; effect of the <i>New Constitution</i> agenda.</li>
+        <li>Attachments such as the <i>Nano&ndash;Forge</i> relic or the Ul <i>Terraform</i> promissory note cannot be attached to <i>The Triad</i>.</li>
+        <li><i>The Triad</i> does not count towards the planets required to score the <i>Push Boundaries</i> public objective, nor the <i>Establish Hegemony</i> or <i>Hoard Raw Materials</i> secret objectives. In addition, it does not count towards any objectives that require a planet in a specific type of system.</li>
+        <li><i>The Triad</i> does not have a planet trait; it cannot be explored.</li>
+    </li>
+    <li><i>The Triad</i> may be exhausted to cast votes, and readies at the end of the agenda phase.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

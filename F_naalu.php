@@ -77,6 +77,10 @@
     <li>Any deal between the Naalu player and another player regarding which system will be activated, if made before Z&rsquo;eu &Omega; is exhausted, is non&ndash;binding.</li>
     </ol>
 
+<h1>Z&rsquo;eu &Omega;&Omega; <sub>(Agent)</sub></h1>
+    <li>Z&rsquo;eu &Omega;&Omega; may be used whenever a command token is placed in a system. For example, it may be used when a player activates a system, when a player resolves the primary ability of the <i>Diplomacy</i> strategy card, or when a player resolves the <i>Signal Jamming</i> action card.</li>
+    </ol>
+
 <h1>M&rsquo;aban <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>When producing units, the Naalu player must produce all the units they intend to produce before they may unlock M&rsquo;aban. M&rsquo;aban cannot be applied to the instance of producing the units that unlocks it.</li>
@@ -105,6 +109,16 @@
 <h1>Iconoclast &Omega; <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>The ability will apply regardless of if the Iconoclast is in the space area or on a planet in the system.</li>
+    </ol>
+
+<h1>Iconoclast &Omega;&Omega; <sub>(Mech)</sub></h1>
+    <ol class="note">
+    <li>The Naalu player must mandatorily place a mech when another player gains a relic, if they have at least one in their reinforcements.</li>
+    </ol>
+
+<h1>Mindsieve <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>The Naalu player may only give promissory notes from their hand; they cannot give promissory notes that are in their play area.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

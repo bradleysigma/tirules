@@ -97,5 +97,17 @@
     <li>If the action card that was cancelled by a Watcher was to be used to perform a component action, the active player must perform a different action, or pass.</li>
     <ol><li>If the component action was to be the second action the active player was to perform on their turn, through an effect such as the <i>Fleet Logistics</i> technology, the active player may end their turn without performing a second action and without passing.</li></ol>
     </ol>
+
+<h1>Void Tether <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>Other players treat those systems as not being adjacent for all game effects. The Empyrean player continues to treat them as adjacent.</li>
+    <ol>
+        <li>Players cannot move directly between those two systems.</li>
+        <li>If a player has a unit with the <sc>Deep Space Cannon</sc> ability on one of the systems, they cannot target units in the other.</li>
+        <li>If two other players have units or control planets in each of one of the two systems in question, they are not neighbours via these systems. However, if the Empyrean player has units or control a planet in one of the systems, the will be neighbors with any player with units or controlling a planet in the other, and vice versa.</li>
+        <li>A player with ships in one of the systems cannot use those ships to place a command token in the other system with the <i>Skilled Retreat</i> action card.</li>
+        <li>If one of the systems is a home system, then units in the other system cannot be used to score the <i>Threaten Enemies</i> secret objective or the <i>Rule Distant Lands</i> secret objective.</li>
+    </ol>
+    </ol>
 </article>
 <?php include "suffix.php"?>

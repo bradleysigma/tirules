@@ -72,5 +72,25 @@
 <h1>Ember Colossus <sub>(Mech)</sub></h1>
     <ol class="note">
     </ol>
+
+<h1>Stellar Genesis <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>The Muaat player explores Avernus when they gain it.</li>
+    <li>The Muaat player may move Avernus even if another player controls it.</li>
+    <li>Avernus may be moved into a system containing another player&rsquo;s units.</li>
+    <li>Structures may be placed on Avernus.</li>
+    <ol>
+        <li>Any PDS (or other relevant unit) on Avernus may use its <sc>Space Cannon</sc> ability during the movement step of the same tactical action the planet is moved.</li>
+        <li>Any of the Muaat player&rsquo;s space docks (or other relevant units) on Avernus may use its <sc>Production</sc> ability during the production step of the same tactical action the planet is moved.</li>
+    </ol>
+    </ol>
+
+<h1>Avernus &mdash; The Nucleus <sub>(Legendary Planet)</sub></h1>
+    <ol class="note">
+     <li>If the Muaat player uses <i>The Nucleus</i>, they will not gain a trade good from the ability of their commander, Magmus.</li>
+     <li>If the Muaat player uses <i>The Nucleus</i>, they will still place infantry with their adjacent mechs.</li>
+     <li>If another player controls Avernus, they may use <i>The Nucleus</i> only if they have a war sun on the game board.</li>
+    </ol>
+
 </article>
 <?php include "suffix.php"?>

@@ -75,5 +75,9 @@
     <li>The planet cannot be traded during combat.</li>
     <li>If the Pride of Kenara is on a planet in a gravity rift, any units moved must roll for removal if the planet is transacted.</li>
     </ol>
+
+<h1>Auto&ndash;Factories <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    </ol>
 </article>
 <?php include "suffix.php"?>

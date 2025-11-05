@@ -1,0 +1,25 @@
+<?php include "prefix.php"?>
+<header>Synergy</header>
+<article>
+<h1>Rules Reference</h1>
+<p style="column-span: all;">There currently does not exist a Living Rules Reference section regarding synergy.</p>
+
+<h1>Notes</h1>
+    <ol class="note">
+    <li>Certain abilities, primarily breakthroughs, grant synergy between two colours of technology, allowing components of one colour to be treated as the other for some game effects.</li>
+    <li>When researching a technology, a player may treat each technology they own and/or each technology speciality on a planet they control that matches one colour of their synergy as any colour of that synergy.</li>
+    <li>When scoring an objective, a player may treat each technology they own that matches one colour of their synergy as any colour of that synergy.</li>
+    <li>These choices are made individually for each technology and/or each technology speciality.</li>
+    <ol><li>For example, a player with two propulsion technologies and a propulsion/biotic synergy ability would meet the prerequisites of the Fighter II unit upgrade technology. They do not have to treat their two technologies as both propulsion or both biotic, but may pick and choose for each.</li></ol>
+    <li>A technology and/or each technology speciality can only be one colour of technology at any given point in time.</li>
+    <ol><li>For example, a player with just one propulsion technology and a propulsion/biotic synergy ability would fail to meet the prerequisites of the Fighter II unit upgrade technology. Their single propulsion technology may be treated as either a propulsion technology or a biotic technology, but not both at the same time.</li></ol>
+    <li>A technology and/or each technology speciality may be treated as different colours of technologies at different points in time.</li>
+    <ol><li>For example, say a player currently has just one biotic technology, and they are resolving the primary ability of the <b>Technology</b> strategy card to research two technologies. They may first treat the biotic technology as a propulsion technology in order to research a technology with one propulsion prerequisite. Then, they may treat both the original biotic technology and the new propulsion technology as biotic technologies in order to research a technology with two biotic prerequisites.</li></ol>
+    </ol>
+
+<h1>Related Topics</h1>
+    <ul>
+    <li><a href="/R_breakthroughs">Breakthroughs</a></li>
+    </ul>
+</article>
+<?php include "suffix.php"?>

@@ -29,6 +29,13 @@
 <p>All information on this website is based off of v2.0 of the Living Rules Reference, released November 2020. This includes the <i>Prophecy of Kings</i> expansion. Notes are also available for the Codices, up to and including the Codex III, released April 2022.</p>
 <p>For more on <i>Twilight Imperium</i>, please see its <a href="https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/">page on the Fantasy Flight website.</a></p>
 <h1>Rule Topics</h1>
+<style>
+li.te:before
+{
+    content: 'n/a.';
+    counter-increment: item 0;
+}
+</style>
     <ol class="lrr">
     <li><a href="/R_abilities">Abilities</a></li>
     <li><a href="/R_action_cards">Action Cards</a></li>
@@ -45,8 +52,10 @@
     <li><a href="/R_attacker">Attacker</a></li>
     <li><a href="/R_blockaded">Blockaded</a></li>
     <li><a href="/R_bombardment">Bombardment</a></li>
+    <li class="te"><a href="/R_breakthroughs">Breakthroughs</a></li>
     <li><a href="/R_capacity">Capacity</a></li>
     <li><a href="/R_capture">Capture</a></li>
+    <li class="te"><a href="/R_coexistence">Coexistence</a></li>
     <li><a href="/R_combat">Combat</a></li>
     <li><a href="/R_command_sheet">Command Sheet</a></li>
     <li><a href="/R_command_tokens">Command Tokens</a></li>
@@ -63,10 +72,13 @@
     <li><a href="/R_destroyed">Destroyed</a></li>
     <li><a href="/R_diplomacy">Diplomacy</a></li>
     <li><a href="/R_elimination">Elimination</a></li>
+    <li class="te"><a href="/R_entropic_scars">Entropic Scars</a></li>
     <li><a href="/R_exhausted">Exhausted</a></li>
+    <li class="te"><a href="/R_expedition">Expedition</a></li>
     <li><a href="/R_exploration">Exploration</a></li>
     <li><a href="/R_fighter_tokens">Fighter Tokens</a></li>
     <li><a href="/R_fleet_pool">Fleet Pool</a></li>
+    <li class="te"><a href="/R_fracture">The Fracture</a></li>
     <li><a href="/R_frontier_tokens">Frontier Tokens</a></li>
     <li><a href="/R_game_board">Game Board</a></li>
     <li><a href="/R_game_round">Game Round</a></li>
@@ -90,6 +102,7 @@
     <li><a href="/R_movement">Movement</a></li>
     <li><a href="/R_nebula">Nebula</a></li>
     <li><a href="/R_neighbors">Neighbors</a></li>
+    <li class="te"><a href="/R_neutral_units">Neutral Units</a></li>
     <li><a href="/R_objective_cards">Objective Cards</a></li>
     <li><a href="/R_opponent">Opponent</a></li>
     <li><a href="/R_pds">PDS</a></li>
@@ -109,6 +122,7 @@
     <li><a href="/R_space_cannon">Space Cannon</a></li>
     <li><a href="/R_space_combat">Space Combat</a></li>
     <li><a href="/R_space_dock">Space Dock</a></li>
+    <li class="te"><a href="/R_space_stations">Space Stations</a></li>
     <li><a href="/R_speaker">Speaker</a></li>
     <li><a href="/R_status_phase">Status Phase</a></li>
     <li><a href="/R_strategic_action">Strategic Action</a></li>
@@ -117,6 +131,7 @@
     <li><a href="/R_structures">Structures</a></li>
     <li><a href="/R_supernova">Supernova</a></li>
     <li><a href="/R_sustain_damage">Sustain Damage</a></li>
+    <li class="te"><a href="/R_synergy">Synergy</a></li>
     <li><a href="/R_system_tiles">System Tiles</a></li>
     <li><a href="/R_tactical_action">Tactical Action</a></li>
     <li><a href="/R_technology">Technology</a></li>
@@ -139,18 +154,23 @@
         <li><a href="/F_letnev">The Barony of Letnev</a></li>
         <li><a href="/F_saar">The Clan of Saar</a></li>
         <li><a href="/F_keleres">The Council Keleres</a></li>
+        <li><a href="/F_rebellion">The Crimson Rebellion</a></li>
+        <li><a href="/F_deepwrought">The Deepwrought Scholarate</a></li>
         <li><a href="/F_muaat">The Embers of Muaat</a></li>
         <li><a href="/F_hacan">The Emirates of Hacan</a></li>
         <li><a href="/F_empyrean">The Empyrean</a></li>
         <li><a href="/F_sol">The Federation of Sol</a></li>
+        <li><a href="/F_firmament">The Firmament/The Obsidian</a></li>
         <li><a href="/F_creuss">The Ghosts of Creuss</a></li>
         <li><a href="/F_lizix">The L1Z1X Mindnet</a></li>
+        <li><a href="/F_bastion">Last Bastion</a></li>
         <li><a href="/F_mahact">The Mahact Gene&ndash;Sorcerers</a></li>
         <li><a href="/F_mentak">The Mentak Coalition</a></li>
         <li><a href="/F_naalu">The Naalu Collective</a></li>
         <li><a href="/F_naaz_rokha">The Naaz&ndash;Rokha Alliance</a></li>
         <li><a href="/F_nekro">The Nekro Virus</a></li>
         <li><a href="/F_nomad">The Nomad</a></li>
+        <li><a href="/F_ral_nel">The Ral Nel Consortium</a></li>
         <li><a href="/F_norr">Sardakk N&rsquo;orr</a></li>
         <li><a href="/F_ul">The Titans of Ul</a></li>
         <li><a href="/F_jol_nar">The Universities of Jol&ndash;Nar</a></li>
@@ -166,6 +186,7 @@
         <li><a href="/C_agendas">Agendas</a></li>
         <li><a href="/C_events">Events</a></li>
         <li><a href="/C_exploration_cards">Exploration Cards</a></li>
+        <li><a href="/C_legendary_planets">Legendary Planets</a></li>
         <li><a href="/C_objectives">Objectives</a></li>
         <li><a href="/C_promissory_notes">Promissory Notes</a></li>
         <li><a href="/C_relics">Relics</a></li>

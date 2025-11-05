@@ -105,10 +105,32 @@
     <li>The resource value of a planet will be added to its influence value when the Xxcha player casts votes during the agenda phase.</li>
     </ol>
 
+<h1>Xxekir Grom &mdash; Planetary Defense Nexus &Omega;&Omega;<sub>(Hero)</sub></h1>
+    <ol class="note">
+    <li>The units may be placed on a readied planet.</li>
+    <li>Multiple units may be placed on the same planet.</li>
+    </ol>
+
 <h1>Indomitus <sub>(Mech)</sub></h1>
     <ol class="note">
     <li>During the <b>Space Cannon Offense</b> supstep of a tactical action, the active player resolves the <sc>Space Cannon</sc> abilities of their units first. If the Xxcha player is not the active player, and their ships are removed by another player&rsquo;s space cannon roll, they must immediately remove units to meet their capacity limit. They will not resolve the <sc>Space Cannon</sc> abilities of any of their removed mechs.</li>
     <li>During the <b>Space Cannon Defense</b> substep of a tactical action, only non&ndash;active players can use the <sc>Space Cannon</sc> ability of their units. The Xxcha player cannot use the <sc>Space Cannon</sc> ability of their mechs immediately after committing them to a planet against units owned by that planet&rsquo;s controller.</li>
+    </ol>
+
+<h1>Archon&rsquo;s Gift <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>A source of both influence and resources, such as a planet, may be spent for one or the other, but not both.</li>
+    <ol><li>For example, Archon Tau will provide one resource or one influence, not two.</li></ol>
+    <li>A source of both influence or resources, such as a planet, may be spent as one or the other, but cannot be split to be spent as both.</li>
+    <ol><li>For example, if the Xxcha player wishes to score the <i>Amass Wealth</i> objective, each planet they exhaust will contribute to either the resource requirement or the influence requirement, but cannot partially contribute to both.</li></ol>
+    <li><i>Archon&rsquo;s Gift</i> only changes how a planet&rsquo;s influence and resources may be spent. It does not change the value for any other game effect.</li>
+    <ol>
+        <li>A space dock cannot use the influence value of the planet it is on to calculate its <sc>Production<sc> value.</li>
+        <li>The influence value of a planet will not increase the number of units the Xxcha player may produce when using the <i>Integrated Economy</i> technology.</li>
+        <li>The resource values of the planets the Xxcha player controls will not contribute to unlocking Elder Qanoj.</li>
+        <li><i>Archon&rsquo;s Gift</i> does not apply when scoring the <i>Establish Hegemony</i> or <i>Hoard Raw Materials</i> objectives.</li>
+        <li>The Xxcha player cannot use the influence value of a planet when they gain trade goods with the <i>Mining Initiative</i> action card. Other players cannot use the influence value when they gain trade goods from the <i>Uprising</i> action card if they choose to exhaust one of the Xxcha player&rsquo;s planets.</li>
+    </ol>
     </ol>
 </article>
 <?php include "suffix.php"?>

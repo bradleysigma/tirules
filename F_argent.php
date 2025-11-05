@@ -76,5 +76,10 @@
     <ol class="note">
     <li>An Aerie Sentinel cannot be transported by a ship without a capacity value.</li>
     </ol>
+
+<h1>Wing Transfer <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>If the Argent player produces units on their turn in the active system, they will have to satisfy fleet pool and capacity limits there before they may move units to adjacent systems.</li>
+    </ol>
 </article>
 <?php include "suffix.php"?>

@@ -92,5 +92,13 @@
     <li>When the Saar player gains control of a planet that is not already controlled by another player, they will explore it before the <sc>Deploy</sc> ability will be able to trigger.</li>
     <li>If the Saar player gains control of multiple planets, they may deploy one Scavenger Zeta to each.</li>
     </ol>
+
+<h1>Deorbit Barrage <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>The Saar player must choose how many resources to spend before rolling any dice.</li>
+    <li>The Saar player chooses which unit the hits get assigned to.</li>
+    <li>If the chosen unit has the <sc>Sustain Damage</sc> ability, it may be used to cancel the hit.</li>
+    <ol><li>The Saar player may assign multiple hits to the same unit.</li></ol>
+    </ol>
 </article>
 <?php include "suffix.php"?>

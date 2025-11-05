@@ -75,5 +75,10 @@
     <li>The Ul player cannot place a PDS on a planet that already has two of their PDS on it. As such, they are unable to place a Hecatoncheires on a planet with two of their PDS using its <sc>Deploy</sc> ability.</li>
     <li>The Ul player must have at least one PDS in their reinforcements to place in order to use the <sc>Deploy</sc> ability of a Hecatoncheires. However, when they would place a PDS, they may remove a PDS from any system that does not contain one of their command tokens and put it in their reinforcements. They may then use the <sc>Deploy</sc> ability of a Hecatoncheires.</li>
     </ol>
+
+<h1>Slumberstate Computing <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    <li>The Ul player does not have to be neighbours with the player that agrees to have a sleeper token placed on their planet.</li>
+    </ol>
 </article>
 <?php include "suffix.php"?>
