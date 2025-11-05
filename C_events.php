@@ -20,6 +20,7 @@
     <ol class="note">
     <li>If there are no more blue&ndash;backed or red&ndash;backed tiles available, a player does not place any tile if they roll the corresponding dice result.</li>
     <li>The <i>Dark Energy Tap</i> technology retains all its printed abilities when it is exhausted.</li>
+    <li>New tiles cannot be placed adjacent to the Creuss or Rebellion home systems, the wormhole nexus, or systems that comprise The Fracture.</li>
     </ol>
 
 <h1>Age of Fighters</h1>
@@ -67,6 +68,7 @@
     <ol class="note">
     <li>During setup, if a player places a minor faction system with two planets, that player chooses which planet gets two neutral infantry and which planet gets one.</li>
     <li>During setup, if a player is dealt the Creuss reference card, they place the Creuss Gate (tile 17) in the equidistant, and place the Creuss home system (tile 51) in the common play area.</li>
+    <li>During setup, if a player is dealt the Rebellion reference card, they place the Sorrow (tile 94) in the equidistant, and place the Rebellion home system (tile 118) in the common play area.</li>
     <li>During setup, if a player is dealt the Keleres reference card, then they select a home system at random from amongst the Argent, Mentak and Xxcha, excluding any that have already been placed.</li>
     <ol>
         <li>Should another player have the reference card for that faction, then they take that home system, and the player with the Keleres reference card places a different home system at random.</li>
@@ -135,6 +137,8 @@
 
 <h1>Wild, Wild Galaxy</h1>
     <ol class="note">
+    <li>A player with no planets remaining in their home system is not prevented from scoring public objectives.</li>
+    <li>If the Muaat player&rsquo;s <i>Nova Seed</i> hero ability replaces a player&rsquo;s home system with a supernova, then that supernova becomes that player&rsquo;s home system.</li>
     </ol>
 
 <h1>Zealous Orthodixy</h1>

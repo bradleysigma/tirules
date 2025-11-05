@@ -166,6 +166,21 @@
     <ol class="note">
     </ol>
 
+<style>
+@font-face
+{
+    font-family: lazax;
+    src: url(LazBold.ttf);
+}
+li.ixth
+{
+    font-family: lazax;
+}
+li.ixth:before
+{
+    font-family: helv, Arial, sans-serif;
+}
+</style>
 <h1>Ixthian Artifact</h1>
     <ol class="note">
     <li>A player must still meet the prerequisites for the technology they research.</li>
@@ -176,7 +191,7 @@
     </ol>
     <li>A player with three or fewer units in a system adjacent to the Mecatol Rex system destroys all of their units in that system. Otherwise, a player chooses which three units are destroyed.</li>
     <li>All units are destroyed simultaneously.</li>
-    <li style="color:white;">To cast votes against or to play a rider on <i>Ixthian Artifact</i> is to commit heresy.</li>
+    <li class="ixth">To cast votes against or to play a rider on <i>Ixthian Artifact</i> is to commit heresy.</li>
     </ol>
 
 <h1>Judicial Abolishment</h1>

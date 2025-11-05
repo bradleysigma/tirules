@@ -9,6 +9,7 @@
 
 <h1>&#x26AA; Puppets of the Blade</h1>
     <ol class="note">
+    <li>When the Firmament player flips their home system, the Obsidian player places any units that were on Cronos onto Cronos Hollow, and places any units on Tallin onto Tallin Hollow. Any units that were in the space area pre&ndash;flip are placed in the space area post&ndash;flip.</li>
     </ol>
 
 <h1>&#x2716; Nocturne</h1>
@@ -46,7 +47,7 @@
 
 <h1>&#x2716; Planesplitter <sub>(Technology)</sub></h1>
     <ol class="note">
-    <li>The ingress token must be moved when you perform the primary ability of your strategy card, before any other players decide if they wish to perform the secondary ability.</li>
+    <li>The ingress token must be moved when the Obsidian player performs the primary ability of their strategy card, before any other players decide if they wish to perform the secondary ability.</li>
     </ol>
 
 <h1>&#x26AA; Heaven&rsquo;s Eye <sub>(Flagship)</sub></h1>
@@ -67,7 +68,7 @@
 
 <h1>&#x26AA; Captain Aroz <sub>(Commander)</sub></h1>
     <ol class="note">
-    <li>&#x26AA; Captain Aroz does not assist in scoring secret objectives that do not require controlling planets, such as the <i>Mechanize the Military</i> or <i>Occupy the Fringe</i> secret objectives.</li>
+    <li>Captain Aroz does not assist in scoring secret objectives that do not require controlling planets, such as the <i>Mechanize the Military</i> or <i>Occupy the Fringe</i> secret objectives.</li>
     </ol>
 
 <h1>&#x2716; Aroz Hollow <sub>(Commander)</sub></h1>

@@ -77,6 +77,7 @@
 
 <h1>N&rsquo; Supremacy <sub>(Breakthrough)</sub></h1>
     <ol class="note">
+    <li>The N&rsquo;orr player must meet the prerequisites of the unit upgrade they research.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

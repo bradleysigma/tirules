@@ -55,7 +55,7 @@
     <li>Players exhaust planets to cast votes when resolving <i>Executive Order</i>, even if the <i>Representative Government</i> law is in play.</li>
     <li>If a third law is put into play, the <i>Dictate Policy</i> objective cannot be scored until the agenda phase.</li>
     <li>The <i>Drive the Debate</i> objective cannot be scored while resolving <i>Executive Order</i>.</li>
-    <li>Effects from agenda outcomes that occur &ldquo;at the end of this agenda phase&rdquo; are ignored.</li>
+    <li>Effects from agenda outcomes that occur &ldquo;at the end of this agenda phase&rdquo; will resolve and the end of the next agenda phase.</li>
     <li>Effects from agenda outcomes that occur &ldquo;at the start of the next strategy phase&rdquo; will still occur.</li>
     </ol>
 

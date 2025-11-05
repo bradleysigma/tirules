@@ -79,7 +79,7 @@
 
 <h1>Absolute Synergy <sub>(Breakthrough)</sub></h1>
     <ol class="note">
-    <li>The four mechs can be anywhere in the same system; they need not be all on the same planet.</li>
+    <li>The four mechs can be anywhere in the same system; they need not be all on the same planet, and some or all may be in the space area.</li>
     <li>The mechs may be removed and the card flipped as soon as the four mechs are in the same system. For example, this may be done before space combat starts.</li>
     </ol>
 

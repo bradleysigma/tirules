@@ -78,7 +78,7 @@
     <li>The Jol&ndash;Nar player cannot use <i>Specialized Compounds</i> when researching a unit upgrade.</li>
     <li>A technology with zero or completely ignored prerequisites must still match the colour of the planet&rsquo;s technology specialty to use <i>Specialized Compounds</i>.</li>
     <li>The Jol&ndash;Nar cannot use a technology specialty planet to both pay for the research with <i>Specialized Compounds</i> and to ignore a prerequisite of the researched technology simultaneously.</li>
-    <li>The Jol&ndash;Nar cannot use the synergy ability of <i>Specialized Compounds</i> to research a yellow technology with a green technology specialty planet or vice versa.</li>
+    <li>The Jol&ndash;Nar cannot use the synergy ability of <i>Specialized Compounds</i> to research a cybernetic technology with a biotic technology specialty planet or vice versa.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

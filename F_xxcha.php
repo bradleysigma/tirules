@@ -105,7 +105,7 @@
     <li>The resource value of a planet will be added to its influence value when the Xxcha player casts votes during the agenda phase.</li>
     </ol>
 
-<h1>Xxekir Grom &mdash; Planetary Defense Nexus &Omega;<sub>(Hero)</sub></h1>
+<h1>Xxekir Grom &mdash; Planetary Defense Nexus &Omega;&Omega;<sub>(Hero)</sub></h1>
     <ol class="note">
     <li>The units may be placed on a readied planet.</li>
     <li>Multiple units may be placed on the same planet.</li>

@@ -10,6 +10,8 @@
     <li>Breaches are not wormholes.</li>
     <li>A system may have any number of breaches in it.</li>
     <ol><li>If a player has a ship in a system containing multiple breaches at the end of the status phase, they may remove any or all of them.</li></ol>
+    <li>If the Rebellion player has no more breach tokens in their reinforcements, and an ability instructs them to place a breach, they may remove an inactive breach from the game board and place that.</li>
+    <ol><li>Active breaches cannot be removed in this manner. If every breach token is on the game board as an active breach, the Rebellion player cannot resolve abilities that would place additional breach tokens.</li></ol>
     </ol>
 
 <h1>The Sorrow</h1>
@@ -20,9 +22,10 @@
     <ol class="note">
     </ol>
 
-<h1>Subatomic Splicer <sub>(Unit)</sub></h1>
+<h1>Subatomic Splicer <sub>(Technology)</sub></h1>
     <ol class="note">
-    <li>During a space combat in the Rebellion player&rsquo;s home system, they cannot produce ships there while another player&rsquo;s ships are present.
+    <li>During a space combat in the Rebellion player&rsquo;s home system, they cannot produce ships there while another player&rsquo;s ships are present.</li>
+    <li>The produced ships must still be paid for.</li>
     </ol>
 
 <h1>Exile <sub>(Unit)</sub></h1>
@@ -47,7 +50,7 @@
     <ol class="note">
     <li>The Rebellion player may only start placing ships on Homesick Phantom once they have been unlocked.</li>
     <li>When <i>Fragment Reality</i> is purged and the ships are placed in a system, the Rebellion player must remove ships, if required, to meet their fleet pool limit.</li>
-    <li>Capacity is not checked during space combat. If the Rebellion player purges <i>Fragment Reality</i> and places fighters in a system, they will not need to remove any fighters or ground forces from the space area to satisfy their capacity limit until after the combat has been resolved.</li>
+    <li>Capacity is not checked during space combat. If the Rebellion player purges <i>Fragment Reality</i> and places fighters and/or ground forces in a system, they will not need to remove any fighters or ground forces from the space area to satisfy their capacity limit until after the combat has been resolved.</li>
     </ol>
 
 <h1>Revenant <sub>(Mech)</sub></h1>

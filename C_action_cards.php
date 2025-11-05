@@ -104,7 +104,7 @@
 
 <h1>Crisis</h1>
     <ol class="note">
-    <li><i>Crisis</i> will skip the next unpassed player.</li>
+    <li><i>Crisis</i> will skip the turn of the next unpassed player.</li>
     </ol>
 
 <h1>Deadly Plot</h1>
@@ -493,7 +493,7 @@
 <h1>Puppets On A String</h1>
     <ol class="note">
     <li>The player who played <i>Puppets On A String</i> is considered the active player during their action.</li>
-    <li>If the chosen player is not the Naalu player, it is not considered their turn for game effects.</li>
+    <li>It is not considered the turn turn of the player who played <i>Puppets On A String</i> for game effects.</li>
     <ol>
         <li>They cannot use any &ldquo;at the start/end of your turn&rdquo; abilities.</li>
         <li>If the Yssaril player plays <i>Puppets On A String</i>, and owns their Transparasteel Plating faction technology, passed players may still play action cards during the action.</li>

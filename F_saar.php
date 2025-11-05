@@ -97,6 +97,7 @@
     <li>The Saar player must choose how many resources to spend before rolling any dice.</li>
     <li>The Saar player chooses which unit the hits get assigned to.</li>
     <li>If the chosen unit has the <sc>Sustain Damage</sc> ability, it may be used to cancel the hit.</li>
+    <ol><li>The Saar player may assign multiple hits to the same unit.</li></ol>
     </ol>
 </article>
 <?php include "suffix.php"?>

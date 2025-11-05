@@ -49,8 +49,8 @@
 
 <h1>Nip and Tuck <sub>(Commander)</sub></h1>
     <ol class="note">
-    <li>Your action cards may still be cancelled by other game effects.</li>
-    <li>If the Nekro player already has a Valefar Assimilator token on your components, they will remain there when Nip and Tuck are unlocked.</li>
+    <li>The Bastion player&rsquo;s action cards may still be cancelled by other game effects.</li>
+    <li>If the Nekro player already has a Valefar Assimilator token on one of the Bastion player&rsquo;s components, it will remain there when Nip and Tuck are unlocked.</li>
     </ol>
 
 <h1>Lura Keen &mdash; Entity 4X41A &ldquo;Apollo&rdquo; <sub>(Hero)</sub></h1>

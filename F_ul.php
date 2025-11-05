@@ -78,6 +78,7 @@
 
 <h1>Slumberstate Computing <sub>(Breakthrough)</sub></h1>
     <ol class="note">
+    <li>The Ul player does not have to be neighbours with the player that agrees to have a sleeper token placed on their planet.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

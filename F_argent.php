@@ -80,7 +80,6 @@
 <h1>Wing Transfer <sub>(Breakthrough)</sub></h1>
     <ol class="note">
     <li>If the Argent player produces units on their turn in the active system, they will have to satisfy fleet pool and capacity limits there before they may move units to adjacent systems.</li>
-    <li>Ground forces and structures may be moved directly between planets. They, and fighters, do not need to be transported.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>
