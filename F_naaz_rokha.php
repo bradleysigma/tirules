@@ -85,11 +85,11 @@
 
 <h1>Eidolon Maximum <sub>(Mech)</sub></h1>
     <ol class="note">
-    <li>When in the space area of a system, the Eidolon Maximums counts towards either of the Naaz&ndash;Rokha player&rsquo;s capacity or fleet pool in that system.</li>
-    <li>Hits produced by unit abilities against the Naaz&ndash;Rokha player&rsquo;s must be assigned to other eligible units, if possible.</li>
+    <li>When in the space area of a system, the Eidolon Maximum counts towards either of the Naaz&ndash;Rokha player&rsquo;s capacity or fleet pool in that system.</li>
+    <li>If hits are produced by unit abilities against a group of the Naaz&ndash;Rokha player&rsquo;s units that includes the Eidolon Maximum, then these hits must be assigned to the other eligible units in that group, if possible.</li>
     <li>The Eidolon Maximum only repairs during combats that it is participating in.</li>
     <li>The Naaz&ndash;Rokha player can never have two or more Eidolon Maximums on the game board.</li>
-    <li>The Eidolon Maximum is considered a mech for all relevant game effects, such as rolling an additional dice from the effect of the <i>Visz El Vir</i></li>
+    <li>The Eidolon Maximum is considered a mech for all relevant game effects, such as rolling an additional dice from the effect of the <i>Visz El Vir</i>.</li>
     <li>The Eidolon Maximum is considered a ship for all relevant game effects.</li>
     <ol>
         <li>The Eidolon Maximum may be destroyed by a <i>Direct Hit</i> action card whenever it uses its <sc>Sustain Damage</sc> ability, including if it does so during a ground combat.</li>

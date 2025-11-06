@@ -48,15 +48,15 @@
 <h1>Executive Order <sub>(Technology)</sub></h1>
     <ol class="note">
     <li>If the Keleres player draws one of the <i>Classified Document Leaks</i>, <i>Judicial Abolishment</i>, <i>Miscount Disclosed</i> or <i>New Constitution</i> agendas, they will discard it if required and reveal a new agenda from the deck.</li>
-    <li>If the <i>Miscount Disclosed</i> agenda is resolved, the players will vote on the elected agenda too.</li>
-    <li>If the <i>Public Execution</i> agenda is resolved, the elected player may still vote in the agenda phase following the current action phase.</li>
-    <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, regardless of the Keleres player&rsquo;s initiative.</li>
+    <li>If the <i>Miscount Disclosed</i> agenda is resolved, the players will also vote on the elected agenda during the Keleres player&rsquo;s action.</li>
+    <li>If the <i>Public Execution</i> agenda is resolved, the elected player cannot vote in the agenda phase following the current action phase.</li>
+    <li>If an agenda would give multiple players a victory point, those players gain that victory point in initiative order, starting with the player with the <i>Leadership</i> strategy card (or next lowest initiative value should no player have the <i>Leadership</i> strategy card), regardless of the Keleres player&rsquo;s initiative.</li>
     <li>Other players may still perform one transaction total with the Keleres player during this turn, if they are neighbors.</li>
-    <li>Players exhaust planets to cast votes when resolving <i>Executive Order</i>, even if the <i>Representative Government</i> law is in play.</li>
-    <li>If a third law is put into play, the <i>Dictate Policy</i> objective cannot be scored until the agenda phase.</li>
-    <li>The <i>Drive the Debate</i> objective cannot be scored while resolving <i>Executive Order</i>.</li>
-    <li>Effects from agenda outcomes that occur &ldquo;at the end of this agenda phase&rdquo; will resolve and the end of the next agenda phase.</li>
-    <li>Effects from agenda outcomes that occur &ldquo;at the start of the next strategy phase&rdquo; will still occur.</li>
+    <li>Players exhaust planets to cast votes when resolving <i>Executive Order</i>, even if the <i>Representative Government</i> law is in play, which only affects voting during the agenda phase.</li>
+    <li>If a third law is put into play, the <i>Dictate Policy</i> secret objective cannot be scored until the agenda phase.</li>
+    <li>The <i>Drive the Debate</i> secret objective cannot be scored while resolving <i>Executive Order</i>.</li>
+    <li>Effects from agenda outcomes that occur &ldquo;at the end of this agenda phase&rdquo; will instead resolve at the end of the next agenda phase.</li>
+    <li>Effects from agenda outcomes that occur &ldquo;at the start of the next strategy phase&rdquo; will still resolve at the start of the next strategy phase.</li>
     </ol>
 
 <h1>I.I.H.Q. Modernization <sub>(Technology/Breakthrough)</sub></h1>

@@ -28,7 +28,7 @@
 <h1>Notes</h1>
     <ol class="note">
     <li>When an effect moves a unit to an adjacent system, modifying that unit&rsquo;s move value will have no effect.</li>
-    <li>An ability may move a player&rsquo;s ship out of a system containing one of the player&rsquo;s faction&rsquo;s commend tokens. However, the transport rules prevent a player&rsquo;s units from being transported from systems containing one of that player&rsquo;s command tokens, other than the active system. An ability that moves a player&rsquo;s ship must also explicitly allow it to transport units from non&ndash;active systems containing that player&rsquo;s faction&rsquo;s command token for it to be able to do so.</li>
+    <li>An ability may move a player&rsquo;s ship out of a system containing one of the player&rsquo;s faction&rsquo;s command tokens. However, the transport rules prevent a player&rsquo;s units from being transported from systems containing one of that player&rsquo;s command tokens, other than the active system. An ability that moves a player&rsquo;s ship must also explicitly allow it to transport units from non&ndash;active systems containing that player&rsquo;s faction&rsquo;s command token for it to be able to do so.</li>
     <ol><li>During a retreat, units may be transported from the active system.</li></ol>
     <li>A ship that can both move and be transported (i.e. Fighter II) cannot do both by &ldquo;meeting&rdquo; a ship with capacity partway through a tactical action movement, as all movement is simultaneous.</li>
     <li>Ships only move &ldquo;into&rdquo; the destination system. A ship may move &ldquo;through&rdquo; other systems.</li>

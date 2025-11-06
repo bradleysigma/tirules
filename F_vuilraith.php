@@ -98,10 +98,10 @@
 
 <h1>Al&rsquo;raith Ix Ianovar <sub>(Breakthrough)</sub></h1>
     <ol class="note">
-    <li>When The Fracture is brought into play by <i>Al&rsquo;raith Ix Ianovar</i>, they will choose four systems containing planets with different technology specialties to place ingress tokens in instead of using the warfare and biotic synergy of <i>Al&rsquo;raith Ix Ianovar</i> to determine where the ingress tokens are placed.</li>
+    <li>When The Fracture is brought into play by <i>Al&rsquo;raith Ix Ianovar</i>, they will choose four systems containing planets with different technology specialties to place ingress tokens in, instead of using the warfare and biotic synergy of <i>Al&rsquo;raith Ix Ianovar</i> to determine where the ingress tokens are placed.</li>
     <ol>
         <li>When the Vuil&rsquo;raith player gains <i>Al&rsquo;raith Ix Ianovar</i>, they may choose to perform a breakthrough roll before resolving the ability of <i>Al&rsquo;raith Ix Ianovar</i> to bring The Fracture into play. If this breakthrough roll brings The Fracture into play, they will use the warfare and biotic synergy of <i>Al&rsquo;raith Ix Ianovar</i> to determine where the ingress tokens are placed.</li>
-        <li>Regardless of the method that <i>Al&rsquo;raith Ix Ianovar</i> causes The Fracture to enter play, the all the ingress tokens will be placed via technology specialties before the Vuil&rsquo;raith player chooses which tokens they wish to move into gravity rifts.</li>
+        <li>Regardless of the method that <i>Al&rsquo;raith Ix Ianovar</i> causes The Fracture to enter play, all the ingress tokens will be placed via technology specialties before the Vuil&rsquo;raith player chooses which tokens they wish to move into gravity rifts.</li>
     </ol>
     <li>The Vuil&rsquo;raith player may move the ingress tokens into systems that contain their Dimensional Tears.</li>
     </ol>

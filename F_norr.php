@@ -75,9 +75,9 @@
     <li>If a Valkyrie Exoskeleton uses its <sc>Sustain Damage</sc> ability during a ground combat, it mandatorily produces a hit.</li>
     </ol>
 
-<h1>N&rsquo; Supremacy <sub>(Breakthrough)</sub></h1>
+<h1>N&rsquo;orr Supremacy <sub>(Breakthrough)</sub></h1>
     <ol class="note">
-    <li>The N&rsquo;orr player must meet the prerequisites of the unit upgrade they research.</li>
+    <li>The N&rsquo;orr player must meet the prerequisites of the unit upgrade technology they research.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>

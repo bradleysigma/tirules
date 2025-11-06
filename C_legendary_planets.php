@@ -20,6 +20,8 @@
     <ol class="note">
     <li>Cards on <i>Dok &rsquo;N Pic&rsquo;s Salvage Yard</i> do not count towards a player&rsquo;s action card hand limit.</li>
     <li>The player with <i>The Codex</i> cannot take cards that are on <i>Dok &rsquo;N Pic&rsquo;s Salvage Yard</i>.</li>
+    <li>If another player gains control of Garbozia, any action cards on <i>Dok &rsquo;N Pic&rsquo;s Salvage Yard</i> will remain there when the legendary planet ability card is transferred; the new controller of Garbozia may play those action cards in the future.</li>
+    <li><i>Dok &rsquo;N Pic&rsquo;s Salvage Yard</i> need not be readied for a player to play the action cards on it.</li>
     </ol>
 
 <h1>Exterrix Headquarters &mdash; Mallice</h1>
@@ -48,7 +50,7 @@
     <li>If the gained planet was not controlled by another player, it is explored.</li>
     </ol>
     
-<h1>Mirage Flight Academcy &mdash; Mirage</h1>
+<h1>Mirage Flight Academy &mdash; Mirage</h1>
     <ol class="note">
     </ol>
 
