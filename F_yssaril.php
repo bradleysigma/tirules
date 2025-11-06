@@ -34,6 +34,8 @@
     <ol class="note">
     <li>When resolving <i>Mageon Implants</i>, the Yssaril player is not drawing a card. As such, <sc>Scheming</sc> will not trigger.</li>
     <li>The Yssaril player must target a player with at least one action card in their hand when they resolve <i>Mageon Implants</i>.</li>
+    <li>The Yssaril player cannot show the other player&rsquo;s hand of action cards to any other players.</li>
+    <ol><li>The Yssaril player may claim orally what action cards they saw; they may do so truthfully or deceitfully.</li></ol>
     </ol>
 
 <h1>Transparasteel Plating <sub>(Technology)</sub></h1>

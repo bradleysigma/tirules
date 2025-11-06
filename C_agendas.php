@@ -412,12 +412,13 @@ li.ixth:before
 <h1>Wormhole Research</h1>
     <ol class="note">
     <li>A player with ships in a delta or gamma wormhole may research a technology from the &ldquo;For&rdquo; effect. Those ships will not be destroyed.</li>
+    <ol><li>If a system contains both a delta and gamma wormhole and an alpha or beta wormhole, such as the active wormhole nexus, then ships in that system will be destroyed.</li></ol>
     <li>A player must still meet the prerequisites for the technology they research.</li>
     <ol>
         <li>A player may exhaust a planet with a technology specialty to ignore a prerequisite on a technology as normal. This planet will ready at the end of the agenda phase.</li>
         <li>A player may exhaust the <i>AI Development Algorithm</i> technology to ignore a prerequisite on a unit upgrade technology as normal. <i>AI Development Algorithm</i> will not ready at the end of the agenda phase.</li>
     </ol>
-    <li>Ground forces in the space area of a system containing an alpha or beta wormhole will be removed due to lack of capacity after the ships in that system are destroyed; those ground forces will not trigger any &ldquo;destroyed&rdquo; effects.
+    <li>Ground forces in the space area of a system containing an alpha or beta wormhole will be removed due to lack of capacity after the ships in that system are destroyed; those ground forces will not trigger any &ldquo;destroyed&rdquo; effects. Fighters will be destroyed, and will trigger any &ldquo;destroyed&rdquo; effects.</li>
     <li>If <i>Anti&ndash;Intellectual Revolution</i> is in play as a law, players who research a technology will destroy a ship due to <i>Anti&ndash;Intellectual Revolution</i> before they destroy ships in systems containing alpha or beta wormholes. As such, they may choose a ship in a system containing an alpha or beta wormhole to destroy for <i>Anti&ndash;Intellectual Revolution</i></li>
     <ol>
         <li>If the Vuil&rsquo;raith player has their flagship, <i>The Terror Between</i>, in a system containing an alpha or beta wormhole, and they choose to destroy it for <i>Anti&ndash;Intellectual Revolution</i>, then they will not capture the other ships in that system that are destroyed by <i>Wormhole Research</i>.</li>

@@ -78,6 +78,7 @@
 
 <h1>Rowl Sarring <sub>(Commander)</sub></h1>
     <ol class="note">
+    <li>If another player has the Saar player&rsquo;s <i>Alliance</i> promissory note, this does not allow them to produce fighters at a blockaded space dock, so as to place them elsewhere.</li>
     </ol>
 
 <h1>Gurno Aggero &mdash; Armageddon Relay <sub>(Hero)</sub></h1>
