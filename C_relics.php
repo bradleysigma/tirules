@@ -133,6 +133,7 @@
 
 <h1>The Silver Flame</h1>
     <ol class="note">
+    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.</li>
     </ol>
 
 <h1>Stellar Converter</h1>

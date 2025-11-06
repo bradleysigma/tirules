@@ -16,6 +16,7 @@
 - What happens if a player has only fighters when they would retreat (either from being _Rout_'d when they only have fighters, or losing a bigger ship after announcing retreats, maybe because of _Direct Hit_)? Do they just instantly remove all the fighters and lose the combat, or is the retreat cancelled and they go to the next round of combat?
 - What about Nekro if they only have ground forces located on planets remaining in the fight (having started the combat with the Alastor)?
 - If a game effect says "hits ... must be assigned to non-fighter ships if able" (such as the L1Z1X flagship or _Graviton Laser System_), how literal is the word "must"? In particular, can those hits be cancelled (if they're cancelled, then they're not being assigned to non-fighter ships)?
+- Is a player required to use as much capacity as possible for their fighters and ground forces in the space area when they retreat ("That player’s fighters and ground forces in the space area of the active system that are __unable to move or be transported__ are removed.")?
 
 ## Command Tokens
 - What happens if a player (probably Letnev) has all sixteen command tokens on the game board, and they want to retreat? What about Diplomacy?
@@ -136,10 +137,12 @@
 - Does The Fracture block new tile placement?
 
 ### Age of Fighters
+- "Fighters cannot transport other fighters" - is this intended to apply only during movement, or does it affect the fighters' use of capacity at all times?
 - Does Vuil'raith still capture ships they destroy? If so, are these ships purged or returned when they are spent (or blockaded)?
 - If they are purged, are ships captured by The Stillness of Stars or Vortex also purged when spent?
 - If a player builds a space dock under fighters that are using fleet pool, would this force the fighters out of fleet pool, thereby removing their capacity value?
 - Does the Creuss commander add fighters when the Creuss player moves fighters through wormholes?
+- Does a player add fighters to a system containing just their fighters when the resolve the _Fighter Conscription_ action card?
 
 ### Civilized Society
 - Are the objective decks turned face up? This would impact the _Incentive Program_ agenda.
@@ -176,6 +179,9 @@
 - What happens if a player wishes to place a monument, but all three are already out? Can they scuttle one they control? Can they scuttle one another player controls? If so, are commodities transferred to the new monument?
 - Alice is on 8VPs with Leadership and controls two monuments. Bob is on 9VPs with Imperial and controls one monument. All monuments are one commodity short of a VP breakpoint. At the start of the status phase, who wins. Is it a) all commodities are placed simultaneously, so Alice gains 2VPs and wins with the lower initiative, or b) players resolve commodity placement as abilities, one at a time in initiative order, so Alice places one commodity, goes to 9VPs, then Bob places one commodity, goes to 10VPs, and wins?
 
+### Rapid Mobilization
+- How are ingress tokens distributed when playing with _Rapid Mobilization_?
+
 ### Weird Wormholes
 - Do fighters being transported roll, or just fighters II moving under their own power?
 - Do players roll for their ships in a specific order?
@@ -189,6 +195,9 @@
 
 ### The Book of Latvinia
 - Can a tier one (_Gravity Drive_ etc.) technology be researched when drawing the _Book of Latvinia_ by ignoring the prerequisite with a tech skip, ANALYTICAL, etc.?
+
+### Lightrail Ordnance
+- How does _Lightrail Ordnance_ interact with the _Experimental Battlestation_ action card?
 
 ### Metali Void Armaments
 - Can abilities such as the Argent commander or Jol-Nar commander affect the ANTI-FIGHTER BARRAGE roll, since it isn't a unit performing the roll?
@@ -223,8 +232,9 @@
 
 ### Wing Transfer (Breakthrough)
 - Do fighters need to be transported?
-- Can units move more than one system e.g. from the system "above" the active system to the system "below"?
+- Can units move more than one system e.g. from the system "above" the active system to the system "below"? If so, does the ships move value matter?
 - Can units be moved to/from a system that had a command token placed in it during an earlier action?
+- If ground forces are moved, are they required to remain in the space area of their destination system?
 - Can Argent move ships into systems that contain another player's ships?
 
 ## Last Bastion
@@ -330,7 +340,11 @@
 - Does "immediately vote" mean that Riders, QUASH, _Political Secrets_ etc. are skipped?
 - How are "this agenda phase" or "next strategy phase" abilities resolved?
 - _Representative Government_ says players get straight up one vote during the agenda phase. Would players get just one vote when resolving _Executive Order_ (during the action phase), should _Representative Government_ be in play?
-- _Executive Order_ doesn't describe the extra votes as "additional votes". Pending previous question, can Keleres spend trade goods and resources for more votes when _Representative Government_ is in play. 
+- _Executive Order_ doesn't describe the extra votes as "additional votes". Pending previous question, can Keleres spend trade goods and resources for more votes when _Representative Government_ is in play.
+- For _Classified Document Leaks_, _Judicial Abolishment_, _Miscount Disclosed_, or _New Constitution_, if the conditions aren't met, does the Keleres player draw a replacement agenda?
+- If so, and the original agenda was drawn from the bottom of the deck, is the replacement agenda drawn from the top or bottom?
+- Similarly, could you speak on how _Miscount Disclosed_ should work after electing a law?
+- Additionally, for _Covert Legislation_, is the hidden agenda drawn from the top or bottom? And is it Keleres that reads the agenda and announces the possible outcomes, instead of the player with the speaker token?
 
 ## The L1Z1X Mindnet
 
@@ -463,6 +477,13 @@
 ### Subatomic Splicer (Technology)
 - "A player cannot produce ships in a system that contains other players’ ships". Does this apply to _Subatomic Splicer_?
 
+### Homesick Phantom - Fragment Reality (Hero)
+- If the Rebellion player places a fighter on Homesick Phantom, are they required to use a plastic fighter, or may they use entirely cardboard fighter tokens?
+- If the Rebellion player wishes to place a ship that is currently on Homesick Phantom onto the game board without triggering the purge (e.g. they wish to produce the ship normally), are they able to do so?
+
+### Resonance Generator (Breakthrough)
+- Does the Rebellion player make a breakthrough roll for The Fracture during setup?
+
 ## The Clans of Saar
 
 ### Floating Factory (Unit)
@@ -501,6 +522,9 @@
 ### Dannel of the Tenth (Hero)
 - Can infantry be committed to Mecatol Rex when the Custodians token is present?
 - Can infantry be committed to planets in The Fracture?
+
+### Yin Ascendant (Breakthrough)
+- Can the Yin player gain the Obsidian alliance ability while the Firmament is in the game, or vice versa?
 
 ## The Vuil'raith Cabal
 

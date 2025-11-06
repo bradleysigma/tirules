@@ -2,7 +2,7 @@
 <header>Breakthroughs</header>
 <article>
 <h1>Rules Reference</h1>
-<p style="column-span: all;">There currently does not exist a Living Rules Reference section regarding breakthroughs.</p>
+<p>There currently does not exist a Living Rules Reference section regarding breakthroughs.</p>
 
 <h1>Notes</h1>
     <ol class="note">

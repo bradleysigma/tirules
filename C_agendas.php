@@ -167,11 +167,6 @@
     </ol>
 
 <style>
-@font-face
-{
-    font-family: lazax;
-    src: url(LazBold.ttf);
-}
 li.ixth
 {
     font-family: lazax;

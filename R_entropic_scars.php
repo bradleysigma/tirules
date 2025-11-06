@@ -2,12 +2,17 @@
 <header>Entropic Scars</header>
 <article>
 <h1>Rules Reference</h1>
-<p style="column-span: all;">There currently does not exist a Living Rules Reference section regarding entropic scars.</p>
+<p>There currently does not exist a Living Rules Reference section regarding entropic scars.</p>
 
 <h1>Notes</h1>
     <ol class="note">
     <li>An entropic scar is an anomaly that affects unit abilities and faction technologies.</li>
     <li>A unit in an entropic scar cannot use unit abilities.</li>
+    <ol>
+        <li>Only unit abilities are removed; text abilities are unaffected.</li>
+        <li>Text abilities that rely on unit abilities, such as the space dock II text ability that defines &ldquo;X&rdquo; in that unit&rsquo;s <sc>Production X</sc> ability, will have no effect.</li>
+        <li>If a unit loses its <sc>Deploy</sc> ability, then the text that describes how that unit&rsquo;s <sc>Deploy</sc> ability is used will have no effect.</li>
+    </ol>
     <li>A unit outside of an entropic scar cannot use unit abilities against units that are in an entropic scar.</li>
     <li>Wormhole tokens that would be placed in an entropic scar are returned to the supply or a player&rsquo;s reinforcements as appropriate.</li>
     <li>At the start of the status phase, a player with ships in an entropic scar may spend a command token from their strategy pool to gain one of their faction&ndash;specific technologies.</li>

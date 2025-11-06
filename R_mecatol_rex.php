@@ -10,7 +10,7 @@
 
 <h1>Notes</h1>
     <ol class="note">
-    <li>Mecatol Rex is not a legendary planet.</li>
+    <li>Mecatol Rex on tile 18 is not a legendary planet. Mecatol Rex on tile 112 is a legendary planet.</li>
     </ol>
 
 <h1>Related Topics</h1>

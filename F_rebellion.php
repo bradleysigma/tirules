@@ -34,6 +34,11 @@
 
 <h1>Quietus <sub>(Flagship)</sub></h1>
     <ol class="note">
+    <li>The <i>Quietus</i> removes only the unit abilities from other players&rsquo; units; any text abilities are unaffected.</li>
+    <ol>
+        <li>Text abilities that rely on unit abilities, such as the space dock II text ability that defines &ldquo;X&rdquo; in that unit&rsquo;s <sc>Production X</sc> ability, will have no effect.</li>
+        <li>If a unit loses its <sc>Deploy</sc> ability, then the text that describes how that unit&rsquo;s <sc>Deploy</sc> ability is used will have no effect.</li>
+    </ol>
     </ol>
 
 <h1>Ahk Ravin <sub>(Agent)</sub></h1>

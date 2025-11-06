@@ -88,7 +88,6 @@
 <h1>Gravleash Maneuvers <sub>(Breakthrough)</sub></h1>
     <ol class="note">
     <li>If a ship has its movement value increased by an ability such as the <i>Gravity Drive</i> technology, then other ships will have their movement values increased to match the modified value.</li>
-    <li>The ship with the highest move value in a system may increase the move value of other ships that move from that system, even if the ship with the highest move value itself does not move during that action.</li>
     <li>If the Letnev player owns the Fighter II unit upgrade technology, another ship may have its move value increased to match that of a Fighter II in that system.</li>
     </ol>
 </article>

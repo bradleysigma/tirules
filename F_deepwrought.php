@@ -35,6 +35,7 @@
 <h1>Aello <sub>(Commander)</sub></h1>
     <ol class="note">
     <li>The Deepwrought player does not have the capability to prevent other players from using the ability of Aello.</li>
+    <li>Aello cannot be used reduce a cost paid with trade goods, influence, or any other currency.</li> 
     </ol>
 
 <h1>Ta Zern &mdash; Wave Function Collapse <sub>(Hero)</sub></h1>
