@@ -107,7 +107,7 @@
 <h1>Riftwalker Meian &mdash; Singularity Reactor <sub>(Hero)</sub></h1>
     <ol class="note">
     <li>Any units and tokens on either system are moved with their system.</li>
-    <li>The Ahk Creuxx and systems that comprise The Fracture cannot be swapped with other system tiles.</li>
+    <li>Systems that comprise The Fracture and the Rebellion player&rsquo;s home system cannot be swapped with other system tiles.</li>
     </ol>
 
 <h1>Icarus Drive <sub>(Mech)</sub></h1>

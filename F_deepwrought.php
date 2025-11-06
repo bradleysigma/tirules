@@ -34,7 +34,7 @@
 
 <h1>Aello <sub>(Commander)</sub></h1>
     <ol class="note">
-    <li>The Deepwrought player does not have the ability to prevent other players from using the ability of Aello.</li>
+    <li>The Deepwrought player does not have the capability to prevent other players from using the ability of Aello.</li>
     </ol>
 
 <h1>Ta Zern &mdash; Wave Function Collapse <sub>(Hero)</sub></h1>
@@ -49,8 +49,8 @@
 
 <h1>Visionaria Select <sub>(Breakthrough)</sub></h1>
     <ol class="note">
-    <li>When <i>Visionaria Select</i> is exhausted, all other players have the opportunity to participate; the Deepwrought player does not choose which players will paticipate.</li>
-    <li>If the Deepwrought player already owns a technology that a participating player researches , then the Deepwrought player will not gain a technology.</li>
+    <li>When <i>Visionaria Select</i> is exhausted, all other players have the opportunity to participate; the Deepwrought player does not choose which players will participate.</li>
+    <li>If the Deepwrought player already owns a technology that a participating player researches, then the Deepwrought player will not gain a technology.</li>
     <li>If the Nekro player participates, they will gain three command tokens. The Deepwrought player will not gain a technology this way.</li>
     </ol>
 </article>

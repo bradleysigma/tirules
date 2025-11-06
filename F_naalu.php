@@ -72,12 +72,13 @@
     <li>If the chosen player is not the Naalu player, and they had previously passed, they are still considered passed during their action. They do not pass at the end of the action.</li>
     <ol>
         <li>The chosen player cannot score the <i>Prove Endurance</i> secret objective at the end of their action.</li>
-        <li>If the Yssail player owns their <i>Transparasteel Plating</i> faction technology, and uses the ability of Ssruu, their agent, to duplicate the ability of Z&rsquo;eu &Omega;, choosing a player that has passed, the chosen player cannot play action cards during their action.</li>
+        <li>If the Yssaril player owns their <i>Transparasteel Plating</i> faction technology, and uses the ability of Ssruu, their agent, to duplicate the ability of Z&rsquo;eu &Omega;, choosing a player that has passed, the chosen player cannot play action cards during their action.</li>
     </ol>
     <li>Any deal between the Naalu player and another player regarding which system will be activated, if made before Z&rsquo;eu &Omega; is exhausted, is non&ndash;binding.</li>
     </ol>
 
 <h1>Z&rsquo;eu &Omega;&Omega; <sub>(Agent)</sub></h1>
+    <ol class="note">
     <li>Z&rsquo;eu &Omega;&Omega; may be used whenever a command token is placed in a system. For example, it may be used when a player activates a system, when a player resolves the primary ability of the <i>Diplomacy</i> strategy card, or when a player resolves the <i>Signal Jamming</i> action card.</li>
     </ol>
 

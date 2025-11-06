@@ -340,7 +340,7 @@ li.ixth:before
     <li>A player may gain any technology, regardless of the number of command tokens in their fleet pool.</li>
     <ol><li>If a player must remove more command tokens than they have in their fleet pool, they remove all their command tokens from their fleet pool instead.</li></ol>
     <li>The number and colors of technologies a player owns will have no effect on the number of command tokens they remove.</li>
-    <ol><li>A player cannot exhaust a planet with a technology specialty to reduce the number of commend tokens they remove.</li></ol>
+    <ol><li>A player cannot exhaust a planet with a technology specialty to reduce the number of command tokens they remove.</li></ol>
     </ol>
 
 <h1>Research Team: Biotic</h1>

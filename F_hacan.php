@@ -79,5 +79,9 @@
 <h1>Auto&ndash;Factories <sub>(Breakthrough)</sub></h1>
     <ol class="note">
     </ol>
+
+<h1>Auto&ndash;Factories <sub>(Breakthrough)</sub></h1>
+    <ol class="note">
+    </ol>
 </article>
 <?php include "suffix.php"?>

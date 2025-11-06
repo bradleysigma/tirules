@@ -286,7 +286,7 @@
 <h1>Hack Election &Omega;</h1>
     <ol class="note">
     <li><i>Hack Election &Omega;</i> will not allow a player to vote if another game effect would prevent them from doing so.</li>
-    <li>The speaker vote before the player that played <i>Hack Election &Omega;</i>.</li>
+    <li>The speaker votes before the player that played <i>Hack Election &Omega;</i>.</li>
     <ol><li>Players will play <i>Bribery</i> after the speaker votes. The player that played <i>Hack Election &Omega;</i> cannot play <i>Bribery</i>.</li></ol>
     <li>If the Argent player plays <i>Hack Election &Omega;</i>, they will vote last.</li>
     </ol>
@@ -404,8 +404,9 @@
 
 <h1>Mercenary Contract</h1>
     <ol class="note">
-    <li>When a planet card is returned to the planet card deck, the player that controlled it no longer does. They removed their control token from the planet.</li>
+    <li>When a planet card is returned to the planet card deck, the player that previously controlled it will no longer do so. They remove their control token from the planet.</li>
     <li>If the planet card is returned to the planet card deck, then when a player later gains control of that planet, they will explore it.</li>
+    <ol><li>The planet will not be explored if it does not have a trait. If the planet is in The Fracture, however, the gaining player will draw a relic.</li></ol>
     <li>If the Mecatol Rex planet card is returned to the planet card deck, the custodians token is not replaced. A player will be able to later commit ground forces without paying influence, and without gaining a victory point.<li>
     <li>If a legendary planet card is returned to the planet card deck, the player that controlled it also loses the associated legendary planet ability card.</li>
     </ol>
@@ -493,7 +494,7 @@
 <h1>Puppets On A String</h1>
     <ol class="note">
     <li>The player who played <i>Puppets On A String</i> is considered the active player during their action.</li>
-    <li>It is not considered the turn turn of the player who played <i>Puppets On A String</i> for game effects.</li>
+    <li>It is not considered the turn of the player who played <i>Puppets On A String</i> for game effects.</li>
     <ol>
         <li>They cannot use any &ldquo;at the start/end of your turn&rdquo; abilities.</li>
         <li>If the Yssaril player plays <i>Puppets On A String</i>, and owns their Transparasteel Plating faction technology, passed players may still play action cards during the action.</li>

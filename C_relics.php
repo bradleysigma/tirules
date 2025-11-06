@@ -5,7 +5,7 @@
     <ol class="note">
     <li>If a player owns all technologies without prerequisites when they draw the <i>Book of Latvinia</i>, they will not research any technologies.</li>
     <ol><li>If a player owns all&ndash;but&ndash;one technologies without prerequisites when they draw the <i>Book of Latvinia</i>, they will research only that one technology.</li></ol>
-    <li>A player cannot gain a technology with a prerequisite by ignoring the prerequisite, such as by exhausting a planet with a technology specialty.</li>
+    <li>A player cannot gain a technology with a prerequisite by ignoring that prerequisite, such as by exhausting a planet with a technology specialty.</li>
     <li>If the Nekro player draws the <i>Book of Latvinia</i>, they will gain six command tokens and zero technologies, even if they own all technologies without prerequisites.</li>
     <li>When a player uses the component action of the <i>Book of Latvinia</i>, it is purged, regardless of which outcome is resolved.</li>
     <li>If a player uses the component action of the <i>Book of Latvinia</i> when they control planets with each type of technology specialty, they mandatorily gain a victory point; they cannot choose instead to gain the speaker token.</li>
@@ -74,7 +74,7 @@
     <ol class="note">
     </ol>
 
-<h1>Metali Void Armaments</h1>
+<h1>Metali Void Shielding</h1>
     <ol class="note">
     <li>The affected ship may be destroyed by the <i>Direct Hit</i> action card after it uses the <sc>Sustain Damage</sc> ability.</li>
     <li>A player may play the <i>Reflective Shielding</i> action card after it uses the <sc>Sustain Damage</sc> ability via <i>Metali Void Shielding</i>.</li>
@@ -84,7 +84,7 @@
 
 <h1>Nano&ndash;Forge</h1>
     <ol class="note">
-    <li>The attached planet will not have a corresponding legendary planet ability card. However, it will be legendary for effects such as scoring the <i>Make History</i> and similar objectives, transferring the <i>Shard of the Throne</i> relic, and the Winnu player's commander, Rickar Rickani. The attached planet will also no longer be non&ndash;legendary for effects such as the <i>Stellar Converter</i> relic.</li>
+    <li>The attached planet will not have a corresponding legendary planet ability card. However, it will be legendary for effects such as scoring the <i>Make History</i> public objective and similar objectives, transferring the <i>Shard of the Throne</i> relic, and the Winnu player's commander, Rickar Rickani. The attached planet will also no longer be non&ndash;legendary for effects such as the <i>Stellar Converter</i> relic.</li>
     </ol>
 
 <h1>Neuraloop</h1>
@@ -92,7 +92,7 @@
     <li>A player may use <i>Neuraloop</i> to purge <i>Neuraloop</i> itself, resolving its ability.</li>
     <li>A player may use <i>Neuraloop</i> to purge <i>Nano&ndash;Forge</i>, even if it is attached to a planet, if they control that planet. That planet loses the increase to its resources and influence values, and is no longer legendary.</li>
     <li>If a player uses <i>Neuraloop</i> to purge another relic that has a purge ability, that purge ability is not resolved.</li>
-    <li>If a player uses <i>Neuraloop</i> to purge the <i>Circlet of the Void</i>, that player&rsquo;s units may remain in and move out of any supernovae and/or asteroid fields they are currently in, but cannot move additional units into or through.</li>
+    <li>If a player uses <i>Neuraloop</i> to purge the <i>Circlet of the Void</i>, that player&rsquo;s units may remain in and move out of any supernovae and/or asteroid fields they are currently in, but cannot move additional units into or through, unless they have another ability that would allow them to do so, such as the <i>Antimass Deflectors</i> technology.</li>
     <li>If a player uses <i>Neuraloop</i> to purge the <i>Dynamis Core</i>, and they have more commodities than their faction&rsquo;s printed commodity value, they return any extras to the supply.</li>
     <li>If a player uses <i>Neuraloop</i> to purge <i>The Obsidian</i>, that player must discard one unscored secret objective if they have a total of four scored or unscored secret objectives. There is no effect if they have four scored secret objectives.</li>
     <li>If a player uses <i>Neuraloop</i> to purge the <i>Shard of the Throne</i>, that player loses a victory point.</li>

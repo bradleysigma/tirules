@@ -38,7 +38,7 @@
 <h1>The Egeiro <sub>(Flagship)</sub></h1>
     <ol class="note">
     <li>If the Bastion player controls multiple planets in a system, <i>The Egeiro</i> will apply +1 to its combat rolls just once.</li>
-    <li>If the Bastion player controls a planet in a system, and other players control other planets in that system, <i>The Egeiro</i> will still apply +1 to its combat rolls.</li>
+    <li>If the Bastion player controls a planet in a system, and other players control other planets in that system, <i>The Egeiro</i> will still apply +1 to its combat rolls from that system.</li>
     </ol>
 
 <h1>Dame Briar <sub>(Agent)</sub></h1>
@@ -60,9 +60,9 @@
     <li>Effects that cancel hits, such as <sc>Sustain Damage</sc>, cannot be used to prevent units from being destroyed.</li>
     <li>All units belonging to other players in the system may be destroyed, including structures.</li>
     <ol>
-        <li>If <i>Entity 4X41A &ldquo;Apollo&rdquo;</i> is triggered during combat, units that belong to another player other than the Bastion player&rsquo;s opponent could be destroyed.</li>
-        <li>If <i>Entity 4X41A &ldquo;Apollo&rdquo;</i> is triggered during a space combat, ground forces on planets or being transported in that system could be destroyed.</li>
-        <li>If <i>Entity 4X41A &ldquo;Apollo&rdquo;</i> is triggered during a ground combat, ground forces on other planets or in the space area of that system could be destroyed.</li>
+        <li>If <i>Entity 4X41A &ldquo;Apollo&rdquo;</i> is resolved during combat, units that belong to another player other than the Bastion player&rsquo;s opponent could be destroyed.</li>
+        <li>If <i>Entity 4X41A &ldquo;Apollo&rdquo;</i> is resolved during a space combat, ground forces on planets or being transported in that system could be destroyed.</li>
+        <li>If <i>Entity 4X41A &ldquo;Apollo&rdquo;</i> is resolved during a ground combat, ground forces on other planets or units in the space area of that system could be destroyed.</li>
     </ol>
     </ol>
 

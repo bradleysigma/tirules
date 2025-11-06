@@ -36,15 +36,15 @@
     <ol class="note">
     </ol>
 
-<h1>Convention of War Abandoned</h1>
+<h1>Conventions of War Abandoned</h1>
     <ol class="note">
     </ol>
 
 <h1>Cosmic Phenomanae</h1>
     <ol class="note">
     <li>Only ships moving out of gravity rifts may apply the +2 to their move value; ships moving through cannot.</li>
-    <li>For ship moving out of a gravity rift, the active player chooses for each one whether it applies +1 or +2 to its move value, and then rolls for removing with the corresponding threshold.</li>
-    <li>Ships that move out of a gravity rift outside of the movement step of a tactical action, such as though retreating from a space combat, must still roll for removal. Their owner may choose which threshold to use.</li>
+    <li>For ships moving out of a gravity rift, the active player chooses for each one whether it applies +1 or +2 to its move value, and then rolls for removing with the corresponding threshold.</li>
+    <li>Ships that move out of a gravity rift outside of the movement step of a tactical action, such as through retreating from a space combat, must still roll for removal. Their owner may choose which threshold to use.</li>
     </ol>
 
 <h1>Cultural Exchange Program</h1>
@@ -101,7 +101,7 @@
     <li>If a player would gain their final victory point at the start of the status phase from a monument, they immediately win the game. Players will not score objectives.</li>
     <ol>
         <li>If multiple players would gain their final victory simultaneously, the player with the lowest initiative wins.</li>
-        <li>All commodities are placed with monuments simultaneously. A player with two monuments and a lower inactive may gain multiple points and win
+        <li>All commodities are placed with monuments simultaneously. A player with two monuments and a lower initiative may gain multiple points and win.</li>
     </ol>
     </ol>
 
@@ -112,7 +112,7 @@
 
 <h1>Stellar Atomics</h1>
     <ol class="note">
-    <li>If all players have removed their control token <i>Stellar Atomics</i>, then no player will vote on agendas, and the speaker will decide which outcome is resolved.</li>
+    <li>If all players have removed their control token from <i>Stellar Atomics</i>, then no player will vote on agendas, and the speaker will decide which outcome is resolved.</li>
     <li>Players may still resolve non&ndash;action card abilities during the action phase.</li>
     <li>If the Xxcha player has Elder Qanoj, their commander, unlocked, they will be able to vote after removing their control token from <i>Stellar Atomics</i>.</li>
     </ol>
@@ -141,7 +141,7 @@
     <li>If the Muaat player&rsquo;s <i>Nova Seed</i> hero ability replaces a player&rsquo;s home system with a supernova, then that supernova becomes that player&rsquo;s home system.</li>
     </ol>
 
-<h1>Zealous Orthodixy</h1>
+<h1>Zealous Orthodoxy</h1>
     <ol class="note">
     </ol>
 </article>

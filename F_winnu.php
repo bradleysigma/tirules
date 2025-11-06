@@ -78,7 +78,7 @@
 
 <h1>Imperator <sub>(Breakthrough)</sub></h1>
     <ol class="note">
-    <li>The Winnu player applies the +1 to their combat rolls even if it is their <i>Support for the Throne</i> in their opponent&rsquo;s play area.</li>
+    <li>The Winnu player applies the +1 to their combat rolls even if it is the Winnu player&rsquo;s own <i>Support for the Throne</i> in their opponent&rsquo;s play area.</li>
     <li>If their opponent receives a <i>Support for the Throne</i> during a combat, the Winnu player will apply +1 to the remaining combat rolls during that combat.</li>
     </ol>
 </article>
