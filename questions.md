@@ -10,16 +10,19 @@
 - If the controller of a planet removes all of their units from it, and two or more other players are coexisting, which player gains control of that planet?
 - BOMBARDMENT rolls are made against each player coexisting individually. Does this allow _Plasma Scoring_ etc. to trigger multiple times?
 - Can a player score _Stake Your Claim_ by coexisting on a planet in a single planet system?
-- Can a player explore a planet they are coexisting on? If so, can hazardous exploration cards be resolved with another player's mech and/or infantry? And can the planet be readied by the coexisting player?
+- Can a player explore a planet they are coexisting on?
+- If so, can hazardous exploration cards be resolved with another player's mech and/or infantry?
+- And can the planet be readied by the coexisting player?
 
 ## Combat
 - What happens if a player has only fighters when they would retreat (either from being _Rout_'d when they only have fighters, or losing a bigger ship after announcing retreats, maybe because of _Direct Hit_)? Do they just instantly remove all the fighters and lose the combat, or is the retreat cancelled and they go to the next round of combat?
 - What about Nekro if they only have ground forces located on planets remaining in the fight (having started the combat with the Alastor)?
 - If a game effect says "hits ... must be assigned to non-fighter ships if able" (such as the L1Z1X flagship or _Graviton Laser System_), how literal is the word "must"? In particular, can those hits be cancelled (if they're cancelled, then they're not being assigned to non-fighter ships)?
-- Is a player required to use as much capacity as possible for their fighters and ground forces in the space area when they retreat ("That player’s fighters and ground forces in the space area of the active system that are __unable to move or be transported__ are removed.")?
+- Is a player required to use as much capacity as possible for their fighters and ground forces in the space area when they retreat ("That player’s fighters and ground forces in the space area of the active system that are `unable to move or be transported` are removed.")?
 
 ## Command Tokens
-- What happens if a player (probably Letnev) has all sixteen command tokens on the game board, and they want to retreat? What about Diplomacy?
+- What happens if a player (probably Letnev) has all sixteen command tokens on the game board, and they want to retreat?
+- What about Diplomacy?
 - I recall a discussion regarding abilities that spend command tokens from reinforcements (NRA hero, _Scepter of Emelpar_, etc.). Specifically, updating the ruling requiring using a command token from the command sheet if a player had no tokens in their reinforcements, even if the spent token would be returned to reinforcements. Will this ruling be updated to allow spending a phantom token instead?
 
 ## Entropic Scar
@@ -38,11 +41,14 @@
 - When a player claims the last expedition, if they are gaining their Breakthrough, do they roll for The Fracture before or after Thunder's Edge is placed?
 
 ## The Fracture
-- Are frontier tokens placed in The Fracture when it enters play? What about when the Empyrean hero is purged?
+- Are frontier tokens placed in The Fracture when it enters play?
+- What about when the Empyrean hero is purged?
 - Say the Nekro player is placing ingress tokens. One system contains planets with a red and yellow tech skip, and another system contains a planet with a yellow tech skip. There are no other tech skips of these colours. Can the Nekro player place an ingress token in the first system for its yellow skip, and then place no token for the red skips?
 - Can _Nano-Forge_ and/or _Terraform_ be attached to planets in The Fracture?
 - If _Terraform_ is attached, can planets in The Fracture be explored?
 - If planets in The Fracture can be explored, what happens if the _Demilitarized Zone_ is found?
+- Are tiles in the regular game map that are touching The Fracture on the edge of the game board?
+- Can ingress tokens be placed in The Fracture, such as by a late game _Al'raith Ix Ianovar_, or with the Firmament side of _Planesplitter_?
 
 ## Gravity Rifts
 - Does the limit of "once per ship" apply once per game or once per tactical action?
@@ -96,11 +102,15 @@
 - "End that player's turn" abilities?
 - In general, is it the player's turn?
 
+### Refit Troops
+- You've previously stated that _Refit Troops_ may be played by a player with no mechs in their reinforcements. Do they still remove at least one infantry if they choose not to place any mechs?
+
 ### Reparations
 - If a player has only readied planets, and their opponent has only exhausted planets, can they play _Reparations_ for no effect (other than discarding _Reparations_)?
 
 ### Rescue
 - If the ship is in a gravity rift, does it roll for it?
+- Can the incoming ship move any distance, or is it limited by its move value?
 
 ### Salvage
 - If the defender plays _Salvage_, can the attacker perform a transaction? What if they're trying to by a _Sabotage_? If so, what if that _Sabotage_ gets cancelled by a Watcher?
@@ -128,8 +138,10 @@
 ## Events
 
 ### Age of Commerce
-- Does _Dark Pact_ trigger if the Empyrean player gets __exactly__ the giving player's commodity value, or __at least__ this value?
-- Does _Trade Agreement_ steal all of the target player's commodities, or only their printed commodity value? Also, Vuil'raith agent? Also, _Salvage_?
+- Does _Dark Pact_ trigger if the Empyrean player gets `exactly` the giving player's commodity value, or `at least` this value?
+- Does _Trade Agreement_ steal all of the target player's commodities, or only their printed commodity value?
+- What about the Vuil'raith agent?
+- What about _Salvage_?
 
 ### Age of Exploration
 - The Creuss Gate isn't a home system. Can new tiles be placed adjacent to it in Age of Exploration because of this?
@@ -138,7 +150,8 @@
 
 ### Age of Fighters
 - "Fighters cannot transport other fighters" - is this intended to apply only during movement, or does it affect the fighters' use of capacity at all times?
-- Does Vuil'raith still capture ships they destroy? If so, are these ships purged or returned when they are spent (or blockaded)?
+- Does Vuil'raith still capture ships they destroy?
+- If so, are these ships purged or returned when they are spent (or blockaded)?
 - If they are purged, are ships captured by The Stillness of Stars or Vortex also purged when spent?
 - If a player builds a space dock under fighters that are using fleet pool, would this force the fighters out of fleet pool, thereby removing their capacity value?
 - Does the Creuss commander add fighters when the Creuss player moves fighters through wormholes?
@@ -177,7 +190,7 @@
 
 ### Monument to the Ages
 - What happens if a player wishes to place a monument, but all three are already out? Can they scuttle one they control? Can they scuttle one another player controls? If so, are commodities transferred to the new monument?
-- Alice is on 8VPs with Leadership and controls two monuments. Bob is on 9VPs with Imperial and controls one monument. All monuments are one commodity short of a VP breakpoint. At the start of the status phase, who wins. Is it a) all commodities are placed simultaneously, so Alice gains 2VPs and wins with the lower initiative, or b) players resolve commodity placement as abilities, one at a time in initiative order, so Alice places one commodity, goes to 9VPs, then Bob places one commodity, goes to 10VPs, and wins?
+- Alice is on 8VPs with Leadership and controls two monuments. Bob is on 9VPs with Imperial and controls one monument. All monuments are one commodity short of a VP breakpoint. At the start of the status phase, who wins? Is it a) all commodities are placed simultaneously, so Alice gains 2VPs and wins with the lower initiative, or b) players resolve commodity placement as abilities, one at a time in initiative order, so Alice places one commodity, goes to 9VPs, then Bob places one commodity, goes to 10VPs, and wins?
 
 ### Rapid Mobilization
 - How are ingress tokens distributed when playing with _Rapid Mobilization_?
@@ -189,7 +202,7 @@
 ## Objectives
 
 ### Become a Martyr
-- Generally public objectives can't be scored if you don't control every planet in your home system. If _Become A Martyr_ is a public objective (by _Classified Document Leaks_ or _Neuraloop_), can it be scored when triggered by a player losing a planet in their own home system? 
+- Generally public objectives can't be scored if you don't control every planet in your home system. If _Become A Martyr_ is a public objective (by _Classified Document Leaks_ or _Neuraloop_), can it be scored when triggered by a player losing a planet in their own home system?
 
 ## Relics
 
@@ -203,12 +216,13 @@
 - Can abilities such as the Argent commander or Jol-Nar commander affect the ANTI-FIGHTER BARRAGE roll, since it isn't a unit performing the roll?
 
 ### Metali Void Shielding
-- Say Nekro has _Metali Void Shielding_, and has infantry participating in space combat as though they were ships. Can they be damaged? How would a player indicate a damaged infantry token?
+- Say Nekro has _Metali Void Shielding_, and has infantry participating in space combat as though they were ships. Can they be damaged?
+- If so, how would a player indicate a damaged infantry token?
 
 ### The Silver Flame
 - Can a player score _Become a Martyr_ when they purge their home system?
 - Is Saar affected by the "can't score publics" clause?
-- Does The Fracture enter play if a 10 is rolled?
+- Does The Fracture enter play if a 10 is rolled i.e. is that clause enacted unconditionally, or only in the 1-9 branch?
 
 ### The Triad
 - Can _The Triad_ be exhausted by _Uprising_?
@@ -219,7 +233,7 @@
 - If _Terraform_ is attached, can _The Triad_ be explored?
 - Does Saar gain a trade good from SCAVENGE when they gain _The Triad_?
 - Does an unknown relic fragment count as a fragment of its own type, or only as one of the other three types?
-- Alternatively, if a player has multiple unknown relic fragments, can they declare that they are fragment types that don't usually exist ("here is my fuchsia relic fragment, and my lavender relic fragment, and my burnt umber relic fragment...")?
+- Alternatively, if a player has multiple unknown relic fragments, can they declare that they are fragment types that don't usually exist for an additional boost ("here is my fuchsia relic fragment, and my lavender relic fragment, and my burnt umber relic fragment...")?
 
 ## Strategy Cards
 
@@ -232,7 +246,8 @@
 
 ### Wing Transfer (Breakthrough)
 - Do fighters need to be transported?
-- Can units move more than one system e.g. from the system "above" the active system to the system "below"? If so, does the ships move value matter?
+- Can units move more than one system e.g. from the system "above" the active system to the system "below"?
+- If so, does the ships move value matter?
 - Can units be moved to/from a system that had a command token placed in it during an earlier action?
 - If ground forces are moved, are they required to remain in the space area of their destination system?
 - Can Argent move ships into systems that contain another player's ships?
@@ -253,7 +268,7 @@
 - Can the Bastion player apply abilities such as _Plasma Scoring_/Argent commander or Jol-Nar commander to the BOMBARDMENT roll?
 
 ### 4X4IC "HELIOS" V2 (Technology)
-- "Unit upgrades share a name with a unit that is printed on a player's faction sheet, but have a higher __roman numeral__" - is 4X4IC "HELIOS" V2 a unit upgrade?
+- "Unit upgrades share a name with a unit that is printed on a player's faction sheet, but have a higher `roman numeral`" - is 4X4IC "HELIOS" V2 a unit upgrade?
 
 ## The Ghosts of Creuss
 
@@ -296,8 +311,8 @@
 
 ### Void Tether (Breakthrough)
 - If the Void Tether token is between two systems that both contain a wormhole, do other players consider those systems adjacent?
-- Does the QUANTUM ENTANGLEMENT neighbours ruling apply i.e. if Empyrean is on one side of the Void Tether token, are they neighbours and vice versa with a player on the other side?
-- If one side is an anomaly, and another player activates the other side, can _Aetherstream_ be used (especially if Nekro is copying it)?
+- Does the QUANTUM ENTANGLEMENT neighbours ruling apply i.e. if Empyrean is on one side of the Void Tether token, are they mandatorily neighbours and vice versa with a player on the other side?
+- If one side is an anomaly, and another player activates the other side, can _Aetherstream_ be used? This is especially relevant if Nekro is copying _Aetherstream_, and Empyrean is enforcing the Void Tether.
 - What happens to the Void Tether tokens if the Empyrean player is eliminated?
 
 ## The Firmament & The Obsidian
@@ -312,7 +327,7 @@
 - Does this go into the receiver's play area? If not, is it mandatory if it's in your hand at the end of the status phase?
 
 ### Captain Aroz/Aroz Hollow (Firmament/Obsidian Commander)
-- If Captain Aroz causes the Firmament player to treat a planet as controlled by them, does that stop the actual controller from scoring a secret objective with it?
+- If Captain Aroz causes the Firmament player to treat a planet as controlled by them, does that stop the actual controller from scoring a secret objective with that planet?
 - When the Obsidian isn't being played, and a game effect instructs a player to gain their alliance ability (Yin breakthrough, _Mercenaries for Hire_ event), do their get the Firmament or Obsidian ability, or both, or each has its own card?
 
 ### The Reaping (Obsidian Breakthrough)
@@ -344,7 +359,17 @@
 - For _Classified Document Leaks_, _Judicial Abolishment_, _Miscount Disclosed_, or _New Constitution_, if the conditions aren't met, does the Keleres player draw a replacement agenda?
 - If so, and the original agenda was drawn from the bottom of the deck, is the replacement agenda drawn from the top or bottom?
 - Similarly, could you speak on how _Miscount Disclosed_ should work after electing a law?
-- Additionally, for _Covert Legislation_, is the hidden agenda drawn from the top or bottom? And is it Keleres that reads the agenda and announces the possible outcomes, instead of the player with the speaker token?
+- Additionally, for _Covert Legislation_, is the hidden agenda drawn from the top or bottom?
+- Also for _Covert Legislation_, is it Keleres that reads the agenda and announces the possible outcomes, instead of the player with the speaker token?
+- Does the Argent player's ZEAL ability trigger, since it's not the agenda phase?
+- Does the Nekro player get to predict an outcome with GALACTIC THREAT, since it's not the agenda phase?
+- Does the Nomad player get their FUTURE SIGHT money, since it's not the agenda phase?
+- Can _Predictive Intelligence_ be used for additional votes, since it's not the agenda phase?
+- Can _Deadly Plot_ be used to nuke an agenda, since it's not the agenda phase?
+- Can the planet with the _Demilitarized Zone_ attachment be transacted, since it's not the agenda phase?
+- Can _Maw of Worlds_ be purged, since it's not the agenda phase?
+- How does _Executive Order_ interact with the _Hidden Agenda_ event?
+- How does _Executive Order_ interact with the _Stellar Atomics_ event, since it's not the agenda phase?
 
 ## The L1Z1X Mindnet
 
@@ -357,12 +382,19 @@
 ## The Barony of Letnev
 
 ### Gravleash Maneuvers (Breakthrough)
-- Is "before you roll dice" literal i.e. does it apply to AFB rolls? Does it apply to infantry II killed by Strike Wing Alphas?
+- Is "before you roll dice" literal i.e. does it apply to AFB rolls?
+- What about the Gen Synthesis roll of infantry II killed by Strike Wing Alphas?
 - Additionally, if Letnev gets to reroll their combat dice (e.g. with MUNITIONS RESERVES), do they get to choose another ship for the bonus?
 - If the Nomad player uses The Thundarian, can the Letnev player choose a different ship? This may be particularly pertinent if the original ship was destroyed by _The Crown of Thalnos_.
 - Can a fast ship have its movement boosted with _Gravity Drive_, and then have this modified value copied to a slow ship?
 - Conversely, can a slow ship copy a value, then get the +1 from _Gravity Drive_? This could be relevant for a ship with capacity taking a longer path to pick up some units.
 - How about gravity rifts?
+
+## The Mahact Gene-Sorcerers
+
+### Airo Shir Aur - Benediction (Hero)
+- Say the Mahact player uses _Benediction_ to move one ship out of a gravity rift, and that ship fails the roll. Is a combat still resolved, with the winner able to score a secret objective?
+- You've previously stated that the player who had their ships moved is treated as the attacker. Does this change who is considered the active player, for the purpose of what order abilities are resolved in (e.g. double _Assault Cannon_)?
 
 ## The Mentak Coalition
 
@@ -370,7 +402,8 @@
 - PILLAGE is an "after". Transactions don't advance timing windows. If a player performs a transaction and goes above three trade goods, can they immediately perform another transaction to go below three trade goods (or even to zero trade goods) before PILLAGE triggers?
 
 ### Corsair (Breakthrough Unit)
-- Can Nekro copy Corsair from Mentak? Can they copy Cruiser II while it's under Corsair?
+- Can Nekro copy Corsair from Mentak?
+- If not, can they copy Cruiser II while it's under Corsair?
 
 ## The Embers of Muaat
 
@@ -397,15 +430,22 @@
 
 ### Eidelon Maximum (Breakthrough Unit)
 - Does the Eidelon Maximum participate in space combat when it is on a planet?
-- In general, is the Eidelon Maximum treated as a ship when on a planet? Does it block other player's ship movement through the system? Can it count towards ship objectives? Can it blockade space docks?
+- Does it block other player's ship movement through the system?
+- Can it count towards ship objectives?
+- Can it blockade space docks?
+- In general, is the Eidelon Maximum treated as a ship when on a planet?
 - Can additional Eidelons Maximums be placed when the _Articles of War_ law is in play?
 
 ## The Nekro Virus
 
+### Technological Singularity (Ability)
+- Say Nekro has _Dimensional Splicer_, and in the "start of combat" window, they splice a ship and gain _Assault Cannon_. Can Nekro immediately use _Assault Cannon_?
+
 ### Valefar Assimilator Z (Breakthrough)
-- _Heaven's Eye_ specifies "... 1 of __your__ plots ...". Does Nekro gain a benefit from copying this?
+- _Heaven's Eye_ specifies "... 1 of `your` plots ...". Does Nekro gain a benefit from copying this?
 - If there is a Valefar Z token on the Firmament player's faction sheet, what happens to this token when that faction sheet is purged to become the Obsidian?
-- Does copying the _Son of Ragh_, the _Loncarra Ssodu_, the _Ouranos_ or the _Heaven's Hollow_ do anything? If so, for the _Ouranos_, would Nekro also gain the COALESCENCE faction ability?
+- Does copying the _Son of Ragh_, the _Loncarra Ssodu_, the _Ouranos_ or the _Heaven's Hollow_ do anything?
+- If so, for the _Ouranos_, would Nekro also gain the COALESCENCE faction ability?
 - If there is a Valefar Assimilator Z token on the Vuil'raith faction sheet, and both _The Alastor_ and _The Terror Between_ are in the same system, who captures units when they're destroyed?
 - What happens to a Valefar Assimilator Z token on a faction sheet when a player is eliminated?
 - Why do you hate Creuss so much?
@@ -419,9 +459,16 @@
 ## Sardakk N'orr
 
 ### G'hom Sek'kus
-- You've stated in the past that _Dominus Orb_ does not allow G'hom Sek'kus to commit ground forces from systems containing the N'orr player's command tokens. You've also stated in the past that _Dominus Orb_ __can__ allow G'hom Sek'kus to commit ground forces from systems containing the N'orr player's command tokens. Could you please clarify which of these two contradictory options is the correct ruling?
+- You've stated in the past that _Dominus Orb_ does not allow G'hom Sek'kus to commit ground forces from systems containing the N'orr player's command tokens. You've also stated in the past that _Dominus Orb_ `can` allow G'hom Sek'kus to commit ground forces from systems containing the N'orr player's command tokens. Could you please clarify which of these two contradictory options is the correct ruling?
 
 ## The Ral Nel Consortium
+
+### Miniaturization
+- How literal is the word "any" in MINIATURIZATION? In particular, can the Ral Nel player's structures be transported by other players?
+- Could you clarify what happens to Ral Nel structures in the space area should they no longer have ships there (either by losing a space combat, or by moving the ships out in a later tactical action)?
+- Can transported space docks still support fighters above capacity?
+- If so, are they able to transport fighters in this manner?
+- If the Ral Nel player owns the _Magen Defense Grid_ technology, and they activate a system containing their structures in the space area, do they place infantry in that system's space area?
 
 ### Linkship (Unit)
 - If the Ral Nel player has the PDS II unit upgrade, can their Linkships' SPACE CANNON be used to target ships in adjacent systems?
@@ -483,12 +530,16 @@
 
 ### Resonance Generator (Breakthrough)
 - Does the Rebellion player make a breakthrough roll for The Fracture during setup?
+- If so, when do they do so?
+- In particular, will they do this before deciding on their starting technology?
+- Will they do so before the Keleres player decides on their starting technology?
 
-## The Clans of Saar
+## The Clan of Saar
 
 ### Floating Factory (Unit)
-- Say there's a combat between Saar and Yssaril. Saar has a dreadnought and Floating Factory, and Yssaril has a cruiser. Both players produce hits. Saar uses SUSTAIN DAMAGE and Yssaril plays _Direct Hit_, destroying the dreadnought. Before Yssaril assigns the hit to their cruiser, are they blockading the Floating Factory (destroying it)?
-- Also, if Saar loses their last ship in combat but then gets fighters from the Yin agent, is their Floating Factory blockaded during this time? 
+- Say there's a combat between Saar and Yssaril. Saar has a dreadnought and floating factory, and Yssaril has a cruiser. Both players produce hits. Saar uses SUSTAIN DAMAGE and Yssaril plays _Direct Hit_, destroying the dreadnought. Before Yssaril assigns the hit to their cruiser, are they blockading the floating factory (destroying it)?
+- Also, if Saar loses their last ship in combat but then gets fighters from the Yin agent, is their floating factory blockaded during this time?
+- If the Saar player controls no planets and has no ground forces, are they eliminated if they move all of their floating factories into entropic scars, stripping them of PRODUCTION?
 
 ### Deorbit Barrage (Breakthrough)
 - Can the Saar player assign two hits to a unit with SUSTAIN DAMAGE?
@@ -502,6 +553,10 @@
 - Say the Sol player has a space dock on Resculon, and they produce a carrier and many infantry. Are the infantry considered to have been produced by the carrier, which would allow them to be placed on Resculon, Corneeq, or in the space area, or are the infantry considered to have been produced solely by the space dock, meaning that they can only be placed on Resculon?
 
 ## The Titans of Ul
+
+### Awaken (Ability)
+- If the Ul player uses AWAKEN to place a PDS and/or mech plus infantry on a planet containing an enemy PDS, can that PDS shoot at the Ul player's ground forces, or only at units that were committed?
+- One of the more confusing rules situations is when the Ul player wishes to DEPLOY a mech plus infantry when they have all their PDS on the game board, requiring them to pull a PDS from the game board, and leaving it in their reinforcements. Could this ruling be updated to allow DEPLOYing the mech plus infantry without pulling the PDS?
 
 ### Slumberstate Computing (Breakthrough)
 - Is there a limit to the number of Sleeper tokens that may be placed on another player's planet?
@@ -534,6 +589,12 @@
 - Can the Vuil'raith player move an ingress token into a system that already contains a different ingress token?
 
 # Twilight's Fall
+
+## Mechanics
+
+### Benediction Phase
+- Can players transact during the benediction phase?
+- If so, are the normal agenda phase transaction rules in place (one transaction between each pair of players per edict, no need to be neighbours), or are they modified in some way?
 
 ## Action Cards
 
@@ -573,6 +634,12 @@
 - Can a player take the ability card they just gave?
 
 ## Edicts
+
+### Artifice
+- Does the Tyrant choose the relic/paradigm split before drawing any cards, or do they get to see each drawn card before choosing which deck they'll draw their next card from?
+
+### Censure
+- What is done with the edict card at the end of the status phase? Shuffled into the edict deck? Put into an edict discard pile?
 
 ### Foretell
 - Can the speaker choose which public objectives they reveal, knowing what cards had been peeked at?

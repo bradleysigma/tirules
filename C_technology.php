@@ -144,6 +144,7 @@
     <ol><li>A player may use <i>Duranium Armor</i> to repair a unit damaged by <sc>Space Cannon</sc> or <sc>Bombardment</sc> hits that occurred immediately before the combat.</li></ol>
     <li>If a unit is damaged during combat without using its <sc>Sustain Damage</sc> ability, it may be repaired by <i>Duranium Armor</i> during the same combat round.</li>
     <li>Only units participating in the combat may be chosen to be repaired.</li>
+    <li><i>Duranium Armor</i> can be used to repair a damaged unit which does not currently have the <sc>Sustain Damage</sc> ability.</li>
     </ol>
 
 <h1>Assault Cannon</h1>
