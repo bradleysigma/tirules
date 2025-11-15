@@ -10,6 +10,8 @@
 <h1>&#x26AA; Puppets of the Blade</h1>
     <ol class="note">
     <li>When the Firmament player flips their home system, the Obsidian player places any units that were on Cronos onto Cronos Hollow, and places any units on Tallin onto Tallin Hollow. Any units that were in the space area pre&ndash;flip are placed in the space area post&ndash;flip.</li>
+    <li>The Obsidian player will always gain Sharsiss Hollow, regardless of whether or not they purged Sharsiss as the Firmament.</li>
+    <li>Upon resolving <sc>Puppets of the Blade</sc> and gaining their leaders, the Obsidian player immediately unlocks their commander and hero, should they meet the corresponding conditions.</li>
     </ol>
 
 <h1>&#x2716; Nocturne</h1>

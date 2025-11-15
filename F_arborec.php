@@ -62,6 +62,7 @@
     <li>The produced unit must be paid for.</li>
     <li>The unit is produced before ships move. A ship may be produced if no other player currently has ships in that system.</li>
     <li>No unit is using its <sc>Production</sc> ability. The <i>Sarween Tools</i> technology and similar effects will not apply.</li>
+    <li>The Aborec player may produce an infantry, even if the only unit with the <sc>Production</sc> ability in the active system is their space dock.</li>
     <li>If a ground force is produced, it may be placed on any planet the Arborec player controls in that system, regardless of what units, if any, the Arborec player has on that planet. The produced ground force may also be placed in the space area of that system.</li>
     <li>If the Arborec player wishes to place a unit, but there are none of that type left in their reinforcements, they may remove a unit of that type from any system that does not contain one of their command tokens and place that instead. This unit will be placed undamaged.</li>
     </ol>

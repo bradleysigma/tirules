@@ -30,6 +30,8 @@
 
 <h1>Exile <sub>(Unit)</sub></h1>
     <ol class="note">
+    <li>The destroyer must be on the game board when the combat ends in order to place the breach. If the destroyer was in the active system, and was destroyed in the space combat, it cannot be used to place a breach.</li>
+    <li>A breach may be placed after a space combat and/or a ground combat.</li>
     </ol>
 
 <h1>Quietus <sub>(Flagship)</sub></h1>
@@ -53,7 +55,7 @@
 
 <h1>Homesick Phantom &mdash; Fragment Reality <sub>(Hero)</sub></h1>
     <ol class="note">
-    <li>The Rebellion player may only start placing ships on Homesick Phantom once they have been unlocked.</li>
+    <li>The Rebellion player may only start placing ships on Homesick Phantom once the hero has been unlocked.</li>
     <li>When <i>Fragment Reality</i> is purged and the ships are placed in a system, the Rebellion player must remove ships, if required, to meet their fleet pool limit.</li>
     <li>Capacity is not checked during space combat. If the Rebellion player purges <i>Fragment Reality</i> and places fighters and/or ground forces in a system, they will not need to remove any fighters or ground forces from the space area to satisfy their capacity limit until after the combat has been resolved.</li>
     </ol>

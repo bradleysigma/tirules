@@ -134,6 +134,7 @@
 <h1>Diplomatic Pressure</h1>
     <ol class="note">
     <li>The target player chooses which promissory note they give.</li>
+    <li>Giving a promissory note because of <i>Diplomatic Pressure</i> is not resolving a transaction.</li>
     <li>A player cannot play a second <i>Diplomatic Pressure</i> targeting the same player during the same agenda.</li>
     <ol>
         <li>A player may play a second <i>Diplomatic Pressure</i> targeting a different player during the same agenda.</li>
@@ -664,7 +665,7 @@
 <h1>Strategize</h1>
     <ol class="note">
     <li>If a player is eliminated, the strategy cards that they had are considered &ldquo;unchosen&rdquo;.</li>
-    <li>The active player must still spend a command token to perform the secondary ability, other than for Leadership.</li>
+    <li>The active player must still spend a command token to perform the secondary ability, other than for <i>Leadership</i>.</li>
     </ol>
 
 <h1>Summit</h1>
