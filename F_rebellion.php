@@ -45,10 +45,16 @@
 
 <h1>Ahk Ravin <sub>(Agent)</sub></h1>
     <ol class="note">
+    <li>If the Rebellion player transports ground forces during the swap, those ground forces will be placed in the space area of their destination system. They cannot be committed to planets in that system until and unless a tactical action is resolved in that system.</li>
     </ol>
 
 <h1>Ahk Siever <sub>(Commander)</sub></h1>
     <ol class="note">
+    <li>If Ahk Siever is unlocked by placing a breach token into a system containing another player&rsquo;s unit at the end of a combat with the ability of an Exile, the Rebellion player will not resolve the commodity ability of Ahk Siever from that same combat.</li>
+    <ol>
+        <li>If they place the breach token at the end of a space combat, they may resolve the commodity ability of Ahk Siever at the end of any ground combats during the same tactical action.</li>
+        <li>If they place the breach token at the end of a ground combat in a system with multiple planets, they may resolve the commodity ability of Ahk Siever at the end of any later ground combats on different planets during the same tactical action.</li>
+    </ol>
     <li>The Rebellion player does not have to be a participant in the combat to gain or convert commodities.</li>
     <li>If there are multiple combats in one turn, the Rebellion player may gain or convert a commodity for each. This includes for each ground combat on a separate planet.</li>
     </ol>

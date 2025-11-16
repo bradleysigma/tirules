@@ -50,6 +50,7 @@
 
 <h1>Heart of Ixth</h1>
     <ol class="note">
+    <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10. <i>Heart of Ixth</i> may be used to turn this result into a 9, or vice versa.</li>
     </ol>
 
 <h1>JR&ndash;XS455&ndash;O</h1>
@@ -63,6 +64,7 @@
 
 <h1>Lightrail Ordnance</h1>
     <ol class="note">
+    <li>The space docks may use the <sc>Space Cannon</sc> ability during both the <b>Space Cannon Offense</b> and <b>Space Cannon Defense</b> steps.</li>
     </ol>
 
 <h1>Maw of Worlds</h1>
