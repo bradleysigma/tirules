@@ -965,6 +965,18 @@
 - Can _Splice_ be played if there are `exactly` enough cards in the given splice deck for each player to gain one (and so the plus one cannot be drawn)?
 - Can _Splice_ be played if there are zero cards in the given splice deck? Does the active player refund themselves by restarting the Benediction phase?
 
+## Abilities
+
+### Crucible
+- Will Il Na Viroset apply +1 to the move value of the Enigma when it moves out of or through a gravity rift?
+
+### Bio-Synthetic Synergy
+- If a player has _Bio-Synthetic Synergy_, and another player forces them to give an ability, is that player forced to give _Bio-Synthetic Synergy_?
+
+### Terraform
+- Can a player with _Terraform_ explore a planet in their home system and/or Mecatol Rex?
+- If so, what happens if the _Demilitarized Zone_ is found?
+
 ## Unit Upgrades
 
 ### The Dragon, Freed
@@ -999,18 +1011,6 @@
 
 ### Ravenous Genome
 - Do the captured units serve any mechanical purpose without a Vuil'raith ability, or do they just prevent their owner from building them?
-
-## Abilities
-
-### Crucible
-- Will Il Na Viroset apply +1 to the move value of the Enigma when it moves out of or through a gravity rift?
-
-### Bio-Synthetic Synergy
-- If a player has _Bio-Synthetic Synergy_, and another player forces them to give an ability, is that player forced to give _Bio-Synthetic Synergy_?
-
-### Terraform
-- Can a player with _Terraform_ explore a planet in their home system and/or Mecatol Rex?
-- If so, what happens if the _Demilitarized Zone_ is found?
 
 ## Paradigm
 
