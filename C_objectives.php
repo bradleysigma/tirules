@@ -53,12 +53,14 @@
         <li><i>Alliance</i>.</li>
         <li><i>Support for the Throne</i>.</li>
         <li><i>Stymie</i> (Arborec).</li>
+        <li><i>Share Knowledge</i> (Deepwrought).</li>
         <li><i>Trade Convoys</i> (Hacan).</li>
         <li><i>Dark Pact</i> (Empyrean).</li>
         <li><i>Blood Pact</i> (Empyrean).</li>
         <li><i>Promise of Protection</i> (Mentak).</li>
         <li><i>Gift of Prescience</i> (Naalu).</li>
         <li><i>Antivirus</i> (Nekro).</li>
+        <li><i>Sever</i> (Rebellion).</li>
         <li><i>Terraform</i> (Ul).</li>
     </ol>
     <li>The defender cannot score <i>Betray a Friend</i>.</li>
@@ -245,6 +247,7 @@
 
 <h1>Form Galactic Brain Trust</h1>
     <ol class="note">
+    <li>The number of technology specialties a planet has is irrelevant, if it has at least one.</li>
     </ol>
 
 <h1>Foster Cohesion</h1>
@@ -261,6 +264,7 @@
 
 <h1>Found Research Outposts</h1>
     <ol class="note">
+    <li>The number of technology specialties a planet has is irrelevant, if it has at least one.</li>
     </ol>
 
 <h1>Fuel the War Machine</h1>
@@ -473,12 +477,14 @@
         <li><i>Alliance</i>.</li>
         <li><i>Support for the Throne</i>.</li>
         <li><i>Stymie</i> (Arborec).</li>
+        <li><i>Share Knowledge</i> (Deepwrought).</li>
         <li><i>Trade Convoys</i> (Hacan).</li>
         <li><i>Dark Pact</i> (Empyrean).</li>
         <li><i>Blood Pact</i> (Empyrean).</li>
         <li><i>Promise of Protection</i> (Mentak).</li>
         <li><i>Gift of Prescience</i> (Naalu).</li>
         <li><i>Antivirus</i> (Nekro).</li>
+        <li><i>Sever</i> (Rebellion).</li>
         <li><i>Terraform</i> (Ul).</li>
     </ol>
     </ol>

@@ -21,6 +21,11 @@
     font-family: slid;
     src: url(Slider.otf);
 }
+@font-face
+{
+    font-family: lazax;
+    src: url(LazBold.ttf);
+}
 
 html, body
 {
@@ -63,6 +68,7 @@ article > h1
     column-span: all;
     margin: 0;
     padding-top: 1ex;
+    padding-bottom: 0.2ex;
     font-family: slid, Futura, sans-serif;
     font-size: 250%;
     font-weight: normal;
@@ -104,6 +110,9 @@ ol, ul
 }
 p
 {
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
     line-height: 1.2;
     padding-bottom: 1ex;
     padding-top: 1ex;

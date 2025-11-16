@@ -101,7 +101,7 @@
 
 <h1>AI Development Algorithm</h1>
     <ol class="note">
-    <li>When exhausted, a prerequisite will be ignored, and <i>AI Development Algorithm</i> will still count towards meeting a warfare technology (red) prerequisite.</li>
+    <li>When a player exhausts <i>AI Development Algorithm</i> to ignore a prerequisite of a unit upgrade technology that they are researching, they may still use <i>AI Development Algorithm</i> itself for meeting a warfare technology (red) prerequisite on that unit upgrade technology in the same manner as any other technology.</li>
     <ol><li>For example, <i>AI Development Algorithm</i> alone may be used to research the Destroyer II unit upgrade.</li></ol>
     </ol>
 
@@ -139,11 +139,13 @@
 <h1>Duranium Armor</h1>
     <ol class="note">
     <li>A player must mandatorily repair a unit with <i>Duranium Armor</i> during each round of combat, if possible.</li>
+    <li>A player uses <i>Duranium Armor</i> only once during each round of combat, at the end of the <b>Assign Hits</b> substep. Hits assigned outside of this substep will not allow <i>Duranium Armor</i> to repair an additional unit.</li>
     <li><i>Duranium Armor</i> is used even if a player&rsquo;s opponent produced no hits during a round of combat.</li>
     <li>If a player starts a combat with a damaged unit, they use <i>Duranium Armor</i> in the first round of combat.</li>
     <ol><li>A player may use <i>Duranium Armor</i> to repair a unit damaged by <sc>Space Cannon</sc> or <sc>Bombardment</sc> hits that occurred immediately before the combat.</li></ol>
     <li>If a unit is damaged during combat without using its <sc>Sustain Damage</sc> ability, it may be repaired by <i>Duranium Armor</i> during the same combat round.</li>
     <li>Only units participating in the combat may be chosen to be repaired.</li>
+    <li><i>Duranium Armor</i> can be used to repair a damaged unit which does not currently have the <sc>Sustain Damage</sc> ability.</li>
     </ol>
 
 <h1>Assault Cannon</h1>

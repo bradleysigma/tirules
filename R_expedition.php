@@ -2,7 +2,7 @@
 <header>Expeditions</header>
 <article>
 <h1>Rules Reference</h1>
-<p style="column-span: all;">There currently does not exist a Living Rules Reference section regarding expeditions.</p>
+<p>There currently does not exist a Living Rules Reference section regarding expeditions.</p>
 
 <h1>Notes</h1>
     <ol class="note">
@@ -18,8 +18,8 @@
         <li>Exhaust a planet that has a technology speciality; or</li>
         <li>Spend three trade goods.</li>
     </ol>
-    <li>One player may claim multiple slices. A single slice cannot be claimed multiple times (neither by the same or different players).</li>
-    <ol><li>If a player already has their breakthrough when they claim a slice, no additional effect will trigger.</li></ol>
+    <li>One player may claim multiple slices, but no more than one slice per turn. A single slice cannot be claimed multiple times (neither by the same or different players).</li>
+    <ol><li>If a player already has their breakthrough when they claim a slice, no additional effect will trigger, other than for the sixth and final slice.</li></ol>
     <li>Once the sixth and final slice has been claimed, Thunder&rsquo;s Edge will enter play.</li>
     <ol>
         <li>First, all command tokens on the expedition token are returned to the respective player&rsquo;s reinforcements, noting which player(s) had the most claimed slices.</li>

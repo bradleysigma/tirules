@@ -48,6 +48,7 @@
 <h1>Voidwatch <sub>(Technology)</sub></h1>
     <ol class="note">
     <li>The active player chooses which promissory note they give the Empyrean player.</li>
+    <li>Giving a promissory note because of <i>Voidwatch</i> is not resolving a transaction.</li>
     </ol>
 
 <h1>Dynamo <sub>(Flagship)</sub></h1>

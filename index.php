@@ -26,8 +26,11 @@
 <p><strong>This is a work in progress.</strong></p>
 <p>This website contains the rules for Fantasy Flight&rsquo;s fourth edition of <i>Twilight Imperium</i>.</p>
 <p>Also available are various notes on those rules, based on rules found in other sections, rulings from Dane Beltrami and/or Fantasy Flight, or community consensus.</p>
-<p>All information on this website is based off of v2.0 of the Living Rules Reference, released November 2020. This includes the <i>Prophecy of Kings</i> expansion. Notes are also available for the Codices, up to and including the Codex III, released April 2022.</p>
+<p>All information on this website is based off of v2.0 of the Living Rules Reference, released November 2020. 
+    This includes the <i>Prophecy of Kings</i> expansion. 
+    Notes are included for the Codices, up to and including Codex IV, released June 2025, and preliminary notes are also included for the <i>Thunder&rsquo;s Edge</i> expansion, released October 2025, pending the publication of a new Living Rules Reference.</p>
 <p>For more on <i>Twilight Imperium</i>, please see its <a href="https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/">page on the Fantasy Flight website.</a></p>
+<p style="font-family:lazax;">&ldquo;For as often as I reference (tirules.com), it's probably better than official&rdquo; - Dane Beltrami, TI4 Lead Designer.</p>
 <h1>Rule Topics</h1>
 <style>
 li.te:before

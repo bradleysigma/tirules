@@ -31,6 +31,7 @@
 <h1>The Galactic Council &mdash; Mecatol Rex</h1>
     <ol class="note">
     <li><i>The Galactic Council</i> cannot be exhausted by a player that has no unscored secret objective cards in their hand.</li>
+    <li>When using <i>The Galactic Council</i>, the active player first discards a secret objective, shuffling it into the secret objective deck. Then, they draw a secret objective. This may result in them drawing the secret objective they discarded.</li>
     </ol>
 
 <h1>Imperial Arms Vault &mdash; Hope&rsquo;s End</h1>
