@@ -1,0 +1,232 @@
+cards:
+- name: Antimass Deflectors
+  rules:
+    '1':
+      rule: The −1 applies to space cannon rolls during both the Space Cannon Offense
+        and Space Cannon Defense steps.
+- name: Dark Energy Tap
+  rules:
+    '1':
+      rule: A ship may be moved into the system containing the frontier token during
+        the same action that it is explored.
+    '2':
+      rule: Exploring the frontier token happens at the end of the tactical action.
+        Notably, this is after the Space Cannon Offense and/or Space Combat steps.
+    '3':
+      rule: A player cannot use Dark Energy Tap to retreat into a system that contains
+        another player’s units, including ground forces and structures on planets.
+- name: Gravity Drive
+- name: Sling Relay
+  rules:
+    '1':
+      rule: The produced unit must be paid for.
+    '2':
+      rule: Sling Relay cannot be used without producing a unit.
+- name: Fleet Logistics
+  rules:
+    '1':
+      rule: Effects that trigger at the start or end of a player’s turn will not trigger
+        between each of those player’s actions.
+    '2':
+      rule: A player may use the ability of Fleet Logistics the same turn they gain
+        it.
+- name: Light/Wave Deflector
+- name: Neural Motivator
+  rules:
+    '1':
+      rule: Neural Motivator does not apply when a player draws action cards from
+        either of the abilities of the Politics action card, or any other effect outside
+        of the status phase.
+    '2':
+      rule: Neural Motivator only applies to the Draw Action Card step of the status
+        phase. It does not apply when a player draws action cards due to the effect
+        of the Minister of Policy law or similar effects.
+- name: Psychoarchaeology
+  rules:
+    '1':
+      rule: When researching a technology, each planet with a technology speciality
+        can only be used to ignore a single prerequisite.
+    '2':
+      rule: Exhausting planets to gain trade goods can be done at any time during
+        action phase, except when another ability is being resolved. For example,
+        if a player has one of their planets with a technology specialty targeted
+        with the Uprising action card, they cannot use Psychoarchaeology in response
+        to gain a trade good.
+    '3':
+      rule: If multiple planets are exhausted, the trade goods are gained one at a
+        time.
+- name: Dacxive Animators
+- name: Bio–Stims
+- name: Hyper Metabolism
+- name: X–89 Bacterial Weapon
+- name: X–89 Bacterial Weapon Ω
+  rules:
+    '1':
+      rule: X–89 Bacterial Weapon Ω may be used against each planet in a system, if
+        the conditions are met.
+    '2':
+      rule: X–89 Bacterial Weapon Ω will trigger only after all bombardment hits have
+        been assigned.
+    '3':
+      rule: The L1Z1X may use X–89 Bacterial Weapon Ω after they use their Harrow
+        faction ability.
+- name: Plasma Scoring
+  rules:
+    '1':
+      rule: Only one additional dice is rolled for each bombardment or space cannon
+        roll, regardless of how many units are using that ability.
+      subrules:
+        '1.1':
+          rule: During an invasion in a system with multiple planets, only one unit
+            will add a dice to its bombardment roll.
+        '1.2':
+          rule: During an invasion, if ground forces have been committed to multiple
+            planets, Plasma Scoring will add an additional dice to the space cannon
+            rolls for each planet during the Space Cannon Defense step.
+- name: AI Development Algorithm
+  rules:
+    '1':
+      rule: When exhausted, a prerequisite will be ignored, and AI Development Algorithm
+        will still count towards meeting a warfare technology (red) prerequisite.
+      subrules:
+        '1.1':
+          rule: For example, AI Development Algorithm alone may be used to research
+            the Destroyer II unit upgrade.
+- name: Magen Defense Grid
+  rules:
+    '1':
+      rule: Magen Defense Grid cannot be used if all of a player’s units in combat
+        that had the Planetary Shield ability have lost it.
+- name: Magen Defense Grid Ω
+  rules:
+    '1':
+      rule: The player with Magen Defense Grid Ω chooses which ground force the hit
+        is assigned to.
+    '2':
+      rule: The chosen ground force may cancel the hit by using its Sustain Damage
+        ability, if present. A different ground force with the Sustain Damage ability
+        cannot do so.
+    '3':
+      rule: If the last of a player’s ground forces in a ground combat are destroyed
+        by the effect of Magen Defense Grid Ω, that player loses the combat immediately.
+        They will be unable to use any “start of combat” abilities.
+- name: Self–Assembly Routines
+  rules:
+    '1':
+      rule: If multiple mechs are destroyed, the trade goods are gained one at a time.
+    '2':
+      rule: A mech cannot be placed in a space area with Self–Assembly Routines, and
+        so cannot be placed in a system that does not contain a planet.
+    '3':
+      rule: If a player wishes to place a mech, but there are none left in their reinforcements,
+        they may remove a mech from any system that does not contain one of their
+        command tokens and place that instead. The mech will be placed undamaged.
+    '4':
+      rule: A player will still gain the trade good for a destroyed mech if Self–Assembly
+        Routines is exhausted.
+- name: Duranium Armor
+  rules:
+    '1':
+      rule: A player must mandatorily repair a unit with Duranium Armor during each
+        round of combat, if possible.
+    '2':
+      rule: Duranium Armor is used even if a player’s opponent produced no hits during
+        a round of combat.
+    '3':
+      rule: If a player starts a combat with a damaged unit, they use Duranium Armor
+        in the first round of combat.
+      subrules:
+        '3.1':
+          rule: A player may use Duranium Armor to repair a unit damaged by Space
+            Cannon or Bombardment hits that occurred immediately before the combat.
+    '4':
+      rule: If a unit is damaged during combat without using its Sustain Damage ability,
+        it may be repaired by Duranium Armor during the same combat round.
+    '5':
+      rule: Only units participating in the combat may be chosen to be repaired.
+- name: Assault Cannon
+  rules:
+    '1':
+      rule: A player with Assault Cannon must mandatorily resolve its ability if they
+        meet the requirement.
+    '2':
+      rule: If a player loses ships before they can resolve the Assault Cannon ability,
+        they will be unable to resolve it if they no longer have three or more non–fighter
+        ships.
+      subrules:
+        '2.1':
+          rule: This will most commonly happen when both players in a combat have
+            Assault Cannon, and the defender has exactly three non–fighter ships.
+        '2.2':
+          rule: Examples of other abilities that may remove units at the start of
+            a space combat include the Creuss player’s Dimensional Splicer faction
+            technology ability, the Mentak player’s Ambush faction ability, the Yin
+            player’s Impulse Core faction technology ability, as well as abilities
+            such as the Courageous to the End action card or the Reflective Shielding
+            action card that may trigger off of any of the previous abilities.
+    '3':
+      rule: A player may use an ability to add ships at the start of combat. If this
+        brings the number of non–fighter ships to three or more, the player may then
+        use the ability of Assault Cannon.
+      subrules:
+        '3.1':
+          rule: "Each other player may use one ability after that player has gained
+            ships, and before that player has the opportunity to use the Assault Cannon
+            ability. This may prevent that player from using the ability, as above.\n\
+            \        Examples of abilities that may add units at the start of space
+            combat include a combination of the Mentak player’s Sleeper Cell hero
+            ability and their Ambush faction ability, the ability of the Nekro player’s
+            flagship, The Alastor, and the Naaz–Rokha player’ Eidolon mech ability.\n"
+    '4':
+      rule: Effects that cancel hits, such as Sustain Damage, cannot be used to prevent
+        ships from being destroyed.
+- name: Sarween Tools
+  rules:
+    '1':
+      rule: If units are produced without any unit using its Production ability, Sarween
+        Tools will not provide a reduction to the cost.
+- name: Scanlink Drone Network
+  rules:
+    '1':
+      rule: The units must be on the planet before the Movement step of the tactical
+        action.
+- name: Graviton Laser System
+  rules:
+    '1':
+      rule: If multiple players are resolving the Space Cannon ability of their units
+        against the active player, the active player must resolve capacity limits
+        after assigning one player’s hits and before the next player makes their space
+        cannon roll.
+- name: Predictive Intelligence
+  rules:
+    '1':
+      rule: Neither ability of Predictive Intelligence may be used if it is exhausted.
+    '2':
+      rule: If a player removes any tokens from their fleet pool, they will need to
+        meet their new fleet pool limits before any other effects may resolve.
+- name: Transit Diodes
+  rules:
+    '1':
+      rule: When resolving the ability of Transit Diodes, that player may remove ground
+        forces from a system containing their command token.
+    '2':
+      rule: The ground forces may be removed from on a planet or from in a space area.
+    '3':
+      rule: The ground forces may be removed from different systems.
+    '4':
+      rule: The ground forces may be placed on different planets.
+    '5':
+      rule: If a mech is damaged when it is removed, it will remain damaged when it
+        is placed.
+- name: Integrated Economy
+  rules:
+    '1':
+      rule: The produced units must be paid for.
+    '2':
+      rule: There is no limit on the number of units produced, so long as the combined
+        cost does not exceed the planet’s resource value.
+    '3':
+      rule: Two fighters or two infantry have a combined cost of one resource.
+    '4':
+      rule: A player may produce ships with Integrated Economy, unless another player
+        has ships in the space area of that planet’s system.

@@ -1,0 +1,26 @@
+cards:
+- name: Rules Reference
+  rules:
+    '12.1':
+      rule: To attach a card to a planet card, a player places the card with the attach
+        effect partially underneath the planet card.
+    '12.2':
+      rule: If a player gains or loses control of planet that contains a card with
+        an attach effect, the attached card stays with that planet.
+      subrules:
+        12.2.1:
+          rule: The attached card maintains its exhausted or readied state.
+        12.2.2:
+          rule: If a planet card is purged, also purge all cards that are attached
+            to that planet card and remove the corresponding attachment tokens from
+            the game board.
+    '12.3':
+      rule: When a card is attached to a planet card, place the corresponding attachment
+        token on that planet on the game board.
+- name: Notes
+  rules:
+    '1':
+      rule: There is no limit on how many attachments a single planet may have.
+    '2':
+      rule: The Custodians Token is not an attachment.
+- name: Related Topics

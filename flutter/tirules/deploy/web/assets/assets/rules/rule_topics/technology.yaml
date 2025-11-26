@@ -1,0 +1,129 @@
+cards:
+- name: Rules Reference
+  rules:
+    '90.1':
+      rule: Each player places any technology they have gained faceup near their faction
+        sheet. For the duration of the game, they own any technology cards they gain
+        and can use the abilities on those cards.
+    '90.10':
+      rule: A player cannot research a faction technology that does not match their
+        faction.
+    '90.11':
+      rule: When researching technology, a player must satisfy each of a technology’s
+        prerequisites to research it. To satisfy a technology’s prerequisites, that
+        player must own one technology of the matching color for each prerequisite
+        symbol on the technology card they wish to research.
+      subrules:
+        90.11.1:
+          rule: Prerequisites symbols are displayed as symbols on the lower–left corner
+            of the card.
+        90.11.2:
+          rule: Unit upgrade technologies do not have a color and do not satisfy prerequisites.
+        90.11.3:
+          rule: Players may use certain abilities or technology specialties to ignore
+            some prerequisites.
+    '90.12':
+      rule: When researching technology, a player can exhaust a planet they control
+        that has a technology specialty to ignore one prerequisite symbol of the matching
+        type on the technology card they are researching.
+    '90.13':
+      rule: If the planet card is already exhausted, it cannot be used to ignore a
+        prerequisite.
+    '90.14':
+      rule: Basic units printed on faction sheets are not technologies and are not
+        eligible targets for Valefar Assimilator.
+    '90.15':
+      rule: If a player becomes eliminated while one of their technologies has a Valefar
+        Assimilator token on it, the Nekro Virus player places that technology in
+        their play area; it is not removed from the game.
+    '90.16':
+      rule: If a Valefar Assimilator token is removed from the Saar Floating Factory
+        unit upgrade, each of the Nekro Virus’ space docks must be placed on an eligible
+        planet they control in that space dock’s system, or the space dock is returned
+        to their reinforcements.
+    '90.17':
+      rule: If a Valefar Assimilator token is removed from a war sun unit upgrade
+        and the Nekro Virus player does not have the standard war sun unit upgrade,
+        each of the Nekro Virus player’s war suns are returned to their reinforcements.
+    '90.18':
+      rule: The Nekro Virus player may upgrade their units with units of the same
+        type (e.g., “dreadnought” or “infantry”) even if those unit’s names do not
+        match. If the Nekro Virus gains a unit upgrade technology of the same unit
+        type as a unit upgrade technology they already have, the previous upgrade
+        is removed, and they must use the same Valefar Assimilator token that was
+        used to copy the previous upgrade.
+    '90.19':
+      rule: When a Valefar Assimilator token is on a technology, that technology’s
+        color and type count toward objectives.
+    '90.2':
+      rule: A player does not own any technology card that is in their technology
+        deck.
+    '90.3':
+      rule: A player can gain a technology card from their technology deck by researching
+        technology.
+      subrules:
+        90.3.1:
+          rule: Both the primary and secondary abilities of the Technology strategy
+            card allow a player to research a technology.
+    '90.4':
+      rule: Any technology card that a player has not gained remains in their technology
+        deck. A player can look through their technology deck at any time.
+    '90.5':
+      rule: If an ability instructs a player to gain a technology, they do not research
+        it; they take it from their technology deck and place it in their play area,
+        ignoring prerequisites.
+    '90.6':
+      rule: Some technologies are unit upgrades. Unit upgrades share a name with a
+        unit that is printed on a player’s faction sheet.
+      subrules:
+        90.6.1:
+          rule: Players place any unit upgrades they gain faceup on their faction
+            sheets, covering the unit that shares a name with that upgrade card.
+    '90.7':
+      rule: Each technology that is not a unit upgrade has a colored symbol displayed
+        in the lower–right corner of the card and on its card back that indicates
+        that technology’s color.
+      subrules:
+        90.7.1:
+          rule: A technology’s color has no inherent game effect; however, each technology
+            a player owns can satisfy a prerequisite of a matching color when researching
+            other technology.
+        90.7.2:
+          rule: Unit upgrades do not have a color and do not satisfy prerequisites.
+        90.7.3:
+          rule: There are four colors of technologies. See your rulebook for images.
+    '90.8':
+      rule: Most technology cards have a column of colored symbols displayed in the
+        lower–left corner of the card. Each symbol in this column is a prerequisite.
+      subrules:
+        90.8.1:
+          rule: A technology card’s prerequisites indicate the number and color of
+            technologies a player must own to research that technology card.
+    '90.9':
+      rule: To research technology, a player gains that technology card from their
+        technology deck and places it in their play area near their faction sheet.
+      subrules:
+        90.9.1:
+          rule: Players place any unit upgrades they gain faceup on their faction
+            sheets, covering the unit that shares a name with that upgrade card.
+- name: Notes
+  rules:
+    '1':
+      rule: If a player is instructed to research a technology by any game effect,
+        that player must meet the prerequisites for the technology they research.
+    '2':
+      rule: If a player is instructed to gain a technology, that player does not have
+        to meet the prerequisites, although most game effects that do this will specify
+        what technologies may be gained by that effect.
+    '3':
+      rule: If a player is playing a faction with a faction–specific unit upgrade,
+        they cannot research the generic upgrade for that unit type.
+    '4':
+      rule: For notes about specific generic technologies, see the technology notes
+        page.
+    '5':
+      rule: For notes about specific generic unit upgrades, see the unit notes page.
+    '6':
+      rule: For notes about a technologies of a specific faction, see that faction’s
+        notes page.
+- name: Related Topics

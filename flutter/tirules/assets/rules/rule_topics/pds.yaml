@@ -1,0 +1,22 @@
+cards:
+- name: Rules Reference
+  rules:
+    '63.1':
+      rule: Each PDS has the Space Cannon ability.
+    '63.2':
+      rule: The primary way by which players acquire PDS units is by resolving either
+        the primary or secondary ability of the Construction strategy card.
+    '63.3':
+      rule: A PDS unit is placed on a planet. Each planet can have a maximum of two
+        PDS units.
+    '63.4':
+      rule: If a player’s PDS is ever on a planet that does not contain any of their
+        own ground forces and contains a unit that belongs to another player, that
+        PDS is destroyed.
+- name: Notes
+  rules:
+    '1':
+      rule: A PDS is both a structure and a unit.
+    '2':
+      rule: Each PDS also has the Planetary Shield ability.
+- name: Related Topics

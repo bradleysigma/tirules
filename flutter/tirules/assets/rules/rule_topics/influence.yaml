@@ -1,0 +1,15 @@
+cards:
+- name: Rules Reference
+  rules:
+    '47.1':
+      rule: A planet’s influence is the rightmost value (surrounded by a blue border)
+        found on the planet’s system tile and planet card.
+    '47.2':
+      rule: A player can spend a planet’s influence by exhausting that planet’s card.
+    '47.3':
+      rule: A player can spend a trade good as if it were one influence.
+      subrules:
+        47.3.1:
+          rule: Players cannot spend trade goods to cast votes during the agenda phase.
+- name: Notes
+- name: Related Topics

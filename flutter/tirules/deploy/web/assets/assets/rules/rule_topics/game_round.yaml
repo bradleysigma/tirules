@@ -1,0 +1,22 @@
+cards:
+- name: Rules Reference
+  rules:
+    '40.1':
+      rule: Players skip the agenda phase during the early portion of each game. After
+        the custodians token is removed from Mecatol Rex, the agenda phase is added
+        to each game round.
+    '40.2':
+      rule: Player turns occur during the action phase.
+    '40.3':
+      rule: Abilities that last until the end of a player’s turn do not persist for
+        the duration of a game round or into the other phases of that game round.
+        Those effects end at the end of that player’s turn, before the next player’s
+        turn begins.
+- name: Notes
+  rules:
+    '1':
+      rule: During the strategy, status and agenda phases, players to not take turns
+        for the purpose of game effects.
+    '2':
+      rule: A game has a maximum of nine game rounds.
+- name: Related Topics

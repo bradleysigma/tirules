@@ -1,0 +1,14 @@
+cards:
+- name: Rules Reference
+  rules:
+    '11.1':
+      rule: A ship cannot move through or into an asteroid field.
+- name: Notes
+  rules:
+    '1':
+      rule: A player with the Antimass Deflectors technology may move their ships
+        through asteroid fields.
+    '2':
+      rule: A future rule change will place the ship movement restrictions of anomalies
+        upon all units.
+- name: Related Topics

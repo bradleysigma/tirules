@@ -1,0 +1,30 @@
+cards:
+- name: Rules Reference
+  rules:
+    '4.1':
+      rule: During the action phase, the player who is first in initiative order is
+        the first active player.
+    '4.2':
+      rule: After the active player takes a turn, the next player in initiative order
+        becomes the active player.
+    '4.3':
+      rule: After the last player in initiative order takes a turn, the player who
+        is first in initiative order becomes the active player again, and turns begin
+        again in initiative order, ignoring any players who have already passed.
+- name: Notes
+  rules:
+    '1':
+      rule: During the strategy, status and agenda phases, no player is the active
+        player.
+    '2':
+      rule: During combat, the active player is the attacker.
+    '3':
+      rule: The active player will have the first opportunity to resolve abilities
+        during each timing window.
+    '4':
+      rule: All transactions during the action phase must involve the active player.
+    '5':
+      rule: If a non–active player produces hits using the Space Cannon Offense ability
+        of one of their units, those hits must be assigned to the active player’s
+        units.
+- name: Related Topics

@@ -1,0 +1,137 @@
+Component Notes:
+  Action Cards: C_action_cards.php
+  Agendas: C_agendas.php
+  Exploration Cards: C_exploration_cards.php
+  Objectives: C_objectives.php
+  Promissory Notes: C_promissory_notes.php
+  Relics: C_relics.php
+  Technology: C_technology.php
+  Units: C_units.php
+Faction Notes:
+  "Sardakk N\u2019orr": F_norr.php
+  The Arborec: F_arborec.php
+  The Argent Flight: F_argent.php
+  The Barony of Letnev: F_letnev.php
+  The Clan of Saar: F_saar.php
+  The Council Keleres: F_keleres.php
+  The Embers of Muaat: F_muaat.php
+  The Emirates of Hacan: F_hacan.php
+  The Empyrean: F_empyrean.php
+  The Federation of Sol: F_sol.php
+  The Ghosts of Creuss: F_creuss.php
+  The L1Z1X Mindnet: F_lizix.php
+  "The Mahact Gene\u2013Sorcerers": F_mahact.php
+  The Mentak Coalition: F_mentak.php
+  The Naalu Collective: F_naalu.php
+  "The Naaz\u2013Rokha Alliance": F_naaz_rokha.php
+  The Nekro Virus: F_nekro.php
+  The Nomad: F_nomad.php
+  The Titans of Ul: F_ul.php
+  "The Universities of Jol\u2013Nar": F_jol_nar.php
+  "The Vuil\u2019raith Cabal": F_vuilraith.php
+  The Winnu: F_winnu.php
+  The Xxcha Kingdom: F_xxcha.php
+  The Yin Brotherhood: F_yin.php
+  The Yssaril Tribes: F_yssaril.php
+Rule Topics:
+  Abilities: R_abilities.php
+  Action Cards: R_action_cards.php
+  Action Phase: R_action_phase.php
+  Active Player: R_active_player.php
+  Active System: R_active_system.php
+  Adjacency: R_adjacency.php
+  Agenda Card: R_agenda_card.php
+  Agenda Phase: R_agenda_phase.php
+  Anomalies: R_anomalies.php
+  "Anti\u2013Fighter Barrage": R_anti_fighter_barrage.php
+  Asteroid Field: R_asteroid_field.php
+  Attach: R_attach.php
+  Attacker: R_attacker.php
+  Blockaded: R_blockaded.php
+  Bombardment: R_bombardment.php
+  Capacity: R_capacity.php
+  Capture: R_capture.php
+  Combat: R_combat.php
+  Command Sheet: R_command_sheet.php
+  Command Tokens: R_command_tokens.php
+  Commodities: R_commodities.php
+  Component Action: R_component_action.php
+  Component Limitations: R_component_limitations.php
+  Construction: R_construction.php
+  Control: R_control.php
+  Cost: R_cost.php
+  Custodians Token: R_custodians_token.php
+  Deals: R_deals.php
+  Defender: R_defender.php
+  Deploy: R_deploy.php
+  Destroyed: R_destroyed.php
+  Diplomacy: R_diplomacy.php
+  Elimination: R_elimination.php
+  Exhausted: R_exhausted.php
+  Exploration: R_exploration.php
+  Fighter Tokens: R_fighter_tokens.php
+  Fleet Pool: R_fleet_pool.php
+  Frontier Tokens: R_frontier_tokens.php
+  Game Board: R_game_board.php
+  Game Round: R_game_round.php
+  Gravity Rift: R_gravity_rift.php
+  Ground Combat: R_ground_combat.php
+  Ground Forces: R_ground_forces.php
+  Hyperlanes: R_hyperlanes.php
+  Imperial: R_imperial.php
+  Infantry Tokens: R_infantry_tokens.php
+  Influence: R_influence.php
+  Initiative Order: R_initiative_order.php
+  Invasion: R_invasion.php
+  Leader Sheet: R_leader_sheet.php
+  Leaders: R_leaders.php
+  Leadership: R_leadership.php
+  Legendary Planets: R_legendary_planets.php
+  Mecatol Rex: R_mecatol_rex.php
+  Mechs: R_mechs.php
+  Modifiers: R_modifiers.php
+  Move: R_move.php
+  Movement: R_movement.php
+  Nebula: R_nebula.php
+  Neighbors: R_neighbors.php
+  Objective Cards: R_objective_cards.php
+  Opponent: R_opponent.php
+  PDS: R_pds.php
+  Planetary Shield: R_planetary_shield.php
+  Planets: R_planets.php
+  Politics: R_politics.php
+  Producing Units: R_producing_units.php
+  Production: R_production.php
+  Promissory Notes: R_promissory_notes.php
+  Purge: R_purge.php
+  Readied: R_readied.php
+  Reinforcements: R_reinforcements.php
+  Relics: R_relics.php
+  Rerolls: R_rerolls.php
+  Resources: R_resources.php
+  Ships: R_ships.php
+  Space Cannon: R_space_cannon.php
+  Space Combat: R_space_combat.php
+  Space Dock: R_space_dock.php
+  Speaker: R_speaker.php
+  Status Phase: R_status_phase.php
+  Strategic Action: R_strategic_action.php
+  Strategy Card: R_strategy_card.php
+  Strategy Phase: R_strategy_phase.php
+  Structures: R_structures.php
+  Supernova: R_supernova.php
+  Sustain Damage: R_sustain_damage.php
+  System Tiles: R_system_tiles.php
+  Tactical Action: R_tactical_action.php
+  Technology: R_technology.php
+  Technology (S.C.): R_technology_sc.php
+  Trade: R_trade.php
+  Trade Goods: R_trade_goods.php
+  Transactions: R_transactions.php
+  Transport: R_transport.php
+  Unit Upgrades: R_unit_upgrades.php
+  Units: R_units.php
+  Victory Points: R_victory_points.php
+  Warfare: R_warfare.php
+  Wormhole Nexus: R_wormhole_nexus.php
+  Wormholes: R_wormholes.php

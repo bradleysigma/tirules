@@ -1,0 +1,36 @@
+cards:
+- name: Rules Reference
+  rules:
+    '79.1':
+      rule: Each space dock has a Production ability that indicates the number of
+        units it can produce.
+    '79.2':
+      rule: The primary way in which players acquire space docks is by resolving either
+        the primary or secondary abilities of the Construction strategy card.
+    '79.3':
+      rule: Space docks are placed on planets. Each planet can have a maximum of one
+        space dock.
+    '79.4':
+      rule: If a player’s space dock is ever on a planet that does not contain any
+        of their ground forces and contains a unit that belongs to another player,
+        that space dock is destroyed.
+      subrules:
+        79.4.1:
+          rule: The Clan of Saar’s Floating Factory faction–specific space dock is
+            destroyed when it is blockaded; that is to say, when it is in a system
+            with another player’s ships and none of the Clan of Saar’s ships.
+- name: Notes
+  rules:
+    '1':
+      rule: A Space Dock is both a structure and a unit.
+    '2':
+      rule: Fighters transported during movement remain assigned to the transporting
+        ship until movement is complete. They cannot be counted towards a space dock’s
+        allocation until after movement is complete.
+      subrules:
+        '2.1':
+          rule: If a player moves one of their units with capacity into a system,
+            transporting fighters, they cannot pick up ground forces from a planet
+            in that system with that ship by transferring those fighters to a space
+            dock in that system to free up capacity.
+- name: Related Topics

@@ -1,0 +1,60 @@
+cards:
+- name: Orbital Drop
+- name: Versatile
+- name: Military Support (Promissory Note)
+  rules:
+    '1':
+      rule: Military Support is played before the Sol player may use Orbital Drop.
+    '2':
+      rule: Military Support may be played the turn the Sol player passes.
+    '3':
+      rule: Military Support may be played when the Sol player has no command tokens
+        in their strategy pool.
+    '4':
+      rule: A player may receive Military Support in a transaction during the Sol
+        player’s turn. If received at the start of the Sol player’s turn, that player
+        may play it immediately.
+      subrules:
+        '4.1':
+          rule: The active player may perform a transaction with each other player
+            at most once per turn. As such, a player cannot receive Military Support
+            more than once per turn.
+        '4.2':
+          rule: If a player received Military Support on a previous turn, they may
+            play it at the start of the Sol player’s turn, and immediately perform
+            a transaction with the Sol player to regain it. However, Military Support
+            cannot be played twice in one timing window. The active player cannot
+            play Military Support again until the Sol player’s next turn.
+- name: Advanced Carrier (Unit)
+- name: Spec Ops (Unit)
+- name: Genesis (Flagship)
+  rules:
+    '1':
+      rule: Placing the infantry during the status phase is mandatory. After, the
+        Sol player might need to remove an infantry or fighter to meet capacity limits.
+- name: Evelyn DeLouis (Agent)
+  rules:
+    '1':
+      rule: This ability only applies to combat rolls.
+      subrules:
+        '1.1':
+          rule: This ability does not allow one of the L1Z1X player’s Annihilator
+            mechs to roll an additional Bombardment dice when resolving their Harrow
+            ability.
+- name: Claire Gibson (Commander)
+  rules:
+    '1':
+      rule: If an invasion involves ground combat on multiple planets, an infantry
+        will be placed on each.
+    '2':
+      rule: If the Sol player has no ground forces on a planet they control, ground
+        combat will not occur, and so they cannot place an infantry on that planet.
+        This includes if they lose the last of their ground forces during the Bombardment
+        step of the invasion.
+    '3':
+      rule: The start of ground combat occurs after the Space Cannon Defense step.
+        If all of the ground forces committed to a planet are destroyed in that step,
+        then the ground combat will be skipped on that planet, and this ability will
+        not trigger.
+- name: Jace X — Helio Command Array (Hero)
+- name: ZS Thunderbolt M2 (Mech)

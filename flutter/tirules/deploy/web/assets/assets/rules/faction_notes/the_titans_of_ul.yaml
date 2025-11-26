@@ -1,0 +1,128 @@
+cards:
+- name: Terragenesis
+- name: 'Awaken '
+  rules:
+    '1':
+      rule: Only sleeper tokens present in the system when it is activated may be
+        replaced with PDS.
+    '2':
+      rule: A sleeper token that is placed during the Activation step, most commonly
+        by using the Scanlink Drone Network technology and the Terragenesis ability,
+        cannot be replaced via the Awaken ability during the same tactical action.
+    '3':
+      rule: If the Ul player wishes to place a PDS, but there are none left in their
+        reinforcements, they may remove a PDS from any system that does not contain
+        one of their command tokens and place that instead. The PDS will be placed
+        undamaged.
+    '4':
+      rule: If the Ul player places a PDS on a planet controlled by another player,
+        and that player does not have any ground forces on that planet, the Ul player
+        will destroy all of the other player’s structures, and gain control of that
+        planet immediately. If the other player has ground forces, then a ground combat
+        will be resolved during the Invasion step of the tactical action.
+- name: 'Coalescence '
+  rules:
+    '1':
+      rule: Units placed on planets via the Awaken ability are not committed. They
+        cannot be assigned hits during the Space Cannon Defense step.
+    '2':
+      rule: If the Ul player’s units exist in the same location as another player’s
+        units, no game effect can prevent the combat from occuring, including effects
+        that end the Ul player’s turn.
+    '3':
+      rule: If another player plays the Ul player’s Ceasefire promissory note, the
+        Ul player may still place units into the active system using their flagship
+        or Awaken ability.
+    '4':
+      rule: Only the active player may use the Bombardment ability of their units
+        during an invasion. As such, any ships in the active system will be unable
+        to use their Bombardment ability during the Ul player’s turn, unless they
+        belong to the Ul player.
+      subrules:
+        '4.1':
+          rule: This prevents the L1Z1X player from using their Harrow ability.
+- name: Terraform (Promissory Note)
+  rules:
+    '1':
+      rule: Once played, Terraform is never returned to the Ul player.
+    '2':
+      rule: Once played, Terraform counts as being in the play area of the player
+        who controls the planet.
+    '3':
+      rule: If a planet has multiple traits, the player exploring the planet chooses
+        which of the corresponding exploration decks to draw from.
+- name: Hel–Titan (Unit)
+  rules:
+    '1':
+      rule: The Ul player cannot use the secondary ability of the Warfare strategy
+        card to use the Production ability of a Hel–Titan.
+    '2':
+      rule: When multiple units use their Production ability, the Production value
+        is pooled. As such, if the Ul player has two Hel–Titans in a system, they
+        may produce two infantry or two fighters for one resource, rather than two
+        resources.
+    '3':
+      rule: Effects that remove ground forces, and then place them on the game board
+        without transporting them, such as the Decoy Operation action card or the
+        Transit Diodes technology, may be used on a Hel–Titan.
+    '4':
+      rule: Effects that move ground forces, such as the Ghost Squad action card or
+        the ability of the N’orr player’s commander, G’hom Sek’kus, (via the Alliance
+        promissory note), cannot be used to move a Hel–Titan to another planet.
+    '5':
+      rule: If a player is able to ignore Planetary Shield, then Hel–Titan are eligible
+        units to assign any hits produced by a bombardment roll.
+- name: Saturn Engine (Unit)
+- name: Ouranos (Flagship)
+  rules:
+    '1':
+      rule: Only PDS present in the system when it is activated may be replaced with
+        the Ouranos.
+    '2':
+      rule: A PDS that is placed during the activation step, most commonly by using
+        the Awaken ability, cannot be replaced with the Ouranos during the same tactical
+        action.
+- name: Tellurian (Agent)
+  rules:
+    '1':
+      rule: Cancelling a hit cannot be used to stop an effect that directly destroys
+        a unit.
+- name: Tungstantus (Commander)
+  rules:
+    '1':
+      rule: The trade good may be spent on the units produced by the Production ability
+        that triggered Tungstantus.
+      subrules:
+        '1.1':
+          rule: The trade good may be spent as it is gained. The number of trade goods
+            the Ul player has after producing units is used to determine if the Mentak
+            player may use their Pillage ability.
+        '1.2':
+          rule: A trade good will not be gained unless at least one unit is produced.
+    '2':
+      rule: Other effects that produce units without a unit using its Production ability
+        will not trigger Tungstantus.
+- name: Ul the Progenitor — Geoform (Hero)
+  rules:
+    '1':
+      rule: The Space Cannon ability is controlled by whichever player controls Elysium.
+- name: Hecatoncheires (Mech)
+  rules:
+    '1':
+      rule: When the Ul player would place multiple PDS during a single step, they
+        may resolve a Deploy ability to place one Hecatoncheires for any or all of
+        those PDS.
+    '2':
+      rule: A Deploy ability may only be resolved for units in a player’s reinforcements.
+        If all four of the Hecatoncheires are already on the board, no Hecatoncheires
+        may be deployed.
+    '3':
+      rule: The Ul player cannot place a PDS on a planet that already has two of their
+        PDS on it. As such, they are unable to place a Hecatoncheires on a planet
+        with two of their PDS using its Deploy ability.
+    '4':
+      rule: The Ul player must have at least one PDS in their reinforcements to place
+        in order to use the Deploy ability of a Hecatoncheires. However, when they
+        would place a PDS, they may remove a PDS from any system that does not contain
+        one of their command tokens and put it in their reinforcements. They may then
+        use the Deploy ability of a Hecatoncheires.

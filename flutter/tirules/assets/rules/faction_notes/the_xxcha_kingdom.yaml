@@ -1,0 +1,201 @@
+cards:
+- name: Peace Accords
+  rules:
+    '1':
+      rule: A planet is adjacent to both the system it is in, and every system adjacent
+        to that.
+    '2':
+      rule: If the planet was uncontrolled, the Xxcha player explores it.
+    '3':
+      rule: The planet is gained exhausted.
+- name: Quash
+  rules:
+    '1':
+      rule: Quash, Political Favor, the Political Secret promissory note, and the
+        Veto action card are all played in the same timing window, before the rider
+        timing window.
+      subrules:
+        '1.1':
+          rule: If Quash is used after any Political Secret promissory notes have
+            been played, those are immediately returned and will have no effect on
+            the replacement agenda.
+    '2':
+      rule: Each agenda is considered separate for the purpose of limiting each pair
+        of players to one transaction per agenda.
+    '3':
+      rule: Quash may be used on the replacement agenda.
+- name: Political Favor (Promissory Note)
+  rules:
+    '1':
+      rule: Quash, Political Favor, the Political Secret promissory note, and the
+        Veto action card are all played in the same timing window, before the rider
+        timing window.
+      subrules:
+        '1.1':
+          rule: If Political Favor is used after any Political Secret promissory notes
+            have been played, those are immediately returned and will have no effect
+            on the replacement agenda.
+    '2':
+      rule: If the Xxcha player has no command tokens in their strategy pool, Political
+        Favor cannot be played.
+    '3':
+      rule: Each agenda is considered separate for the purpose of limiting each pair
+        of players to one transaction per agenda.
+- name: Instinct Training (Technology)
+  rules:
+    '1':
+      rule: Instinct Training may cancel a Sabotage action card.
+- name: Nullification Field (Technology)
+  rules:
+    '1':
+      rule: Once the Xxcha player resolves the ability of Nullification Field, the
+        active player cannot use any “after you activate a system” abilities.
+      subrules:
+        '1.1':
+          rule: Other players, including the Xxcha player, cannot use any “after another
+            player activates a system that…” abilities.
+    '2':
+      rule: The active player may still use any “at the end of your turn” abilities.
+- name: Loncara Ssodu (Flagship)
+  rules:
+    '1':
+      rule: During the Space Cannon Offense supstep of a tactical action, the active
+        player resolves the Space Cannon abilities of their units first. If the Xxcha
+        player is not the active player, and the Loncara Ssodu is destroyed by another
+        player’s space cannon roll, it will not resolve its own Space Cannon ability.
+- name: Ggrocuto Rinn (Agent)
+  rules:
+    '1':
+      rule: A planet is adjacent to both the system it is in, and every system adjacent
+        to that.
+    '2':
+      rule: A planet must be exhausted to be targeted by Ggrocuto Rinn.
+- name: Elder Qanoj (Commander)
+  rules:
+    '1':
+      rule: A planet with zero influence may be used to cast one additional vote.
+    '2':
+      rule: The Xxcha player may play rider action cards and vote on the same agenda.
+    '3':
+      rule: The Xxcha player’s Political Secret promissory note will prevent them
+        from playing action cards or using their Quash ability, but will not prevent
+        them from voting.
+    '4':
+      rule: If the Nekro player has the Xxcha player’s Alliance promissory note, the
+        Nekro player may vote, without losing their ability to predict outcomes for
+        their Galactic Threat faction ability.
+    '5':
+      rule: Game effects may prevent the Xxcha player from casting additional votes.
+- name: Xxekir Grom — Political Data Nexus (Hero)
+  rules:
+    '1':
+      rule: If the Xxcha player draws one of the Classified Document Leaks, Judicial
+        Abolishment, Miscount Disclosed or New Constitution agendas, they will only
+        discard it (if required) and reveal a new one if they choose to reveal that
+        agenda.
+    '10':
+      rule: If an agenda would give multiple players a victory point, those players
+        gain that victory point in initiative order, regardless of the Xxcha player’s
+        initiative.
+    '11':
+      rule: Other players may still perform one transaction total with the Xxcha player
+        during this turn, if they are neighbors.
+    '12':
+      rule: If the Representative Government law is in play, it will have no effect
+        on the Xxcha player as they resolve Political Data Nexus.
+    '13':
+      rule: If a third law is put into play, the Dictate Policy objective cannot be
+        scored until the agenda phase.
+    '14':
+      rule: The Drive the Debate objective cannot be scored while resolving Political
+        Data Nexus.
+    '15':
+      rule: Effects from agenda outcomes that occur “at the end of this agenda phase”
+        are ignored.
+    '16':
+      rule: Effects from agenda outcomes that occur “at the start of the next strategy
+        phase” will still occur.
+    '2':
+      rule: If the Xxcha player draws the Covert Legislation agenda, they will only
+        draw a hidden agenda if they choose to reveal it. If the Xxcha player is not
+        the speaker, the speaker will view the hidden agenda, but the Xxcha player
+        will not see it until it is either discarded from Quash, or resolved.
+    '3':
+      rule: If the Xxcha player draws, reveals and resolves the Miscount Disclosed
+        agenda, they cast one vote for an outcome of the elected law, and resolve
+        it.
+    '4':
+      rule: If the Xxcha player draws, reveals and resolves the Public Execution agenda,
+        the elected player may still vote in the agenda phase following the current
+        action phase.
+    '5':
+      rule: When the Xxcha player chooses and reveals an agenda, they may then use
+        their Quash ability.
+    '6':
+      rule: After the Xxcha player chooses and reveals an agenda, they may play any
+        rider action cards on the revealed agenda.
+    '7':
+      rule: The Xxcha player chooses the order the two agendas are resolved.
+    '8':
+      rule: The two agendas are revealed before either is resolved.
+      subrules:
+        '8.1':
+          rule: The Xxcha player will resolve all abilities that trigger when or after
+            an agenda is revealed for the first agenda before revealing the second
+            agenda.
+    '9':
+      rule: When an agenda outcome with an immediate effect resolves, all players
+        resolve the effect.
+- name: Xxekir Grom — Political Data Nexus Ω(Hero)
+  rules:
+    '1':
+      rule: During the status phase, public and secret objectives are scored simultaneously.
+        The Xxcha player cannot score a public objective, unlock Xxekir Grom, and
+        then use Political Data Nexus Ω in order to score a secret objective, or vice
+        versa.
+    '2':
+      rule: The combined value may be spent as either influence or resources, not
+        both, and cannot be split between the two.
+      subrules:
+        '2.1':
+          rule: If the Xxcha player owns a planet with three influence and three resources,
+            they cannot score the Amass Wealth objective by exhausting it and spending
+            three trade goods.
+    '3':
+      rule: Political Data Nexus Ω only changes the spendable influence and resources.
+        It does not change the value for any other game effect.
+      subrules:
+        '3.1':
+          rule: A space dock will not add the influence of the planet it is on to
+            its Production value.
+        '3.2':
+          rule: The influence of a planet will not increase the number of units the
+            Xxcha player may produce when using the Integrated Economy technology.
+        '3.3':
+          rule: The resources of the planets the Xxcha player controls will not contribute
+            to unlocking Elder Qanoj.
+        '3.4':
+          rule: Political Data Nexus Ω does not apply when scoring the Establish Hegemony
+            or Hoard Raw Materials objectives.
+        '3.5':
+          rule: The Xxcha player will not add the influence of a planet when they
+            gain trade goods with the Mining Initiative action card. Other players
+            will not add the influence when they gain trade goods from the Uprising
+            action card if they choose to exhaust one of the Xxcha player’s planets.
+    '4':
+      rule: The resource value of a planet will be added to its influence value when
+        the Xxcha player casts votes during the agenda phase.
+- name: Indomitus (Mech)
+  rules:
+    '1':
+      rule: During the Space Cannon Offense supstep of a tactical action, the active
+        player resolves the Space Cannon abilities of their units first. If the Xxcha
+        player is not the active player, and their ships are removed by another player’s
+        space cannon roll, they must immediately remove units to meet their capacity
+        limit. They will not resolve the Space Cannon abilities of any of their removed
+        mechs.
+    '2':
+      rule: During the Space Cannon Defense substep of a tactical action, only non–active
+        players can use the Space Cannon ability of their units. The Xxcha player
+        cannot use the Space Cannon ability of their mechs immediately after committing
+        them to a planet against units owned by that planet’s controller.

@@ -1,0 +1,104 @@
+cards:
+- name: The Codex
+  rules:
+    '1':
+      rule: The action card discard is shuffled to form a new action card deck as
+        soon as the action card deck has zero cards in it.
+    '2':
+      rule: It is public knowledge which action cards a player takes using The Codex.
+- name: The Crown of Emphidia
+- name: The Crown of Thalnos
+  rules:
+    '1':
+      rule: A player may only reroll combat rolls with The Crown of Thalnos. They
+        cannot reroll anti–fighter barrage rolls and similar.
+    '2':
+      rule: If a unit rolls multiple combat dice, it will not be destroyed if it produces
+        at least one hit from its original roll, and that dice is not rerolled, even
+        if it produces no hits from its reroll.
+      subrules:
+        '2.1':
+          rule: For each unit that rolls multiple combat dice, the player with The
+            Crown of Thalnos should roll those unit’s dice separately from any other
+            combat dice.
+    '3':
+      rule: A reroll caused by any other effect will not cause a unit to be destroyed.
+    '4':
+      rule: Units destroyed by The Crown of Thalnos are destroyed at the end of the
+        Roll Dice step, before the Assign Hits step.
+    '5':
+      rule: A unit with the Sustain Damage ability cannot use it to avoid being destroyed
+        when it fails to produce a hit with the reroll from The Crown of Thalnos.
+- name: Dominus Orb
+- name: Dynamis Core
+  rules:
+    '1':
+      rule: If a player uses the purge ability of Dynamis Core, they will need to
+        return commodities if they now exceed their original commodity value.
+- name: JR–XS455–O
+  rules:
+    '1':
+      rule: JR-XS455-O is an agent. All rules that apply to agents (and leaders) apply
+        to JR-XS455-O.
+      subrules:
+        '1.1':
+          rule: JR-XS455-O may be refreshed by the Nomad player's Temporal Command
+            Suite technology.
+        '1.2':
+          rule: The ability of JR-XS455-O may be duplicated by the Yssaril player’s
+            agent, Ssruu, if the Yssaril player themselves do not own JR-XS455-O.
+- name: Maw of Worlds
+  rules:
+    '1':
+      rule: The player does not have to meet the prerequisites of the technologies
+        they acquire using Maw of Worlds.
+- name: Nanoforge
+  rules:
+    '1':
+      rule: The attached planet will not have a corresponding legendary planet ability
+        card. However, it will be legendary for effects such as scoring the Make History
+        and similar objectives, transferring the Shard of the Throne relic, and the
+        Winnu player's commander, Rickar Rickani. The attached planet will also no
+        longer be non–legendary for effects such as the Stellar Converter relic.
+- name: The Obsidian
+- name: The Prophet’s Tears
+  rules:
+    '1':
+      rule: A player cannot use the ability of The Prophet’s Tears when they directly
+        gain a technology.
+    '2':
+      rule: The Nekro player may use the ability of The Prophet’s Tears to draw an
+        action card when they would have researched a technology.
+- name: Scepter of Emelpar
+  rules:
+    '1':
+      rule: If a player has no command tokens in their reinforcements, they must use
+        a command token from their command sheet instead when they use the ability
+        of the Scepter of Emelpar.
+    '2':
+      rule: The Scepter of Emelpar may be used whenever a command token would be spent
+        from a player’s strategy pool. This includes when spending to perform the
+        secondary ability of a strategy card, for faction abilities, and when scoring
+        objectives.
+    '3':
+      rule: If the Muaat player uses the ability of the Scepter of Emelpar, they will
+        not gain a trade good from the ability of their commander, Magmus.
+- name: Shard of the Throne
+  rules:
+    '1':
+      rule: When the player that owns the Shard of the Throne loses control of a legendary
+        planet or a planet in their home system, they immediately give it to the player
+        who gained control of that planet. No abilities may be resolved before this.
+    '2':
+      rule: If the player that gains Shard of the Throne controls no legendary planets
+        or planets in their home system, they cannot lose it.
+- name: Stellar Converter
+  rules:
+    '1':
+      rule: The chosen planet must be in a system adjacent to the unit with bombardment;
+        the planet and unit cannot both be in the same system.
+    '2':
+      rule: A system that contains a planet destroyed by Stellar Converter, and no
+        other planets, is considered to contain no planets.
+    '3':
+      rule: A player cannot target a planet they control with Stellar Converter.
