@@ -33,6 +33,8 @@
 <h1>Last Dispatch <sub>(Flagship)</sub></h1>
     <ol class="note">
     <li>A unit with <sc>Sustain Damage</sc> cannot be destroyed, even if it is damaged.</li>
+    <ol><li>If a unit loses the <sc>Sustain Damage</sc> ability, such as a war sun by the effect of the <i>Publicize Weapon Schematics</i> agenda, then that unit may be destroyed with the ability of the <i>Last Dispatch</i>.</li></ol>
+    <li>The Ral Nel player chooses which ship is destroyed.</li>
     <li>If the Ral Nel player plays the <i>Skilled Retreat</i> action card, they cannot resolve the ability of the <i>Last Dispatch</i>.</li>
     </ol>
 

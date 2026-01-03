@@ -122,6 +122,7 @@
     <ol class="note">
     <li>The additional votes are not cast until the Keleres player casts votes normally.</li>
     <li>The Keleres player may vote for a different outcome than the one they predicted. If they do, they will gain one trade good and one command token.</li>
+    <li>The Keleres player will still receive the trade goods and command tokens if the agenda is discarded and resolved with no effect by the <i>Deadly Plot</i> action card.</li>
     </ol>
 
 <h1>Omniopiares <sub>(Mech)</sub></h1>

@@ -22,6 +22,7 @@
     <ol class="note">
     <li>If the Deepwrought player replaces the <i>Antimass Deflectors</i> technology, their units may remain in and move out of any asteroid fields they are currently in, but cannot move additional units into or through.</li>
     <li>The Deepwrought player may replace <i>Radical Advancement</i> itself for a biotic technology with two prerequisites.</li>
+    <li>If the Deepwrought player has the Nekro player&rsquo;s <i>Alliance</i> promissory note in their play area, they will not draw an action card from the ability of the Nekro Acidos commander when they resolve <i>Radical Advancement</i>.</li>
     </ol>
 
 <h1>D.W.S. Luminous <sub>(Flagship)</sub></h1>
@@ -34,6 +35,11 @@
 
 <h1>Aello <sub>(Commander)</sub></h1>
     <ol class="note">
+    <li>Say a player is researching a technology, and they use the ability of Doctor Carrina, which results in the Deepwrought player placing their first ocean into play, unlocking Aello. Should this happen, then the researching player will be unable to use Aello to pay for the resource cost of the researched technology.</li>
+    <ol>
+        <li>If this were to happen when the active player researches their first (zero resource cost) technology when resolving the primary ability of the <i>Technology</i> strategy card, they will be able to use Aello if/when they research their second (six resource cost) technology with that primary ability.</li>
+        <li>If this were to happen when any player researches a technology when resolving the primary or secondary ability of the <i>Technology</i> strategy card, the other players clockwise of that player will be able to use Aello if/when they research a technology with the secondary ability. The player that used Doctor Carrina, and any players widdershins of them, will be unable to use Aello during this strategic action.</li>
+    </ol>
     <li>The Deepwrought player does not have the capability to prevent other players from using the ability of Aello.</li>
     <li>Aello cannot be used reduce a cost paid with trade goods, influence, or any other currency.</li> 
     <li>If a player has the Deepwrought player&rsquo;s <i>Alliance</i> promissory note, then other players may use the ability of either or both (or neither):</li>

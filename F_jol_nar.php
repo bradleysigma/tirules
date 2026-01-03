@@ -66,6 +66,7 @@
     <li>The Jol&ndash;Nar player does not have to meet the prerequisites of the technologies they acquire.</li>
     <li>All replacements happen simultaneously. If this ability returns a specific technology, it cannot then be regained via this ability.</li>
     <li>If the Jol&ndash;Nar player later gains a technology they returned, they gain it readied.</li>
+    <li>If the Jol&ndash;Nar player has the Nekro player&rsquo;s <i>Alliance</i> promissory note in their play area, they will not draw any action cards from the ability of the Nekro Acidos commander when they resolve <i>Genetic Memory</i>.</li>
     </ol>
 
 <h1>Shield Paling <sub>(Mech)</sub></h1>

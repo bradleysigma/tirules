@@ -120,6 +120,7 @@
 <h1>Mindsieve <sub>(Breakthrough)</sub></h1>
     <ol class="note">
     <li>The Naalu player may only give promissory notes from their hand; they cannot give promissory notes that are in their play area.</li>
+    <li>Giving a promissory note because of <i>Mindsieve</i> is not resolving a transaction.</li>
     </ol>
 </article>
 <?php include "suffix.php"?>
