@@ -73,6 +73,7 @@
     <li>While retreating, a player cannot transport more fighters and/or ground forces than they have capacity in the retreating ships.</li>
     <li>Capacity is checked after the winner of a space combat is determined. As such, it is possible to win a space combat with only fighters remaining, before removing those fighters due to lack of capacity.</li>
     <li>The &ldquo;0&rdquo; side of the d10 represents a result of 10.</li>
+    <li>When a ship moves as part of a retreat, it can transport ground forces that are on planets in its system as normal.</li>
     </ol>
 
 <h1>Related Topics</h1>
