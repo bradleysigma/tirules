@@ -1,0 +1,109 @@
+cards:
+- name: Masters of Trade
+  rules:
+    '1':
+      rule: If the Hacan player has the Muaat player’s Alliance promissory note, they
+        will not gain a trade good from it when they use their Masters of Trade ability.
+- name: Guild Ships
+  rules:
+    '1':
+      rule: This ability does not make the Hacan player neighbors with all other players.
+    '2':
+      rule: Either player may initiate negotiations for a transaction.
+    '3':
+      rule: The Hacan player is still limited to one transaction with every other
+        player per turn.
+- name: Arbiters
+  rules:
+    '1':
+      rule: Any number of action cards may be traded.
+    '2':
+      rule: A player may receive action cards even if doing so would put them over
+        the seven action card hand limit. They must immediately discard down to seven
+        action cards in this case.
+    '3':
+      rule: If the Hacan player has more than seven action cards, they must immediately
+        discard down to seven action cards. They cannot trade away the excess.
+    '4':
+      rule: If the Hacan player has their Political Secret played during an agenda,
+        they may still trade action cards, as Arbiters is a passive ability.
+- name: Trade Convoys (Promissory Note)
+  rules:
+    '1':
+      rule: This ability does not make the player neighbors with all other players.
+    '2':
+      rule: Either player may initiate negotiations for a transaction.
+    '3':
+      rule: The player with Trade Convoys in play is still limited to one transaction
+        with every other player per turn.
+    '4':
+      rule: Trade Convoys has no effect while it is in a player’s hand.
+    '5':
+      rule: Trade Convoys is returned when the system is activated, even if the active
+        player will perform no hostile acts towards the Hacan player this turn.
+    '6':
+      rule: Activating a system containing only the Hacan player’s structures will
+        still cause Trade Convoys to be returned.
+    '7':
+      rule: If an effect other than activating a system during a tactical action places
+        a command counter in a system with the Hacan player’s units (for example,
+        the primary ability of the Diplomacy strategy card), this will not cause Trade
+        Convoys to be returned.
+- name: Production Biomes (Technology)
+- name: Quantum Datahub Node (Technology)
+  rules:
+    '1':
+      rule: If either strategy card had trade goods on it at the start of the strategy
+        phase, those trade goods remain with the player that originally chose the
+        strategy card.
+    '2':
+      rule: In a three– or four–player game, the Hacan player chooses which strategy
+        cards are swapped.
+    '3':
+      rule: The Hacan player must have three trade goods before they spend the command
+        token; they cannot use the Muaat player’s Alliance promissory note to gain
+        the third trade good.
+- name: Wrath of Kenara (Flagship)
+  rules:
+    '1':
+      rule: This ability may be triggered only once for each die rolled. The Hacan
+        player cannot spend two (or more) trade goods to apply +2 (or more) to a single
+        die, but they may spend two (or more) trade goods to apply +1 to each of two
+        (or more) dice.
+- name: Carth of Golden Sands (Agent)
+  rules:
+    '1':
+      rule: A player that has their maximum number of commodities may have their commodities
+        replenished. If this happens, they will take no commodities. However, they
+        will still trigger any “when [this] player replenishes commodities” effects,
+        most notably the Trade Agreement promissory note.
+    '2':
+      rule: The Hacan player cannot have more than six commodities.
+    '3':
+      rule: The ability of Carth of Golden Sands cannot be resolved while another
+        ability is resolving. For example, if the Hacan player is exploring an industrial
+        planet and has revealed the card, they cannot use the ability of Carth of
+        Golden Sands until after they resolve the card’s effect.
+- name: Gila the Silvertongue (Commander)
+  rules:
+    '1':
+      rule: Additional votes must be cast for the same outcome as the other votes
+        the Hacan player cast.
+      subrules:
+        '1.1':
+          rule: If the Hacan player abstains or otherwise casts zero votes, they cannot
+            cast additional votes.
+        '1.2':
+          rule: If another player has the Hacan player’s Alliance promissory note,
+            their additional votes must be cast for the same outcome they cast their
+            other votes for.
+- name: Harrugh Gefhara — Galactic Securities Net (Hero)
+  rules:
+    '1':
+      rule: Production limits still apply.
+- name: Pride of Kenara (Mech)
+  rules:
+    '1':
+      rule: Structures are also moved.
+    '2':
+      rule: The planet cannot be traded during combat.

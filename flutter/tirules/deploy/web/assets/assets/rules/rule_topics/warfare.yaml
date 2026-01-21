@@ -1,0 +1,24 @@
+cards:
+- name: Rules Reference
+  rules:
+    '99.1':
+      rule: 'Step 1: The active player removes any one of their command tokens from
+        the game board. Then, that player gains that command token by placing it in
+        a pool of their choice on their command sheet.'
+    '99.2':
+      rule: 'Step 2: The active player can redistribute their command tokens.'
+    '99.3':
+      rule: After the active player resolves the primary ability of the Warfare strategy
+        card, each other player, beginning with the player to the left of the active
+        player and proceeding clockwise, may spend one command token from their strategy
+        pool to resolve the Production ability of one space dock in their home system.
+      subrules:
+        99.3.1:
+          rule: The command token is not placed in their home system.
+- name: Notes
+  rules:
+    '1':
+      rule: If the player with Warfare has no command tokens on the game board, they
+        may still perform a strategic action. However, they will not gain a command
+        token.
+- name: Related Topics

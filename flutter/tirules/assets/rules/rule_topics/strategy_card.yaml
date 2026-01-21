@@ -1,0 +1,48 @@
+cards:
+- name: Rules Reference
+  rules:
+    '83.1':
+      rule: During the strategy phase, each player chooses a strategy card from the
+        common play area and places it in their play area faceup.
+    '83.2':
+      rule: Each strategy card has a readied and an exhausted side.
+      subrules:
+        83.2.1:
+          rule: The readied side contains the strategy card’s name, initiative number,
+            and abilities.
+        83.2.2:
+          rule: The exhausted side contains the strategy card’s initiative number.
+    '83.3':
+      rule: A player can only resolve the primary ability of their own strategy cards.
+    '83.4':
+      rule: A player can only resolve the secondary ability of strategy cards that
+        were chosen by other players.
+    '83.5':
+      rule: There are eight strategy cards, each of which has a name and an initiative
+        number.
+    '83.6':
+      rule: The initiative number on a player’s strategy card determines the initiative
+        order for the action phase and status phase.
+    '83.7':
+      rule: A strategy card has both a primary ability and a secondary ability. These
+        abilities are resolved during a strategic action.
+    '83.8':
+      rule: Each strategy card exists in either the common play area or a player’s
+        play area.
+      subrules:
+        83.8.1:
+          rule: Strategy cards in the common play area are available for players to
+            choose during the strategy phase.
+        83.8.2:
+          rule: A strategy card in a player’s play area belongs to that player until
+            it is returned to the common play area during the status phase.
+- name: Notes
+  rules:
+    '1':
+      rule: During three– and four–player games, each player will choose two strategy
+        cards during the strategy phase.
+      subrules:
+        '1.1':
+          rule: Players will use the lower of the two initiative numbers on their
+            strategy cards to determine the initiative order.
+- name: Related Topics

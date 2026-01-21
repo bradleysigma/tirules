@@ -1,0 +1,24 @@
+cards:
+- name: Rules Reference
+  rules:
+    '26.1':
+      rule: To produce a unit, a player must spend a number of resources equal to
+        or greater than the cost of the unit they are producing.
+    '26.2':
+      rule: If the cost is accompanied by two icons – typically for fighters and ground
+        forces – a player produces two of that unit for that cost.
+    '26.3':
+      rule: If a unit does not have a cost, it cannot be produced.
+      subrules:
+        26.3.1:
+          rule: Structures do not have costs and are usually placed by resolving the
+            Construction strategy card.
+- name: Notes
+  rules:
+    '1':
+      rule: Whenever a unit is produced, its cost must be paid, unless the effect
+        that is producing the unit explicitly says otherwise.
+    '2':
+      rule: A player does not have to pay a unit’s cost to resolve that unit’s Deploy
+        ability. However, the Deploy ability itself may have a cost that must be paid.
+- name: Related Topics

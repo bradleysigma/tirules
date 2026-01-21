@@ -1,0 +1,46 @@
+cards:
+- name: Rules Reference
+  rules:
+    '3.1':
+      rule: 'During a player’s turn, they may perform one of the following three types
+        of actions: a strategic action, a tactical action, or a component action.'
+    '3.2':
+      rule: If a player cannot perform an action, they must pass.
+    '3.3':
+      rule: After a player has passed, they have no further turns and cannot perform
+        additional actions during that action phase.
+      subrules:
+        3.3.1:
+          rule: During a turn that a player passes, they can resolve transactions
+            and “at the start of your turn” abilities.
+        3.3.2:
+          rule: A player that has passed can still resolve the secondary ability of
+            other players’ strategy cards.
+        3.3.3:
+          rule: It is possible for a player to perform multiple, consecutive actions
+            during an action phase if all other players have passed during that action
+            phase.
+    '3.4':
+      rule: A player cannot pass until they have performed the strategic action of
+        their strategy card.
+      subrules:
+        3.4.1:
+          rule: During a three–player or four–player game, a player cannot pass until
+            they have exhausted both of their strategy cards.
+    '3.5':
+      rule: After all players have passed, play proceeds to the status phase.
+- name: Notes
+  rules:
+    '1':
+      rule: Players may still play non–component action action cards after they have
+        passed.
+    '2':
+      rule: Any abilities that occur at the end of an action happen before any abilities
+        that occur at the end of a player’s turn.
+    '3':
+      rule: A player may resolve “at the start of your turn” and “at the end of your
+        turn” abilities on the turn that they pass.
+    '4':
+      rule: If all other players have passed, a player will continue to resolve “at
+        the start of your turn” and “at the end of your turn” abilities.
+- name: Related Topics

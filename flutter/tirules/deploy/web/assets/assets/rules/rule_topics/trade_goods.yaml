@@ -1,0 +1,37 @@
+cards:
+- name: Rules Reference
+  rules:
+    '93.1':
+      rule: Trade goods and commodities are represented by opposite sides of the same
+        token.
+    '93.2':
+      rule: When a player gains a trade good, they take a trade good token from the
+        supply and place it on the trade good area on their command sheet, making
+        sure the trade good side is faceup.
+    '93.3':
+      rule: A player can spend trade goods at any time during the game.
+    '93.4':
+      rule: 'A player can spend a trade good in one of the following ways:'
+      subrules:
+        93.4.1:
+          rule: In place of spending one resource.
+        93.4.2:
+          rule: In place of spending one influence. However, trade goods cannot be
+            spent to cast votes during the agenda phase.
+        93.4.3:
+          rule: To resolve an effect that specifically requires that a trade good
+            be spent.
+    '93.5':
+      rule: A player can exchange their trade goods with other players during a transaction.
+    '93.6':
+      rule: When a player receives a commodity token from another player, the player
+        who received that token places it in their trade good area with the trade
+        good side of the token faceup.
+      subrules:
+        93.6.1:
+          rule: That token is no longer a commodity token; it is a trade good token.
+    '93.7':
+      rule: Trade good tokens come in values of one and three. A player can swap between
+        these tokens as necessary.
+- name: Notes
+- name: Related Topics

@@ -1,0 +1,19 @@
+cards:
+- name: Rules Reference
+  rules:
+    '56.1':
+      rule: A modifier is always preceded by the word “apply” followed by a numerical
+        value.
+    '56.2':
+      rule: A modifier value preceded by a “+” is added to the attribute or result
+        being modified; a modifier value preceded by a “−” is subtracted from the
+        attribute or result being modified.
+- name: Notes
+  rules:
+    '1':
+      rule: “Combat roll” modifiers do not modify anti–fighter barrage, bombardment
+        or space cannon rolls.
+    '2':
+      rule: When an effect moves a unit to an adjacent system, modifying that unit’s
+        move value will have no effect.
+- name: Related Topics

@@ -1,0 +1,29 @@
+cards:
+- name: Rules Reference
+  rules:
+    '9.1':
+      rule: An anomaly is identified by a red border located on the tile’s corners.
+    '9.2':
+      rule: 'There are four types of anomalies: asteroid fields, nebulae, supernovas,
+        and gravity rifts.'
+      subrules:
+        9.2.1:
+          rule: Some anomalies contain planets; those systems are still anomalies.
+    '9.3':
+      rule: Each type of anomaly is identified by its art. See rulebook for images.
+    '9.4':
+      rule: Abilities can cause a system tile to become an anomaly; that system tile
+        is an anomaly in addition to its other properties.
+    '9.5':
+      rule: Abilities can cause a system to be two different anomalies; that system
+        has the properties of both anomalies.
+- name: Notes
+  rules:
+    '1':
+      rule: An empty system is not an anomaly.
+    '2':
+      rule: A system containing a wormhole is not an anomaly.
+    '3':
+      rule: A system with a Vuil’raith Dimensional Tear is a gravity rift, and thus
+        an anomaly.
+- name: Related Topics

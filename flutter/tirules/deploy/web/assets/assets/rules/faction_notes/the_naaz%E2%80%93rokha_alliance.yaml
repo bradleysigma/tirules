@@ -1,0 +1,123 @@
+cards:
+- name: Distant Suns
+  rules:
+    '1':
+      rule: If the Naaz–Rokha player has multiple Eidolon on the planet they explore,
+        they will draw only one additional exploration card.
+    '2':
+      rule: The Naaz–Rokha player must choose to use this ability before seeing the
+        first exploration card.
+    '3':
+      rule: If a planet has multiple traits, the additional exploration card must
+        come from the same deck as the first.
+- name: Fabrication
+  rules:
+    '1':
+      rule: If the relic deck is empty, the Naaz–Rokha player may still purge two
+        relic fragments as an action.
+    '2':
+      rule: If the Naaz–Rokha player has no command tokens in their reinforcements,
+        they may still purge one relic fragment as an action.
+    '3':
+      rule: Either or both of the relic fragments may be Unknown Relic Fragments.
+- name: Black Market Forgery (Promissory Note)
+  rules:
+    '1':
+      rule: If there are no cards in the relic deck, a player cannot gain a relic.
+        As such, a player cannot play Black Market Forgery when the relic deck is
+        empty.
+    '2':
+      rule: Either or both of the relic fragments may be Unknown Relic Fragments.
+- name: Pre–Fab Arcologies (Technology)
+  rules:
+    '1':
+      rule: 'The planet is not readied until after the planet is explored. If the
+        Freelancers exploration card is revealed, then:'
+      subrules:
+        '1.1':
+          rule: If the planet was exhausted before the exploration, its influence
+            or resources cannot be spent to produce the unit.
+        '1.2':
+          rule: If the planet was readied before the exploration, its influence or
+            resources may be spent to produce the unit by exhausting it. After the
+            unit is produced, the planet will then be readied.
+- name: Supercharge (Technology)
+  rules:
+    '1':
+      rule: Supercharge does not modify anti–fighter barrage, bombardment or space
+        cannon rolls.
+- name: Visz El Vir (Flagship)
+  rules:
+    '1':
+      rule: Each mech will roll an additional die.
+    '2':
+      rule: The Visz El Vir ability applies to both Eidolon and Z–Grav Eidolon.
+- name: Garv and Gunn (Agent)
+- name: Dart and Tai (Commander)
+- name: Hesh and Prit — Perfect Synthesis (Hero)
+  rules:
+    '1':
+      rule: The Naaz–Rokha player may choose to perform the secondary ability of zero,
+        one or two strategy cards.
+      subrules:
+        '1.1':
+          rule: The Naaz–Rokha player cannot choose the same strategy card twice.
+    '2':
+      rule: The Naaz–Rokha player must choose which strategy cards they will perform
+        the secondary abilities of before they resolve any of those abilities.
+    '3':
+      rule: When resolving the abilities of two strategy cards, they may be resolved
+        in either order. Game objects affected by the first strategy card ability
+        may be affected by the second.
+      subrules:
+        '3.1':
+          rule: For example, say the Naaz–Rokha player chooses to resolve the secondary
+            abilities of the Diplomacy and Warfare strategy cards. They may resolve
+            the Diplomacy ability first to ready some planets, then exhaust those
+            same planets to pay for the units they produce with the Warfare ability.
+            Alternatively, they may resolve the Warfare ability first, exhausting
+            some of their readied planets to pay for the units they produce, then
+            resolve the Diplomacy ability to ready those same planets.
+    '4':
+      rule: If a player is eliminated, the strategy cards that they had are considered
+        “unchosen”.
+    '5':
+      rule: If the Naaz–Rokha player has no command tokens in their reinforcements,
+        they must use a command token from their command sheet when performing the
+        secondary ability of the strategy cards.
+    '6':
+      rule: If the Naaz–Rokha player has the Muaat player’s Alliance promissory note,
+        they will not gain a trade good from it when they use their Perfect Synthesis
+        ability.
+- name: Eidolon /Z–Grav Eidolon (Mech)
+  rules:
+    '1':
+      rule: The Naaz–Rokha mechs are only Z–Grav Eidolon during the Space Combat step,
+        only in the active system, and only in the space area.
+    '2':
+      rule: If the Naaz–Rokha player had  an Eidolon in the space area of the active
+        system, they must mandatorily use its ability to convert it to a Z–Grav Eidolon.
+      subrules:
+        '2.1':
+          rule: All other players will have the opportunity to resolve an ability
+            between the Naaz–Rokha player resolving their Eidolon ability and any
+            other ability.
+        '2.2':
+          rule: 'If the Naaz–Rokha player owns the Assault Cannon technology, they
+            may count their Z–Grav Eidolon towards the three non–fighter ships, once
+            they resolve its ability. However, if another player then resolves an
+            ability that reduces the number of non–ships the Naaz–Rokha player has
+            in the active system to less than three, the Naaz–Rokha player will no
+            longer be able to resolve the Assault Cannon technology ability. '
+    '3':
+      rule: Any effect that may target ships or non–fighter ships may target a Z–Grav
+        Eidolon.
+    '4':
+      rule: A Z–Grav Eidolon is still a ground force and a mech.
+    '5':
+      rule: A Z–Grav Eidolon participating in a space combat may count towards scoring
+        the Demonstrate Your Power secret objective.
+    '6':
+      rule: When a Z–Grav Eidolon reverts back to an Eidolon at the end of combat,
+        it will count towards capacity in the active system. Capacity limits must
+        be met before proceeding to the Invasion step.

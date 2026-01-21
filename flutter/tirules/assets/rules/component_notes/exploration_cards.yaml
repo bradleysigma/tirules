@@ -1,0 +1,135 @@
+cards:
+- name: Abandoned Warehouses
+  rules:
+    '1':
+      rule: A player cannot have more commodities than their commodity value.
+- name: Biotic Research Facility
+- name: Core Mine
+- name: Cultural Relic Fragment
+  rules:
+    '1':
+      rule: If the relic deck is empty, a player may still purge three Cultural Relic
+        Fragments as an action.
+    '2':
+      rule: If an eliminated player had any Cultural Relic Fragments, they are discarded
+        to the cultural planet exploration discard pile.
+- name: Cybernetic Research Facility
+- name: Dead World
+  rules:
+    '1':
+      rule: If the relic deck is empty, Dead World will be discarded with no effect.
+- name: Demilitarized Zone
+  rules:
+    '1':
+      rule: After the active player has returned ground forces on the planet to the
+        space area, if they do not have enough capacity in the space area for the
+        returned ground forces, including zero capacity, they will have to remove
+        fighters and/or ground forces to meet capacity limits.
+- name: Derelict Vessel
+  rules:
+    '1':
+      rule: A player with three scored secret objectives may draw a fourth. However,
+        they must immediately shuffle it into the secret objective deck.
+- name: Dyson Sphere
+- name: Enigmatic Device
+  rules:
+    '1':
+      rule: A player cannot play Enigmatic Device as a component action if they have
+        less than six resources available.
+- name: Entropic Field
+- name: Expedition
+- name: Freelancers
+  rules:
+    '1':
+      rule: A planet may be exhausted to spend its influence or resources, but not
+        both.
+    '2':
+      rule: If a player is to gain multiple planets in a system, they choose the order
+        in which they gain them, and explore each planet as they gain it before gaining
+        the next. As such, a player cannot place ground forces produced by Freelancers
+        on a planet in the active system that they are yet to gain and explore.
+    '3':
+      rule: If a player wishes to place a unit, but there are none of that type left
+        in their reinforcements, they may remove a unit of that type from any system
+        that does not contain one of their command tokens and place that instead.
+        This unit will be placed undamaged.
+- name: Functioning Base
+  rules:
+    '1':
+      rule: A player cannot have more commodities than their commodity value.
+- name: Gamma Relay
+- name: Gamma Wormhole
+- name: Hazardous Relic Fragment
+  rules:
+    '1':
+      rule: If the relic deck is empty, a player may still purge three Hazardous Relic
+        Fragments as an action.
+    '2':
+      rule: If an eliminated player had any Hazardous Relic Fragments, they are discarded
+        to the hazardous planet exploration discard pile.
+- name: Industrial Relic Fragment
+  rules:
+    '1':
+      rule: If the relic deck is empty, a player may still purge three Industrial
+        Relic Fragments as an action.
+    '2':
+      rule: If an eliminated player had any Industrial Relic Fragments, they are discarded
+        to the industrial planet exploration discard pile.
+- name: Ion Storm
+  rules:
+    '1':
+      rule: The active player chooses which side of the Ion Storm token is initially
+        face up.
+    '2':
+      rule: All ship movement is simultaneous. If the Ion Storm token system is the
+        active system, and the token is currently on the alpha side, a player cannot
+        move a ship from a system with an alpha wormhole, flip the token, then move
+        a ship from a system with the beta wormhole (then flip the token again).
+      subrules:
+        '2.1':
+          rule: The Creuss player may do this by moving their Hil Colish flagship
+            before or after their other ships.
+    '3':
+      rule: If the Ion Storm token is in a system containing a wormhole of the same
+        type, a player chooses which wormhole they use when moving through a wormhole
+        of that type. The Ion Storm token only flips if it was the chosen wormhole.
+      subrules:
+        '3.1':
+          rule: As a system is never adjacent to itself, a ship cannot move out through
+            one wormhole and in through the other while remaining in the system. The
+            ship must pass through another system with a wormhole to use both wormholes.
+    '4':
+      rule: If ships are moved through the Ion Storm token wormhole outside of the
+        Move Ship or Retreat substeps of a tactical action, such as by the effect
+        of the Skilled Retreat action card, the Ion Storm token is not flipped.
+- name: Keleres Ship
+- name: Lazax Survivors
+- name: Local Fabricators
+  rules:
+    '1':
+      rule: A player cannot have more commodities than their commodity value.
+    '2':
+      rule: If a player wishes to place a mech, but there are none left in their reinforcements,
+        they may remove a mech from any system that does not contain one of their
+        command tokens and place that instead. The mech will be placed undamaged.
+- name: Lost Crew
+- name: Major Entropic Field
+- name: Mercenary Outfit
+- name: Merchant Station
+- name: Mining World
+- name: Minor Entropic Field
+- name: Mirage
+- name: Paradise World
+- name: Propulsion Research Facility
+- name: Rich World
+- name: Tomb of Emphidia
+- name: Unknown Relic Fragment
+  rules:
+    '1':
+      rule: A player cannot purge three Unknown Relic Fragments to gain a relic. At
+        least one cultural, hazardous or industrial relic fragment must be purged.
+    '2':
+      rule: If an eliminated player had any Unknown Relic Fragments, they are discarded
+        to the frontier exploration discard pile.
+- name: Volatile Fuel Source
+- name: Warfare Research Facility

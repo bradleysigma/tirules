@@ -1,0 +1,18 @@
+cards:
+- name: Rules Reference
+  rules:
+    '74.1':
+      rule: When a die is rerolled, its new result is used instead of its previous
+        result.
+    '74.2':
+      rule: The same ability cannot be used to reroll the same die multiple times,
+        but multiple abilities can be used to reroll a single die.
+    '74.3':
+      rule: Die rerolls must occur after rolling the dice, before other abilities
+        are resolved.
+- name: Notes
+  rules:
+    '1':
+      rule: Effects that reroll “combat rolls” do not reroll anti–fighter barrage,
+        bombardment or space cannon rolls.
+- name: Related Topics

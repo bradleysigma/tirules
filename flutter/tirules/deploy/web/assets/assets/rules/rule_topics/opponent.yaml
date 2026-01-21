@@ -1,0 +1,9 @@
+cards:
+- name: Rules Reference
+  rules:
+    '62.1':
+      rule: Players who do not have units on either side of a combat are not opponents.
+        Those players cannot use abilities or have abilities used against them that
+        are used against an opponent.
+- name: Notes
+- name: Related Topics

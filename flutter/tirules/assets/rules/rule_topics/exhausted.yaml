@@ -1,0 +1,32 @@
+cards:
+- name: Rules Reference
+  rules:
+    '34.1':
+      rule: To exhaust a card, a player flips the card facedown.
+    '34.2':
+      rule: During the Ready Cards step of the status phase, each player readies all
+        of their exhausted cards by flipping those cards faceup.
+    '34.3':
+      rule: A player exhausts their planet cards to spend either the resources or
+        influence on that card.
+    '34.4':
+      rule: Abilities, including some found on technology cards, may instruct a player
+        to exhaust a card to resolve those abilities. If a card is already exhausted,
+        it cannot be exhausted again.
+      subrules:
+        34.4.1:
+          rule: Passive abilities on an exhausted card are still in effect while that
+            card is exhausted.
+    '34.5':
+      rule: After a player performs a strategic action, they exhaust the strategy
+        card that corresponds to that action.
+- name: Notes
+  rules:
+    '1':
+      rule: Planets will also ready at the end of each agenda phase. Leaders, relics
+        and technologies will not.
+    '2':
+      rule: If a game effect instructs a player to exhaust a planet, the exhausted
+        planet must be controlled by that player, unless the game effect specifies
+        otherwise.
+- name: Related Topics
